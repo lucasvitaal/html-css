@@ -1,0 +1,25 @@
+"""Bloco -> slides da faculdade (lido slide a slide). Aula 2 (B) ainda sem PDF."""
+def R(L, a, b=None): return [f'{L}{n}' for n in range(a, (b or a) + 1)]
+MAP = {
+ 'd_semio': R('A',3,8), 'd_discrom': R('A',9,14), 'd_urtic': R('A',15,17), 'd_escam': R('A',18,20),
+ 'd_atop': R('A',21,26)+R('A',27), 'd_frald': R('A',28,31), 'd_pio': R('A',32,35), 'd_zoo': R('A',36,42),
+ 'd_mic': R('A',43,49), 'd_vir': R('A',50,55),
+ 'c_geral': R('C',3,12), 'c_abd': R('C',13,17)+R('C',24), 'c_abdal': R('C',18,23), 'c_cresc': R('C',25,30)+R('C',36),
+ 'c_membal': R('C',31,35), 'c_cefal': R('C',37,42), 'c_cefal_al': R('C',43,44), 'c_escala': R('C',45,46),
+ 'a_base': R('D',4,11), 'a_aval': R('D',12,17), 'a_etio': R('D',18,21)+R('D',14), 'a_infl': R('D',22,24),
+ 'a_adenite': R('D',25,29), 'a_grav': R('D',30,31)+R('D',33,34), 'a_bcg': R('D',32), 'a_cisto': R('D',35,36),
+ 'a_cancer': R('D',37,44), 'a_leuc': R('D',45,48), 'a_solidos': R('D',49,62),
+ 'v_prob': R('E',3,5)+R('E',9,15), 'v_conc': R('E',6,8)+R('E',16,21), 'v_neg': R('E',22,28), 'v_fis': R('E',29,32),
+ 'v_sacud': R('E',33,36), 'v_munch': R('E',37,39), 'v_sex': R('E',40,45), 'v_desconf': R('E',46,51),
+ 'v_conduta': R('E',52,62), 'v_lema': R('E',63,64),
+ 'g_doenca': R('F',3,12), 'g_fases': R('F',13,16), 'g_def': R('F',17,20), 'g_diag': R('F',21,23),
+ 'g_grupos': R('F',24,26), 'g_ab': R('F',27,33), 'g_cd': R('F',34,41), 'g_vac': R('F',42),
+ 'h_A': R('G',3,8), 'h_B': R('G',9,13)+R('G',15), 'h_marc': R('G',16), 'h_marc_idade': R('G',14),
+ 'h_prevB': R('G',17), 'h_C': R('G',18,22),
+ 'm_epi': R('H',3,4)+R('H',6,9), 'm_etio': R('H',5)+R('H',10,11), 'm_clin': R('H',12,20), 'm_puncao': R('H',21,24),
+ 'm_lcr': R('H',25,27), 'm_trat': R('H',28,34)+R('H',36,37), 'm_dexa': R('H',35), 'm_profil': R('H',38,40), 'm_vac': R('H',41,44),
+ 'i_conc': R('I',3,7), 'i_clin': R('I',8,12), 'i_coleta': R('I',13,14), 'i_lab': R('I',15,18), 'i_bact': R('I',19),
+ 'i_trat': R('I',20,25), 'i_profil': R('I',26,27), 'i_imagem': R('I',28,33), 'i_rvu': R('I',34,35),
+ 's_conc': R('J',3,9), 's_tipos': R('J',10), 's_recon': R('J',11,17), 's_hora1': R('J',18,24), 's_aminas': R('J',25),
+ 's_manut': R('J',26,29), 's_obst': R('J',30,31), 's_caso': R('J',32,41),
+}

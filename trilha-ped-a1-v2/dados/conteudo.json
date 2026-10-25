@@ -179,6 +179,42 @@
 "🫀",
 "Primeira hora de ouro"
 ]
+},
+{
+"n": 11,
+"t": "Constipação intestinal crônica funcional",
+"short": "Constipação",
+"aula": "Aula 11 · slides da Patrícia",
+"icon": "💩",
+"col": "#7A5A2E",
+"bul": [
+"Roma IV: ≥ 2 critérios por 1 mês",
+"Exames desnecessários na maioria; toque retal e região dorsal no exame",
+"Desimpactação → laxativo prolongado → reeducação de toalete",
+"Droga de escolha: polietilenoglicol (4000: 0,5 · 3350: 0,8 g/kg/dia)"
+],
+"medalha": [
+"💩",
+"Bristol 4"
+]
+},
+{
+"n": 12,
+"t": "Refluxo gastroesofágico",
+"short": "RGE",
+"aula": "Aula 12 · slides da Patrícia",
+"icon": "🍼",
+"col": "#1E5E6E",
+"bul": [
+"RGE fisiológico = “regurgitador feliz”: bom ganho, sem complicações",
+"DRGE = RGE + complicações esofágicas ou extraesofágicas",
+"Não há exame ideal: cada indicação, um exame (pHmetria = relação sintoma)",
+"Lactente: supino, espessar, evitar overfeeding; IBP só com indicação"
+],
+"medalha": [
+"🍼",
+"Regurgitador feliz"
+]
 }
 ],
 "BLOCKS": [
@@ -193,7 +229,15 @@
 "d_semio"
 ],
 "cap": 1,
-"ord": 1
+"ord": 1,
+"slides": [
+"A3",
+"A4",
+"A5",
+"A6",
+"A7",
+"A8"
+]
 },
 {
 "id": "d_discrom",
@@ -206,7 +250,15 @@
 "d_discrom"
 ],
 "cap": 1,
-"ord": 2
+"ord": 2,
+"slides": [
+"A9",
+"A10",
+"A11",
+"A12",
+"A13",
+"A14"
+]
 },
 {
 "id": "d_urtic",
@@ -220,7 +272,12 @@
 "d_urtic"
 ],
 "cap": 1,
-"ord": 3
+"ord": 3,
+"slides": [
+"A15",
+"A16",
+"A17"
+]
 },
 {
 "id": "d_escam",
@@ -233,7 +290,12 @@
 "d_escam"
 ],
 "cap": 1,
-"ord": 4
+"ord": 4,
+"slides": [
+"A18",
+"A19",
+"A20"
+]
 },
 {
 "id": "d_atop",
@@ -247,7 +309,16 @@
 "d_atop"
 ],
 "cap": 1,
-"ord": 5
+"ord": 5,
+"slides": [
+"A21",
+"A22",
+"A23",
+"A24",
+"A25",
+"A26",
+"A27"
+]
 },
 {
 "id": "d_frald",
@@ -260,7 +331,13 @@
 "d_frald"
 ],
 "cap": 1,
-"ord": 6
+"ord": 6,
+"slides": [
+"A28",
+"A29",
+"A30",
+"A31"
+]
 },
 {
 "id": "d_pio",
@@ -273,7 +350,13 @@
 "d_pio"
 ],
 "cap": 1,
-"ord": 7
+"ord": 7,
+"slides": [
+"A32",
+"A33",
+"A34",
+"A35"
+]
 },
 {
 "id": "d_zoo",
@@ -287,7 +370,16 @@
 "d_zoo"
 ],
 "cap": 1,
-"ord": 8
+"ord": 8,
+"slides": [
+"A36",
+"A37",
+"A38",
+"A39",
+"A40",
+"A41",
+"A42"
+]
 },
 {
 "id": "d_mic",
@@ -300,7 +392,16 @@
 "d_mic"
 ],
 "cap": 1,
-"ord": 9
+"ord": 9,
+"slides": [
+"A43",
+"A44",
+"A45",
+"A46",
+"A47",
+"A48",
+"A49"
+]
 },
 {
 "id": "d_vir",
@@ -313,7 +414,15 @@
 "d_vir"
 ],
 "cap": 1,
-"ord": 10
+"ord": 10,
+"slides": [
+"A50",
+"A51",
+"A52",
+"A53",
+"A54",
+"A55"
+]
 },
 {
 "id": "e_conc",
@@ -326,7 +435,8 @@
 "e_conc"
 ],
 "cap": 2,
-"ord": 1
+"ord": 1,
+"slides": []
 },
 {
 "id": "e_saramp",
@@ -346,7 +456,8 @@
 "e_saramp"
 ],
 "cap": 2,
-"ord": 2
+"ord": 2,
+"slides": []
 },
 {
 "id": "e_sarprof",
@@ -370,7 +481,8 @@
 "e_sarprof"
 ],
 "cap": 2,
-"ord": 3
+"ord": 3,
+"slides": []
 },
 {
 "id": "e_rub",
@@ -389,7 +501,8 @@
 "e_rub"
 ],
 "cap": 2,
-"ord": 4
+"ord": 4,
+"slides": []
 },
 {
 "id": "e_escarl",
@@ -403,7 +516,8 @@
 "e_escarl"
 ],
 "cap": 2,
-"ord": 5
+"ord": 5,
+"slides": []
 },
 {
 "id": "e_var",
@@ -416,7 +530,8 @@
 "e_var"
 ],
 "cap": 2,
-"ord": 6
+"ord": 6,
+"slides": []
 },
 {
 "id": "e_varprof",
@@ -436,7 +551,8 @@
 "e_varprof"
 ],
 "cap": 2,
-"ord": 7
+"ord": 7,
+"slides": []
 },
 {
 "id": "e_b19",
@@ -456,7 +572,8 @@
 "e_b19"
 ],
 "cap": 2,
-"ord": 8
+"ord": 8,
+"slides": []
 },
 {
 "id": "e_subito",
@@ -476,7 +593,8 @@
 "e_subito"
 ],
 "cap": 2,
-"ord": 9
+"ord": 9,
+"slides": []
 },
 {
 "id": "e_mono",
@@ -496,7 +614,8 @@
 "e_mono"
 ],
 "cap": 2,
-"ord": 10
+"ord": 10,
+"slides": []
 },
 {
 "id": "e_mpb",
@@ -509,7 +628,8 @@
 "e_mpb"
 ],
 "cap": 2,
-"ord": 11
+"ord": 11,
+"slides": []
 },
 {
 "id": "e_kawa",
@@ -529,7 +649,8 @@
 "e_kawa"
 ],
 "cap": 2,
-"ord": 12
+"ord": 12,
+"slides": []
 },
 {
 "id": "c_geral",
@@ -543,7 +664,19 @@
 "c_geral"
 ],
 "cap": 3,
-"ord": 1
+"ord": 1,
+"slides": [
+"C3",
+"C4",
+"C5",
+"C6",
+"C7",
+"C8",
+"C9",
+"C10",
+"C11",
+"C12"
+]
 },
 {
 "id": "c_abd",
@@ -556,7 +689,15 @@
 "c_abd"
 ],
 "cap": 3,
-"ord": 2
+"ord": 2,
+"slides": [
+"C13",
+"C14",
+"C15",
+"C16",
+"C17",
+"C24"
+]
 },
 {
 "id": "c_abdal",
@@ -575,7 +716,15 @@
 "c_abdal"
 ],
 "cap": 3,
-"ord": 3
+"ord": 3,
+"slides": [
+"C18",
+"C19",
+"C20",
+"C21",
+"C22",
+"C23"
+]
 },
 {
 "id": "c_cresc",
@@ -589,7 +738,16 @@
 "c_cresc"
 ],
 "cap": 3,
-"ord": 4
+"ord": 4,
+"slides": [
+"C25",
+"C26",
+"C27",
+"C28",
+"C29",
+"C30",
+"C36"
+]
 },
 {
 "id": "c_membal",
@@ -602,7 +760,14 @@
 "c_membal"
 ],
 "cap": 3,
-"ord": 5
+"ord": 5,
+"slides": [
+"C31",
+"C32",
+"C33",
+"C34",
+"C35"
+]
 },
 {
 "id": "c_cefal",
@@ -621,7 +786,15 @@
 "c_cefal"
 ],
 "cap": 3,
-"ord": 6
+"ord": 6,
+"slides": [
+"C37",
+"C38",
+"C39",
+"C40",
+"C41",
+"C42"
+]
 },
 {
 "id": "c_cefal_al",
@@ -635,7 +808,11 @@
 "c_cefal_al"
 ],
 "cap": 3,
-"ord": 7
+"ord": 7,
+"slides": [
+"C43",
+"C44"
+]
 },
 {
 "id": "c_escala",
@@ -648,7 +825,11 @@
 "c_escala"
 ],
 "cap": 3,
-"ord": 8
+"ord": 8,
+"slides": [
+"C45",
+"C46"
+]
 },
 {
 "id": "a_base",
@@ -661,7 +842,17 @@
 "a_base"
 ],
 "cap": 4,
-"ord": 1
+"ord": 1,
+"slides": [
+"D4",
+"D5",
+"D6",
+"D7",
+"D8",
+"D9",
+"D10",
+"D11"
+]
 },
 {
 "id": "a_aval",
@@ -675,7 +866,15 @@
 "a_aval"
 ],
 "cap": 4,
-"ord": 2
+"ord": 2,
+"slides": [
+"D12",
+"D13",
+"D14",
+"D15",
+"D16",
+"D17"
+]
 },
 {
 "id": "a_etio",
@@ -688,7 +887,14 @@
 "a_etio"
 ],
 "cap": 4,
-"ord": 3
+"ord": 3,
+"slides": [
+"D18",
+"D19",
+"D20",
+"D21",
+"D14"
+]
 },
 {
 "id": "a_infl",
@@ -701,7 +907,12 @@
 "a_infl"
 ],
 "cap": 4,
-"ord": 4
+"ord": 4,
+"slides": [
+"D22",
+"D23",
+"D24"
+]
 },
 {
 "id": "a_adenite",
@@ -715,7 +926,14 @@
 "a_adenite"
 ],
 "cap": 4,
-"ord": 5
+"ord": 5,
+"slides": [
+"D25",
+"D26",
+"D27",
+"D28",
+"D29"
+]
 },
 {
 "id": "a_grav",
@@ -728,7 +946,13 @@
 "a_grav"
 ],
 "cap": 4,
-"ord": 6
+"ord": 6,
+"slides": [
+"D30",
+"D31",
+"D33",
+"D34"
+]
 },
 {
 "id": "a_bcg",
@@ -748,7 +972,10 @@
 "a_bcg"
 ],
 "cap": 4,
-"ord": 7
+"ord": 7,
+"slides": [
+"D32"
+]
 },
 {
 "id": "a_cisto",
@@ -761,7 +988,11 @@
 "a_cisto"
 ],
 "cap": 4,
-"ord": 8
+"ord": 8,
+"slides": [
+"D35",
+"D36"
+]
 },
 {
 "id": "a_cancer",
@@ -775,7 +1006,17 @@
 "a_cancer"
 ],
 "cap": 4,
-"ord": 9
+"ord": 9,
+"slides": [
+"D37",
+"D38",
+"D39",
+"D40",
+"D41",
+"D42",
+"D43",
+"D44"
+]
 },
 {
 "id": "a_leuc",
@@ -788,7 +1029,13 @@
 "a_leuc"
 ],
 "cap": 4,
-"ord": 10
+"ord": 10,
+"slides": [
+"D45",
+"D46",
+"D47",
+"D48"
+]
 },
 {
 "id": "a_solidos",
@@ -807,7 +1054,23 @@
 "a_solidos"
 ],
 "cap": 4,
-"ord": 11
+"ord": 11,
+"slides": [
+"D49",
+"D50",
+"D51",
+"D52",
+"D53",
+"D54",
+"D55",
+"D56",
+"D57",
+"D58",
+"D59",
+"D60",
+"D61",
+"D62"
+]
 },
 {
 "id": "v_prob",
@@ -820,7 +1083,19 @@
 "v_prob"
 ],
 "cap": 5,
-"ord": 1
+"ord": 1,
+"slides": [
+"E3",
+"E4",
+"E5",
+"E9",
+"E10",
+"E11",
+"E12",
+"E13",
+"E14",
+"E15"
+]
 },
 {
 "id": "v_conc",
@@ -833,7 +1108,18 @@
 "v_conc"
 ],
 "cap": 5,
-"ord": 2
+"ord": 2,
+"slides": [
+"E6",
+"E7",
+"E8",
+"E16",
+"E17",
+"E18",
+"E19",
+"E20",
+"E21"
+]
 },
 {
 "id": "v_neg",
@@ -852,7 +1138,16 @@
 "v_neg"
 ],
 "cap": 5,
-"ord": 3
+"ord": 3,
+"slides": [
+"E22",
+"E23",
+"E24",
+"E25",
+"E26",
+"E27",
+"E28"
+]
 },
 {
 "id": "v_fis",
@@ -865,7 +1160,13 @@
 "v_fis"
 ],
 "cap": 5,
-"ord": 4
+"ord": 4,
+"slides": [
+"E29",
+"E30",
+"E31",
+"E32"
+]
 },
 {
 "id": "v_sacud",
@@ -879,7 +1180,13 @@
 "v_sacud"
 ],
 "cap": 5,
-"ord": 5
+"ord": 5,
+"slides": [
+"E33",
+"E34",
+"E35",
+"E36"
+]
 },
 {
 "id": "v_munch",
@@ -892,7 +1199,12 @@
 "v_munch"
 ],
 "cap": 5,
-"ord": 6
+"ord": 6,
+"slides": [
+"E37",
+"E38",
+"E39"
+]
 },
 {
 "id": "v_sex",
@@ -905,7 +1217,15 @@
 "v_sex"
 ],
 "cap": 5,
-"ord": 7
+"ord": 7,
+"slides": [
+"E40",
+"E41",
+"E42",
+"E43",
+"E44",
+"E45"
+]
 },
 {
 "id": "v_desconf",
@@ -918,7 +1238,15 @@
 "v_desconf"
 ],
 "cap": 5,
-"ord": 8
+"ord": 8,
+"slides": [
+"E46",
+"E47",
+"E48",
+"E49",
+"E50",
+"E51"
+]
 },
 {
 "id": "v_conduta",
@@ -931,7 +1259,20 @@
 "v_conduta"
 ],
 "cap": 5,
-"ord": 9
+"ord": 9,
+"slides": [
+"E52",
+"E53",
+"E54",
+"E55",
+"E56",
+"E57",
+"E58",
+"E59",
+"E60",
+"E61",
+"E62"
+]
 },
 {
 "id": "v_lema",
@@ -944,7 +1285,11 @@
 "v_lema"
 ],
 "cap": 5,
-"ord": 10
+"ord": 10,
+"slides": [
+"E63",
+"E64"
+]
 },
 {
 "id": "g_doenca",
@@ -957,7 +1302,19 @@
 "g_doenca"
 ],
 "cap": 6,
-"ord": 1
+"ord": 1,
+"slides": [
+"F3",
+"F4",
+"F5",
+"F6",
+"F7",
+"F8",
+"F9",
+"F10",
+"F11",
+"F12"
+]
 },
 {
 "id": "g_fases",
@@ -970,7 +1327,13 @@
 "g_fases"
 ],
 "cap": 6,
-"ord": 2
+"ord": 2,
+"slides": [
+"F13",
+"F14",
+"F15",
+"F16"
+]
 },
 {
 "id": "g_def",
@@ -983,7 +1346,13 @@
 "g_def"
 ],
 "cap": 6,
-"ord": 3
+"ord": 3,
+"slides": [
+"F17",
+"F18",
+"F19",
+"F20"
+]
 },
 {
 "id": "g_diag",
@@ -996,7 +1365,12 @@
 "g_diag"
 ],
 "cap": 6,
-"ord": 4
+"ord": 4,
+"slides": [
+"F21",
+"F22",
+"F23"
+]
 },
 {
 "id": "g_grupos",
@@ -1009,7 +1383,12 @@
 "g_grupos"
 ],
 "cap": 6,
-"ord": 5
+"ord": 5,
+"slides": [
+"F24",
+"F25",
+"F26"
+]
 },
 {
 "id": "g_ab",
@@ -1023,7 +1402,16 @@
 "g_ab"
 ],
 "cap": 6,
-"ord": 6
+"ord": 6,
+"slides": [
+"F27",
+"F28",
+"F29",
+"F30",
+"F31",
+"F32",
+"F33"
+]
 },
 {
 "id": "g_cd",
@@ -1043,7 +1431,17 @@
 "g_cd"
 ],
 "cap": 6,
-"ord": 7
+"ord": 7,
+"slides": [
+"F34",
+"F35",
+"F36",
+"F37",
+"F38",
+"F39",
+"F40",
+"F41"
+]
 },
 {
 "id": "g_vac",
@@ -1063,7 +1461,10 @@
 "g_vac"
 ],
 "cap": 6,
-"ord": 8
+"ord": 8,
+"slides": [
+"F42"
+]
 },
 {
 "id": "h_A",
@@ -1076,7 +1477,15 @@
 "h_A"
 ],
 "cap": 7,
-"ord": 1
+"ord": 1,
+"slides": [
+"G3",
+"G4",
+"G5",
+"G6",
+"G7",
+"G8"
+]
 },
 {
 "id": "h_B",
@@ -1090,7 +1499,15 @@
 "h_B"
 ],
 "cap": 7,
-"ord": 2
+"ord": 2,
+"slides": [
+"G9",
+"G10",
+"G11",
+"G12",
+"G13",
+"G15"
+]
 },
 {
 "id": "h_marc",
@@ -1109,7 +1526,10 @@
 "h_marc"
 ],
 "cap": 7,
-"ord": 3
+"ord": 3,
+"slides": [
+"G16"
+]
 },
 {
 "id": "h_marc_idade",
@@ -1122,7 +1542,10 @@
 "h_marc_idade"
 ],
 "cap": 7,
-"ord": 4
+"ord": 4,
+"slides": [
+"G14"
+]
 },
 {
 "id": "h_prevB",
@@ -1146,7 +1569,10 @@
 "h_prevB"
 ],
 "cap": 7,
-"ord": 5
+"ord": 5,
+"slides": [
+"G17"
+]
 },
 {
 "id": "h_C",
@@ -1160,7 +1586,14 @@
 "h_C"
 ],
 "cap": 7,
-"ord": 6
+"ord": 6,
+"slides": [
+"G18",
+"G19",
+"G20",
+"G21",
+"G22"
+]
 },
 {
 "id": "h_dif",
@@ -1179,7 +1612,8 @@
 "h_dif"
 ],
 "cap": 7,
-"ord": 7
+"ord": 7,
+"slides": []
 },
 {
 "id": "m_epi",
@@ -1193,7 +1627,15 @@
 "m_epi"
 ],
 "cap": 8,
-"ord": 1
+"ord": 1,
+"slides": [
+"H3",
+"H4",
+"H6",
+"H7",
+"H8",
+"H9"
+]
 },
 {
 "id": "m_etio",
@@ -1206,7 +1648,12 @@
 "m_etio"
 ],
 "cap": 8,
-"ord": 2
+"ord": 2,
+"slides": [
+"H5",
+"H10",
+"H11"
+]
 },
 {
 "id": "m_clin",
@@ -1219,7 +1666,18 @@
 "m_clin"
 ],
 "cap": 8,
-"ord": 3
+"ord": 3,
+"slides": [
+"H12",
+"H13",
+"H14",
+"H15",
+"H16",
+"H17",
+"H18",
+"H19",
+"H20"
+]
 },
 {
 "id": "m_puncao",
@@ -1232,7 +1690,13 @@
 "m_puncao"
 ],
 "cap": 8,
-"ord": 4
+"ord": 4,
+"slides": [
+"H21",
+"H22",
+"H23",
+"H24"
+]
 },
 {
 "id": "m_lcr",
@@ -1246,7 +1710,12 @@
 "m_lcr"
 ],
 "cap": 8,
-"ord": 5
+"ord": 5,
+"slides": [
+"H25",
+"H26",
+"H27"
+]
 },
 {
 "id": "m_trat",
@@ -1259,7 +1728,18 @@
 "m_trat"
 ],
 "cap": 8,
-"ord": 6
+"ord": 6,
+"slides": [
+"H28",
+"H29",
+"H30",
+"H31",
+"H32",
+"H33",
+"H34",
+"H36",
+"H37"
+]
 },
 {
 "id": "m_dexa",
@@ -1273,7 +1753,10 @@
 "m_dexa"
 ],
 "cap": 8,
-"ord": 7
+"ord": 7,
+"slides": [
+"H35"
+]
 },
 {
 "id": "m_profil",
@@ -1286,7 +1769,12 @@
 "m_profil"
 ],
 "cap": 8,
-"ord": 8
+"ord": 8,
+"slides": [
+"H38",
+"H39",
+"H40"
+]
 },
 {
 "id": "m_vac",
@@ -1306,7 +1794,13 @@
 "m_vac"
 ],
 "cap": 8,
-"ord": 9
+"ord": 9,
+"slides": [
+"H41",
+"H42",
+"H43",
+"H44"
+]
 },
 {
 "id": "i_conc",
@@ -1319,7 +1813,14 @@
 "i_conc"
 ],
 "cap": 9,
-"ord": 1
+"ord": 1,
+"slides": [
+"I3",
+"I4",
+"I5",
+"I6",
+"I7"
+]
 },
 {
 "id": "i_clin",
@@ -1332,7 +1833,14 @@
 "i_clin"
 ],
 "cap": 9,
-"ord": 2
+"ord": 2,
+"slides": [
+"I8",
+"I9",
+"I10",
+"I11",
+"I12"
+]
 },
 {
 "id": "i_coleta",
@@ -1355,7 +1863,11 @@
 "i_coleta"
 ],
 "cap": 9,
-"ord": 3
+"ord": 3,
+"slides": [
+"I13",
+"I14"
+]
 },
 {
 "id": "i_lab",
@@ -1375,7 +1887,13 @@
 "i_lab"
 ],
 "cap": 9,
-"ord": 4
+"ord": 4,
+"slides": [
+"I15",
+"I16",
+"I17",
+"I18"
+]
 },
 {
 "id": "i_bact",
@@ -1394,7 +1912,10 @@
 "i_bact"
 ],
 "cap": 9,
-"ord": 5
+"ord": 5,
+"slides": [
+"I19"
+]
 },
 {
 "id": "i_trat",
@@ -1418,7 +1939,15 @@
 "i_trat"
 ],
 "cap": 9,
-"ord": 6
+"ord": 6,
+"slides": [
+"I20",
+"I21",
+"I22",
+"I23",
+"I24",
+"I25"
+]
 },
 {
 "id": "i_profil",
@@ -1431,7 +1960,11 @@
 "i_profil"
 ],
 "cap": 9,
-"ord": 7
+"ord": 7,
+"slides": [
+"I26",
+"I27"
+]
 },
 {
 "id": "i_imagem",
@@ -1451,7 +1984,15 @@
 "i_imagem"
 ],
 "cap": 9,
-"ord": 8
+"ord": 8,
+"slides": [
+"I28",
+"I29",
+"I30",
+"I31",
+"I32",
+"I33"
+]
 },
 {
 "id": "i_rvu",
@@ -1470,7 +2011,11 @@
 "i_rvu"
 ],
 "cap": 9,
-"ord": 9
+"ord": 9,
+"slides": [
+"I34",
+"I35"
+]
 },
 {
 "id": "s_conc",
@@ -1483,7 +2028,16 @@
 "s_conc"
 ],
 "cap": 10,
-"ord": 1
+"ord": 1,
+"slides": [
+"J3",
+"J4",
+"J5",
+"J6",
+"J7",
+"J8",
+"J9"
+]
 },
 {
 "id": "s_tipos",
@@ -1496,7 +2050,10 @@
 "s_tipos"
 ],
 "cap": 10,
-"ord": 2
+"ord": 2,
+"slides": [
+"J10"
+]
 },
 {
 "id": "s_recon",
@@ -1516,7 +2073,16 @@
 "s_recon"
 ],
 "cap": 10,
-"ord": 3
+"ord": 3,
+"slides": [
+"J11",
+"J12",
+"J13",
+"J14",
+"J15",
+"J16",
+"J17"
+]
 },
 {
 "id": "s_hora1",
@@ -1536,7 +2102,16 @@
 "s_hora1"
 ],
 "cap": 10,
-"ord": 4
+"ord": 4,
+"slides": [
+"J18",
+"J19",
+"J20",
+"J21",
+"J22",
+"J23",
+"J24"
+]
 },
 {
 "id": "s_aminas",
@@ -1550,7 +2125,10 @@
 "s_aminas"
 ],
 "cap": 10,
-"ord": 5
+"ord": 5,
+"slides": [
+"J25"
+]
 },
 {
 "id": "s_obst",
@@ -1563,7 +2141,11 @@
 "s_obst"
 ],
 "cap": 10,
-"ord": 6
+"ord": 6,
+"slides": [
+"J30",
+"J31"
+]
 },
 {
 "id": "s_manut",
@@ -1577,7 +2159,13 @@
 "s_manut"
 ],
 "cap": 10,
-"ord": 7
+"ord": 7,
+"slides": [
+"J26",
+"J27",
+"J28",
+"J29"
+]
 },
 {
 "id": "s_caso",
@@ -1590,7 +2178,226 @@
 "s_caso"
 ],
 "cap": 10,
-"ord": 8
+"ord": 8,
+"slides": [
+"J32",
+"J33",
+"J34",
+"J35",
+"J36",
+"J37",
+"J38",
+"J39",
+"J40",
+"J41"
+]
+},
+{
+"id": "k_def",
+"t": "Definição pelos critérios de Roma IV",
+"slides": [
+"K3",
+"K4",
+"K5",
+"K6"
+],
+"s": "Prevalência no Brasil <b>14,7–38,4%</b>; afeta qualidade de vida, associa-se a problemas psicológicos, envolve a família e tem complicações. <br><b>Roma IV</b>: <b>pelo menos 2 critérios por 1 mês</b>: <b>≤ 2 evacuações/semana</b> · <b>≥ 1 episódio de incontinência fecal/semana</b> · <b>postura retentiva</b> · <b>dor ao evacuar</b> (movimentos intestinais dolorosos) · <b>massa fecal no reto</b> · <b>fezes calibrosas que entopem o vaso</b>. <br>Escala de <b>Bristol</b> (slide 6): tipos 1–2 = fezes endurecidas (constipação); 3–4 = normais; 6–7 = líquidas.",
+"fala": "Constipação é muito frequente na criança, entre quinze e trinta e oito por cento no Brasil, e muitas vezes subdiagnosticada. O diagnóstico é pelos critérios de Roma quatro: pelo menos dois, durante um mês. São duas ou menos evacuações por semana, perda fecal pelo menos uma vez por semana, postura de retenção, evacuação dolorosa, massa fecal no reto e fezes tão grossas que entopem o vaso. A escala de Bristol ajuda a descrever o formato das fezes.",
+"pega": "Roma IV: <b>2 critérios por 1 mês</b> (não 3 meses). Incontinência fecal é <b>critério</b>, não diarreia.",
+"z": "Criança que suja a cueca não está com diarreia nem fazendo birra: é fezes escorrendo em volta de um tijolo no reto. Roma quatro, caralho.",
+"ills": [
+"k_def"
+],
+"cap": 11,
+"ord": 1
+},
+{
+"id": "k_inv",
+"t": "Investigação: anamnese, exame físico e quando pedir exame",
+"slides": [
+"K7",
+"K8",
+"K9",
+"K10",
+"K11"
+],
+"s": "<b>Anamnese</b>: época de início (<b>desmame, retirada da fralda, entrada na escola</b>), alimentação, fatores psicológicos, hábitos de toalete, tratamentos anteriores, doenças associadas. <br><b>Exame físico completo</b>: <b>toque retal</b>, <b>região dorsal</b> (tufo de pelos, <i>dimple</i> sacral, desvio da prega glútea, hemangioma → disrafismo), inspeção anal, palpação abdominal. <br><b>Exames complementares: desnecessários na maioria</b> da constipação funcional; na suspeita de doença orgânica: <b>RX simples de abdome</b>, <b>enema opaco</b> (suspeita de megacólon/Hirschsprung), <b>manometria anorretal</b>, <b>biópsia retal</b> (displasia neuronal, alterações mioentéricas).",
+"fala": "Na anamnese, pergunte quando começou: no desmame, na retirada da fralda e na entrada na escola são os momentos típicos da constipação funcional. O exame físico tem que ser completo, com toque retal, inspeção anal e, sempre, a região dorsal: tufo de pelos, covinha sacral, prega glútea desviada ou hemangioma sugerem disrafismo. Exames são desnecessários na maioria; ficam para a suspeita orgânica, como enema opaco no megacólon e biópsia retal.",
+"pega": "Exame complementar <b>não</b> é rotina. Olhar a <b>região sacral</b> (disrafismo) faz parte do exame.",
+"z": "Pedir enema opaco pra toda criança que não faz cocô é irradiar barriga à toa. Examina a lombar e faz o toque, porra.",
+"ills": [
+"k_inv"
+],
+"cap": 11,
+"ord": 2
+},
+{
+"id": "k_trat",
+"t": "Tratamento: as três etapas e os laxativos",
+"slides": [
+"K12",
+"K13",
+"K14",
+"K15"
+],
+"s": "<b>Etapas</b> (NASPGHAN 2014): <b>1) desimpactação</b> (enema oral ou retal) → <b>2) uso prolongado de laxativos</b> → <b>3) reeducação dos hábitos de toalete</b>. <br><b>Lubrificante</b>: óleo mineral 1–3 mL/kg/dia — <b>contraindicado em lactentes, neuropatas e regurgitadores</b> (aspiração). <br><b>Osmóticos</b>: lactulose 1–3 mL/kg/dia (tolerância a longo prazo) · hidróxido de magnésio 1–3 mL/kg/dia (não usar na insuficiência renal); sabor e volume prejudicam a adesão. <br><b>Polietilenoglicol (PEG)</b>: osmótico, inodoro, insípido, pouco absorvido, pó misturado em líquidos; <b>4000: 0,5 g/kg/dia</b> · <b>3350: 0,8 g/kg/dia</b> → <b>primeira linha</b>.",
+"fala": "O tratamento tem três etapas: primeiro desimpactar, com enema oral ou retal; depois manter laxativo por tempo prolongado; e reeducar os hábitos de toalete. O óleo mineral é proibido em lactente, neuropata e em quem regurgita, pelo risco de aspiração. Lactulose e hidróxido de magnésio funcionam, mas o sabor atrapalha. A droga de escolha é o polietilenoglicol, sem gosto e sem cheiro: meio grama por quilo por dia o quatro mil, e zero vírgula oito o três mil trezentos e cinquenta.",
+"pega": "Óleo mineral: <b>não</b> em lactente, neuropata e regurgitador. Droga de escolha: <b>PEG</b>. Hidróxido de magnésio: não na <b>doença renal</b>.",
+"z": "Óleo mineral num lactente que regurgita é pneumonia lipoide encomendada. Polietilenoglicol, que não tem gosto de nada, porra.",
+"ills": [
+"k_trat"
+],
+"cap": 11,
+"ord": 3
+},
+{
+"id": "k_hab",
+"t": "Hábitos, família e prevenção",
+"slides": [
+"K16",
+"K17",
+"K18",
+"K19",
+"K20",
+"K21"
+],
+"s": "<b>Alimentação</b>: fibras e líquidos adequados, mínimo de ultraprocessados. <b>Toalete</b>: sentar no vaso <b>após as refeições (5 min)</b>, <b>pés apoiados</b> (banquinho), concentração; atividade física. <br><b>Família</b>: explicar que a <b>incontinência é involuntária</b>, que a constipação precisa ser tratada (dificuldades escolares e sociais), manter atitude positiva em todas as consultas, esclarecer complicações. <br>Dificuldades: tratamento difícil, <b>grande recorrência</b>, exige participação ativa da família. <br><b>Prevenção</b>: aleitamento materno, alimentos sólidos, atividade física, líquidos, <b>retirada tranquila das fraldas</b>.",
+"fala": "O tratamento só funciona com mudança de hábitos: fibras, água e menos ultraprocessados; sentar no vaso cinco minutos depois das refeições, com os pés apoiados num banquinho. A família precisa entender que a perda de fezes é involuntária, que não é preguiça nem desobediência, e manter uma atitude positiva. A recorrência é grande. E a prevenção começa cedo: aleitamento materno, atividade física e tirar a fralda sem pressão.",
+"pega": "Incontinência fecal é <b>involuntária</b> — não punir. Vaso <b>após as refeições</b> (reflexo gastrocólico) com <b>pés apoiados</b>.",
+"z": "Brigar com a criança que sujou a roupa só aumenta a retenção. Banquinho no pé, cinco minutos depois do almoço e paciência, caralho.",
+"ills": [
+"k_hab"
+],
+"cap": 11,
+"ord": 4
+},
+{
+"id": "l_def",
+"t": "Regurgitação, vômito, RGE e DRGE",
+"slides": [
+"L3",
+"L5",
+"L6",
+"L7",
+"L8"
+],
+"s": "Muito frequente, preocupa a família e leva a <b>intervenções desnecessárias</b>. <br><b>Regurgitação</b>: retorno involuntário · <b>vômito</b>: expulsão ativa · <b>RGE</b>: processo <b>normal, fisiológico, autolimitado</b> · <b>DRGE</b>: RGE + <b>complicações</b> esofágicas e extraesofágicas (tosse, broncoespasmo, laringites…). <br>Esôfago: transporte + prevenção do retorno (<b>esfíncter esofágico inferior</b>). <br>Fisiológico = <b>lactentes</b>; DRGE = crianças maiores e <b>grupos de risco</b>: <b>neuropatas</b>, operados de <b>atresia de esôfago</b>, pneumopatias crônicas (<b>fibrose cística</b>), <b>obesidade</b>.",
+"fala": "Separe as palavras: regurgitação é o retorno involuntário, vômito é a expulsão ativa. Refluxo gastroesofágico é um processo normal, fisiológico e autolimitado, típico do lactente. Doença do refluxo é quando esse refluxo traz complicações, no esôfago ou fora dele, como tosse, broncoespasmo e laringite. Os grupos de risco para doença do refluxo são neuropatas, operados de atresia de esôfago, pneumopatas crônicos como na fibrose cística, e obesos.",
+"pega": "RGE = <b>fisiológico</b>; DRGE = RGE <b>+ complicação</b>. Grupos de risco: <b>neuropata, atresia de esôfago, fibrose cística, obesidade</b>.",
+"z": "Bebê que golfa e engorda bem não tem doença, tem estômago pequeno e mãe preocupada. Não trata a mãe com omeprazol no filho, porra.",
+"ills": [
+"l_def"
+],
+"cap": 12,
+"ord": 1
+},
+{
+"id": "l_feliz",
+"t": "RGE fisiológico: o regurgitador feliz",
+"slides": [
+"L9"
+],
+"s": "<b>“Regurgitador feliz”</b>: <b>bom ganho ponderal</b>, <b>ausência de complicações</b>. <br>Raramente <b>antes de 3 semanas</b> e <b>depois de 6 meses</b> (início); mais evidente entre <b>2–4 meses</b>, pico aos <b>4–5 meses</b>. <br><b>4 meses: até 67%</b> dos lactentes regurgitam · <b>1 ano: só 1%</b> persiste. <br>Conduta: <b>tranquilizar</b>, manter aleitamento, sem exames nem medicação.",
+"fala": "O regurgitador feliz é o lactente que golfa várias vezes ao dia mas ganha peso bem e não tem nenhuma complicação. As regurgitações aparecem entre duas semanas e seis meses, ficam mais evidentes entre dois e quatro meses, com pico aos quatro ou cinco. Aos quatro meses até sessenta e sete por cento dos bebês regurgitam; com um ano, só um por cento. A conduta é tranquilizar, sem exame e sem remédio.",
+"pega": "Marcos com <b>ganho de peso normal</b> e sem sintomas = <b>RGE fisiológico</b> → tranquilizar (caiu em prova antiga).",
+"z": "Sessenta e sete por cento dos bebês de quatro meses golfam. Se todo mundo golfa, golfar não é doença: é ser bebê, caralho.",
+"ills": [
+"l_feliz"
+],
+"cap": 12,
+"ord": 2
+},
+{
+"id": "l_drge",
+"t": "DRGE: as complicações que definem a doença",
+"slides": [
+"L10"
+],
+"s": "<b>DRGE = RGE + complicações</b>: <br>• desconforto, <b>choro, irritabilidade</b>, sono agitado · <b>desaceleração ou perda de peso</b> · halitose, erosões dentárias · dor epigástrica, azia · <b>hematêmese, melena</b>, sangue oculto · <br>• extraesofágicas: <b>tosse persistente, broncoespasmo, asma</b> · rouquidão, odinofagia · <b>apneia, cianose</b> · pneumonias de aspiração, sinusites e otites de repetição · laringites de repetição · <b>ALTE</b> (evento com aparente risco de vida). <br>Complicação crônica: <b>esôfago de Barrett</b> e adenocarcinoma de esôfago.",
+"fala": "A doença do refluxo é definida pelas complicações. Do lado digestivo: choro e irritabilidade, desaceleração ou perda de peso, azia, erosão dentária, hematêmese e melena. Do lado de fora do esôfago: tosse persistente, broncoespasmo e asma, rouquidão, apneia e cianose, pneumonias aspirativas, otites e sinusites de repetição, e os eventos com aparente risco de vida. No longo prazo, esôfago de Barrett e adenocarcinoma.",
+"pega": "Regurgitação <b>com perda de peso</b>, sangramento ou sintoma respiratório = <b>DRGE</b>, não fisiológico.",
+"z": "Refluxo que faz o bebê parar de ganhar peso, chiar ou ficar roxo não é golfada fofa, é doença do refluxo. Aí investiga, porra.",
+"ills": [
+"l_drge"
+],
+"cap": 12,
+"ord": 3
+},
+{
+"id": "l_dif",
+"t": "Diagnóstico diferencial e sinais de outro diagnóstico",
+"slides": [
+"L11",
+"L12",
+"L13"
+],
+"s": "Diferenciais no lactente: <b>alergia à proteína do leite de vaca</b>, <b>cólicas</b>, malformações (RN): <b>estenose hipertrófica de piloro</b>, <b>má rotação intestinal</b>. <br><b>História e exame físico bastam na maioria</b>: história alimentar (frequência, quantidade, tipo, mudanças, posição) e <b>curva ponderal</b>. <br><b>Sinais de outro diagnóstico</b>: febre, letargia, dor excessiva, <b>falha de crescimento</b>, disúria, <b>vômitos que começam após 6 meses ou persistem após 12</b> · neurológicos: <b>fontanela tensa</b>, macro/microcefalia, convulsões · GI: <b>vômitos biliosos</b>, vômitos persistentes com perda de peso, noturnos, hematêmese/melena, diarreia crônica, distensão, sangramento retal.",
+"fala": "Antes de falar em refluxo, pense no que imita: alergia à proteína do leite de vaca, cólica e, no recém-nascido, estenose hipertrófica de piloro e má rotação intestinal. Na maioria, história e curva de peso bastam. Desconfie de outro diagnóstico se houver febre, letargia, falha de crescimento, vômito que começa depois dos seis meses ou persiste após um ano, fontanela tensa, convulsão, vômito bilioso ou sangramento.",
+"pega": "<b>Vômito bilioso</b> = má rotação até prova em contrário (não é refluxo). Início <b>após 6 meses</b> ou persistência <b>após 12</b> = outro diagnóstico.",
+"z": "Vômito verde em recém-nascido não é refluxo, é intestino torcido: cirurgia pediátrica agora, caralho.",
+"ills": [
+"l_dif"
+],
+"cap": 12,
+"ord": 4
+},
+{
+"id": "l_exames",
+"t": "Exames: não existe exame ideal",
+"slides": [
+"L14",
+"L15",
+"L16",
+"L17",
+"L18",
+"L19"
+],
+"s": "<b>Não há exame ideal</b>: <b>cada indicação, um exame</b>. <br>• <b>REED</b> (seriografia): não diagnostica nem quantifica RGE; útil para <b>anormalidades anatômicas</b>. <br>• <b>Cintilografia</b>: RGE pós-prandial imediato, detecta aspiração (negativo não descarta) — não indicada em pediatria. <br>• <b>USG</b>: diagnóstico de <b>estenose hipertrófica de piloro</b>; não para DRGE. <br>• <b>pHmetria de 24 h</b>: <b>associação dos episódios com sintomas</b>, refluxo ácido. <br>• <b>Endoscopia + biópsia</b>: <b>complicações</b> (esofagite, Barrett). <br>• <b>Impedâncio-pHmetria</b>: melhor (ácido ou não), parâmetros pediátricos incertos. <b>Manometria</b>: motilidade (disfagia).",
+"fala": "Não existe exame ideal para refluxo: cada pergunta tem o seu exame. O raio-x contrastado de esôfago, estômago e duodeno não diagnostica refluxo, mas mostra anatomia. O ultrassom é para estenose de piloro. A pHmetria de vinte e quatro horas relaciona os episódios de refluxo com os sintomas, como tosse ou apneia. A endoscopia com biópsia mostra complicações. A impedâncio-pHmetria é a melhor, mas ainda sem valores bem definidos para crianças.",
+"pega": "Principal indicação da <b>pHmetria</b>: relacionar refluxo com <b>sintomas atípicos/extraesofágicos</b> (caiu em prova antiga). REED <b>não</b> diagnostica RGE.",
+"z": "Pedir seriografia pra provar refluxo é como fotografar o mar pra provar que tem onda: mostra a anatomia, não o refluxo. pHmetria, porra.",
+"ills": [
+"l_exames"
+],
+"cap": 12,
+"ord": 5
+},
+{
+"id": "l_geral",
+"t": "Tratamento: medidas gerais",
+"slides": [
+"L20",
+"L21",
+"L22"
+],
+"s": "Tratamento <b>individualizado</b> (RGE × DRGE, lactente × criança maior). Objetivos na DRGE: aliviar sintomas, crescimento normal, tratar/prevenir esofagite e complicações. <br>Etapas: <b>1) medidas gerais</b> → 2) medicamentos → 3) cirurgia. <br><b>Posição</b>: <b>supina para lactentes</b> · decúbito lateral esquerdo com cabeceira elevada para crianças maiores. <br><b>Alimentação</b>: <b>espessar fórmulas</b> nos lactentes · <b>evitar overfeeding</b> · <b>teste com hidrolisado proteico 2–4 semanas</b> (vômitos recorrentes → APLV) · perder peso nos obesos · crianças maiores: evitar gordura, café, refrigerante, chá e chocolate · <b>evitar tabagismo passivo</b> (relaxa o EEI).",
+"fala": "O tratamento começa pelas medidas gerais. Lactente dorme em posição supina, de barriga para cima; criança maior pode ficar em decúbito lateral esquerdo com cabeceira elevada. No lactente, espessa a fórmula, evita oferecer volume demais e, se vomita muito, testa por duas a quatro semanas uma fórmula com proteína hidrolisada, pensando em alergia ao leite de vaca. Na criança maior, menos gordura, café, refrigerante e chocolate, e ninguém fumando perto.",
+"pega": "Lactente: <b>supino</b> (não elevar a cama/decúbito ventral — o compilado errou). Hidrolisado <b>2–4 semanas</b> = teste para <b>APLV</b>.",
+"z": "Colocar o bebê de bruços pra golfar menos troca refluxo por morte súbita. Barriga pra cima, caralho.",
+"ills": [
+"l_geral"
+],
+"cap": 12,
+"ord": 6
+},
+{
+"id": "l_med",
+"t": "Medicamentos e cirurgia",
+"slides": [
+"L23",
+"L24",
+"L25",
+"L26"
+],
+"s": "Medicação só no <b>RGE patológico</b>, com bom senso. <br>• <b>Antiácidos/alginatos</b>: sem estudos de eficácia em pediatria · <b>sucralfato</b>: protege a mucosa. <br>• <b>Procinéticos</b> (bromoprida, domperidona, metoclopramida): <b>não indicados de rotina</b> — efeitos no SNC &gt; benefícios. <br>• <b>Anti-H2</b>: ranitidina <b>suspensa desde 2019</b>. <br>• <b>IBP</b> (omeprazol, esomeprazol): superiores aos anti-H2; uso criterioso (hipocloridria, microbiota). Indicações: <b>esofagite erosiva, estenose péptica, Barrett</b>, RGE + <b>doença respiratória crônica</b> ou <b>neurológicos</b>; teste terapêutico em crianças maiores <b>4–8 semanas</b>, retirada gradual (rebote). <br><b>Cirurgia</b>: <b>fundoplicatura de Nissen</b> — déficits neurológicos, estenoses pépticas, Barrett.",
+"fala": "Remédio só no refluxo patológico. Procinéticos como bromoprida, domperidona e metoclopramida não são de rotina, porque os efeitos no sistema nervoso superam os benefícios. A ranitidina foi suspensa em dois mil e dezenove. O inibidor de bomba de prótons, como o omeprazol, é o mais eficaz, indicado na esofagite erosiva, estenose péptica, Barrett, ou refluxo com doença respiratória crônica ou neurológica; teste de quatro a oito semanas na criança maior e retirada gradual. A cirurgia é a fundoplicatura de Nissen.",
+"pega": "Procinético <b>não</b> é rotina; ranitidina <b>suspensa</b>; IBP com <b>indicação</b> (esofagite, Barrett, respiratório, neuro). Cirurgia: <b>Nissen</b>.",
+"z": "Omeprazol para regurgitador feliz é o remédio mais caro pra tratar ansiedade materna. Só com indicação, porra.",
+"ills": [
+"l_med"
+],
+"cap": 12,
+"ord": 7
 }
 ],
 "Q": [
@@ -1611,6 +2418,11 @@
 "coment": "<p><b>B.</b> A restauração da barreira é o “ponto-chave para controle da doença” e o <b>controle principal do prurido</b>  <i>(Sl. 24, 26)</i>; o corticoide tópico entra 1× ao dia nas lesões em atividade  <i>(Sl. 25)</i>.</p>\n<p><b>A</b> errada: anti-histamínico é reservado a doença concomitante (rinoconjuntivite)  <i>(Sl. 26)</i>. <b>C</b> errada: o inibidor de calcineurina é alternativa, não primeira linha, e o tacrolimus é para doença moderada/grave. <b>D</b> errada: o slide manda <i>evitar exposição</i> a alimentos desencadeantes identificados, não excluir às cegas.</p>",
 "blk": [
 "d_atop"
+],
+"slides": [
+"A24",
+"A26",
+"A25"
 ]
 },
 {
@@ -1630,6 +2442,10 @@
 "coment": "<p><b>C.</b> O slide 34 lista a <b>proximidade com a cavidade oral</b> entre as indicações de antibiótico oral, junto com casos extensos, febre e associação com faringite.</p>\n<p><b>A</b> errada: higiene é adjuvante; o slide indica antibiótico. <b>B</b> seria correta se a lesão não estivesse perioral. <b>D</b> errada: herpes se apresenta como vesículas agrupadas e, na primoinfecção, gengivoestomatite  <i>(Sl. 54)</i>; crosta melicérica é impetigo.</p>",
 "blk": [
 "d_pio"
+],
+"slides": [
+"A34",
+"A54"
 ]
 },
 {
@@ -1649,6 +2465,9 @@
 "coment": "<p><b>C.</b> Abaixo de <b>2 meses</b> (e em gestantes) o slide indica a <b>pasta d’água com enxofre</b>  <i>(Sl. 38)</i>; contatos sempre tratados.</p>\n<p><b>A</b> errada: a permetrina 5% é contraindicada em &lt; 2 meses (a inclusão da face seria certa para lactente mais velho). <b>B</b> errada: ivermectina só &gt; 15 kg. <b>D</b> errada: permetrina 1% xampu é o esquema da <b>pediculose</b>.</p>",
 "blk": [
 "d_zoo"
+],
+"slides": [
+"A38"
 ]
 },
 {
@@ -1668,6 +2487,9 @@
 "coment": "<p><b>C.</b> Griseofulvina, permitida acima de 2 anos, por 6–8 semanas, com xampu adjuvante  <i>(Sl. 44)</i>.</p>\n<p><b>A</b> errada: imidazólico tópico isolado é o esquema da <b>tinea corporis</b>. <b>B</b> errada: no slide, o fluconazol está restrito a <b>&gt; 12 anos</b>. <b>D</b> errada: não há opção de observar na tinea capitis — quem é autolimitado é o molusco.</p>",
 "blk": [
 "d_mic"
+],
+"slides": [
+"A44"
 ]
 },
 {
@@ -1687,6 +2509,10 @@
 "coment": "<p><b>A.</b> Slides 50–51. A piscina e a atopia são exatamente os fatores do slide 50.</p>\n<p><b>B</b> errada: HPV causa verruga (ácido salicílico é o tratamento da verruga). <b>C</b> errada: o agente é um <b>poxvírus</b>. <b>D</b> errada: a atopia torna a criança mais suscetível, mas não se suspende o controle da doença de base.</p>",
 "blk": [
 "d_vir"
+],
+"slides": [
+"A50",
+"A51"
 ]
 },
 {
@@ -1706,6 +2532,11 @@
 "coment": "<p><b>B.</b> Acometimento de dobras e lesões satélites sugerem <i>Candida</i>  <i>(Sl. 48)</i>; o slide 29 indica <b>nistatina ou miconazol 1% (14 dias) se infecção fúngica</b> (o slide 49 dá nistatina creme 6/6 h por 7–14 dias).</p>\n<p><b>A</b> errada: barreira isolada não trata candidíase. <b>C</b> errada: o slide só admite corticoide de <b>baixa</b> potência, por <b>2–3 dias</b>, e para hiperemia intensa. <b>D</b> errada: não há indicação de antibiótico.</p>",
 "blk": [
 "d_frald"
+],
+"slides": [
+"A48",
+"A29",
+"A49"
 ]
 },
 {
@@ -1725,7 +2556,8 @@
 "coment": "<p><b>C.</b> Lactente, febre alta sem toxemia que cessa em crise e exantema no tronco = exantema súbito  <i>(Sl. 80)</i>; se a indicação do antibiótico estava errada, suspende-se  <i>(S41 B02 25:59–28:39)</i>.</p><p><b>A</b>: não é alergia — a coincidência temporal é da doença. <b>B</b>: não há infecção bacteriana. <b>D</b>: sarampo teria pródromo catarral, Koplik e exantema retroauricular com febre subindo.</p>",
 "blk": [
 "e_subito"
-]
+],
+"slides": []
 },
 {
 "id": "q02_2",
@@ -1744,7 +2576,8 @@
 "coment": "<p><b>B.</b> Bloqueio a partir de 6 meses até 72 h; imunoglobulina para &lt; 6 meses até 6 dias  <i>(S41 B01 28:58–32:16)</i>; a dose entre 6 e 11 meses não é válida para a rotina  <i>(B01 33:35–34:53)</i>.</p><p>Atenção: o <b>slide 28</b> indica imunoglobulina para <b>&lt; 1 ano</b> — pela régua da professora, ambos receberiam imunoglobulina (alternativa A). Numa prova da faculdade, siga o slide.</p>",
 "blk": [
 "e_sarprof"
-]
+],
+"slides": []
 },
 {
 "id": "q02_3",
@@ -1763,7 +2596,8 @@
 "coment": "<p><b>B.</b> Prematuro ≥ 28 semanas só recebe VZIG se a mãe não tem história de varicela  <i>(Sl. 67)</i> — recebeu anticorpos transplacentários  <i>(S41 B03 29:59–31:19)</i>.</p><p><b>A</b> seria correta se tivesse &lt; 28 semanas ou &lt; 1.000 g. <b>C</b>: vacina só a partir de 9 meses. <b>D</b>: aciclovir é tratamento, não profilaxia pós-exposição da aula.</p>",
 "blk": [
 "e_varprof"
-]
+],
+"slides": []
 },
 {
 "id": "q02_4",
@@ -1783,7 +2617,8 @@
 "blk": [
 "e_escarl",
 "e_kawa"
-]
+],
+"slides": []
 },
 {
 "id": "q02_5",
@@ -1802,7 +2637,8 @@
 "coment": "<p><b>C.</b> B19 interrompe a eritropoiese → anemia com <b>reticulocitopenia</b>; nessa fase a criança é contagiosa  <i>(S41 B02 21:44–24:46)</i>. O slide prevê <b>transfusão em anemia grave</b>  <i>(Sl. 78)</i> e alerta para hemoglobinopatas  <i>(Sl. 72, 77)</i>.</p><p><b>A/B</b> cursariam com reticulocitose. <b>D</b>: ignora a anemia grave.</p>",
 "blk": [
 "e_b19"
-]
+],
+"slides": []
 },
 {
 "id": "qa_saramp",
@@ -1821,7 +2657,8 @@
 "coment": "<b>C — Sarampo.</b> Pródromo dos 3 C com febre alta e exantema que começa atrás das orelhas/linha do cabelo e desce, no auge dos sintomas. <b>A</b>: rubéola é mais leve e tem adenomegalia retroauricular/occipital. <b>B</b>: face esbofeteada. <b>D</b>: exantema quando a febre cai.",
 "blk": [
 "e_saramp"
-]
+],
+"slides": []
 },
 {
 "id": "qa_mono",
@@ -1840,7 +2677,8 @@
 "coment": "<b>A — Mononucleose (EBV).</b> Febre + faringite + adenomegalia generalizada, esplenomegalia, edema palpebral (Hoagland), linfócitos atípicos e exantema após amoxicilina/ampicilina. <b>B</b>: não há lixa/Filatov/Pastia. <b>C</b>: face esbofeteada. <b>D</b>: dengue tem leucopenia, não linfocitose atípica com esplenomegalia.",
 "blk": [
 "e_mono"
-]
+],
+"slides": []
 },
 {
 "id": "q03_1",
@@ -1860,6 +2698,12 @@
 "blk": [
 "c_geral",
 "c_abd"
+],
+"slides": [
+"C16",
+"C22",
+"C24",
+"C10"
 ]
 },
 {
@@ -1879,6 +2723,9 @@
 "coment": "<p><b>C.</b> Perda de peso e parada/desaceleração do crescimento são sinal de alerta explícito  <i>(Sl. 22)</i>; o peso é o parâmetro mais sensível a doença  <i>(S26 Aval. 10:52–11:10)</i>.</p><p><b>A</b>: sugere disfunção funcional (intestino irritável). <b>B</b>: estresse é desencadeante funcional. <b>D</b>: a história familiar de alerta é de doença <b>orgânica</b> GI (péptica, DII, celíaca).</p>",
 "blk": [
 "c_abdal"
+],
+"slides": [
+"C22"
 ]
 },
 {
@@ -1898,6 +2745,11 @@
 "coment": "<p><b>A.</b> Bilateral, difusa, curta, noturna, melhora com massagem, exame normal: dor de crescimento  <i>(Sl. 27)</i>; prognóstico benigno  <i>(Sl. 36)</i>.</p><p><b>B</b>: acordar a criança é esperado na dor de crescimento (ver divergência). <b>C</b>: fibromialgia é de adolescentes, com tender points, sono e humor. <b>D</b>: o laboratório do slide 34 é útil, mas o slide manda aprofundar se houver sinal de alerta.</p>",
 "blk": [
 "c_cresc"
+],
+"slides": [
+"C27",
+"C36",
+"C34"
 ]
 },
 {
@@ -1918,6 +2770,10 @@
 "blk": [
 "c_cefal_al",
 "c_cefal"
+],
+"slides": [
+"C41",
+"C43"
 ]
 },
 {
@@ -1937,6 +2793,14 @@
 "coment": "<p><b>C.</b> Localizada, sem gravidade, inflamada, cervical superior, com porta de entrada (piodermite) = adenite  <i>(Sl. 26)</i>; dose e reavaliação  <i>(Sl. 29)</i>.</p><p><b>A</b>: o tamanho isolado não indica biópsia num gânglio agudo com sinais inflamatórios; biópsia é se não melhorar ou persistir &gt; 4 semanas  <i>(Sl. 23, 26)</i>. <b>B</b>: sorologias são do fluxograma de adenomegalia <b>generalizada</b>  <i>(Sl. 33)</i>. <b>D</b>: mielograma é para blastos/pancitopenia, não para leucocitose neutrofílica  <i>(Sl. 30, 34)</i>.</p>",
 "blk": [
 "a_adenite"
+],
+"slides": [
+"D26",
+"D29",
+"D23",
+"D33",
+"D30",
+"D34"
 ]
 },
 {
@@ -1957,6 +2821,12 @@
 "blk": [
 "a_grav",
 "a_leuc"
+],
+"slides": [
+"D34",
+"D46",
+"D37",
+"D42"
 ]
 },
 {
@@ -1976,6 +2846,13 @@
 "coment": "<p><b>C.</b> Supraclavicular esquerda → abdome  <i>(Sl. 21, 30)</i>; supraclavicular, &gt; 4 semanas, duro, aderido = biópsia  <i>(Sl. 12, 23, 24)</i>.</p><p><b>A</b>: supraclavicular nunca é “só reacional”. <b>B</b>: intratorácica é a <b>direita</b>. <b>D</b>: não tem nenhum sinal inflamatório (dor, flutuação, pele).</p>",
 "blk": [
 "a_infl"
+],
+"slides": [
+"D21",
+"D30",
+"D12",
+"D23",
+"D24"
 ]
 },
 {
@@ -1995,6 +2872,9 @@
 "coment": "<p><b>B</b> — é o que diz o slide 32 (“com ou sem sinais flogísticos”). No MEDCURSO, isoniazida é para linfadenopatia <b>supurada</b>; gânglio &lt; 3 cm é evolução esperada em ~10% e &gt; 3 cm não supurado só se acompanha  <i>(S27 03:38–09:58)</i> — ver a divergência no bloco C.</p><p><b>A</b>: gânglio pós-BCG supurado <b>não se punciona</b>  <i>(S27 07:14–09:58)</i>. <b>C</b>: a axila direita é exatamente a drenagem do deltoide direito vacinado. <b>D</b>: não é adenite piogênica.</p>",
 "blk": [
 "a_bcg"
+],
+"slides": [
+"D32"
 ]
 },
 {
@@ -2014,6 +2894,14 @@
 "coment": "<p><b>C.</b> Leucocoria ocorre em mais de 50% dos retinoblastomas, com média de diagnóstico aos 2 anos  <i>(Sl. 53)</i>. Teste alterado ou leucocoria → <b>não repetir, encaminhar imediatamente</b>  <i>(01 Triagem 35:33–35:59)</i>.</p><p><b>A</b>: estrabismo recente também é alerta (campanha, Sl. 58–62). <b>B</b>: conjuntivite não altera o reflexo pupilar. <b>D</b>: repetir atrasa o diagnóstico.</p>",
 "blk": [
 "a_solidos"
+],
+"slides": [
+"D53",
+"D58",
+"D59",
+"D60",
+"D61",
+"D62"
 ]
 },
 {
@@ -2033,6 +2921,10 @@
 "coment": "<p><b>B.</b> Wilms: pico 3–4 anos, massa assintomática achada pelos pais (60%), HAS (25%), hematúria (15%)  <i>(Sl. 52)</i>; hematúria → Wilms no quadro 5  <i>(Sl. 43)</i>.</p><p><b>A</b>: neuroblastoma tem pico aos 2 anos e criança doente (dor óssea, febre, perda de peso). <b>C</b>: malformação benigna é a massa do <b>período neonatal</b>. <b>D</b>: Burkitt dá massa abdominal, mas não HAS/hematúria como marca.</p>",
 "blk": [
 "a_solidos"
+],
+"slides": [
+"D52",
+"D43"
 ]
 },
 {
@@ -2052,6 +2944,10 @@
 "coment": "<p><b>B.</b> Cefaleia que acorda, matinal com vômitos, queda do rendimento e alteração da marcha  <i>(Sl. 50)</i>; 95% têm achados neurológicos  <i>(Sl. 49)</i>.</p><p><b>A</b>: convulsão é só um dos sinais. <b>C</b>: migrânea não explica marcha alterada. <b>D</b>: é o <b>tumor sólido maligno mais comum</b> da criança  <i>(Sl. 49)</i>.</p>",
 "blk": [
 "a_solidos"
+],
+"slides": [
+"D50",
+"D49"
 ]
 },
 {
@@ -2071,6 +2967,12 @@
 "coment": "<p><b>C.</b> Linfoma linfoblástico: &gt; 10 anos, mediastino em 50–70%, derrame, desconforto respiratório grave por compressão  <i>(Sl. 48)</i>; tosse → massa mediastinal  <i>(Sl. 43)</i>.</p><p><b>A</b>: tosse no quadro 5 tem infecção no diferencial, mas mediastino alargado é alerta  <i>(Sl. 44)</i>. <b>B</b>: sombra tímica é até 3 anos  <i>(Sl. 9)</i>. <b>D</b>: Burkitt é &lt; 10 anos, abdome ou mandíbula.</p>",
 "blk": [
 "a_leuc"
+],
+"slides": [
+"D48",
+"D43",
+"D44",
+"D9"
 ]
 },
 {
@@ -2090,6 +2992,11 @@
 "coment": "<p><b>C.</b> Hematoma subdural + hemorragia retiniana + ausência de trauma craniano, em menor de 6 meses, é a tríade do slide 36; é a causa mais comum de TCE fechado grave em menores de 1 ano  <i>(Sl. 34–36)</i>.</p><p><b>A</b>: não há febre, e meningite não produz hematoma subdural com hemorragia retiniana. <b>B</b>: queda de baixa altura não explica lesão grave sem marca externa — é a “falta de elementos que expliquem a lesão” do slide 35. <b>D</b>: Munchausen é mentira, simulação ou indução de doença com quadro recorrente, não TCE agudo.</p>",
 "blk": [
 "v_sacud"
+],
+"slides": [
+"E36",
+"E34",
+"E35"
 ]
 },
 {
@@ -2110,6 +3017,15 @@
 "blk": [
 "v_conduta",
 "v_fis"
+],
+"slides": [
+"E32",
+"E50",
+"E54",
+"E55",
+"E56",
+"E57",
+"E59"
 ]
 },
 {
@@ -2129,6 +3045,9 @@
 "coment": "<p><b>C.</b> Manchas mongólicas “não perdem a cor”  <i>(Sl. 51)</i>, são sacrais, presentes desde o nascimento e benignas (ver Cap. 1); documentá-las evita suspeita futura.</p><p><b>A</b>: equimose muda de cor em dias; não é o caso. <b>B</b>: investigação de coagulopatia e fraturas faria sentido diante de equimoses verdadeiras ou múltiplas sem explicação. <b>D</b>: a tintura de roupa sai com álcool, mas a história (desde o nascimento, local típico) já define o diagnóstico.</p>",
 "blk": [
 "v_desconf"
+],
+"slides": [
+"E51"
 ]
 },
 {
@@ -2148,6 +3067,10 @@
 "coment": "<p><b>B.</b> Recorrência, múltiplas internações, insistência em exames, insatisfação com a conduta, sinais só com a mesma pessoa, mãe superenvolvida, óbito inexplicado de irmão e falta de resposta às terapias  <i>(Sl. 38)</i>; diagnóstico leva em média 3 a 6 meses  <i>(Sl. 39)</i>.</p><p><b>A</b>: mais exames invasivos é justamente o dano que a síndrome produz. <b>C</b>: negligência é omissão de cuidados; aqui há excesso de procura. <b>D</b>: criança espancada tem lesões traumáticas de épocas diversas.</p>",
 "blk": [
 "v_munch"
+],
+"slides": [
+"E38",
+"E39"
 ]
 },
 {
@@ -2167,6 +3090,12 @@
 "coment": "<p><b>D.</b> Slides 42 e 43, literalmente.</p><p><b>A</b>: contraria os 80%  <i>(Sl. 42)</i> e o infográfico (pai/padrasto e amigo/conhecido lideram)  <i>(Sl. 11)</i>. <b>B</b>: “muitas vezes exame físico normal”  <i>(Sl. 43)</i>. <b>C</b>: “práticas sexuais <b>com ou sem contato</b>”  <i>(Sl. 40)</i>.</p>",
 "blk": [
 "v_sex"
+],
+"slides": [
+"E42",
+"E43",
+"E11",
+"E40"
 ]
 },
 {
@@ -2187,6 +3116,12 @@
 "blk": [
 "v_conduta",
 "v_sex"
+],
+"slides": [
+"E56",
+"E58",
+"E59",
+"E60"
 ]
 },
 {
@@ -2206,6 +3141,13 @@
 "coment": "<p><b>B.</b> Fratura inexplicada em criança que não anda  <i>(Sl. 50)</i> + trauma incompatível com idade ou atividade  <i>(Sl. 47)</i> + lesão não compatível com o desenvolvimento  <i>(Sl. 32)</i>.</p><p><b>A</b>: ansiedade não é pista; o slide cita pais <b>indiferentes</b>. <b>C</b>: dermatite leve é comum (ver Cap. 1); a negligência do slide 24 é a forma grave. <b>D</b>: mancha mongólica  <i>(Sl. 51)</i>.</p>",
 "blk": [
 "v_fis"
+],
+"slides": [
+"E50",
+"E47",
+"E32",
+"E24",
+"E51"
 ]
 },
 {
@@ -2225,6 +3167,10 @@
 "coment": "<p><b>C.</b> Enurese, choro sem causa, isolamento e problemas escolares são sinais de abuso psicológico  <i>(Sl. 28)</i>,  <i>(Sl. 20)</i>; enurese secundária exige procurar causa, incluindo violência  <i>(S36 Outros 31:20–31:53)</i>.</p><p><b>A</b>: o corte é 5 anos  <i>(S36 Outros 29:37–30:01)</i>. <b>B</b>: tratar o sintoma sem procurar a causa. <b>D</b>: ela ficou seca por anos — é secundária  <i>(S36 Outros 30:39–31:17)</i>.</p>",
 "blk": [
 "v_neg"
+],
+"slides": [
+"E28",
+"E20"
 ]
 },
 {
@@ -2245,6 +3191,12 @@
 "blk": [
 "g_grupos",
 "g_ab"
+],
+"slides": [
+"F17",
+"F30",
+"F31",
+"F32"
 ]
 },
 {
@@ -2264,6 +3216,9 @@
 "coment": "<p><b>C.</b> Acima de 20 kg: <b>80 mL/kg/dia</b> × 22 = 1.760 mL; SRO = 1/3 das necessidades + líquidos caseiros; antitérmico dipirona ou paracetamol  <i>(Sl. 28)</i>.</p><p><b>A</b> usa 130 mL/kg (faixa até 10 kg) e só SRO. <b>B</b> é expansão do Grupo C. <b>D</b>: anti-inflamatório não se usa na dengue  <i>(Sl. 28)</i>.</p>",
 "blk": [
 "g_ab"
+],
+"slides": [
+"F28"
 ]
 },
 {
@@ -2284,6 +3239,16 @@
 "blk": [
 "g_def",
 "g_grupos"
+],
+"slides": [
+"F18",
+"F25",
+"F15",
+"F23",
+"F30",
+"F14",
+"F16",
+"F22"
 ]
 },
 {
@@ -2303,6 +3268,10 @@
 "coment": "<p><b>B.</b> Sinais de alarme sem choque = Grupo C: <b>20 mL/kg/hora</b> (16 × 20 = 320 mL), até 3×; reavaliação horária, Ht após 2 h  <i>(Sl. 36)</i>.</p><p><b>A</b> é o Grupo B. <b>C</b> é o Grupo D — PA não convergente (diferencial 36 mmHg), pulso cheio e TEC 2 s não são choque  <i>(Sl. 19)</i>. <b>D</b>: expansão é com cristaloide, nunca glicosado  <i>(S30 P2 18:29–20:04)</i>.</p>",
 "blk": [
 "g_cd"
+],
+"slides": [
+"F36",
+"F19"
 ]
 },
 {
@@ -2323,6 +3292,14 @@
 "blk": [
 "g_cd",
 "g_def"
+],
+"slides": [
+"F19",
+"F38",
+"F40",
+"F21",
+"F26",
+"F41"
 ]
 },
 {
@@ -2342,6 +3319,10 @@
 "coment": "<p><b>C.</b> Ht em queda + choque + hemorragia → concentrado de hemácias; investigar coagulopatias  <i>(Sl. 41)</i>.</p><p><b>A</b>: albumina é para Ht em <b>ascensão</b>. <b>B</b>: diurético é para Ht em queda <b>sem</b> sangramento (diluição). <b>D</b>: o slide limita a 3 repetições  <i>(Sl. 40)</i> e o problema aqui é sangue, não volume.</p>",
 "blk": [
 "g_cd"
+],
+"slides": [
+"F41",
+"F40"
 ]
 },
 {
@@ -2361,6 +3342,10 @@
 "coment": "<p><b>B.</b> Até o 5º dia: PCR ou NS1  <i>(Sl. 21)</i>; na criança, 3 min e ≥ 10 petéquias  <i>(Sl. 23)</i>.</p><p><b>A</b>: IgM a partir do 6º dia  <i>(Sl. 21)</i>. <b>C</b>: esses são os valores do <b>adulto</b>. <b>D</b>: manejo clínico não depende de laboratório  <i>(Sl. 21)</i>.</p>",
 "blk": [
 "g_diag"
+],
+"slides": [
+"F21",
+"F23"
 ]
 },
 {
@@ -2380,6 +3365,9 @@
 "coment": "<p><b>B.</b> Qdenga: 2 doses, intervalo de 3 meses, pode em soronegativos  <i>(Sl. 42)</i>; vacina viva, contraindicada na lactante independentemente da idade da criança  <i>(S27 Aspectos iniciais 31:53–32:24)</i>.</p><p><b>A</b>: Dengvaxia só com primoinfecção comprovada  <i>(Sl. 42)</i>. <b>C</b>: o corte de 6 meses é da <b>febre amarela</b>, não da dengue  <i>(S27 Aspectos iniciais 31:26–31:52)</i>. <b>D</b>: a Qdenga pode.</p>",
 "blk": [
 "g_vac"
+],
+"slides": [
+"F42"
 ]
 },
 {
@@ -2399,6 +3387,10 @@
 "coment": "<p><b>B.</b> HBsAg + anti-HBc IgM = hepatite B aguda  <i>(Sl. 16)</i>.</p><p><b>A</b>: crônica exige anti-HBc <b>IgG/total</b> com HBsAg persistente &gt; 6 meses  <i>(Sl. 14, 16)</i>; replicação se lê pelo HBeAg. <b>C</b>: o vacinado tem <b>só anti-HBs</b>  <i>(S27 P1 16:45–17:39)</i>. <b>D</b>: na infecção curada o HBsAg já negativou.</p>",
 "blk": [
 "h_marc"
+],
+"slides": [
+"G16",
+"G14"
 ]
 },
 {
@@ -2418,7 +3410,8 @@
 "coment": "<p><b>C.</b> A vacina contém só o HBsAg, então gera <b>apenas anti-HBs</b>  <i>(S27 P1 16:45–17:39)</i>.</p><p><b>A</b>: quem teve a infecção tem <b>anti-HBc</b>, porque viu o core. <b>B</b>: na janela o anti-HBc (IgM) está positivo. <b>D</b>: anti-HBs reagente = protegido.</p>",
 "blk": [
 "h_marc"
-]
+],
+"slides": []
 },
 {
 "id": "q07_3",
@@ -2438,6 +3431,11 @@
 "coment": "<p><b>C.</b> Criança exposta: <b>vacina + IGHAHB</b>, preferencialmente nas primeiras 24 h (slide) — ou 12 h (MEDCURSO)  <i>(Sl. 17)</i>  <i>(S27 P1 21:17–22:44)</i>.</p><p><b>A</b>: mesmo HBeAg negativa, o risco chega a <b>10–40%</b>  <i>(Sl. 12)</i>; a indicação independe do HBeAg. <b>B</b>: no RN não se dosa HBsAg — resultado transitório  <i>(Sl. 14)</i>. <b>D</b>: vacina não viva não sofre interferência; aplica-se tudo junto  <i>(S27 P1 21:17–22:44)</i>. <b>E</b>: HBsAg+ não contraindica amamentar  <i>(Apostila PED 2)</i>.</p>",
 "blk": [
 "h_prevB"
+],
+"slides": [
+"G17",
+"G12",
+"G14"
 ]
 },
 {
@@ -2457,6 +3455,10 @@
 "coment": "<p><b>C.</b> Abaixo de <b>18 meses</b>, anti-HCV pode ser IgG da mãe (atravessa a placenta) → <b>PCR</b> com 3 meses e repetir 6 a 12 meses após  <i>(Sl. 21–22)</i>.</p><p><b>A</b> e <b>B</b>: o anticorpo sozinho não separa infecção de passagem materna — o PCR é que diz “vírus circulante”  <i>(Sl. 21)</i>. <b>D</b>: <b>não há vacina</b> contra hepatite C  <i>(Sl. 22)</i>.</p>",
 "blk": [
 "h_C"
+],
+"slides": [
+"G21",
+"G22"
 ]
 },
 {
@@ -2476,6 +3478,12 @@
 "coment": "<p><b>B.</b> Assintomática em <b>70%</b> dos &lt; 6 anos e em só 30% dos maiores e adultos; <b>não cronifica</b>  <i>(Sl. 5, 7)</i>.</p><p><b>A</b>: a criança pequena é justamente o reservatório silencioso. <b>C</b>: é <b>fecal-oral</b>; sangue só raramente  <i>(Sl. 6)</i>. <b>D</b>: agudo = <b>IgM</b>; IgG positiva por toda a vida = infecção passada ou vacina  <i>(Sl. 8)</i>.</p>",
 "blk": [
 "h_A"
+],
+"slides": [
+"G5",
+"G7",
+"G6",
+"G8"
 ]
 },
 {
@@ -2496,6 +3504,10 @@
 "blk": [
 "h_prevB",
 "h_A"
+],
+"slides": [
+"G17",
+"G8"
 ]
 },
 {
@@ -2515,7 +3527,8 @@
 "coment": "<p><b>C.</b> Colúria + acolia = bilirrubina direta; BD &gt; 1 = colestase; AVB é urgência — Kasai sem benefício a partir de 8 semanas  <i>(S08 39:19–39:45 · 43:41–43:56)</i>.</p><p><b>A</b>: a icterícia do leite materno aumenta só a <b>indireta</b>  <i>(S08 1:02:37–1:03:44)</i>. <b>B</b>: não é o primeiro suspeito no lactente de 5 semanas. <b>D</b>: fototerapia trata bilirrubina indireta, não colestase.</p>",
 "blk": [
 "h_dif"
-]
+],
+"slides": []
 },
 {
 "id": "q07_8",
@@ -2534,6 +3547,9 @@
 "coment": "<p><b>C.</b> Acima de 12 meses, dosar HBsAg e <b>repetir em 6 meses</b> após o primeiro positivo para confirmar cronicidade  <i>(Sl. 14)</i>.</p><p><b>A</b>: crônica = HBsAg persistente; um exame isolado não prova persistência. <b>B</b>: anti-HBs é marcador de imunidade. <b>D</b>: vacina previne, não trata quem já tem o antígeno.</p>",
 "blk": [
 "h_marc_idade"
+],
+"slides": [
+"G14"
 ]
 },
 {
@@ -2554,6 +3570,16 @@
 "blk": [
 "m_puncao",
 "m_trat"
+],
+"slides": [
+"H17",
+"H18",
+"H19",
+"H20",
+"H22",
+"H30",
+"H23",
+"H4"
 ]
 },
 {
@@ -2573,6 +3599,9 @@
 "coment": "<p><b>B.</b> Leucócitos &gt; 1.000, neutrófilos, proteína 100–200 mg/dL, glicose &lt; 30 e bacterioscopia positiva: coluna bacteriana  <i>(Sl. 26)</i>.</p><p><b>A</b>: viral tem &lt; 1.000 células, glicose normal e bacterioscopia negativa — neutrófilos precoces não explicam glicose 20 nem diplococos. <b>C</b>: tuberculosa tem aumento leve (20–500) com linfócitos. <b>D</b>: acidente de punção dá sangue, não pus com consumo de glicose.</p>",
 "blk": [
 "m_lcr"
+],
+"slides": [
+"H26"
 ]
 },
 {
@@ -2593,6 +3622,9 @@
 "blk": [
 "m_lcr",
 "m_vac"
+],
+"slides": [
+"H26"
 ]
 },
 {
@@ -2613,6 +3645,12 @@
 "blk": [
 "m_trat",
 "m_clin"
+],
+"slides": [
+"H5",
+"H30",
+"H32",
+"H17"
 ]
 },
 {
@@ -2632,6 +3670,10 @@
 "coment": "<p><b>C.</b> Contato domiciliar recebe profilaxia <b>independentemente do estado vacinal</b>; rifampicina 10 mg/kg (máx. 600 mg) 12/12 h por 2 dias  <i>(Sl. 38)</i>.</p><p><b>A</b>: o slide é explícito sobre o estado vacinal — e a vacina C não cobre o B. <b>B</b>: é o esquema do <b>Hib</b>  <i>(Sl. 39)</i>. <b>D</b>: ciprofloxacina é para <b>≥ 18 anos</b>  <i>(Sl. 38)</i>.</p>",
 "blk": [
 "m_profil"
+],
+"slides": [
+"H38",
+"H39"
 ]
 },
 {
@@ -2651,6 +3693,10 @@
 "coment": "<p><b>B.</b> Há um contato &lt; 4 anos <b>parcialmente vacinado</b> → profilaxia para <b>todos</b> os contatos domiciliares íntimos, de qualquer idade  <i>(Sl. 39)</i>.</p><p><b>A</b>: o critério define a casa, não só a criança pequena. <b>C</b>: o slide 39 é inteiro sobre Hib. <b>D</b>: é a dose do meningococo  <i>(Sl. 38)</i>.</p>",
 "blk": [
 "m_profil"
+],
+"slides": [
+"H39",
+"H38"
 ]
 },
 {
@@ -2670,6 +3716,9 @@
 "coment": "<p><b>C.</b> Texto do slide 35  <i>(Sl. 35)</i>.</p><p><b>A</b>: “previne, mas <b>não reverte</b>” — daí o uso junto ao antibiótico. <b>B</b>: idade mínima é <b>6 semanas</b>. <b>D</b>: indicação na <b>meningite bacteriana</b> (“MB”).</p>",
 "blk": [
 "m_dexa"
+],
+"slides": [
+"H35"
 ]
 },
 {
@@ -2689,6 +3738,13 @@
 "coment": "<p><b>B.</b> Hipotensão é exceção à punção imediata, “mas nunca postergar tratamento”  <i>(Sl. 22)</i>; suporte com SF 20 mL/kg  <i>(Sl. 29)</i>. Púrpura + choque = doença meningocócica  <i>(Sl. 15)</i>.</p><p><b>A</b>: inverte a prioridade; antígenos e PCR continuam úteis após o antibiótico  <i>(Sl. 27)</i>. <b>C</b>: atraso de 3–6 h aumenta mortalidade  <i>(Sl. 23)</i>. <b>D</b>: corticoide não substitui antibiótico.</p>",
 "blk": [
 "m_puncao"
+],
+"slides": [
+"H22",
+"H29",
+"H15",
+"H27",
+"H23"
 ]
 },
 {
@@ -2708,7 +3764,8 @@
 "coment": "<b>B — Meningite viral.</b> &lt; 1.000 células com linfócitos, proteína e glicose normais. <b>C</b>: tuberculosa exigiria glicose baixa e proteína muito elevada. <b>A</b>: bacteriana teria neutrófilos, glicose &lt; 30 e proteína 100–200. <b>D</b>: 600 células nunca é normal.",
 "blk": [
 "m_lcr"
-]
+],
+"slides": []
 },
 {
 "id": "q09_1",
@@ -2728,6 +3785,9 @@
 "coment": "<p><b>C.</b> O saco coletor tem frequentes falsos-positivos, mas é <b>confiável quando negativo</b>  <i>(Sl. 14)</i> — alto valor preditivo negativo  <i>(S36 38:01–39:33)</i>.</p><p><b>A</b>: foi exatamente a alternativa incorreta de uma questão comentada no MEDCURSO  <i>(S36 50:11–50:35)</i>. <b>B</b>: positivo por saco é “muito difícil valorizar” — contaminação. <b>D</b>: o cateterismo é invasivo e pode lesar a mucosa, mas é método aceito (contraindicado na vulvovaginite/balanopostite). <b>E</b>: é o inverso — a punção é <b>indicada</b> justamente quando diarreia, vulvovaginite ou balanopostite tornam a coleta natural duvidosa.</p>",
 "blk": [
 "i_coleta"
+],
+"slides": [
+"I14"
 ]
 },
 {
@@ -2747,6 +3807,9 @@
 "coment": "<p><b>C.</b> Entre <b>10.000 e 100.000 UFC</b> o exame é <b>duvidoso — repetir</b>  <i>(Sl. 17)</i>.</p><p><b>A</b>: “qualquer crescimento” vale para a <b>punção suprapúbica</b>, não para o jato médio  <i>(S36 40:32–42:06)</i>. <b>B</b>: negativo é &lt; 10.000. <b>D</b>: contaminação é sugerida por <b>duas ou mais cepas</b>, e aqui só há uma.</p>",
 "blk": [
 "i_lab"
+],
+"slides": [
+"I17"
 ]
 },
 {
@@ -2767,6 +3830,11 @@
 "coment": "<p><b>B.</b> Cefalexina <b>50–100 mg/kg/dia em 4 doses</b>, tratamento ambulatorial de <b>10 dias (7 a 14)</b>  <i>(Sl. 23)</i>.</p><p><b>A</b>: febre + dor lombar = pielonefrite; a nitrofurantoína não atinge o parênquima  <i>(S36 55:59–57:03)</i>. <b>C</b>: iniciar <b>logo após a coleta</b> — a demora é fator de risco para lesão renal  <i>(Sl. 21)</i>. <b>D</b>: cefadroxil é <b>30–50 mg/kg/dia em 2 doses</b>. <b>E</b>: criança sem toxemia, desidratação ou vômitos não tem indicação de internação  <i>(Sl. 22)</i>; “toda pielonefrite interna” é mito  <i>(S36 51:16–52:02)</i>.</p>",
 "blk": [
 "i_trat"
+],
+"slides": [
+"I23",
+"I21",
+"I22"
 ]
 },
 {
@@ -2787,6 +3855,12 @@
 "blk": [
 "i_trat",
 "i_clin"
+],
+"slides": [
+"I22",
+"I25",
+"I27",
+"I9"
 ]
 },
 {
@@ -2807,6 +3881,12 @@
 "coment": "<p><b>B.</b> DMSA avalia <b>morfologia</b> e função quantitativa do parênquima  <i>(Sl. 30)</i> — “M de Morfológica”  <i>(S36 1:07:34–1:08:14)</i>; para cicatriz, <b>3 meses após a cura</b> (slide 34) ou 4–6 meses (MEDCURSO). Questão modelo no MEDCURSO  <i>(S36 1:17:46–1:18:39)</i>.</p><p><b>A</b>: UCM diagnostica <b>RVU</b>, e nunca durante o tratamento  <i>(Sl. 29)</i>. <b>C</b>: DTPA é dinâmica, avalia <b>obstrução</b>. <b>D</b>: USG é observador-dependente e pouco sensível para cicatriz e RVU. <b>E</b>: urografia é para malformações complexas, com muita radiação  <i>(Sl. 32)</i>.</p>",
 "blk": [
 "i_imagem"
+],
+"slides": [
+"I30",
+"I34",
+"I29",
+"I32"
 ]
 },
 {
@@ -2827,6 +3907,10 @@
 "coment": "<p><b>D.</b> Itens 2 e 3 do slide 26.</p><p><b>A</b>: RVU I–II só com <b>ITU de repetição ou cintilografia alterada</b>. <b>B</b>: &lt; 2 meses = <b>cefalexina</b>; nitrofurantoína ou SMX-TMP &gt; 2 meses  <i>(Sl. 27)</i>. <b>C</b>: reduz ITU sintomática, <b>não</b> novas cicatrizes  <i>(Sl. 27)</i>. <b>E</b>: profilaxia é por definição <b>subterapêutica</b>  <i>(Sl. 26)</i>.</p>",
 "blk": [
 "i_profil"
+],
+"slides": [
+"I26",
+"I27"
 ]
 },
 {
@@ -2846,6 +3930,10 @@
 "coment": "<p><b>C.</b> Menino + hidronefrose bilateral com distensão vesical + jato fraco/gotejamento + ITU de repetição = <b>VUP</b>; confirma com <b>UCM</b>  <i>(S36 Outros 16:54–20:17)</i>. O slide 12 manda observar o jato e palpar os rins; o slide 35 lista <b>malformação obstrutiva</b> e <b>&lt; 1 ano</b> como risco de lesão renal.</p><p><b>A</b>: obstrução “lá em cima” — a bexiga estaria normal. <b>B</b>: RVU grau I não explica bexiga distendida nem jato fraco. <b>D</b>: bexiga hiperativa não tem hidronefrose  <i>(S36 Outros 21:37–23:00)</i>.</p>",
 "blk": [
 "i_rvu"
+],
+"slides": [
+"I12",
+"I35"
 ]
 },
 {
@@ -2865,6 +3953,9 @@
 "coment": "<p><b>C.</b> Três uroculturas consecutivas em 3 dias a 2 semanas, sem sintomas = bacteriúria assintomática; a persistente é típica de meningomielocele, bexiga neurogênica e cateterismo de repetição; <b>não tratar</b>  <i>(Sl. 19)</i>. Exceções do MEDCURSO: gestante e manipulação urológica com lesão de mucosa  <i>(S36 21:53–22:52)</i>.</p><p><b>A/B/D</b>: tratar pode selecionar germes de <b>maior virulência</b> e levar à ITU sintomática.</p>",
 "blk": [
 "i_bact"
+],
+"slides": [
+"I19"
 ]
 },
 {
@@ -2884,6 +3975,11 @@
 "coment": "<p><b>B.</b> Taquicardia, palidez, extremidades frias e oligúria com pulsos periféricos presentes e PA normal = <b>choque compensado</b>  <i>(Sl. 11)</i>; aos 8 meses, hipotensão seria PAS &lt; 70  <i>(Sl. 16)</i>.</p><p><b>A</b>: é o erro que a aula quer evitar — PA normal não exclui choque. <b>C</b>: descompensado exige hipotensão, ausência de pulsos periféricos ou rebaixamento de consciência  <i>(Sl. 12)</i>. <b>D</b>: taquicardia é compensação comum a todos os tipos; a história de perdas aponta hipovolemia.</p>",
 "blk": [
 "s_recon"
+],
+"slides": [
+"J11",
+"J16",
+"J12"
 ]
 },
 {
@@ -2903,6 +3999,9 @@
 "coment": "<p><b>C.</b> De 1 a 10 anos, hipotensão = PAS &lt; 70 + (idade × 2) = 70 + 12 = <b>82</b>; 80 está abaixo  <i>(Sl. 16)</i> — a mesma fórmula do MEDCURSO  <i>(S30 P2 48:15–50:03)</i>.</p><p><b>A</b>: 70 é o corte de 1–12 meses. <b>B</b>: 90 é o corte acima de 10 anos. <b>D</b>: 76 seria a conta com 3 anos, erro de aplicar a idade.</p>",
 "blk": [
 "s_recon"
+],
+"slides": [
+"J16"
 ]
 },
 {
@@ -2922,6 +4021,13 @@
 "coment": "<p><b>B.</b> Acesso <b>intraósseo</b> se não houver acesso venoso  <i>(Sl. 20)</i>; <b>20 mL/kg</b> (16 × 20 = 320 mL) de solução isotônica em 5–20 min, repetindo conforme reavaliação  <i>(Sl. 21–22)</i>.</p><p><b>A</b>: insistir na veia atrasa o volume, e <b>soro glicosado não expande</b> — na expansão é cristaloide  <i>(S30 P2 18:29–20:04)</i>. <b>C</b>: 100 mL/kg em 3 h é o formato do Plano C da diarreia  <i>(S30 P2 32:01–33:44)</i>, não a ressuscitação do choque do slide. <b>D</b>: aminas entram quando o choque persiste após a expansão  <i>(Sl. 23, 37)</i>.</p>",
 "blk": [
 "s_hora1"
+],
+"slides": [
+"J20",
+"J21",
+"J22",
+"J23",
+"J37"
 ]
 },
 {
@@ -2942,6 +4048,12 @@
 "blk": [
 "s_hora1",
 "s_aminas"
+],
+"slides": [
+"J21",
+"J25",
+"J38",
+"J20"
 ]
 },
 {
@@ -2961,6 +4073,11 @@
 "coment": "<p><b>C.</b> Choque <b>quente</b> (vasodilatado, diastólica baixa) → <b>noradrenalina</b>, objetivo PA adequada  <i>(Sl. 25, 38)</i>.</p><p><b>A</b>: dobutamina reduz a RVP e <b>pode diminuir a PA</b> — é para insuficiência cardíaca. <b>B</b>: dopamina é opção do choque <b>frio</b> no slide (e perde espaço nas diretrizes atuais). <b>D</b>: após 60 mL/kg com choque persistente, a aula manda iniciar aminas mantendo a expansão  <i>(Sl. 37)</i>.</p>",
 "blk": [
 "s_aminas"
+],
+"slides": [
+"J25",
+"J38",
+"J37"
 ]
 },
 {
@@ -2980,6 +4097,9 @@
 "coment": "<p><b>B.</b> Politrauma/ventilação mecânica + ↓ murmúrio + timpanismo + piora respiratória = <b>pneumotórax hipertensivo</b> → <b>punção de tórax e drenagem</b>  <i>(Sl. 30)</i>.</p><p><b>A</b>: choque obstrutivo não se resolve com volume nem amina. <b>C</b>: punção de alívio é do <b>tamponamento</b> (bulhas abafadas, QRS achatado). <b>D</b>: atrasar a descompressão num paciente instável.</p>",
 "blk": [
 "s_obst"
+],
+"slides": [
+"J30"
 ]
 },
 {
@@ -2999,6 +4119,9 @@
 "coment": "<p><b>B.</b> De 11 a 20 kg: <b>1000 + 50 mL/kg acima de 10 kg</b> = 1000 + 50 × 5 = <b>1250 mL</b>  <i>(Sl. 27)</i>.</p><p><b>A</b>: 100 mL/kg vale só até 10 kg. <b>C</b>: somou 50 mL/kg sobre o peso <b>inteiro</b> (1000 + 50 × 15), e não só sobre os quilos acima de 10. <b>D</b>: aplicou 50 mL/kg a todo o peso.</p>",
 "blk": [
 "s_manut"
+],
+"slides": [
+"J27"
 ]
 },
 {
@@ -3018,6 +4141,171 @@
 "coment": "<p><b>C.</b> Exatamente o slide 37: após 1 h (60 mL/kg), ainda com sinais de choque → <b>manter expansão, iniciar aminas e exames</b>; Sl. 38: novo SF 20 mL/kg em 20 min + escolha da amina.</p><p><b>A</b>: perfusão 4 s, pulsos periféricos ausentes e sonolência = choque persistente; manutenção só <b>após</b> a melhora  <i>(Sl. 26, 39)</i>. <b>B</b>: sem sinais de sobrecarga, prosseguir conforme a resposta  <i>(Sl. 23)</i>. <b>D</b>: é o soro de manutenção do slide 40, para depois da estabilização.</p>",
 "blk": [
 "s_caso"
+],
+"slides": [
+"J37",
+"J38",
+"J26",
+"J39",
+"J23",
+"J40"
+]
+},
+{
+"id": "qk_roma",
+"cap": 11,
+"src": "autoral",
+"orig": "Autoral · slide K5",
+"tag": "Roma IV",
+"slides": [
+"K5"
+],
+"enun": "Menino de 4 anos, 16 kg, evacua 2 vezes por semana há 5 semanas, com dor ao evacuar e fezes grossas que entopem o vaso. Segundo os critérios de Roma IV da aula, ele:",
+"alts": [
+"Não tem constipação, pois os sintomas precisam durar 3 meses.",
+"Tem constipação funcional: preenche ao menos 2 critérios por 1 mês.",
+"Só terá diagnóstico após RX simples de abdome.",
+"Precisa de pelo menos 4 critérios para o diagnóstico."
+],
+"ok": 1,
+"coment": "<b>B.</b> Roma IV pede <b>pelo menos 2 critérios por 1 mês</b>; ele tem ≤ 2 evacuações/semana, dor ao evacuar e fezes calibrosas. <b>A</b>: 3 meses não é o critério do slide. <b>C</b>: exames são desnecessários na maioria. <b>D</b>: bastam 2.",
+"blk": [
+"k_def"
+]
+},
+{
+"id": "qk_oleo",
+"cap": 11,
+"src": "autoral",
+"orig": "Autoral · slides K13–K15",
+"tag": "laxativo",
+"slides": [
+"K13",
+"K15"
+],
+"enun": "Lactente de 8 meses, 8 kg, com constipação funcional e regurgitações frequentes. Qual laxativo de manutenção está mais de acordo com a aula?",
+"alts": [
+"Óleo mineral 2 mL/kg/dia.",
+"Polietilenoglicol 3350, 0,8 g/kg/dia.",
+"Hidróxido de magnésio em dose dobrada.",
+"Nenhum: lactentes não recebem laxativo."
+],
+"ok": 1,
+"coment": "<b>B.</b> PEG é a <b>primeira linha</b> (3350: 0,8 g/kg/dia). <b>A</b>: óleo mineral é <b>contraindicado em lactentes e regurgitadores</b> (aspiração). <b>C</b>: dose 1–3 mL/kg/dia e sabor ruim. <b>D</b>: errado.",
+"blk": [
+"k_trat"
+]
+},
+{
+"id": "qk_exame",
+"cap": 11,
+"src": "autoral",
+"orig": "Autoral · slides K8–K10",
+"tag": "investigação",
+"slides": [
+"K8",
+"K10"
+],
+"enun": "Pré-escolar com constipação desde o nascimento, eliminação de mecônio após 48 h e distensão abdominal importante. Qual exame a aula indica para a suspeita?",
+"alts": [
+"Nenhum: constipação funcional não exige exames.",
+"Enema opaco, na suspeita de megacólon (e biópsia retal para confirmação).",
+"Ultrassom de vias urinárias.",
+"Colonoscopia de rotina."
+],
+"ok": 1,
+"coment": "<b>B.</b> Início neonatal com retardo de mecônio sugere <b>orgânico</b> (Hirschsprung): enema opaco (suspeita de megacólon), manometria e <b>biópsia retal</b>. <b>A</b> vale para a funcional típica, não para este quadro.",
+"blk": [
+"k_inv"
+]
+},
+{
+"id": "qa_rge",
+"cap": 12,
+"src": "antiga",
+"orig": "Prova A1 (7 pts) · Q6 — Profa. Patrícia",
+"tag": "prova antiga · regurgitador",
+"slides": [
+"L9"
+],
+"enun": "Marcos, 2 meses, aleitamento exclusivo, regurgita várias vezes ao dia; ganhou peso bem (3.200 → 4.800 g), dorme bem, sem irritabilidade, engasgos ou sintomas respiratórios. Qual a conduta?",
+"alts": [
+"Omeprazol por 4 semanas.",
+"pHmetria de 24 horas.",
+"Tranquilizar a mãe, manter aleitamento exclusivo, sem exames nem medicação.",
+"Trocar por fórmula espessada e decúbito ventral."
+],
+"ok": 2,
+"coment": "<b>C.</b> <b>RGE fisiológico</b> (“regurgitador feliz”): bom ganho, sem complicações; 67% regurgitam aos 4 meses e só 1% com 1 ano. <b>A/B</b>: sem indicação. <b>D</b>: desmamar é erro e lactente dorme <b>supino</b>.",
+"blk": [
+"l_feliz"
+]
+},
+{
+"id": "ql_ph",
+"cap": 12,
+"src": "antiga",
+"orig": "Prova A1 antiga · DRGE/pHmetria",
+"tag": "prova antiga · pHmetria",
+"slides": [
+"L16",
+"L19"
+],
+"enun": "Qual a principal indicação da pHmetria esofágica de 24 horas na criança, segundo a aula?",
+"alts": [
+"Diagnosticar estenose hipertrófica de piloro.",
+"Avaliar a associação dos episódios de refluxo com os sintomas (ex.: tosse, apneia).",
+"Detectar esôfago de Barrett.",
+"Avaliar anormalidades anatômicas."
+],
+"ok": 1,
+"coment": "<b>B.</b> pHmetria avalia a <b>relação RGE × sintomas</b> e o refluxo ácido. <b>A</b>: USG. <b>C</b>: endoscopia com biópsia. <b>D</b>: REED.",
+"blk": [
+"l_exames"
+]
+},
+{
+"id": "ql_ibp",
+"cap": 12,
+"src": "autoral",
+"orig": "Autoral · slides L24–L26",
+"tag": "IBP",
+"slides": [
+"L25"
+],
+"enun": "Sobre o tratamento medicamentoso da DRGE em pediatria, segundo a aula, é correto:",
+"alts": [
+"Procinéticos são indicados de rotina.",
+"Ranitidina é a primeira escolha.",
+"IBP é indicado em esofagite erosiva, estenose péptica, Barrett ou RGE com doença respiratória crônica/neurológica.",
+"Todo lactente que regurgita deve receber omeprazol."
+],
+"ok": 2,
+"coment": "<b>C.</b> Slide 25. <b>A</b>: efeitos no SNC superam benefícios. <b>B</b>: suspensa desde 2019. <b>D</b>: regurgitador feliz não recebe medicação.",
+"blk": [
+"l_med"
+]
+},
+{
+"id": "ql_bil",
+"cap": 12,
+"src": "autoral",
+"orig": "Autoral · slides L11, L13",
+"tag": "sinais de outro diagnóstico",
+"slides": [
+"L13"
+],
+"enun": "Qual achado num lactente que vomita afasta a hipótese de RGE fisiológico e exige investigação de outra causa?",
+"alts": [
+"Regurgitação após as mamadas com bom ganho de peso.",
+"Vômitos biliosos.",
+"Pico das regurgitações aos 4 meses.",
+"Regurgitação que melhora com a idade."
+],
+"ok": 1,
+"coment": "<b>B.</b> Vômito bilioso é sinal gastrointestinal de outro diagnóstico (má rotação). As demais descrevem o regurgitador feliz.",
+"blk": [
+"l_dif"
 ]
 }
 ],
@@ -3974,6 +5262,105 @@
 ]
 }
 ]
+},
+{
+"id": "k_k_caso",
+"cap": 11,
+"blk": [
+"k_def",
+"k_inv",
+"k_trat",
+"k_hab"
+],
+"t": "A criança que suja a cueca",
+"src": "Caso autoral no estilo da professora (slides K5–K18)",
+"enun": "Menina de 5 anos, 18 kg, há 2 meses evacua a cada 4–5 dias, com dor e choro; fezes grossas entopem o vaso e há escape fecal na roupa quase todo dia. Começou quando entrou na escola. Exame: massa fecal palpável em fossa ilíaca esquerda; região sacral sem alterações.",
+"p": [
+{
+"p": "Qual o diagnóstico? Justifique pelos critérios.",
+"m": "<b>Constipação intestinal crônica funcional</b> (Roma IV: ≥ 2 critérios por 1 mês): ≤ 2 evacuações/semana, incontinência fecal ≥ 1/semana, dor ao evacuar, massa fecal, fezes calibrosas. Início na entrada da escola.",
+"c": [
+"constipação funcional",
+"Roma IV",
+"2 critérios",
+"1 mês",
+"incontinência fecal",
+"escola"
+]
+},
+{
+"p": "Precisa de exames?",
+"m": "<b>Não</b>: exames são desnecessários na maioria da constipação funcional; só na suspeita de orgânica (RX, enema opaco, manometria, biópsia retal). Exame físico com toque retal e região dorsal normal.",
+"c": [
+"não precisa",
+"toque retal",
+"região dorsal",
+"suspeita orgânica"
+]
+},
+{
+"p": "Monte o tratamento.",
+"m": "<b>1) Desimpactação</b> (enema oral ou retal) → <b>2) polietilenoglicol</b> prolongado (3350: 0,8 g/kg/dia ≈ 14 g/dia; ou 4000: 0,5 g/kg/dia) → <b>3) reeducação</b>: vaso 5 min após refeições com pés apoiados, fibras e líquidos; orientar que o escape é <b>involuntário</b> e manter atitude positiva; alertar sobre recorrência.",
+"c": [
+"desimpactação",
+"polietilenoglicol",
+"0,8 g/kg/dia",
+"após as refeições",
+"pés apoiados",
+"involuntário",
+"fibras"
+]
+}
+]
+},
+{
+"id": "k_l_rge",
+"cap": 12,
+"blk": [
+"l_feliz",
+"l_exames",
+"l_geral"
+],
+"t": "Marcos regurgita (prova antiga)",
+"src": "Prova A1 (7 pts) · Q6 e questão de pHmetria — Profa. Patrícia",
+"enun": "Marcos, 2 meses, aleitamento exclusivo, regurgita várias vezes ao dia; ganhou peso bem (3.200 → 4.800 g), dorme bem, sem irritabilidade, engasgos ou sintomas respiratórios.",
+"p": [
+{
+"p": "Qual o diagnóstico e a conduta?",
+"m": "<b>RGE fisiológico</b> (“regurgitador feliz”): bom ganho ponderal e sem complicações. <b>Tranquilizar</b> a mãe, manter <b>aleitamento exclusivo</b>, <b>sem exames nem medicação</b>; posição <b>supina</b>; melhora com o tempo (67% regurgitam aos 4 meses, 1% com 1 ano).",
+"c": [
+"RGE fisiológico",
+"regurgitador feliz",
+"ganho de peso",
+"tranquilizar",
+"aleitamento",
+"sem exames",
+"supina"
+]
+},
+{
+"p": "Qual a principal indicação de pHmetria na DRGE?",
+"m": "Avaliar a <b>associação dos episódios de refluxo com os sintomas</b>, sobretudo <b>atípicos/extraesofágicos</b> (tosse, apneia, broncoespasmo); refluxo ácido. Não é necessária no RGE típico.",
+"c": [
+"associação",
+"sintomas",
+"extraesofágicos",
+"refluxo ácido"
+]
+},
+{
+"p": "Que achados mudariam o diagnóstico para DRGE?",
+"m": "Complicações: <b>perda ou desaceleração de peso</b>, choro/irritabilidade, <b>hematêmese/melena</b>, tosse, broncoespasmo, <b>apneia/cianose</b>, pneumonias aspirativas, otites/laringites de repetição.",
+"c": [
+"perda de peso",
+"irritabilidade",
+"hematêmese",
+"tosse",
+"apneia",
+"pneumonia"
+]
+}
+]
 }
 ],
 "FLASH": [
@@ -4821,6 +6208,126 @@
 10,
 "Eletrólitos da manutenção?",
 "Na 3, K 2 mEq/kg/dia."
+],
+[
+11,
+"Roma IV: quantos critérios e por quanto tempo?",
+"≥ 2 critérios por 1 mês."
+],
+[
+11,
+"6 critérios de Roma IV?",
+"≤ 2 evacuações/sem, incontinência ≥ 1/sem, postura retentiva, dor ao evacuar, massa fecal no reto, fezes que entopem o vaso."
+],
+[
+11,
+"Momentos típicos de início?",
+"Desmame, retirada da fralda, entrada na escola."
+],
+[
+11,
+"O que examinar na região dorsal?",
+"Tufo de pelos, dimple sacral, desvio de prega glútea, hemangioma."
+],
+[
+11,
+"Exames na constipação funcional?",
+"Desnecessários na maioria."
+],
+[
+11,
+"3 etapas do manejo?",
+"Desimpactação → laxativo prolongado → reeducação de toalete."
+],
+[
+11,
+"Óleo mineral: contraindicações?",
+"Lactentes, neuropatas, regurgitadores."
+],
+[
+11,
+"Dose do PEG 4000 e 3350?",
+"0,5 g/kg/dia e 0,8 g/kg/dia."
+],
+[
+11,
+"Droga de escolha?",
+"Polietilenoglicol."
+],
+[
+11,
+"Hábito de toalete?",
+"Vaso 5 min após as refeições, pés apoiados."
+],
+[
+12,
+"RGE × DRGE?",
+"RGE: fisiológico, autolimitado. DRGE: RGE + complicações."
+],
+[
+12,
+"Grupos de risco para DRGE?",
+"Neuropatas, operados de atresia de esôfago, fibrose cística, obesos."
+],
+[
+12,
+"Regurgitador feliz: % aos 4 meses e com 1 ano?",
+"Até 67%; 1%."
+],
+[
+12,
+"Pico das regurgitações?",
+"4–5 meses."
+],
+[
+12,
+"Diferenciais do RGE no lactente?",
+"APLV, cólica, estenose de piloro, má rotação."
+],
+[
+12,
+"Início de vômitos que sugere outro diagnóstico?",
+"Após 6 meses (ou persistência após 12)."
+],
+[
+12,
+"Exame ideal para RGE?",
+"Não existe: cada indicação, um exame."
+],
+[
+12,
+"pHmetria serve para?",
+"Relacionar refluxo com sintomas (ácido)."
+],
+[
+12,
+"USG no vômito do lactente?",
+"Estenose hipertrófica de piloro."
+],
+[
+12,
+"Posição do lactente com RGE?",
+"Supina."
+],
+[
+12,
+"Teste com hidrolisado?",
+"2–4 semanas nos vômitos recorrentes (APLV)."
+],
+[
+12,
+"Procinéticos?",
+"Não de rotina (SNC)."
+],
+[
+12,
+"Indicações de IBP?",
+"Esofagite erosiva, estenose péptica, Barrett, RGE + respiratório crônico ou neuro."
+],
+[
+12,
+"Cirurgia?",
+"Fundoplicatura de Nissen."
 ]
 ],
 "COLA": [
@@ -5401,6 +6908,92 @@
 "NaCl 20% 3,4 · KCl 19,1% 2,5 mEq/mL"
 ]
 ]
+],
+[
+"Cap. 11 · Constipação",
+[
+[
+"Roma IV",
+"≥ 2 critérios · 1 mês"
+],
+[
+"Prevalência",
+"14,7–38,4%"
+],
+[
+"Exames",
+"desnecessários na maioria"
+],
+[
+"Etapas",
+"desimpactar → laxativo → toalete"
+],
+[
+"Óleo mineral",
+"1–3 mL/kg · não lactente/neuropata/regurgitador"
+],
+[
+"Lactulose / Mg(OH)₂",
+"1–3 mL/kg/dia"
+],
+[
+"PEG",
+"4000 0,5 · 3350 0,8 g/kg/dia · 1ª linha"
+]
+]
+],
+[
+"Cap. 12 · RGE",
+[
+[
+"RGE",
+"fisiológico · regurgitador feliz"
+],
+[
+"DRGE",
+"RGE + complicações"
+],
+[
+"4 meses / 1 ano",
+"67% / 1%"
+],
+[
+"Pico",
+"4–5 meses"
+],
+[
+"Outro diagnóstico",
+"bilioso · início > 6 m · persiste > 12 m"
+],
+[
+"pHmetria",
+"refluxo × sintomas"
+],
+[
+"Endoscopia",
+"complicações"
+],
+[
+"USG",
+"estenose de piloro"
+],
+[
+"Lactente",
+"supino · espessar · sem overfeeding"
+],
+[
+"Hidrolisado",
+"2–4 sem (APLV)"
+],
+[
+"IBP",
+"teste 4–8 sem · retirada gradual"
+],
+[
+"Cirurgia",
+"Nissen"
+]
+]
 ]
 ],
 "SAY": [],
@@ -5472,9 +7065,23 @@
 {
 "id": "m10",
 "nm": "🟡 Hepatites",
-"dl": "2026-10-29T12:00:00-03:00",
+"dl": "2026-10-29T10:30:00-03:00",
 "tipo": "cap",
 "cap": 7
+},
+{
+"id": "m10b",
+"nm": "💩 Constipação (aula nova)",
+"dl": "2026-10-29T12:30:00-03:00",
+"tipo": "cap",
+"cap": 11
+},
+{
+"id": "m10c",
+"nm": "🍼 RGE (aula nova, caiu 2×)",
+"dl": "2026-10-29T14:30:00-03:00",
+"tipo": "cap",
+"cap": 12
 },
 {
 "id": "m11",
@@ -5890,6 +7497,17 @@
 "s_aminas": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 234\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Amina pelo tipo de choque (µg/kg/min)\"><rect width=\"640\" height=\"234\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Amina pelo tipo de choque (µg/kg/min)</text><rect x=\"24\" y=\"52\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"74\" font-size=\"14\" font-weight=\"700\" fill=\"#B5402F\">Frio</text><text x=\"226\" y=\"74\" font-size=\"14\" fill=\"#262223\">adrenalina 0,05–1,5 (ou dopamina 2–20)</text><rect x=\"24\" y=\"90\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#B5402F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"112\" font-size=\"14\" font-weight=\"700\" fill=\"#B5402F\">Quente</text><text x=\"226\" y=\"112\" font-size=\"14\" fill=\"#262223\">noradrenalina 0,05–1,0</text><rect x=\"24\" y=\"128\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"150\" font-size=\"14\" font-weight=\"700\" fill=\"#B5402F\">Insuficiência cardíaca</text><text x=\"226\" y=\"150\" font-size=\"14\" fill=\"#262223\">dobutamina 1–20 (pode baixar a PA)</text><rect x=\"24\" y=\"166\" width=\"592\" height=\"52\" rx=\"8\" fill=\"#fff\" stroke=\"#B5402F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"188\" font-size=\"14\" font-weight=\"700\" fill=\"#B5402F\">Quente, por quê</text><text x=\"226\" y=\"188\" font-size=\"14\" fill=\"#262223\">vasodilatação por mediadores da sepse · pulsos amplos</text><text x=\"226\" y=\"206\" font-size=\"14\" fill=\"#262223\">· diastólica baixa</text></svg>",
 "s_obst": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 263\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Choque obstrutivo\"><rect width=\"640\" height=\"263\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Choque obstrutivo</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"150\" rx=\"12\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><rect x=\"24\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#E5F0F3\"/><rect x=\"24\" y=\"82\" width=\"290\" height=\"14\" fill=\"#E5F0F3\"/><text x=\"50\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">🫁</text><text x=\"72\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#1E5E6E\">Pneumotórax hipertensivo</text><text x=\"38\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• trauma / ventilação mecânica</text><text x=\"38\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• murmúrio abolido, timpanismo</text><text x=\"38\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• desvio de traqueia</text><text x=\"38\" y=\"175\" font-size=\"13.5\" fill=\"#262223\">✔ punção de tórax + drenagem</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"150\" rx=\"12\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><rect x=\"326\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#F6EAF0\"/><rect x=\"326\" y=\"82\" width=\"290\" height=\"14\" fill=\"#F6EAF0\"/><text x=\"352\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">🫀</text><text x=\"374\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#7A2E4A\">Tamponamento</text><text x=\"340\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• bulhas abafadas</text><text x=\"340\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• turgência jugular</text><text x=\"340\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• QRS de baixa voltagem</text><text x=\"340\" y=\"175\" font-size=\"13.5\" fill=\"#262223\">✔ punção pericárdica de alívio</text><circle cx=\"320\" cy=\"127\" r=\"15\" fill=\"#FBF9F6\" stroke=\"#d9d2c7\"/><text x=\"320\" y=\"132\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#5A5250\">×</text><rect x=\"24\" y=\"214\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-opacity=\".35\"/><text x=\"320\" y=\"236\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#B5402F\">Volume e amina não resolvem obstrução</text></svg>",
 "s_manut": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 292\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Holliday-Segar (24 h)\"><rect width=\"640\" height=\"292\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Holliday-Segar (24 h)</text><rect x=\"24\" y=\"52\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"74\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">Até 10 kg</text><text x=\"186\" y=\"74\" font-size=\"14\" fill=\"#262223\">100 mL/kg</text><rect x=\"24\" y=\"90\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"112\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">10–20 kg</text><text x=\"186\" y=\"112\" font-size=\"14\" fill=\"#262223\">1000 + 50 mL/kg acima de 10 (15 kg = 1250)</text><rect x=\"24\" y=\"128\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"150\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">&gt; 20 kg</text><text x=\"186\" y=\"150\" font-size=\"14\" fill=\"#262223\">1500 + 20 mL/kg acima de 20 (30 kg = 1700)</text><rect x=\"24\" y=\"166\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"188\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">Eletrólitos</text><text x=\"186\" y=\"188\" font-size=\"14\" fill=\"#262223\">Na 3 · K 2 mEq/kg/dia</text><rect x=\"24\" y=\"204\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"226\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">Ampolas</text><text x=\"186\" y=\"226\" font-size=\"14\" fill=\"#262223\">NaCl 20% 3,4 · KCl 10% 1,3 · KCl 19,1% 2,5 mEq/mL</text><rect x=\"24\" y=\"242\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"36\" y=\"264\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">30 kg</text><text x=\"186\" y=\"264\" font-size=\"14\" fill=\"#262223\">4 etapas de 425 mL · ~72 mL/h</text></svg>",
-"s_caso": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 382\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"O caso da aula (30 kg)\"><rect width=\"640\" height=\"382\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">O caso da aula (30 kg)</text><rect x=\"24\" y=\"50\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"76\" r=\"19\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"83\" text-anchor=\"middle\" font-size=\"19\">😴</text><circle cx=\"40\" cy=\"59\" r=\"9\" fill=\"#B5402F\"/><text x=\"40\" y=\"63.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">1</text><text x=\"88\" y=\"73\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">PA 80 &lt; 90, sonolenta</text><text x=\"88\" y=\"92\" font-size=\"13.5\" fill=\"#5A5250\">choque descompensado</text><path d=\"M56 102 V114\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><path d=\"M50 108 L56 115 L62 108\" fill=\"none\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"116\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"142\" r=\"19\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"149\" text-anchor=\"middle\" font-size=\"19\">💧</text><circle cx=\"40\" cy=\"125\" r=\"9\" fill=\"#2E6B4F\"/><text x=\"40\" y=\"129.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">2</text><text x=\"88\" y=\"139\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">3 × 20 mL/kg em 1 h</text><text x=\"88\" y=\"158\" font-size=\"13.5\" fill=\"#5A5250\">600 mL cada bolus</text><path d=\"M56 168 V180\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><path d=\"M50 174 L56 181 L62 174\" fill=\"none\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"182\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"208\" r=\"19\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"215\" text-anchor=\"middle\" font-size=\"19\">🔍</text><circle cx=\"40\" cy=\"191\" r=\"9\" fill=\"#B07D3A\"/><text x=\"40\" y=\"195.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">3</text><text x=\"88\" y=\"205\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">PA 90, TEC 4 s, sem pulso periférico</text><text x=\"88\" y=\"224\" font-size=\"13.5\" fill=\"#5A5250\">ainda em choque</text><path d=\"M56 234 V246\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><path d=\"M50 240 L56 247 L62 240\" fill=\"none\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"248\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"274\" r=\"19\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"56\" y=\"281\" text-anchor=\"middle\" font-size=\"19\">💊</text><circle cx=\"40\" cy=\"257\" r=\"9\" fill=\"#5B3F8C\"/><text x=\"40\" y=\"261.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">4</text><text x=\"88\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Manter volume + amina + exames</text><text x=\"88\" y=\"290\" font-size=\"13.5\" fill=\"#5A5250\">novo SF 20 mL/kg em 20 min</text><path d=\"M56 300 V312\" stroke=\"#5B3F8C\" stroke-width=\"2.2\"/><path d=\"M50 306 L56 313 L62 306\" fill=\"none\" stroke=\"#5B3F8C\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"314\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"340\" r=\"19\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"56\" y=\"347\" text-anchor=\"middle\" font-size=\"19\">🧴</text><circle cx=\"40\" cy=\"323\" r=\"9\" fill=\"#1E5E6E\"/><text x=\"40\" y=\"327.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">5</text><text x=\"88\" y=\"337\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Depois de estável</text><text x=\"88\" y=\"356\" font-size=\"13.5\" fill=\"#5A5250\">Holliday-Segar 1700 mL/dia</text></svg>"
+"s_caso": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 382\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"O caso da aula (30 kg)\"><rect width=\"640\" height=\"382\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">O caso da aula (30 kg)</text><rect x=\"24\" y=\"50\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"76\" r=\"19\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"83\" text-anchor=\"middle\" font-size=\"19\">😴</text><circle cx=\"40\" cy=\"59\" r=\"9\" fill=\"#B5402F\"/><text x=\"40\" y=\"63.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">1</text><text x=\"88\" y=\"73\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">PA 80 &lt; 90, sonolenta</text><text x=\"88\" y=\"92\" font-size=\"13.5\" fill=\"#5A5250\">choque descompensado</text><path d=\"M56 102 V114\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><path d=\"M50 108 L56 115 L62 108\" fill=\"none\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"116\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"142\" r=\"19\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"149\" text-anchor=\"middle\" font-size=\"19\">💧</text><circle cx=\"40\" cy=\"125\" r=\"9\" fill=\"#2E6B4F\"/><text x=\"40\" y=\"129.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">2</text><text x=\"88\" y=\"139\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">3 × 20 mL/kg em 1 h</text><text x=\"88\" y=\"158\" font-size=\"13.5\" fill=\"#5A5250\">600 mL cada bolus</text><path d=\"M56 168 V180\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><path d=\"M50 174 L56 181 L62 174\" fill=\"none\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"182\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"208\" r=\"19\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"215\" text-anchor=\"middle\" font-size=\"19\">🔍</text><circle cx=\"40\" cy=\"191\" r=\"9\" fill=\"#B07D3A\"/><text x=\"40\" y=\"195.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">3</text><text x=\"88\" y=\"205\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">PA 90, TEC 4 s, sem pulso periférico</text><text x=\"88\" y=\"224\" font-size=\"13.5\" fill=\"#5A5250\">ainda em choque</text><path d=\"M56 234 V246\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><path d=\"M50 240 L56 247 L62 240\" fill=\"none\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"248\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"274\" r=\"19\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"56\" y=\"281\" text-anchor=\"middle\" font-size=\"19\">💊</text><circle cx=\"40\" cy=\"257\" r=\"9\" fill=\"#5B3F8C\"/><text x=\"40\" y=\"261.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">4</text><text x=\"88\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Manter volume + amina + exames</text><text x=\"88\" y=\"290\" font-size=\"13.5\" fill=\"#5A5250\">novo SF 20 mL/kg em 20 min</text><path d=\"M56 300 V312\" stroke=\"#5B3F8C\" stroke-width=\"2.2\"/><path d=\"M50 306 L56 313 L62 306\" fill=\"none\" stroke=\"#5B3F8C\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"314\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"340\" r=\"19\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"56\" y=\"347\" text-anchor=\"middle\" font-size=\"19\">🧴</text><circle cx=\"40\" cy=\"323\" r=\"9\" fill=\"#1E5E6E\"/><text x=\"40\" y=\"327.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">5</text><text x=\"88\" y=\"337\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Depois de estável</text><text x=\"88\" y=\"356\" font-size=\"13.5\" fill=\"#5A5250\">Holliday-Segar 1700 mL/dia</text></svg>",
+"k_def": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 393\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Roma IV: ≥ 2 critérios por 1 mês\"><rect width=\"640\" height=\"393\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Roma IV: ≥ 2 critérios por 1 mês</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"82\" r=\"20\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"54\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">📅</text><text x=\"82\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B07D3A\">≤ 2 evacuações/semana</text><text x=\"38\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">frequência baixa</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"82\" r=\"20\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"356\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">🩲</text><text x=\"384\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B5402F\">Incontinência fecal</text><text x=\"340\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">≥ 1 episódio por semana</text><rect x=\"24\" y=\"148\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"178\" r=\"20\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"54\" y=\"185\" text-anchor=\"middle\" font-size=\"19\">🧍</text><text x=\"82\" y=\"175\" font-size=\"15.5\" font-weight=\"700\" fill=\"#7A2E4A\">Postura retentiva</text><text x=\"38\" y=\"216\" font-size=\"13.5\" fill=\"#5A5250\">segura as fezes</text><rect x=\"326\" y=\"148\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"178\" r=\"20\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"356\" y=\"185\" text-anchor=\"middle\" font-size=\"19\">😣</text><text x=\"384\" y=\"175\" font-size=\"15.5\" font-weight=\"700\" fill=\"#7A2E4A\">Dor ao evacuar</text><text x=\"340\" y=\"216\" font-size=\"13.5\" fill=\"#5A5250\">movimentos intestinais dolorosos</text><rect x=\"24\" y=\"244\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"274\" r=\"20\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"54\" y=\"281\" text-anchor=\"middle\" font-size=\"19\">🪨</text><text x=\"82\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#5B3F8C\">Massa fecal no reto</text><text x=\"38\" y=\"312\" font-size=\"13.5\" fill=\"#5A5250\">ao toque ou palpação</text><rect x=\"326\" y=\"244\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"274\" r=\"20\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"356\" y=\"281\" text-anchor=\"middle\" font-size=\"19\">🚽</text><text x=\"384\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#1E5E6E\">Fezes calibrosas</text><text x=\"340\" y=\"312\" font-size=\"13.5\" fill=\"#5A5250\">que entopem o vaso</text><rect x=\"24\" y=\"340\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"320\" y=\"362\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Bristol 1–2 = endurecidas · 3–4 = normais · prevalência 14,7–38,4%</text></svg>",
+"k_inv": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 379\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Investigação da constipação\"><rect width=\"640\" height=\"379\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Investigação da constipação</text><rect x=\"24\" y=\"50\" width=\"592\" height=\"70\" rx=\"10\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"85\" r=\"19\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"56\" y=\"92\" text-anchor=\"middle\" font-size=\"19\">🗣️</text><circle cx=\"40\" cy=\"59\" r=\"9\" fill=\"#1E5E6E\"/><text x=\"40\" y=\"63.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">1</text><text x=\"88\" y=\"73\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Anamnese</text><text x=\"88\" y=\"92\" font-size=\"13.5\" fill=\"#5A5250\">início no desmame, na retirada da fralda ou na escola · dieta ·</text><text x=\"88\" y=\"110\" font-size=\"13.5\" fill=\"#5A5250\">psicológico · toalete</text><path d=\"M56 120 V132\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><path d=\"M50 126 L56 133 L62 126\" fill=\"none\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"134\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"160\" r=\"19\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"167\" text-anchor=\"middle\" font-size=\"19\">🖐️</text><circle cx=\"40\" cy=\"143\" r=\"9\" fill=\"#2E6B4F\"/><text x=\"40\" y=\"147.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">2</text><text x=\"88\" y=\"157\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Exame físico completo</text><text x=\"88\" y=\"176\" font-size=\"13.5\" fill=\"#5A5250\">toque retal · inspeção anal · palpação abdominal</text><path d=\"M56 186 V198\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><path d=\"M50 192 L56 199 L62 192\" fill=\"none\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"200\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"226\" r=\"19\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"233\" text-anchor=\"middle\" font-size=\"19\">🔍</text><circle cx=\"40\" cy=\"209\" r=\"9\" fill=\"#B5402F\"/><text x=\"40\" y=\"213.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">3</text><text x=\"88\" y=\"223\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Região dorsal</text><text x=\"88\" y=\"242\" font-size=\"13.5\" fill=\"#5A5250\">tufo de pelos, dimple sacral, prega glútea desviada, hemangioma</text><path d=\"M56 252 V264\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><path d=\"M50 258 L56 265 L62 258\" fill=\"none\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"266\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"292\" r=\"19\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"299\" text-anchor=\"middle\" font-size=\"19\">🧪</text><circle cx=\"40\" cy=\"275\" r=\"9\" fill=\"#B07D3A\"/><text x=\"40\" y=\"279.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">4</text><text x=\"88\" y=\"289\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Exames só se orgânica</text><text x=\"88\" y=\"308\" font-size=\"13.5\" fill=\"#5A5250\">RX simples · enema opaco (megacólon) · manometria · biópsia retal</text><rect x=\"24\" y=\"330\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"320\" y=\"352\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">Na maioria da constipação funcional: nenhum exame</text></svg>",
+"k_trat": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 348\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Tratamento e doses\"><rect width=\"640\" height=\"348\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Tratamento e doses</text><rect x=\"24\" y=\"52\" width=\"592\" height=\"52\" rx=\"8\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"74\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Etapas</text><text x=\"206\" y=\"74\" font-size=\"14\" fill=\"#262223\">1) desimpactação (enema oral/retal) · 2) laxativo</text><text x=\"206\" y=\"92\" font-size=\"14\" fill=\"#262223\">prolongado · 3) reeducação de toalete</text><rect x=\"24\" y=\"108\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"130\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Óleo mineral</text><text x=\"206\" y=\"130\" font-size=\"14\" fill=\"#262223\">1–3 mL/kg/dia · NÃO em lactente, neuropata, regurgitador</text><rect x=\"24\" y=\"146\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"168\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Lactulose</text><text x=\"206\" y=\"168\" font-size=\"14\" fill=\"#262223\">1–3 mL/kg/dia · tolerância a longo prazo</text><rect x=\"24\" y=\"184\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"206\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Hidróxido de Mg</text><text x=\"206\" y=\"206\" font-size=\"14\" fill=\"#262223\">1–3 mL/kg/dia · não na doença renal</text><rect x=\"24\" y=\"222\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"244\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">PEG 4000</text><text x=\"206\" y=\"244\" font-size=\"14\" fill=\"#262223\">0,5 g/kg/dia</text><rect x=\"24\" y=\"260\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"282\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">PEG 3350</text><text x=\"206\" y=\"282\" font-size=\"14\" fill=\"#262223\">0,8 g/kg/dia</text><rect x=\"24\" y=\"298\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"36\" y=\"320\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Escolha</text><text x=\"206\" y=\"320\" font-size=\"14\" fill=\"#262223\">polietilenoglicol (1ª linha)</text></svg>",
+"k_hab": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 333\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Hábitos, família e prevenção\"><rect width=\"640\" height=\"333\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Hábitos, família e prevenção</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"82\" r=\"20\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"54\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">🥦</text><text x=\"82\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#2E6B4F\">Alimentação</text><text x=\"38\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">fibras, líquidos, menos</text><text x=\"38\" y=\"138\" font-size=\"13.5\" fill=\"#5A5250\">ultraprocessados</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"82\" r=\"20\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"356\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">🚽</text><text x=\"384\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#1E5E6E\">Toalete</text><text x=\"340\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">5 min após refeições · pés apoiados</text><text x=\"340\" y=\"138\" font-size=\"13.5\" fill=\"#5A5250\">(banquinho)</text><rect x=\"24\" y=\"166\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"196\" r=\"20\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"54\" y=\"203\" text-anchor=\"middle\" font-size=\"19\">👨‍👩‍👧</text><text x=\"82\" y=\"193\" font-size=\"15.5\" font-weight=\"700\" fill=\"#7A2E4A\">Família</text><text x=\"38\" y=\"234\" font-size=\"13.5\" fill=\"#5A5250\">incontinência é involuntária · atitude</text><text x=\"38\" y=\"252\" font-size=\"13.5\" fill=\"#5A5250\">positiva</text><rect x=\"326\" y=\"166\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"196\" r=\"20\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"356\" y=\"203\" text-anchor=\"middle\" font-size=\"19\">🍼</text><text x=\"384\" y=\"193\" font-size=\"15.5\" font-weight=\"700\" fill=\"#5B3F8C\">Prevenção</text><text x=\"340\" y=\"234\" font-size=\"13.5\" fill=\"#5A5250\">aleitamento, atividade física,</text><text x=\"340\" y=\"252\" font-size=\"13.5\" fill=\"#5A5250\">retirada tranquila da fralda</text><rect x=\"24\" y=\"280\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-opacity=\".35\"/><text x=\"320\" y=\"302\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#B07D3A\">Tratamento difícil, recorrência grande</text></svg>",
+"l_def": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 237\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"RGE × DRGE\"><rect width=\"640\" height=\"237\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">RGE × DRGE</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"169\" rx=\"12\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><rect x=\"24\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#E7F2EC\"/><rect x=\"24\" y=\"82\" width=\"290\" height=\"14\" fill=\"#E7F2EC\"/><text x=\"50\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">😊</text><text x=\"72\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#2E6B4F\">RGE fisiológico</text><text x=\"38\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• processo normal, autolimitado</text><text x=\"38\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• lactentes</text><text x=\"38\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• sem complicações</text><text x=\"38\" y=\"175\" font-size=\"13.5\" fill=\"#262223\">• tranquilizar</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"169\" rx=\"12\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><rect x=\"326\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#FBEDE8\"/><rect x=\"326\" y=\"82\" width=\"290\" height=\"14\" fill=\"#FBEDE8\"/><text x=\"352\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">⚠️</text><text x=\"374\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#B5402F\">DRGE</text><text x=\"340\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• RGE + complicações</text><text x=\"340\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• esofágicas e extraesofágicas</text><text x=\"340\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• crianças maiores e grupos de risco</text><text x=\"340\" y=\"175\" font-size=\"13.5\" fill=\"#262223\">• neuropata, atresia de esôfago, FC,</text><text x=\"352\" y=\"194\" font-size=\"13.5\" fill=\"#5A5250\">obeso</text><circle cx=\"320\" cy=\"136\" r=\"15\" fill=\"#FBF9F6\" stroke=\"#d9d2c7\"/><text x=\"320\" y=\"142\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#5A5250\">×</text></svg>",
+"l_feliz": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 361\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"O regurgitador feliz\"><rect width=\"640\" height=\"361\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">O regurgitador feliz</text><rect x=\"24\" y=\"50\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"76\" r=\"19\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"56\" y=\"83\" text-anchor=\"middle\" font-size=\"19\">📅</text><circle cx=\"40\" cy=\"59\" r=\"9\" fill=\"#1E5E6E\"/><text x=\"40\" y=\"63.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">1</text><text x=\"88\" y=\"73\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Início</text><text x=\"88\" y=\"92\" font-size=\"13.5\" fill=\"#5A5250\">raro antes de 3 semanas e depois de 6 meses</text><path d=\"M56 102 V114\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><path d=\"M50 108 L56 115 L62 108\" fill=\"none\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"116\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"142\" r=\"19\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"149\" text-anchor=\"middle\" font-size=\"19\">📈</text><circle cx=\"40\" cy=\"125\" r=\"9\" fill=\"#B07D3A\"/><text x=\"40\" y=\"129.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">2</text><text x=\"88\" y=\"139\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Pico</text><text x=\"88\" y=\"158\" font-size=\"13.5\" fill=\"#5A5250\">mais evidente 2–4 meses, pico 4–5 meses</text><path d=\"M56 168 V180\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><path d=\"M50 174 L56 181 L62 174\" fill=\"none\" stroke=\"#B07D3A\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"182\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"208\" r=\"19\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"215\" text-anchor=\"middle\" font-size=\"19\">👶</text><circle cx=\"40\" cy=\"191\" r=\"9\" fill=\"#7A2E4A\"/><text x=\"40\" y=\"195.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">3</text><text x=\"88\" y=\"205\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">4 meses</text><text x=\"88\" y=\"224\" font-size=\"13.5\" fill=\"#5A5250\">até 67% regurgitam</text><path d=\"M56 234 V246\" stroke=\"#7A2E4A\" stroke-width=\"2.2\"/><path d=\"M50 240 L56 247 L62 240\" fill=\"none\" stroke=\"#7A2E4A\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"248\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"274\" r=\"19\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"281\" text-anchor=\"middle\" font-size=\"19\">🎂</text><circle cx=\"40\" cy=\"257\" r=\"9\" fill=\"#2E6B4F\"/><text x=\"40\" y=\"261.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">4</text><text x=\"88\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">1 ano</text><text x=\"88\" y=\"290\" font-size=\"13.5\" fill=\"#5A5250\">só 1% persiste</text><rect x=\"24\" y=\"312\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-opacity=\".35\"/><text x=\"320\" y=\"334\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#2E6B4F\">Bom ganho de peso + sem complicações → tranquilizar, sem exames</text></svg>",
+"l_drge": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 384\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"DRGE: complicações\"><rect width=\"640\" height=\"384\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">DRGE: complicações</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"82\" r=\"20\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"54\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">😭</text><text x=\"82\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B07D3A\">Choro, irritabilidade</text><text x=\"38\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">sono agitado, desconforto</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"84\" rx=\"12\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"82\" r=\"20\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"356\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">📉</text><text x=\"384\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B5402F\">Peso</text><text x=\"340\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">desaceleração ou perda</text><rect x=\"24\" y=\"148\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"178\" r=\"20\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"54\" y=\"185\" text-anchor=\"middle\" font-size=\"19\">🩸</text><text x=\"82\" y=\"175\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B5402F\">Sangramento</text><text x=\"38\" y=\"216\" font-size=\"13.5\" fill=\"#5A5250\">hematêmese, melena, sangue oculto</text><rect x=\"326\" y=\"148\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"178\" r=\"20\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"356\" y=\"185\" text-anchor=\"middle\" font-size=\"19\">🫁</text><text x=\"384\" y=\"175\" font-size=\"15.5\" font-weight=\"700\" fill=\"#5B3F8C\">Respiratório</text><text x=\"340\" y=\"216\" font-size=\"13.5\" fill=\"#5A5250\">tosse, broncoespasmo, asma, pneumonia</text><text x=\"340\" y=\"234\" font-size=\"13.5\" fill=\"#5A5250\">aspirativa</text><rect x=\"24\" y=\"262\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"292\" r=\"20\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"54\" y=\"299\" text-anchor=\"middle\" font-size=\"19\">😶</text><text x=\"82\" y=\"289\" font-size=\"15.5\" font-weight=\"700\" fill=\"#1E5E6E\">Via aérea alta</text><text x=\"38\" y=\"330\" font-size=\"13.5\" fill=\"#5A5250\">rouquidão, laringites, otites,</text><text x=\"38\" y=\"348\" font-size=\"13.5\" fill=\"#5A5250\">sinusites</text><rect x=\"326\" y=\"262\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"292\" r=\"20\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"356\" y=\"299\" text-anchor=\"middle\" font-size=\"19\">🚨</text><text x=\"384\" y=\"289\" font-size=\"15.5\" font-weight=\"700\" fill=\"#7A2E4A\">Apneia, cianose, ALTE</text><text x=\"340\" y=\"330\" font-size=\"13.5\" fill=\"#5A5250\">crônico: Barrett e adenocarcinoma</text></svg>",
+"l_dif": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 333\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Sinais de outro diagnóstico\"><rect width=\"640\" height=\"333\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Sinais de outro diagnóstico</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"82\" r=\"20\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"54\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">🌡️</text><text x=\"82\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B07D3A\">Gerais</text><text x=\"38\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">febre, letargia, falha de crescimento,</text><text x=\"38\" y=\"138\" font-size=\"13.5\" fill=\"#5A5250\">disúria</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"82\" r=\"20\" fill=\"#FBF2E2\" stroke=\"#B07D3A\" stroke-width=\"1.5\"/><text x=\"356\" y=\"89\" text-anchor=\"middle\" font-size=\"19\">📆</text><text x=\"384\" y=\"79\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B07D3A\">Tempo</text><text x=\"340\" y=\"120\" font-size=\"13.5\" fill=\"#5A5250\">início após 6 meses ou persistência</text><text x=\"340\" y=\"138\" font-size=\"13.5\" fill=\"#5A5250\">após 12</text><rect x=\"24\" y=\"166\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#5B3F8C\" stroke-width=\"1.8\"/><circle cx=\"54\" cy=\"196\" r=\"20\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-width=\"1.5\"/><text x=\"54\" y=\"203\" text-anchor=\"middle\" font-size=\"19\">🧠</text><text x=\"82\" y=\"193\" font-size=\"15.5\" font-weight=\"700\" fill=\"#5B3F8C\">Neurológicos</text><text x=\"38\" y=\"234\" font-size=\"13.5\" fill=\"#5A5250\">fontanela tensa, macro/microcefalia,</text><text x=\"38\" y=\"252\" font-size=\"13.5\" fill=\"#5A5250\">convulsões</text><rect x=\"326\" y=\"166\" width=\"290\" height=\"102\" rx=\"12\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"356\" cy=\"196\" r=\"20\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"356\" y=\"203\" text-anchor=\"middle\" font-size=\"19\">💚</text><text x=\"384\" y=\"193\" font-size=\"15.5\" font-weight=\"700\" fill=\"#B5402F\">Gastrointestinais</text><text x=\"340\" y=\"234\" font-size=\"13.5\" fill=\"#5A5250\">vômito bilioso, hematêmese, distensão,</text><text x=\"340\" y=\"252\" font-size=\"13.5\" fill=\"#5A5250\">diarreia crônica</text><rect x=\"24\" y=\"280\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"320\" y=\"302\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">Diferenciais: APLV, cólica, estenose de piloro, má rotação</text></svg>",
+"l_exames": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 330\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Cada indicação, um exame\"><rect width=\"640\" height=\"330\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Cada indicação, um exame</text><rect x=\"24\" y=\"52\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"74\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">REED</text><text x=\"226\" y=\"74\" font-size=\"14\" fill=\"#262223\">anatomia — não diagnostica RGE</text><rect x=\"24\" y=\"90\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"112\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">Cintilografia</text><text x=\"226\" y=\"112\" font-size=\"14\" fill=\"#262223\">pós-prandial, aspiração — não indicada</text><rect x=\"24\" y=\"128\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"150\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">USG</text><text x=\"226\" y=\"150\" font-size=\"14\" fill=\"#262223\">estenose hipertrófica de piloro</text><rect x=\"24\" y=\"166\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"188\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">pHmetria 24 h</text><text x=\"226\" y=\"188\" font-size=\"14\" fill=\"#262223\">relação refluxo × sintomas (ácido)</text><rect x=\"24\" y=\"204\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"226\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">Endoscopia + biópsia</text><text x=\"226\" y=\"226\" font-size=\"14\" fill=\"#262223\">complicações: esofagite, Barrett</text><rect x=\"24\" y=\"242\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"264\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">Impedâncio-pHmetria</text><text x=\"226\" y=\"264\" font-size=\"14\" fill=\"#262223\">melhor (ácido ou não), parâmetros incertos</text><rect x=\"24\" y=\"280\" width=\"592\" height=\"34\" rx=\"8\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-opacity=\".35\"/><text x=\"36\" y=\"302\" font-size=\"14\" font-weight=\"700\" fill=\"#1E5E6E\">Manometria</text><text x=\"226\" y=\"302\" font-size=\"14\" fill=\"#262223\">motilidade (disfagia)</text></svg>",
+"l_geral": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 282\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Medidas gerais\"><rect width=\"640\" height=\"282\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Medidas gerais</text><rect x=\"24\" y=\"52\" width=\"290\" height=\"169\" rx=\"12\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><rect x=\"24\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#E5F0F3\"/><rect x=\"24\" y=\"82\" width=\"290\" height=\"14\" fill=\"#E5F0F3\"/><text x=\"50\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">👶</text><text x=\"72\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#1E5E6E\">Lactente</text><text x=\"38\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• posição supina</text><text x=\"38\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• espessar fórmula</text><text x=\"38\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• evitar overfeeding</text><text x=\"38\" y=\"175\" font-size=\"13.5\" fill=\"#262223\">• hidrolisado 2–4 sem se vômitos</text><text x=\"50\" y=\"194\" font-size=\"13.5\" fill=\"#5A5250\">(APLV)</text><rect x=\"326\" y=\"52\" width=\"290\" height=\"169\" rx=\"12\" fill=\"#fff\" stroke=\"#B07D3A\" stroke-width=\"1.8\"/><rect x=\"326\" y=\"52\" width=\"290\" height=\"44\" rx=\"12\" fill=\"#FBF2E2\"/><rect x=\"326\" y=\"82\" width=\"290\" height=\"14\" fill=\"#FBF2E2\"/><text x=\"352\" y=\"81\" text-anchor=\"middle\" font-size=\"19\">🧒</text><text x=\"374\" y=\"80\" font-size=\"16\" font-weight=\"700\" fill=\"#B07D3A\">Criança maior</text><text x=\"340\" y=\"118\" font-size=\"13.5\" fill=\"#262223\">• decúbito lateral esquerdo</text><text x=\"340\" y=\"137\" font-size=\"13.5\" fill=\"#262223\">• cabeceira elevada</text><text x=\"340\" y=\"156\" font-size=\"13.5\" fill=\"#262223\">• sem gordura, café, refri, chá,</text><text x=\"352\" y=\"175\" font-size=\"13.5\" fill=\"#5A5250\">chocolate</text><text x=\"340\" y=\"194\" font-size=\"13.5\" fill=\"#262223\">• perder peso se obeso</text><circle cx=\"320\" cy=\"136\" r=\"15\" fill=\"#FBF9F6\" stroke=\"#d9d2c7\"/><text x=\"320\" y=\"142\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#5A5250\">×</text><rect x=\"24\" y=\"233\" width=\"592\" height=\"33\" rx=\"10\" fill=\"#EFEAF7\" stroke=\"#5B3F8C\" stroke-opacity=\".35\"/><text x=\"320\" y=\"255\" text-anchor=\"middle\" font-size=\"14\" font-weight=\"700\" fill=\"#5B3F8C\">Todos: evitar tabagismo passivo (relaxa o EEI)</text></svg>",
+"l_med": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 640 400\" font-family=\"Carlito,Segoe UI,Arial,sans-serif\" role=\"img\" aria-label=\"Medicamentos e cirurgia\"><rect width=\"640\" height=\"400\" rx=\"14\" fill=\"#FBF9F6\"/><text x=\"320\" y=\"32\" text-anchor=\"middle\" font-size=\"19\" font-weight=\"700\" fill=\"#262223\">Medicamentos e cirurgia</text><rect x=\"24\" y=\"50\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#1E5E6E\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"76\" r=\"19\" fill=\"#E5F0F3\" stroke=\"#1E5E6E\" stroke-width=\"1.5\"/><text x=\"56\" y=\"83\" text-anchor=\"middle\" font-size=\"19\">🧴</text><circle cx=\"40\" cy=\"59\" r=\"9\" fill=\"#1E5E6E\"/><text x=\"40\" y=\"63.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">1</text><text x=\"88\" y=\"73\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Antiácidos, alginatos, sucralfato</text><text x=\"88\" y=\"92\" font-size=\"13.5\" fill=\"#5A5250\">sem evidência em pediatria / protege mucosa</text><path d=\"M56 102 V114\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><path d=\"M50 108 L56 115 L62 108\" fill=\"none\" stroke=\"#1E5E6E\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"116\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"142\" r=\"19\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"149\" text-anchor=\"middle\" font-size=\"19\">🚫</text><circle cx=\"40\" cy=\"125\" r=\"9\" fill=\"#B5402F\"/><text x=\"40\" y=\"129.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">2</text><text x=\"88\" y=\"139\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Procinéticos</text><text x=\"88\" y=\"158\" font-size=\"13.5\" fill=\"#5A5250\">não de rotina — efeitos no SNC &gt; benefícios</text><path d=\"M56 168 V180\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><path d=\"M50 174 L56 181 L62 174\" fill=\"none\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"182\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#B5402F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"208\" r=\"19\" fill=\"#FBEDE8\" stroke=\"#B5402F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"215\" text-anchor=\"middle\" font-size=\"19\">⛔</text><circle cx=\"40\" cy=\"191\" r=\"9\" fill=\"#B5402F\"/><text x=\"40\" y=\"195.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">3</text><text x=\"88\" y=\"205\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Ranitidina</text><text x=\"88\" y=\"224\" font-size=\"13.5\" fill=\"#5A5250\">suspensa desde 2019</text><path d=\"M56 234 V246\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><path d=\"M50 240 L56 247 L62 240\" fill=\"none\" stroke=\"#B5402F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"248\" width=\"592\" height=\"70\" rx=\"10\" fill=\"#fff\" stroke=\"#2E6B4F\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"283\" r=\"19\" fill=\"#E7F2EC\" stroke=\"#2E6B4F\" stroke-width=\"1.5\"/><text x=\"56\" y=\"290\" text-anchor=\"middle\" font-size=\"19\">💊</text><circle cx=\"40\" cy=\"257\" r=\"9\" fill=\"#2E6B4F\"/><text x=\"40\" y=\"261.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">4</text><text x=\"88\" y=\"271\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">IBP (omeprazol)</text><text x=\"88\" y=\"290\" font-size=\"13.5\" fill=\"#5A5250\">esofagite erosiva, estenose, Barrett, respiratório ou neuro · teste</text><text x=\"88\" y=\"308\" font-size=\"13.5\" fill=\"#5A5250\">4–8 sem</text><path d=\"M56 318 V330\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><path d=\"M50 324 L56 331 L62 324\" fill=\"none\" stroke=\"#2E6B4F\" stroke-width=\"2.2\"/><rect x=\"24\" y=\"332\" width=\"592\" height=\"52\" rx=\"10\" fill=\"#fff\" stroke=\"#7A2E4A\" stroke-width=\"1.8\"/><circle cx=\"56\" cy=\"358\" r=\"19\" fill=\"#F6EAF0\" stroke=\"#7A2E4A\" stroke-width=\"1.5\"/><text x=\"56\" y=\"365\" text-anchor=\"middle\" font-size=\"19\">🔪</text><circle cx=\"40\" cy=\"341\" r=\"9\" fill=\"#7A2E4A\"/><text x=\"40\" y=\"345.5\" text-anchor=\"middle\" font-size=\"12\" font-weight=\"700\" fill=\"#fff\">5</text><text x=\"88\" y=\"355\" font-size=\"15.5\" font-weight=\"700\" fill=\"#262223\">Fundoplicatura de Nissen</text><text x=\"88\" y=\"374\" font-size=\"13.5\" fill=\"#5A5250\">neuropatas, estenose péptica, Barrett</text></svg>"
 }
 }

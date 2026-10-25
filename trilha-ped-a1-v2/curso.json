@@ -276,7 +276,8 @@
     {
       "letra": "A",
       "titulo": "Aula 1 · Dermatoses",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/A_dermatoses.pdf"
     },
     {
       "letra": "B",
@@ -286,42 +287,62 @@
     {
       "letra": "C",
       "titulo": "Aula 3 · Dores recorrentes",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/C_dores.pdf"
     },
     {
       "letra": "D",
       "titulo": "Aula 4 · Adenomegalias e câncer infantil",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/D_adenomegalias.pdf"
     },
     {
       "letra": "E",
       "titulo": "Aula 5 · Violência na infância",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/E_violencia.pdf"
     },
     {
       "letra": "F",
       "titulo": "Aula 6 · Dengue",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/F_dengue.pdf"
     },
     {
       "letra": "G",
       "titulo": "Aula 7 · Hepatites virais",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/G_hepatites.pdf"
     },
     {
       "letra": "H",
       "titulo": "Aula 8 · Meningites",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/H_meningites.pdf"
     },
     {
       "letra": "I",
       "titulo": "Aula 9 · Infecção urinária",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/I_itu.pdf"
     },
     {
       "letra": "J",
       "titulo": "Aula 10 · Choque",
-      "prof": "Patrícia Dahan"
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/J_choque.pdf"
+    },
+    {
+      "letra": "K",
+      "titulo": "Aula 11 · Constipação intestinal",
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/K_constipacao.pdf"
+    },
+    {
+      "letra": "L",
+      "titulo": "Aula 12 · Refluxo gastroesofágico",
+      "prof": "Patrícia Dahan",
+      "pdf": "slides/L_rge.pdf"
     }
   ]
 }

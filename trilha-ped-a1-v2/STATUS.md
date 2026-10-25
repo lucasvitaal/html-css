@@ -4,7 +4,7 @@
 - **Meta:** afiado até sexta 30/10/2026 (relógio do app em 30/10 07:00 — hora e formato da prova não confirmados; formato assumido: misto, casos + objetivas, como nas A1 antigas)
 - **Professora que faz a prova:** Profa. Patrícia Dahan (10 aulas, A–J)
 - **Fontes usadas:** Trilha Ped A1 1.0 (artefato 5fnosUz2m7NakASDpvee9B: resumos, 70 questões, pontos duvidosos citando slides e MEDCURSO) + Tour Provas A1 Ped (Suyfgre1vLvRkZzpDFHygS: 3 provas antigas + gabarito mínimo 2025/2).
-- **Faltam:** PDFs dos slides (aba Slides vazia; refs “Sl. N” no texto) e gravações da Patrícia (SAY/NOSAY vazios — sem citação literal).
+- **Slides:** 11 de 12 aulas carregados (falta a Aula 2 · Exantemáticas). Aulas 11 (Constipação) e 12 (RGE) viraram capítulos novos. slides.py --largura 600 --qualidade 45 (página ~13,3 MB; limite 16). Gravações ainda ausentes (SAY/NOSAY vazios).
 - **Conteúdo:** 10 capítulos · 92 blocos narrados · 92 esquemas · 74 questões (70 autorais 1.0 + 2 de prova antiga + 2 novas) · 22 casos (17 de provas antigas/2025/2) · 169 flash · 36 divergências · 14 missões (26–29/10).
 - **O que ela mais repete:** bebê sacudido (4×), dengue grupo B 15 kg (3×), adenite + supraclavicular (3×), escarlatina × mono (2×), cefaleia com alarme (2×), meningite < 2 m (2×), investigação de ITU (2×). Hepatites nunca caiu.
 - **Divergências-chave resolvidas:** tríade do sacudido (slide 36 + gabarito 2025/2), escarlatina (benzatina ou amoxicilina 10 d + afastar 48 h), grupo C (20 mL/kg/h × gabarito “em 2 h”), pós-BCG (slide: isoniazida), Ig do sarampo (< 1 ano slide).

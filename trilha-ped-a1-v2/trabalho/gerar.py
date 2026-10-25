@@ -9,23 +9,38 @@ import glob, json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 sys.path.insert(0, os.path.join(ROOT, 'trabalho'))
 import svg
+from slides_map import MAP
 
 V1 = {c['n']: c for c in json.load(open(os.path.join(ROOT, 'fontes/outros/trilha_ped_a1_v1.json'), encoding='utf-8'))}
 OUT = {k: [] for k in ('CAPS', 'BLOCKS', 'Q', 'KS', 'FLASH', 'COLA', 'SAY', 'NOSAY', 'MISSIONS', 'MEDALS_EXTRA', 'GORILA_FALAS')}
 OUT.update(DIV={}, ILLS={})
 
-def slides_of(html):
-    return []  # sem PDFs nesta versão: as referências "Sl. N" ficam no texto
+LET = {i + 1: chr(65 + i) for i in range(12)}
+SLP = os.path.join(ROOT, 'slides', 'slides.json')
+SL = json.load(open(SLP, encoding='utf-8')) if os.path.exists(SLP) else {}
+REF = re.compile(r'\b(?:[Ss]l\.|[Ss]lides?)\s*((?:\d+\s*(?:[–\-]\s*\d+)?\s*(?:,|/|e|×)?\s*)+)')
+
+def slides_of(cap, *texts):
+    out = []
+    for t in texts:
+        for m in REF.finditer(str(t or '')):
+            for a, b in re.findall(r'(\d+)(?:\s*[–\-]\s*(\d+))?', m.group(1)):
+                a = int(a); b = int(b) if b else a
+                for n in range(a, min(b, a + 6) + 1):
+                    k = f'{LET[cap]}{n}'
+                    if k in SL and k not in out: out.append(k)
+    return out
 
 def v1_questions(n, qmap):
     qs = []
+    if n not in V1: return qs
     for i, q in enumerate(V1[n]['qs']):
         if i not in qmap: sys.exit(f'cap {n}: questão {i} da 1.0 sem bloco em QMAP')
         enun = q['stem']
         coment = re.sub(r'<span class="ct">(.*?)</span>', r' <i>(\1)</i>', q['why'])
         qs.append({'id': f'q{n:02d}_{i + 1}', 'cap': n, 'src': 'autoral', 'orig': 'Trilha 1.0 · ' + q['h'],
                    'tag': q['h'].split('·')[-1].strip(), 'enun': enun, 'alts': q['alts'], 'ok': q['ok'],
-                   'coment': coment, 'blk': qmap[i]})
+                   'coment': coment, 'blk': qmap[i], 'slides': slides_of(n, q['why'])})
     return qs
 
 for f in sorted(glob.glob(os.path.join(ROOT, 'trabalho', 'cap*.py'))) + [os.path.join(ROOT, 'trabalho', 'extras.py')]:
@@ -36,8 +51,13 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'trabalho', 'cap*.py'))) + [os.path
         n = ns['CAP']['n']; OUT['CAPS'].append(ns['CAP'])
         for i, b in enumerate(ns['BLOCKS']):
             b['cap'] = n; b.setdefault('ord', i + 1)
+            if b['id'] in MAP: b['slides'] = [k for k in MAP[b['id']] if k in SL]
+            if not b.get('slides'):
+                b['slides'] = slides_of(n, b.get('s'), b.get('pega'), b.get('a'), *[x[1] for x in b.get('m', [])])
         OUT['BLOCKS'] += ns['BLOCKS']
         OUT['Q'] += v1_questions(n, ns['QMAP'])
+    for q in ns.get('Q', []):
+        q.setdefault('slides', slides_of(q['cap'], q.get('coment')))
     for k in ('Q', 'KS', 'FLASH', 'COLA', 'SAY', 'NOSAY', 'MISSIONS', 'MEDALS_EXTRA', 'GORILA_FALAS'):
         if k in ns: OUT[k] += ns[k]
     for k in ('DIV', 'ILLS'):
@@ -47,5 +67,7 @@ for f in sorted(glob.glob(os.path.join(ROOT, 'trabalho', 'cap*.py'))) + [os.path
             OUT[k].update(ns[k])
 
 OUT['CAPS'].sort(key=lambda c: c['n'])
+sem = [b['id'] for b in OUT['BLOCKS'] if not b['slides'] and LET[b['cap']] + '1' in SL]
+print('blocos sem slide (aula com PDF):', sem)
 json.dump(OUT, open(os.path.join(ROOT, 'dados', 'conteudo.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=0)
 print('✔ dados/conteudo.json:', {k: len(v) for k, v in OUT.items()})
