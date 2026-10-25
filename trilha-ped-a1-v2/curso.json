@@ -1,0 +1,327 @@
+{
+  "id": "pedA1v2",
+  "titulo": "Trilha de Pediatria A1 · 2.0",
+  "disciplina": "pediatria",
+  "prof": "Patrícia",
+  "profO": "a Patrícia",
+  "profDo": "da Patrícia",
+  "profTitulo": "Profa. Patrícia Dahan",
+  "aluno": "O aluno está no internato/4º ano de medicina, já fez a A1 de Pediatria II e quer ficar afiado nos 10 capítulos até 30/10",
+  "prova": {
+    "iso": "2026-10-30T07:00:00-03:00",
+    "chips": [
+      "Meta: afiado até sex 30/10",
+      "A1 · Pediatria II",
+      "Mista: casos discursivos + objetivas"
+    ],
+    "formato": "mista",
+    "minutos": 0,
+    "minPorQuestao": 3,
+    "minPorCaso": 15
+  },
+  "fontesQ": {
+    "prof": "da professora",
+    "antiga": "de provas antigas da Patrícia",
+    "autoral": "autorais (Trilha 1.0, pelos slides)"
+  },
+  "textos": {
+    "heroSub": "Versão 2.0 da Trilha Ped A1: os {ncap} capítulos da <b>Profa. Patrícia Dahan</b> como aula guiada narrada, com as questões das provas antigas dela virando casos discursivos com correção. Toque numa parada para continuar dali.",
+    "mapaHier": "<b>Hierarquia desta prova.</b> Vale o <b>slide da Patrícia</b> (Sl. citado em cada bloco). O MEDCURSO (📺, recolhido) só ajuda a entender. Quando slide e cursinho ou protocolo divergem, a trilha avisa (≠) e diz o que escrever. <b>O que ela mais repete nas provas:</b> bebê sacudido (4×), dengue grupo B (3×), adenite + supraclavicular (3×), escarlatina × mono, cefaleia com alarme, meningite &lt; 2 meses e investigação de ITU.",
+    "gorilaOi": "Hm. Pediatria. Gente pequena, dose por quilo, e você aí sem calculadora. Pergunta logo — eu <b>busco de graça</b> no material {profDo} e, se ainda não entrar, explico. Devagar. Pra você.",
+    "buscaEx": "Koplik, grupo B, supraclavicular, DMSA, Holliday-Segar, Sl. 36…",
+    "gorilaEx": "“Filatov”, “rifampicina”, “anti-HBc”",
+    "missoesFim": "Sexta é o dia. Dorme, que criança desidratada e residente sem sono dão no mesmo choque."
+  },
+  "fala": [
+    [
+      "\\bHBsAg\\b",
+      "antígeno de superfície da hepatite B"
+    ],
+    [
+      "\\bHBeAg\\b",
+      "antígeno e da hepatite B"
+    ],
+    [
+      "\\banti-HBc\\b",
+      "anti core da hepatite B"
+    ],
+    [
+      "\\banti-HBs\\b",
+      "anti superfície da hepatite B"
+    ],
+    [
+      "\\banti-HCV\\b",
+      "anticorpo da hepatite C"
+    ],
+    [
+      "\\bIGHAHB\\b",
+      "imunoglobulina da hepatite B"
+    ],
+    [
+      "\\bVZIG\\b",
+      "imunoglobulina da varicela"
+    ],
+    [
+      "\\bIGIV\\b",
+      "imunoglobulina venosa"
+    ],
+    [
+      "\\bIgM\\b",
+      "igê eme"
+    ],
+    [
+      "\\bIgG\\b",
+      "igê gê"
+    ],
+    [
+      "\\bEBV\\b",
+      "vírus Epstein-Barr"
+    ],
+    [
+      "\\bHHV-6\\b",
+      "herpes vírus seis"
+    ],
+    [
+      "\\bB19\\b",
+      "B dezenove"
+    ],
+    [
+      "\\bITU\\b",
+      "infecção urinária"
+    ],
+    [
+      "\\bRVU\\b",
+      "refluxo vesicoureteral"
+    ],
+    [
+      "\\bUCM\\b",
+      "uretrocistografia"
+    ],
+    [
+      "\\bDMSA\\b",
+      "dê eme esse á"
+    ],
+    [
+      "\\bUSG\\b",
+      "ultrassom"
+    ],
+    [
+      "\\bLLA\\b",
+      "leucemia linfoide aguda"
+    ],
+    [
+      "\\bTCE\\b",
+      "trauma cranioencefálico"
+    ],
+    [
+      "\\bHSD\\b",
+      "hematoma subdural"
+    ],
+    [
+      "\\bECA\\b",
+      "Estatuto da Criança e do Adolescente"
+    ],
+    [
+      "\\bSRO\\b",
+      "soro de reidratação oral"
+    ],
+    [
+      "\\bSF\\b",
+      "soro fisiológico"
+    ],
+    [
+      "\\bRL\\b",
+      "Ringer lactato"
+    ],
+    [
+      "\\bHt\\b",
+      "hematócrito"
+    ],
+    [
+      "\\bTEC\\b",
+      "tempo de enchimento capilar"
+    ],
+    [
+      "\\bPAS\\b",
+      "pressão sistólica"
+    ],
+    [
+      "\\bAINE\\b",
+      "anti-inflamatório"
+    ],
+    [
+      "\\bAAS\\b",
+      "ácido acetilsalicílico"
+    ],
+    [
+      "\\bSMX-TMP\\b",
+      "sulfametoxazol com trimetoprim"
+    ],
+    [
+      "\\bC3G\\b",
+      "cefalosporina de terceira geração"
+    ],
+    [
+      "\\bHib\\b",
+      "hemófilo tipo b"
+    ],
+    [
+      "\\bNS1\\b",
+      "ene esse um"
+    ],
+    [
+      "\\bUFC\\b",
+      "unidades formadoras de colônia"
+    ],
+    [
+      "\\bRN\\b",
+      "recém-nascido"
+    ],
+    [
+      "\\bmL/kg/h\\b",
+      "mililitros por quilo por hora"
+    ],
+    [
+      "\\bmL/kg\\b",
+      "mililitros por quilo"
+    ],
+    [
+      "\\bmg/kg/dia\\b",
+      "miligramas por quilo por dia"
+    ],
+    [
+      "\\bmg/kg\\b",
+      "miligramas por quilo"
+    ],
+    [
+      "µg/kg/min",
+      "microgramas por quilo por minuto"
+    ],
+    [
+      "\\bBCG\\b",
+      "bê cê gê"
+    ],
+    [
+      "\\bPCR\\b",
+      "pê cê erre"
+    ],
+    [
+      "\\bDNA\\b",
+      "dê ene á"
+    ],
+    [
+      "\\bRNA\\b",
+      "erre ene á"
+    ],
+    [
+      "\\bDTPA\\b",
+      "dê tê pê á"
+    ],
+    [
+      "\\bACWY\\b",
+      "A C W Y"
+    ]
+  ],
+  "zoeira": {},
+  "gorila": {
+    "falas": []
+  },
+  "gami": {
+    "niveis": [
+      [
+        0,
+        "Recém-nascido de termo"
+      ],
+      [
+        120,
+        "Lactente sorridente"
+      ],
+      [
+        300,
+        "Pré-escolar curioso"
+      ],
+      [
+        550,
+        "Escolar no P50"
+      ],
+      [
+        800,
+        "R1 de Pediatria"
+      ],
+      [
+        1050,
+        "Lenda da Puericultura"
+      ]
+    ],
+    "medalhas": {
+      "first": [
+        "🍼",
+        "Primeira mamada"
+      ],
+      "c3": [
+        "💉",
+        "Calendário em dia"
+      ],
+      "c5": [
+        "📈",
+        "Curva no P50"
+      ],
+      "c10": [
+        "🏅",
+        "Carteirinha completa"
+      ]
+    }
+  },
+  "aulas": [
+    {
+      "letra": "A",
+      "titulo": "Aula 1 · Dermatoses",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "B",
+      "titulo": "Aula 2 · Doenças exantemáticas",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "C",
+      "titulo": "Aula 3 · Dores recorrentes",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "D",
+      "titulo": "Aula 4 · Adenomegalias e câncer infantil",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "E",
+      "titulo": "Aula 5 · Violência na infância",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "F",
+      "titulo": "Aula 6 · Dengue",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "G",
+      "titulo": "Aula 7 · Hepatites virais",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "H",
+      "titulo": "Aula 8 · Meningites",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "I",
+      "titulo": "Aula 9 · Infecção urinária",
+      "prof": "Patrícia Dahan"
+    },
+    {
+      "letra": "J",
+      "titulo": "Aula 10 · Choque",
+      "prof": "Patrícia Dahan"
+    }
+  ]
+}

@@ -1,0 +1,2339 @@
+[
+ {
+  "n": 1,
+  "nome": "Dermatoses",
+  "file": "Cap1_Dermatoses",
+  "pag": 21,
+  "cards": 88,
+  "min": 24,
+  "qs": [
+   {
+    "h": "Questão 1 · Dermatite atópica",
+    "stem": "Menina de 7 anos, 22 kg, com prurido intenso há meses, piora noturna. Ao exame: placas eritematosas, espessadas e com sulcos acentuados nas fossas antecubitais e poplíteas; pele seca difusa. Mãe refere “alergia de pele” desde bebê, quando as lesões eram no rosto. Qual é a conduta de base mais adequada, segundo a aula?",
+    "alts": [
+     "Anti-histamínico oral contínuo como pilar do controle do prurido.",
+     "Restaurar a barreira cutânea (banho curto e morno, sabonete de pH ácido, hidratante), associando corticoide tópico nas lesões em atividade.",
+     "Tacrolimus tópico como primeira linha, já que a criança tem mais de 2 anos.",
+     "Dieta de exclusão de trigo, leite, ovo e soja para todas as crianças com o diagnóstico."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> A restauração da barreira é o “ponto-chave para controle da doença” e o <b>controle principal do prurido</b> <span class=\"ct\">Sl. 24, 26</span>; o corticoide tópico entra 1× ao dia nas lesões em atividade <span class=\"ct\">Sl. 25</span>.</p>\n<p><b>A</b> errada: anti-histamínico é reservado a doença concomitante (rinoconjuntivite) <span class=\"ct\">Sl. 26</span>. <b>C</b> errada: o inibidor de calcineurina é alternativa, não primeira linha, e o tacrolimus é para doença moderada/grave. <b>D</b> errada: o slide manda <i>evitar exposição</i> a alimentos desencadeantes identificados, não excluir às cegas.</p>"
+   },
+   {
+    "h": "Questão 2 · Impetigo",
+    "stem": "Pré-escolar de 4 anos, 16 kg, com lesões crostosas amarelo-mel em torno das narinas e do lábio superior há 3 dias. Está afebril, sem outras lesões e sem dor de garganta. Qual é o tratamento indicado pela aula?",
+    "alts": [
+     "Apenas higiene com água e sabão; antibiótico nunca é necessário.",
+     "Antibiótico tópico isolado, pois a lesão é pouco extensa e a criança está afebril.",
+     "Antibiótico oral (ex.: cefalexina) por 7 a 10 dias, pela proximidade com a cavidade oral, além da higiene.",
+     "Aciclovir oral, pois lesões periorais em criança são herpes simples."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> O slide 34 lista a <b>proximidade com a cavidade oral</b> entre as indicações de antibiótico oral, junto com casos extensos, febre e associação com faringite.</p>\n<p><b>A</b> errada: higiene é adjuvante; o slide indica antibiótico. <b>B</b> seria correta se a lesão não estivesse perioral. <b>D</b> errada: herpes se apresenta como vesículas agrupadas e, na primoinfecção, gengivoestomatite <span class=\"ct\">Sl. 54</span>; crosta melicérica é impetigo.</p>"
+   },
+   {
+    "h": "Questão 3 · Escabiose no lactente",
+    "stem": "Lactente de 6 semanas, 4,8 kg, com pápulas eritematosas pruriginosas em tronco, axilas e região periumbilical há 2 semanas. A mãe e o irmão de 6 anos têm prurido noturno. Qual é o tratamento tópico adequado para o lactente, segundo a aula?",
+    "alts": [
+     "Permetrina 5% em todo o corpo, incluindo face, por 8 a 14 horas.",
+     "Ivermectina oral, repetindo em 1 semana.",
+     "Pasta d’água com enxofre 5 a 10% por 3 noites consecutivas, repetindo após 7 dias, e tratar os contatos.",
+     "Permetrina xampu 1%, aplicação única de 10 minutos."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Abaixo de <b>2 meses</b> (e em gestantes) o slide indica a <b>pasta d’água com enxofre</b> <span class=\"ct\">Sl. 38</span>; contatos sempre tratados.</p>\n<p><b>A</b> errada: a permetrina 5% é contraindicada em &lt; 2 meses (a inclusão da face seria certa para lactente mais velho). <b>B</b> errada: ivermectina só &gt; 15 kg. <b>D</b> errada: permetrina 1% xampu é o esquema da <b>pediculose</b>.</p>"
+   },
+   {
+    "h": "Questão 4 · Tinea capitis",
+    "stem": "Escolar de 8 anos, 26 kg, com placa arredondada de alopecia no couro cabeludo, com descamação e cabelos quebrados rente à pele, há 1 mês. Qual conduta está de acordo com a aula?",
+    "alts": [
+     "Cetoconazol creme 2% por 4 semanas, isolado.",
+     "Fluconazol 6 mg/kg/dia por 20 dias, que é a opção preferencial nessa idade.",
+     "Griseofulvina 10 a 20 mg/kg/dia por 6 a 8 semanas, associada a xampu de sulfeto de selênio 2,5% duas vezes por semana.",
+     "Observação: a tinea capitis é autolimitada."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Griseofulvina, permitida acima de 2 anos, por 6–8 semanas, com xampu adjuvante <span class=\"ct\">Sl. 44</span>.</p>\n<p><b>A</b> errada: imidazólico tópico isolado é o esquema da <b>tinea corporis</b>. <b>B</b> errada: no slide, o fluconazol está restrito a <b>&gt; 12 anos</b>. <b>D</b> errada: não há opção de observar na tinea capitis — quem é autolimitado é o molusco.</p>"
+   },
+   {
+    "h": "Questão 5 · Molusco contagioso",
+    "stem": "Pré-escolar de 5 anos, 19 kg, com dermatite atópica, frequenta natação. Apresenta dezenas de pápulas peroladas, cor da pele, com depressão central, assintomáticas, no tronco. A mãe pergunta se é obrigatório tratar. Qual resposta está de acordo com a aula?",
+    "alts": [
+     "Não é obrigatório: é autolimitado, some em 6 meses a 2 anos; se tratar, há expressão manual com iodo, substâncias químicas ou laser/crioterapia.",
+     "Sim: é causado por HPV e sempre deve ser tratado com ácido salicílico sob oclusão.",
+     "Sim: é infecção fúngica e exige cetoconazol tópico por 30 dias.",
+     "Não, mas ela deve suspender o tratamento da dermatite atópica, que causou as lesões."
+    ],
+    "ok": 0,
+    "why": "<p><b>A.</b> Slides 50–51. A piscina e a atopia são exatamente os fatores do slide 50.</p>\n<p><b>B</b> errada: HPV causa verruga (ácido salicílico é o tratamento da verruga). <b>C</b> errada: o agente é um <b>poxvírus</b>. <b>D</b> errada: a atopia torna a criança mais suscetível, mas não se suspende o controle da doença de base.</p>"
+   },
+   {
+    "h": "Questão 6 · Dermatite das fraldas",
+    "stem": "Lactente de 5 meses, 7 kg, com eritema vivo na região das fraldas que invade as dobras inguinais, com pequenas pápulas satélites nas bordas, há 6 dias, sem melhora com creme de óxido de zinco. Qual é a melhor conduta?",
+    "alts": [
+     "Manter só o creme de barreira e aumentar a frequência de trocas.",
+     "Tratar como infecção fúngica: nistatina ou miconazol 1% por 14 dias, mantendo os cuidados com a fralda.",
+     "Corticoide tópico de média potência por 14 dias.",
+     "Antibiótico oral, pois há lesões satélites."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Acometimento de dobras e lesões satélites sugerem <i>Candida</i> <span class=\"ct\">Sl. 48</span>; o slide 29 indica <b>nistatina ou miconazol 1% (14 dias) se infecção fúngica</b> (o slide 49 dá nistatina creme 6/6 h por 7–14 dias).</p>\n<p><b>A</b> errada: barreira isolada não trata candidíase. <b>C</b> errada: o slide só admite corticoide de <b>baixa</b> potência, por <b>2–3 dias</b>, e para hiperemia intensa. <b>D</b> errada: não há indicação de antibiótico.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Semiologia",
+    "t": "Luz natural, descrever morfologia/distribuição/evolução; digitopressão separa eritema (some) de púrpura (não some); lesão vesicular evolui mácula→pápula→vesícula→pústula→crosta."
+   },
+   {
+    "k": "B · Discromias",
+    "t": "Vitiligo é acrômico e simétrico; pitiríase alba é hipocrômica e atópica (hidratar); mancha mongólica é sacral e involui; nevo congênito grande tem até 12% de risco de melanoma."
+   },
+   {
+    "k": "C · Eritematosas",
+    "t": "Urticária some à digitopressão e é crônica após 6 semanas; anti-histamínico VO, e adrenalina 0,01 mg/kg se laringe/broncoespasmo; eritema tóxico neonatal é benigno e não se trata."
+   },
+   {
+    "k": "D · Eritematoescamosas",
+    "t": "Psoríase: escama prateada em extensoras; seborreica do lactente: escama gordurosa sem prurido em couro cabeludo, face, axilas, fraldas."
+   },
+   {
+    "k": "E · Eczemas",
+    "t": "Atópica (20%): prurido e liquenificação, lactente em face/extensoras, criança maior em flexoras; barreira é o pilar; calcineurina &gt; 2 anos; fraldas poupa dobras, candidíase invade."
+   },
+   {
+    "k": "F · Piodermites",
+    "t": "Impetigo = crosta melicérica; ATB oral se extenso, febre, faringite ou perioral; erisipela tem borda nítida, celulite não."
+   },
+   {
+    "k": "G · Zoonoses",
+    "t": "Escabiose: prurido noturno + contatos + túnel; permetrina 5% (não &lt; 2 m → enxofre); pediculose: permetrina 1% xampu; ivermectina só &gt; 15 kg."
+   },
+   {
+    "k": "H · Micoses",
+    "t": "Tinea capitis exige antifúngico sistêmico (griseofulvina &gt; 2 a); corporis é tópico 4 semanas; versicolor tópico 30 dias; sapinho: nistatina 6/6 h até 2 dias após sumir."
+   },
+   {
+    "k": "I · Viroses",
+    "t": "Molusco umbilicado pode não ser tratado; verruga tem pontos negros; HSV-1 primoinfecção = gengivoestomatite; HSV-2 genital na criança = pensar em abuso; zóster é raro e segue dermátomo."
+   }
+  ],
+  "fogo": "<p>Três coisas aparecem em quase toda questão de dermatologia pediátrica: <b>(1)</b> reconhecer a lesão pela descrição (crosta melicérica = impetigo; túnel + prurido noturno + contactantes = escabiose; umbilicação central = molusco; placa trifásica em dobras flexoras do escolar = dermatite atópica); <b>(2)</b> saber a <b>distribuição por idade</b> da dermatite atópica; <b>(3)</b> a <b>primeira escolha</b> e as <b>contraindicações por idade/peso</b> dos tratamentos (permetrina &lt; 2 meses, ivermectina &lt; 15 kg, inibidores de calcineurina &lt; 2 anos).</p>",
+  "pts": [
+   [
+    "Sl. 38 × 40",
+    "Ivermectina: “0,2 mcg/kg/dia” (escabiose) × “200 a 400 mcg/kg” (pediculose)",
+    "<b>Divergência interna do material.</b> 0,2 mg/kg = 200 mcg/kg; provável erro de unidade no slide 38. Nada corrigido no texto."
+   ],
+   [
+    "Sl. 20 × 25",
+    "Desonida como <b>baixa</b> potência (Sl. 20) e como <b>média</b> potência (Sl. 25)",
+    "<b>Divergência interna do material.</b> Reproduzido como está em cada slide."
+   ],
+   [
+    "Sl. 44",
+    "Fluconazol “&gt; 12 anos”",
+    "Mantido; limite mais alto que o da griseofulvina (&gt; 2 anos). Conferir."
+   ],
+   [
+    "Sl. 16",
+    "Adrenalina 0,01 mg/kg <b>via subcutânea</b>",
+    "Protocolos atuais de anafilaxia: <b>IM</b>. Na prova da faculdade vale o slide; na residência, IM."
+   ],
+   [
+    "Sl. 3",
+    "Objetivo: “orientar tratamento <b>(sem as doses)</b>”",
+    "Os slides trazem doses. Confirmar se posologia é cobrada."
+   ],
+   [
+    "Sl. 47",
+    "“Micoconazol”, “Cotrimazol”",
+    "Grafia do slide; lido como miconazol e clotrimazol."
+   ],
+   [
+    "Sl. 55",
+    "Uma das duas fotos do slide de herpes zóster mostra lesões disseminadas na face que lembram varicela",
+    "Legenda da apostila chama atenção para o critério de zóster (dermátomo, unilateral)."
+   ],
+   [
+    "Sl. 34",
+    "Antibióticos orais do impetigo sem mg/kg",
+    "Não completado. Dose não se inventa."
+   ]
+  ]
+ },
+ {
+  "n": 2,
+  "nome": "Doenças exantemáticas",
+  "file": "Cap2_Doencas_exantematicas",
+  "pag": 26,
+  "cards": 109,
+  "min": 21,
+  "qs": [
+   {
+    "h": "Questão 1 · Reconhecimento",
+    "stem": "Lactente de 10 meses, 9 kg, com febre de 39,5 °C por 3 dias, sem tosse ou coriza, ativo entre os picos. Iniciou amoxicilina ontem à noite; a febre desapareceu e hoje surgiram máculas róseas no tronco que se espalham para o pescoço. Bom estado geral. Qual a conduta?",
+    "alts": [
+     "Trocar amoxicilina por azitromicina, pela alergia.",
+     "Manter amoxicilina até completar 10 dias.",
+     "Diagnosticar exantema súbito, suspender o antimicrobiano e manter observação.",
+     "Coletar sorologia para sarampo e notificar."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Lactente, febre alta sem toxemia que cessa em crise e exantema no tronco = exantema súbito <span class=\"ct\">Sl. 80</span>; se a indicação do antibiótico estava errada, suspende-se <span class=\"ct\">S41 B02 25:59–28:39</span>.</p><p><b>A</b>: não é alergia — a coincidência temporal é da doença. <b>B</b>: não há infecção bacteriana. <b>D</b>: sarampo teria pródromo catarral, Koplik e exantema retroauricular com febre subindo.</p>"
+   },
+   {
+    "h": "Questão 2 · Profilaxia do sarampo",
+    "stem": "Em uma creche, confirmou-se sarampo em uma criança. Um lactente de 8 meses (8 kg), não vacinado, teve contato há 2 dias; outro, de 4 meses, também há 2 dias. Segundo o MEDCURSO, qual a conduta para cada um?",
+    "alts": [
+     "Imunoglobulina para ambos.",
+     "Vacina de bloqueio para o de 8 meses (dose extra, não vale para rotina) e imunoglobulina para o de 4 meses.",
+     "Vacina para ambos, pois estão dentro de 72 horas.",
+     "Nada; abaixo de 12 meses não se faz profilaxia."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Bloqueio a partir de 6 meses até 72 h; imunoglobulina para &lt; 6 meses até 6 dias <span class=\"ct\">S41 B01 28:58–32:16</span>; a dose entre 6 e 11 meses não é válida para a rotina <span class=\"ct\">B01 33:35–34:53</span>.</p><p>Atenção: o <b>slide 28</b> indica imunoglobulina para <b>&lt; 1 ano</b> — pela régua da professora, ambos receberiam imunoglobulina (alternativa A). Numa prova da faculdade, siga o slide.</p>"
+   },
+   {
+    "h": "Questão 3 · Varicela no berçário",
+    "stem": "RN prematuro de 30 semanas, 1.400 g, internado na UTI neonatal, foi exposto há 24 h a um visitante com varicela. A mãe teve varicela na infância. E se a mãe nunca tivesse tido varicela? Qual a sequência correta de condutas?",
+    "alts": [
+     "VZIG nos dois cenários.",
+     "Mãe com varicela prévia: observar; mãe sem história (ou sorologia negativa): VZIG até 96 h.",
+     "Vacina de bloqueio nos dois cenários.",
+     "Aciclovir venoso profilático nos dois cenários."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Prematuro ≥ 28 semanas só recebe VZIG se a mãe não tem história de varicela <span class=\"ct\">Sl. 67</span> — recebeu anticorpos transplacentários <span class=\"ct\">S41 B03 29:59–31:19</span>.</p><p><b>A</b> seria correta se tivesse &lt; 28 semanas ou &lt; 1.000 g. <b>C</b>: vacina só a partir de 9 meses. <b>D</b>: aciclovir é tratamento, não profilaxia pós-exposição da aula.</p>"
+   },
+   {
+    "h": "Questão 4 · Escarlatina × Kawasaki",
+    "stem": "Menina de 7 anos, 24 kg, com febre há 2 dias, odinofagia, exsudato amigdaliano, exantema micropapular áspero no tronco, palidez perioral e acentuação em pregas de cotovelo. Sem conjuntivite. Qual o diagnóstico e o tratamento com penicilina benzatina?",
+    "alts": [
+     "Kawasaki; imunoglobulina 2 g/kg.",
+     "Escarlatina; penicilina benzatina 600.000 UI IM dose única.",
+     "Escarlatina; penicilina benzatina 1.200.000 UI IM dose única.",
+     "Mononucleose; sintomáticos."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Lixa + Filatov + Pastia + faringite exsudativa = escarlatina; com <b>24 kg</b> (&lt; 25 kg), 600.000 UI <span class=\"ct\">Sl. 53</span>.</p><p><b>A</b>: Kawasaki exige febre ≥ 5 dias, conjuntivite e não tem exsudato <span class=\"ct\">S41 B04 24:38–25:51</span>. <b>C</b>: dose de &gt; 25 kg. <b>D</b>: mono não tem Filatov/Pastia; o exantema viria após amoxicilina.</p>"
+   },
+   {
+    "h": "Questão 5 · Eritema infeccioso",
+    "stem": "Escolar de 8 anos, 27 kg, com anemia falciforme, chega pálida e prostrada. Há 10 dias um colega teve “bochechas vermelhas”. Hb caiu de 8 para 4,5 g/dL; reticulócitos muito baixos. Qual a explicação e o cuidado na internação?",
+    "alts": [
+     "Sequestro esplênico; pode dividir quarto com outras falcêmicas.",
+     "Crise hiper-hemolítica; reticulocitose esperada.",
+     "Crise aplásica transitória pelo parvovírus B19; transfusão e isolamento de outras crianças com hemoglobinopatia.",
+     "Eritema infeccioso típico; alta com antitérmico."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> B19 interrompe a eritropoiese → anemia com <b>reticulocitopenia</b>; nessa fase a criança é contagiosa <span class=\"ct\">S41 B02 21:44–24:46</span>. O slide prevê <b>transfusão em anemia grave</b> <span class=\"ct\">Sl. 78</span> e alerta para hemoglobinopatas <span class=\"ct\">Sl. 72, 77</span>.</p><p><b>A/B</b> cursariam com reticulocitose. <b>D</b>: ignora a anemia grave.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "Conceitos",
+    "t": "Exantema obrigatório; digitopressão separa eritema de púrpura (meningococcemia); só sarampo e varicela são aerossol."
+   },
+   {
+    "k": "Sarampo",
+    "t": "Pródromo catarral com febre crescente, Koplik patognomônico, morbiliforme retroauricular; OMA é a complicação bacteriana mais comum, pneumonia a principal causa de morte; vitamina A; bloqueio até 72 h, Ig até 6 dias."
+   },
+   {
+    "k": "Rubéola",
+    "t": "Sarampinho com adenomegalia retroauricular/occipital; benigna, mas congênita dá catarata, surdez e PCA; vacina contraindicada na gestação (30 d)."
+   },
+   {
+    "k": "Escarlatina",
+    "t": "SBHGA, 5–12 anos, lixa, Filatov, Pastia, framboesa; benzatina 600 mil (&lt; 25 kg) ou 1,2 milhão; VO 10 dias."
+   },
+   {
+    "k": "Varicela",
+    "t": "Polimorfismo, prurido, crosta encerra contágio; sem salicilato; bloqueio a partir de 9 m; VZIG até 96 h para gestante, imunossuprimido, RN de mãe com varicela −5/+2 dias, prematuros."
+   },
+   {
+    "k": "Eritema infeccioso",
+    "t": "B19, face esbofeteada → rendilhado; sem contágio quando há exantema; crise aplásica em falcêmicos."
+   },
+   {
+    "k": "Exantema súbito",
+    "t": "HHV-6, lactente, febre alta 3–4 d que cai em crise, exantema no tronco; crise febril."
+   },
+   {
+    "k": "Mononucleose",
+    "t": "EBV, tríade, esplenomegalia, exantema com amoxicilina, linfócitos atípicos; evitar esporte de contato."
+   },
+   {
+    "k": "Mão-pé-boca",
+    "t": "Coxsackie A16, úlceras em toda a boca, vesículas em mãos e pés, benigna."
+   },
+   {
+    "k": "Kawasaki",
+    "t": "Febre ≥ 5 d + 4/5; &lt; 5 anos; IGIV 2 g/kg + AAS até 10 dias reduz aneurisma de 20–30% para 4–5%."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> Reconhecimento pela descrição: Koplik, adenomegalia retroauricular/occipital, lixa + Filatov + Pastia, polimorfismo regional, face esbofeteada, febre que cai e exantema no tronco do lactente. <b>(2)</b> Profilaxia pós-exposição de <b>sarampo</b> e <b>varicela</b> — prazos, idade mínima, quem recebe vacina e quem recebe imunoglobulina. <b>(3)</b> Kawasaki: critérios e tratamento nos primeiros 10 dias.</p>",
+  "pts": [
+   [
+    "Sl. 15 × 28",
+    "Isolamento do sarampo: 4 dias × 5 dias após o exantema",
+    "<b>Divergência interna do material.</b>"
+   ],
+   [
+    "Sl. 15 × B01",
+    "Contágio: 2 d antes dos pródromos → 4 d após × 4 d antes → 6 d após o exantema",
+    "Slide vale na faculdade."
+   ],
+   [
+    "Sl. 28 × B01",
+    "Ig no sarampo: &lt; 1 ano × &lt; 6 meses",
+    "Prazo igual (6 d). Slide vale na faculdade."
+   ],
+   [
+    "B01 17:53 × 43:08",
+    "O próprio MEDCURSO diz “notificação compulsória e imediata” e, na questão, “não é notificação imediata”",
+    "<b>Divergência interna da aula do cursinho.</b> A apostila só afirma “compulsória”."
+   ],
+   [
+    "Sl. 14 (imagem)",
+    "Boletim com 9.325, 20.901, 8.100, 676 e 44 casos — a frase está cortada e os anos não aparecem",
+    "Sequência termina em 2022 (texto seguinte); anos iniciais não reconstruídos."
+   ],
+   [
+    "Sl. 26",
+    "Vitamina A sem dose",
+    "Não completado."
+   ],
+   [
+    "Sl. 32 × B01",
+    "Adenomegalia da rubéola sem “occipital”",
+    "MEDCURSO acrescenta (definição MS)."
+   ],
+   [
+    "Sl. 44–45",
+    "“Tórax → tronco”; “Filatow”",
+    "Redação/grafia do slide preservadas."
+   ],
+   [
+    "Sl. 55",
+    "Varicela contagiosa “do 10º dia após o contato”",
+    "Redação incomum; mantida."
+   ],
+   [
+    "Sl. 66 × B03",
+    "Bloqueio da varicela 72–96 h × até 5 dias",
+    "Slide vale na faculdade."
+   ],
+   [
+    "Sl. 72 × B02",
+    "Incubação do eritema infeccioso 4–14 × ~16 dias",
+    "Slide vale na faculdade."
+   ],
+   [
+    "Sl. 80–83",
+    "Títulos “Eritema infeccioso” com conteúdo de exantema súbito",
+    "<b>Erro de rótulo</b>; atribuído ao exantema súbito."
+   ],
+   [
+    "Sl. 84 × B04",
+    "Incubação da mono “10 até 30–50” × “30 a 50 dias”",
+    "Slide vale na faculdade."
+   ],
+   [
+    "Sl. 88 × B04",
+    "Exantema: “10 a 15%” × “~10%, maioria com amoxicilina”",
+    "Conceitos próximos; conferir."
+   ],
+   [
+    "Sl. 99 × 100",
+    "Aneurisma sem tratamento: 15–25% × 20–30%",
+    "<b>Divergência interna do material.</b>"
+   ]
+  ]
+ },
+ {
+  "n": 3,
+  "nome": "Dores recorrentes",
+  "file": "Cap3_Dores_recorrentes",
+  "pag": 26,
+  "cards": 95,
+  "min": 20,
+  "qs": [
+   {
+    "h": "Questão 1 · Definição e conduta",
+    "stem": "Menino de 7 anos, 24 kg, com dor periumbilical 1–2 vezes por semana há 8 meses, sem relação com evacuações, que o faz faltar à escola. Crescimento no canal, exame físico normal, sem febre, vômitos ou sangramentos. Pais muito ansiosos, já com 6 parasitológicos negativos. Qual a melhor conduta?",
+    "alts": [
+     "Endoscopia digestiva alta e tomografia de abdome para afastar causa orgânica.",
+     "Tranquilizar dizendo que “não é nada” e dar alta.",
+     "Abordagem ambulatorial detalhada (entrevistar criança e pais separadamente, investigar estressores), orientar os pais sobre sinais de alerta e acompanhar.",
+     "Tratar empiricamente para parasitose, repetindo o antiparasitário a cada 3 meses."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Dor recorrente (≥ 3 episódios/3 meses, interferindo nas atividades) sem nenhum sinal de alerta: 90–95% funcional <span class=\"ct\">Sl. 16, 22</span>; conduta: abordagem ambulatorial e orientação sobre alertas <span class=\"ct\">Sl. 24</span>.</p><p><b>A</b> e <b>B</b> são os dois erros do slide 10 (investigação extensa × atitude simplista). <b>D</b>: o próprio slide põe “antiparasitário (?)” com interrogação.</p>"
+   },
+   {
+    "h": "Questão 2 · Sinal de alerta",
+    "stem": "Menina de 9 anos, 25 kg, com dor abdominal recorrente há 1 ano. Qual achado <b>mais</b> justifica investigação de causa orgânica?",
+    "alts": [
+     "Dor periumbilical que melhora após evacuar.",
+     "Crises desencadeadas antes de provas escolares.",
+     "Queda do peso e da velocidade de crescimento na curva nos últimos 12 meses.",
+     "Mãe com cefaleia tensional."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Perda de peso e parada/desaceleração do crescimento são sinal de alerta explícito <span class=\"ct\">Sl. 22</span>; o peso é o parâmetro mais sensível a doença <span class=\"ct\">S26 Aval. 10:52–11:10</span>.</p><p><b>A</b>: sugere disfunção funcional (intestino irritável). <b>B</b>: estresse é desencadeante funcional. <b>D</b>: a história familiar de alerta é de doença <b>orgânica</b> GI (péptica, DII, celíaca).</p>"
+   },
+   {
+    "h": "Questão 3 · Dor em membros",
+    "stem": "Escolar de 8 anos, 27 kg, acorda algumas noites chorando com dor nas duas pernas (panturrilhas e atrás dos joelhos), que passa em 15 minutos com massagem. Brinca normalmente de dia. Exame físico normal. Qual conduta?",
+    "alts": [
+     "Diagnosticar dor de crescimento, explicar o caráter benigno e orientar calor/massagem e sinais de alerta.",
+     "Radiografia e cintilografia óssea pela dor noturna.",
+     "Encaminhar à reumatologia por fibromialgia.",
+     "Hemograma e VHS obrigatórios antes de qualquer orientação."
+    ],
+    "ok": 0,
+    "why": "<p><b>A.</b> Bilateral, difusa, curta, noturna, melhora com massagem, exame normal: dor de crescimento <span class=\"ct\">Sl. 27</span>; prognóstico benigno <span class=\"ct\">Sl. 36</span>.</p><p><b>B</b>: acordar a criança é esperado na dor de crescimento (ver divergência). <b>C</b>: fibromialgia é de adolescentes, com tender points, sono e humor. <b>D</b>: o laboratório do slide 34 é útil, mas o slide manda aprofundar se houver sinal de alerta.</p>"
+   },
+   {
+    "h": "Questão 4 · Cefaleia",
+    "stem": "Menino de 4 anos, 16 kg, com cefaleia há 2 meses, pior ao acordar, com vômitos cada vez mais frequentes, e que piora ao abaixar a cabeça. PA normal. Qual a hipótese que deve ser afastada com prioridade?",
+    "alts": [
+     "Migrânea sem aura.",
+     "Cefaleia tensional por dificuldade escolar.",
+     "Processo expansivo com hipertensão intracraniana.",
+     "Sinusite frontal."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Matinal, progressiva, vômitos crescentes, piora com mudança de posição da cabeça e idade &lt; 5 anos são alertas <span class=\"ct\">Sl. 41, 43</span>.</p><p><b>A/B</b>: primárias, diagnóstico após afastar alertas. <b>D</b>: em menor de 5 anos o seio frontal <b>não existe</b> <span class=\"ct\">S33 02:42–03:05</span>.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Geral",
+    "t": "Recorrente = ≥ 3 episódios em 3 meses interferindo nas atividades; cefaleia 20,6%, membros 15,5%, abdominal 14,4%; 10–15% orgânicas; entrevistar criança e pais separadamente; evitar “não é nada” e investigação extensa."
+   },
+   {
+    "k": "B · Abdominal",
+    "t": "Picos 4–6 e 7–12 anos; 90–95% funcional (dispepsia, intestino irritável, enxaqueca abdominal, não especificada); alertas: periférica, irradiada, desperta, perda de peso/desaceleração, vômitos biliosos, sangramento, história familiar, lab alterado; exames nível 1: hemograma, VHS/PCR, urina/urocultura, EPF; remissão 30% em 6 meses."
+   },
+   {
+    "k": "C · Membros",
+    "t": "4–10 anos, 3–4% orgânicas; dor de crescimento 6–13 anos, bilateral, fim de tarde, massagem, exame normal; alertas: ponto fixo, unilateral, força/marcha, sistêmico, sem resposta a analgésico; tumor ósseo: osteossarcoma e Ewing, biópsia."
+   },
+   {
+    "k": "D · Cefaleia",
+    "t": "20%, meninas; migrânea (1–72 h, náusea, foto/fonofobia) × tensional (aperto bilateral, 30 min–7 d, melhora com sono); secundárias 5% (HAS, sinusite); medir PA e exame neurológico; alertas: neurológico, ocular, vômitos, Valsalva/postura, mudança de padrão, unilateral, matinal, desaceleração, &lt; 5 anos."
+   },
+   {
+    "k": "E · Escalas",
+    "t": "Numérica 0–10 com faces; escala de faces para os pequenos; usar com o diário da dor."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> Definição de dor recorrente: <b>pelo menos 3 episódios em 3 meses</b>, com intensidade que interfere nas atividades. <b>(2)</b> A maioria é funcional (<b>90–95%</b> da abdominal) — e a conduta é abordagem ambulatorial, não investigação extensa. <b>(3)</b> <b>Sinais de alerta</b> de cada tipo: é deles que sai quase toda questão (“qual dado indica investigação?”).</p>",
+  "pts": [
+   [
+    "Sl. 8 × 15/25/41",
+    "Organicidade global 10–15% × 5–10% (abdominal), 3–4% (membros), 5% (cefaleia)",
+    "<b>Divergência interna</b>: os parciais não somam o global. Perguntar."
+   ],
+   [
+    "Sl. 13",
+    "Prevalência da DAR 0,5% a 19%",
+    "Amplitude de 38×; mantida."
+   ],
+   [
+    "Sl. 26 × 29",
+    "“Hipermobilidade” × “HIPERMOTILIDADE” articular",
+    "Mesma entidade; hipermobilidade é o termo usual."
+   ],
+   [
+    "Sl. 25 × 27",
+    "Membros 4–10 anos × dor de crescimento 6–13 anos",
+    "Divergência de faixas; mantidas."
+   ],
+   [
+    "Sl. 22/43 × 27",
+    "“Desperta a criança” = alerta × característica da dor de crescimento",
+    "<b>Contradição do material</b>; perguntar."
+   ],
+   [
+    "Sl. 43 × 38",
+    "Cefaleia unilateral = alerta × aceita na migrânea",
+    "Idem."
+   ],
+   [
+    "Sl. 24",
+    "“Anti-parasitário (?)”",
+    "Interrogação da professora; reproduzida."
+   ],
+   [
+    "Sl. 19 (imagem)",
+    "Bristol com retângulo vermelho em 3–5",
+    "Lido como faixa normal; rótulos das demais faixas são interpretação."
+   ],
+   [
+    "Sl. 46 (imagem)",
+    "Escala de faces com personagens de quadrinhos",
+    "Descrita, não reproduzida."
+   ],
+   [
+    "S36 05:39",
+    "“3, / 5%” das FSSL são ITU",
+    "Número partido; <b>não reconstruído</b> (fora do texto)."
+   ],
+   [
+    "S36 41:22",
+    "Punção suprapúbica: “qualquer crescimento” × AAP ≥ 50 mil",
+    "Na prova, “qualquer crescimento” (professor)."
+   ],
+   [
+    "S36 51:53",
+    "Internar pielonefrite: &lt; 3 meses ou &lt; 1 mês",
+    "Sem escolha declarada."
+   ],
+   [
+    "S36 52:24",
+    "Duração da pielonefrite 7–14 × 7–10 dias (Nelson)",
+    "Não incluído no texto; registrar."
+   ],
+   [
+    "S33 08:36",
+    "Quadro arrastado ≥ 10 d: AAP/Nelson × EPOS/SBP",
+    "Divergência entre referências."
+   ],
+   [
+    "S33 (toda)",
+    "Aula de sinusite não cita cefaleia",
+    "Ponte sinusite → cefaleia é do slide 41."
+   ],
+   [
+    "S26 19:05",
+    "Alvo genético “5 a 8, / 5” cm",
+    "Não usado."
+   ],
+   [
+    "S26 41:49",
+    "Tabela de VC por idade escrita no quadro, não falada",
+    "Só o piso de 5 cm/ano usado."
+   ],
+   [
+    "S14 12:23",
+    "Esquema do MS (termo) sem dose",
+    "Não completado."
+   ],
+   [
+    "01 16:12",
+    "“Três vezes HF, três de toxo”",
+    "Provável “e T de toxo”; não usado."
+   ],
+   [
+    "Acervo",
+    "Sem crise álgica/dactilite/penicilina na falciforme, sem TSH/levotiroxina, sem raquitismo, sem RGE/péptica/parasitose, sem migrânea/tensional/HIC",
+    "Lacunas registradas nos blocos."
+   ]
+  ]
+ },
+ {
+  "n": 4,
+  "nome": "Adenomegalias e câncer infantil",
+  "file": "Cap4_Adenomegalias_cancer_infantil",
+  "pag": 26,
+  "cards": 108,
+  "min": 22,
+  "qs": [
+   {
+    "h": "Questão 1 · Adenite aguda",
+    "stem": "Menino de 5 anos, 18 kg, com febre há 3 dias e “caroço” doloroso no ângulo da mandíbula à direita, de 3 cm, com pele avermelhada e quente. Teve impetigo na face há uma semana. Bom estado geral, sem hepatoesplenomegalia. Hemograma com leucocitose e neutrofilia; PCR elevada. Qual a conduta?",
+    "alts": [
+     "Biópsia excisional imediata, pelo tamanho acima de 2,5 cm.",
+     "Sorologias para EBV, CMV e toxoplasmose e observação sem antibiótico.",
+     "Antibiótico oral com cobertura para <i>S. aureus</i> e estreptococo (ex.: cefalexina 25–50 mg/kg/dia de 6/6 h), por 10 dias, reavaliando em 24–48 h e a necessidade de drenagem.",
+     "Mielograma, pela leucocitose."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Localizada, sem gravidade, inflamada, cervical superior, com porta de entrada (piodermite) = adenite <span class=\"ct\">Sl. 26</span>; dose e reavaliação <span class=\"ct\">Sl. 29</span>.</p><p><b>A</b>: o tamanho isolado não indica biópsia num gânglio agudo com sinais inflamatórios; biópsia é se não melhorar ou persistir &gt; 4 semanas <span class=\"ct\">Sl. 23, 26</span>. <b>B</b>: sorologias são do fluxograma de adenomegalia <b>generalizada</b> <span class=\"ct\">Sl. 33</span>. <b>D</b>: mielograma é para blastos/pancitopenia, não para leucocitose neutrofílica <span class=\"ct\">Sl. 30, 34</span>.</p>"
+   },
+   {
+    "h": "Questão 2 · Generalizada com comprometimento",
+    "stem": "Menina de 6 anos, 17 kg (perdeu 2 kg em um mês), febre baixa há 10 dias sem foco, palidez intensa, petéquias em membros, fígado a 4 cm e baço a 3 cm do rebordo, gânglios cervicais, axilares e inguinais. Qual o próximo passo mais importante?",
+    "alts": [
+     "Biópsia do maior gânglio cervical.",
+     "Hemograma — e, se blastos ou pancitopenia, mielograma.",
+     "Antibiótico empírico por 10 dias e reavaliar.",
+     "PPD e tomografia de tórax."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> É o caso 2 da aula e o fluxograma do slide 34: generalizada com estado geral comprometido → hemograma; blastos/pancitopenia → mielograma. Petéquias e palidez sugerem falência medular (leucemia) <span class=\"ct\">Sl. 46</span>.</p><p><b>A</b>: a biópsia do gânglio é o passo quando hemograma e RX são normais <span class=\"ct\">Sl. 34</span>. <b>C</b>: não há foco para adenite, e atrasar o diagnóstico é o erro que a aula condena <span class=\"ct\">Sl. 37, 42</span>. <b>D</b>: PPD e TC vêm se o RX de tórax estiver alterado.</p>"
+   },
+   {
+    "h": "Questão 3 · Supraclavicular",
+    "stem": "Adolescente de 14 anos, 50 kg, com linfonodo supraclavicular <b>esquerdo</b> endurecido, indolor, aderido, de 3 cm, há 5 semanas. Qual a interpretação correta?",
+    "alts": [
+     "Provável hiperplasia reacional; reavaliar em 6 meses.",
+     "Sugere lesão intratorácica; pedir apenas RX de tórax.",
+     "Sugere lesão intra-abdominal (tumor ou processo inflamatório); investigar e indicar biópsia.",
+     "Sugere adenite piogênica; tratar com clindamicina."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Supraclavicular esquerda → abdome <span class=\"ct\">Sl. 21, 30</span>; supraclavicular, &gt; 4 semanas, duro, aderido = biópsia <span class=\"ct\">Sl. 12, 23, 24</span>.</p><p><b>A</b>: supraclavicular nunca é “só reacional”. <b>B</b>: intratorácica é a <b>direita</b>. <b>D</b>: não tem nenhum sinal inflamatório (dor, flutuação, pele).</p>"
+   },
+   {
+    "h": "Questão 4 · Pós-BCG (segundo a aula)",
+    "stem": "Lactente de 3 meses, 6 kg, vacinado com BCG ao nascer, com linfonodo na axila direita, bom estado geral, sem outros achados. Segundo a aula da faculdade, qual a conduta?",
+    "alts": [
+     "Punção aspirativa e cultura para micobactéria.",
+     "Notificar e iniciar isoniazida.",
+     "Biópsia excisional pela localização atípica.",
+     "Cefalexina por 10 dias."
+    ],
+    "ok": 1,
+    "why": "<p><b>B</b> — é o que diz o slide 32 (“com ou sem sinais flogísticos”). No MEDCURSO, isoniazida é para linfadenopatia <b>supurada</b>; gânglio &lt; 3 cm é evolução esperada em ~10% e &gt; 3 cm não supurado só se acompanha <span class=\"ct\">S27 03:38–09:58</span> — ver a divergência no bloco C.</p><p><b>A</b>: gânglio pós-BCG supurado <b>não se punciona</b> <span class=\"ct\">S27 07:14–09:58</span>. <b>C</b>: a axila direita é exatamente a drenagem do deltoide direito vacinado. <b>D</b>: não é adenite piogênica.</p>"
+   },
+   {
+    "h": "Questão 5 · Leucocoria",
+    "stem": "Mãe de menino de 18 meses, 11 kg, nota em fotos com flash que um dos olhos “brilha branco”. Qual a hipótese a afastar e a conduta?",
+    "alts": [
+     "Estrabismo fisiológico; reavaliar aos 3 anos.",
+     "Conjuntivite; colírio antibiótico.",
+     "Retinoblastoma; encaminhar imediatamente ao oftalmologista.",
+     "Repetir o teste do reflexo vermelho em 1 mês."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Leucocoria ocorre em mais de 50% dos retinoblastomas, com média de diagnóstico aos 2 anos <span class=\"ct\">Sl. 53</span>. Teste alterado ou leucocoria → <b>não repetir, encaminhar imediatamente</b> <span class=\"ct\">01 Triagem 35:33–35:59</span>.</p><p><b>A</b>: estrabismo recente também é alerta (campanha, Sl. 58–62). <b>B</b>: conjuntivite não altera o reflexo pupilar. <b>D</b>: repetir atrasa o diagnóstico.</p>"
+   },
+   {
+    "h": "Questão 6 · Massa abdominal",
+    "stem": "Menina de 3 anos e meio, 15 kg, em bom estado geral; a mãe percebeu no banho um “endurecimento” no flanco esquerdo. PA acima do esperado para a idade; EAS com hematúria. Qual a hipótese mais provável?",
+    "alts": [
+     "Neuroblastoma.",
+     "Tumor de Wilms.",
+     "Malformação congênita benigna.",
+     "Linfoma de Burkitt."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Wilms: pico 3–4 anos, massa assintomática achada pelos pais (60%), HAS (25%), hematúria (15%) <span class=\"ct\">Sl. 52</span>; hematúria → Wilms no quadro 5 <span class=\"ct\">Sl. 43</span>.</p><p><b>A</b>: neuroblastoma tem pico aos 2 anos e criança doente (dor óssea, febre, perda de peso). <b>C</b>: malformação benigna é a massa do <b>período neonatal</b>. <b>D</b>: Burkitt dá massa abdominal, mas não HAS/hematúria como marca.</p>"
+   },
+   {
+    "h": "Questão 7 · Cefaleia",
+    "stem": "Menino de 7 anos, 22 kg, com cefaleia há 1 mês, que o acorda de madrugada e vem com vômitos pela manhã. A professora nota queda do rendimento escolar; ao exame, marcha com base alargada. Qual afirmação é correta?",
+    "alts": [
+     "Sem convulsão, tumor cerebral é improvável.",
+     "É quadro sugestivo de tumor cerebral: cefaleia com padrão de alerta e achado neurológico, presente em 95% desses casos.",
+     "Trata-se de migrânea, frequente nessa idade.",
+     "Tumor cerebral é raro em crianças; investigar só se houver papiledema."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Cefaleia que acorda, matinal com vômitos, queda do rendimento e alteração da marcha <span class=\"ct\">Sl. 50</span>; 95% têm achados neurológicos <span class=\"ct\">Sl. 49</span>.</p><p><b>A</b>: convulsão é só um dos sinais. <b>C</b>: migrânea não explica marcha alterada. <b>D</b>: é o <b>tumor sólido maligno mais comum</b> da criança <span class=\"ct\">Sl. 49</span>.</p>"
+   },
+   {
+    "h": "Questão 8 · Mediastino",
+    "stem": "Adolescente de 13 anos, 40 kg, com tosse seca há 3 semanas e agora dispneia ao deitar. RX de tórax: alargamento do mediastino e derrame pleural. Qual o diagnóstico mais provável e o cuidado imediato?",
+    "alts": [
+     "Pneumonia com derrame; antibiótico e alta.",
+     "Sombra tímica fisiológica; tranquilizar.",
+     "Linfoma linfoblástico; risco de compressão da via aérea — investigação urgente.",
+     "Linfoma de Burkitt; massa mandibular."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Linfoma linfoblástico: &gt; 10 anos, mediastino em 50–70%, derrame, desconforto respiratório grave por compressão <span class=\"ct\">Sl. 48</span>; tosse → massa mediastinal <span class=\"ct\">Sl. 43</span>.</p><p><b>A</b>: tosse no quadro 5 tem infecção no diferencial, mas mediastino alargado é alerta <span class=\"ct\">Sl. 44</span>. <b>B</b>: sombra tímica é até 3 anos <span class=\"ct\">Sl. 9</span>. <b>D</b>: Burkitt é &lt; 10 anos, abdome ou mandíbula.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Base",
+    "t": "Linfonodo captura antígeno da região que drena; tecido linfoide cresce até 2 anos e supera o adulto; sombra tímica até 3 anos; hiperplasia reacional é a maior causa; generalizada = mais de duas cadeias não contíguas."
+   },
+   {
+    "k": "B · Avaliar",
+    "t": "&lt; 2 semanas benigno; biópsia ~4 semanas; supraclavicular/cervical inferior/epitroclear anormais; &gt; 2–3 cm, duro, fixo, progressivo; malignidade ↑ com idade; sintomas sistêmicos. 75% infecciosas, 20% embrionárias, 5% neoplasias. Aguda bilateral = vírus; aguda unilateral = <i>S. aureus</i>/estrepto A; crônica unilateral = micobactéria atípica/gato; crônica bilateral = EBV/CMV. Supraclavicular D = tórax, E = abdome. Inflamatória: dor, flutuação, pele, fístula; neoplásica: dura, aderida, indolor, confluente, supraclavicular; ≥ 2,5 cm."
+   },
+   {
+    "k": "C · Fluxos",
+    "t": "Localizada sem gravidade → hemograma/PCR → ATB 10 dias (cefalexina 25–50, cefuroxima 20–30, azitro 10 → 5 mg/kg; clinda 10–20 mg/kg/dia se MRSA/anaeróbio), resposta 24–48 h, senão PAAF/drenagem, biópsia. Com gravidade → hemograma/VHS/RX: blastos → mielograma; mediastino → biópsia; normais → biópsia. Pós-BCG axila D → notificar + isoniazida (aula). Generalizada bem → EBV, CMV, toxo, RX. Generalizada doente → blastos/pancitopenia → mielograma; RX alterado → PPD/TC; normais → biópsia do gânglio mais significativo."
+   },
+   {
+    "k": "D · Não-gânglio",
+    "t": "Cistos (tireoglosso mediano, branquial lateral), linfangioma/higroma cístico (volumoso, cedo, muda com infecção), hemangioma."
+   },
+   {
+    "k": "E · Câncer",
+    "t": "Não prevenível; 2–6% dos cânceres; latência curta, cresce rápido; 70–80% de cura se precoce; sintomas vagos; não alarmar, mas investigar cedo. Alertas: palidez/pancitopenia, febre persistente, emagrecimento, hepatoesplenomegalia, gânglio duro/aderido/supraclavicular, mediastino alargado."
+   },
+   {
+    "k": "F · Tumores",
+    "t": "LLA 80% (2–4 anos), LMA 15–20% (&lt; 1 ano, adolescente); leucemia pode começar com dor óssea e hemograma normal. Hodgkin 15–40 anos, gânglio &gt; 2 semanas; Burkitt &lt; 10 abdome/mandíbula; linfoblástico &gt; 10 mediastino. SNC: sólido mais comum, 95% com achado neurológico. Osteossarcoma 10–19, joelho; Ewing 10–15. Neuroblastoma pico 2 anos, doente; Wilms 3–4 anos, massa assintomática 60%. Testículo 75% maligno, indolor. Leucocoria &gt; 50% dos retinoblastomas, média 2 anos."
+   },
+   {
+    "k": "G · Campanha",
+    "t": "10 sinais: dor óssea/abdominal, febre &gt; 1 semana, manchas roxas/sangramento, caroço, prurido sem lesão, cansaço/palidez, perda de peso, cefaleia matinal com vômitos, abdome que cresce, infecção que não melhora."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> Os <b>critérios de suspeição</b> do slide 12 — é o que está em vermelho: biópsia em geral a partir de <b>4 semanas</b>; <b>supraclavicular</b>; <b>&gt; 2–3 cm</b>; aumento progressivo; consistência endurecida e fixa. <b>(2)</b> <b>Inflamatória × neoplásica</b> (slide 24): dolorosa/flutuante/fistulizada × dura/aderida/indolor/confluente/supraclavicular. <b>(3)</b> <b>Supraclavicular direita → tórax; esquerda → abdome</b> (slides 21 e 30). <b>(4)</b> O tratamento da adenite com as <b>doses do slide 29</b>. <b>(5)</b> No câncer, os números de destaque: <b>LLA 80%</b> com pico de <b>2–4 anos</b>; <b>95%</b> das crianças com cefaleia e tumor cerebral têm achado neurológico; <b>Wilms</b> é massa assintomática em 60%; <b>leucocoria</b> em mais de 50% dos retinoblastomas. <b>(6)</b> A frase-mensagem da professora: <b>não alarmar os pais, mas investigar precocemente</b> — o câncer pediátrico é potencialmente curável se diagnosticado cedo.</p>",
+  "pts": [
+   [
+    "Sl. 29",
+    "Azitromicina “10 mg/kg dose inicial / depois 5mg/kg/dia <b>do mais 4 dias</b>”",
+    "Lido como “<b>por mais 4 dias</b>” (total 5 dias). Doses transcritas sem alteração."
+   ],
+   [
+    "Sl. 29",
+    "Clindamicina 10–20 mg/kg/dia, 6/6 ou 8/8 h, “(máx 1,8g)”",
+    "Slide não diz se o máximo é por dia; mantido como está. Conferir a faixa de dose com a professora/bulário — <b>não foi alterada</b>."
+   ],
+   [
+    "Sl. 26 × 29",
+    "“Tratar com antibiótico (10 dias)” × azitromicina 1 + 4 dias",
+    "<b>Divergência interna</b>: 10 dias vale para as demais drogas; azitro tem esquema próprio."
+   ],
+   [
+    "Sl. 12 × 24 × 43",
+    "Corte de tamanho: “maior que 2–3 cm” × “≥ 2,5 cm” × “linfadenopatia (&gt; 2 cm)”",
+    "<b>Divergência interna</b> de ponto de corte; os três mantidos. Kawasaki usa &gt; 1,5 cm (B04 23:27)."
+   ],
+   [
+    "Sl. 12 × 17 × 48",
+    "Biópsia “geralmente 4 semanas”; aguda &lt; 6 sem (subaguda 2–6); Hodgkin: suspeitar se &gt; 2 semanas",
+    "Três marcos de tempo diferentes; mantidos com sua função."
+   ],
+   [
+    "Sl. 12",
+    "“Ponto de <b>coorte</b>”; “sem aumento no último ano”",
+    "“Ponto de corte”. A segunda expressão reproduzida literalmente."
+   ],
+   [
+    "Sl. 11",
+    "Generalizada = “mais do que duas cadeias não contíguas”",
+    "Texto do slide mantido; definições usuais falam em “duas ou mais”. Conferir."
+   ],
+   [
+    "Sl. 9",
+    "“Baço palpável e hipertrofia de adenoides: 14% dos RN e 7% das crianças &lt; 10 anos”",
+    "Não está claro a qual dos dois achados os percentuais se referem; reproduzido como está."
+   ],
+   [
+    "Sl. 20",
+    "“<b>Leões</b> de couro cabeludo”",
+    "“Lesões” (erro de digitação no quadro)."
+   ],
+   [
+    "Sl. 14",
+    "<i>Rochalimaea henselae</i>",
+    "Nome antigo de <i>Bartonella henselae</i>."
+   ],
+   [
+    "Sl. 23",
+    "“Infartamento ganglionar profundo”",
+    "Lido como enfartamento = aumento de gânglios profundos."
+   ],
+   [
+    "Sl. 30",
+    "Caixa “HEMOGRAMA/<b>RCR</b>”",
+    "Sobreposição de texto; lido como <b>PCR</b> (igual aos slides 26 e 33)."
+   ],
+   [
+    "Sl. 32 × S27",
+    "Pós-BCG: “notificar + <b>quimioprofilaxia</b> com isoniazida”, com ou sem flogose",
+    "<b>Diverge do protocolo</b> (S27 07:14–09:58: isoniazida só se supurado; &lt; 3 cm é esperado; &gt; 3 cm não supurado só acompanha). Faculdade = professora; residência = protocolo."
+   ],
+   [
+    "Sl. 31, 35",
+    "Radiografia e fotos sem legenda",
+    "Seta = hilo/paratraqueal D (leitura); nódulo mediano = provável tireoglosso, lateral = branquial (fragmento “fendas branquiais”). Interpretação da apostila."
+   ],
+   [
+    "Sl. 39 × 45 × 49",
+    "Leucemias e tumores cerebrais “10% cada” × leucemia = mais comum na infância × SNC ≈ 20% &lt; 15 anos",
+    "<b>Divergência interna</b>; Sl. 39 provavelmente refere-se a adolescentes (não dito). Perguntar."
+   ],
+   [
+    "Sl. 37 × 56 × 58–62",
+    "Cura 70–80% × “80% de cura” × “maiores que 80%”",
+    "Números de fontes diferentes; na prova, 70–80% (texto da professora)."
+   ],
+   [
+    "Sl. 37",
+    "“2–6% do total de casos de câncer / 6000 casos novos por ano (INCA)”",
+    "Mantido; estimativas do INCA mudam a cada edição."
+   ],
+   [
+    "Sl. 40",
+    "“Mais graves / mais agressivos” sob “Adolescente”",
+    "Interpretado como referente aos tumores do adolescente."
+   ],
+   [
+    "Sl. 51",
+    "Osteossarcoma cura 55–85%; Ewing 55–75%",
+    "Mantidos; faixas amplas."
+   ],
+   [
+    "01 Triagem 33:58",
+    "Olhinho: “nas primeiras. e 72 horas de vida”",
+    "Número de horas <b>quebrado</b> na transcrição; provável 72 h — <b>não usado</b> como número no texto."
+   ],
+   [
+    "S18 22:02",
+    "Amígdalas grandes em criança de “7, 8 anos”",
+    "Idade exemplificativa, mantida."
+   ],
+   [
+    "Acervo",
+    "Sem aula de leucemias, linfomas, tumores sólidos, retinoblastoma (além do olhinho), higroma/cistos, adenite bacteriana, arranhadura do gato, micobactéria atípica",
+    "Lacunas declaradas nos blocos D e E."
+   ]
+  ]
+ },
+ {
+  "n": 5,
+  "nome": "Violência na infância",
+  "file": "Cap5_Violencia_na_infancia",
+  "pag": 37,
+  "cards": 107,
+  "min": 23,
+  "qs": [
+   {
+    "h": "Questão 1 · Bebê sacudido",
+    "stem": "Lactente de 4 meses, 6 kg, trazido pelo padrasto à emergência por “moleza e vômitos desde a manhã”, sem febre. Nega queda. Está sonolento, com fontanela abaulada e sem nenhum hematoma ou escoriação no couro cabeludo. A tomografia mostra hematoma subdural, e a fundoscopia, hemorragias retinianas bilaterais. Qual a hipótese mais provável?",
+    "alts": [
+     "Meningite bacteriana.",
+     "Queda acidental do trocador não relatada.",
+     "Síndrome do bebê sacudido.",
+     "Síndrome de Munchausen por procuração."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Hematoma subdural + hemorragia retiniana + ausência de trauma craniano, em menor de 6 meses, é a tríade do slide 36; é a causa mais comum de TCE fechado grave em menores de 1 ano <span class=\"ct\">Sl. 34–36</span>.</p><p><b>A</b>: não há febre, e meningite não produz hematoma subdural com hemorragia retiniana. <b>B</b>: queda de baixa altura não explica lesão grave sem marca externa — é a “falta de elementos que expliquem a lesão” do slide 35. <b>D</b>: Munchausen é mentira, simulação ou indução de doença com quadro recorrente, não TCE agudo.</p>"
+   },
+   {
+    "h": "Questão 2 · Conduta diante da suspeita",
+    "stem": "Menina de 2 anos, 12 kg, atendida no pronto-socorro com três pequenas lesões circulares no dorso, em estágios diferentes de cicatrização. A mãe diz que “encostou no fogão”. O pediatra não tem certeza de que houve agressão. A conduta correta é:",
+    "alts": [
+     "Aguardar a confirmação diagnóstica antes de comunicar qualquer órgão, para não expor a família.",
+     "Registrar boletim de ocorrência na delegacia, que substitui a comunicação ao Conselho Tutelar.",
+     "Tratar as lesões, avaliar o risco real de a criança voltar para casa (internar se necessário) e comunicar a suspeita ao Conselho Tutelar, preenchendo a ficha de notificação.",
+     "Manter o caso em sigilo profissional, por se tratar de informação do prontuário."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Queimaduras circulares (cigarro) em estágios diferentes com história incompatível são sinais de alerta <span class=\"ct\">Sl. 32, 50</span>; a <b>suspeita</b> já obriga a comunicação ao Conselho Tutelar <span class=\"ct\">Sl. 54–55</span>, e a internação serve quando o risco é real <span class=\"ct\">Sl. 55–56</span>.</p><p><b>A</b>: o ECA manda comunicar a suspeita, com multa ao médico que não comunica. <b>B</b>: a notificação é para o Conselho Tutelar e “não é e nem vale como denúncia policial” <span class=\"ct\">Sl. 57</span>. <b>D</b>: o dever de notificar é superior ao sigilo <span class=\"ct\">Sl. 59</span>.</p>"
+   },
+   {
+    "h": "Questão 3 · Não confundir",
+    "stem": "Lactente de 7 meses, 8 kg, em consulta de rotina. A creche encaminhou por “manchas roxas nas costas”. Há manchas azul-acinzentadas, de cor uniforme, em região sacral e glútea, que a mãe refere existirem desde o nascimento e não mudaram de cor. O restante do exame é normal. Conduta:",
+    "alts": [
+     "Notificar ao Conselho Tutelar por equimoses em área coberta.",
+     "Coagulograma e radiografias de esqueleto.",
+     "Reconhecer manchas mongólicas, tranquilizar a família e registrá-las no prontuário.",
+     "Tentar remover com álcool, pois pode ser tintura da roupa."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Manchas mongólicas “não perdem a cor” <span class=\"ct\">Sl. 51</span>, são sacrais, presentes desde o nascimento e benignas (ver Cap. 1); documentá-las evita suspeita futura.</p><p><b>A</b>: equimose muda de cor em dias; não é o caso. <b>B</b>: investigação de coagulopatia e fraturas faria sentido diante de equimoses verdadeiras ou múltiplas sem explicação. <b>D</b>: a tintura de roupa sai com álcool, mas a história (desde o nascimento, local típico) já define o diagnóstico.</p>"
+   },
+   {
+    "h": "Questão 4 · Munchausen por procuração",
+    "stem": "Menino de 5 anos, 18 kg, com a quinta internação no ano por “crises de hematúria e febre” que ocorrem sempre quando está sozinho com a mãe. Uroculturas negativas, exames de imagem normais. A mãe, muito presente e conhecedora de termos médicos, pede novos exames e reclama da equipe. Um irmão morreu no primeiro ano de vida sem causa esclarecida. A melhor interpretação é:",
+    "alts": [
+     "Doença renal rara ainda não diagnosticada; solicitar biópsia.",
+     "Suspeita de síndrome de Munchausen por procuração — forma de abuso físico de diagnóstico difícil e demorado.",
+     "Negligência, pela demora em resolver o quadro.",
+     "Síndrome da criança espancada."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Recorrência, múltiplas internações, insistência em exames, insatisfação com a conduta, sinais só com a mesma pessoa, mãe superenvolvida, óbito inexplicado de irmão e falta de resposta às terapias <span class=\"ct\">Sl. 38</span>; diagnóstico leva em média 3 a 6 meses <span class=\"ct\">Sl. 39</span>.</p><p><b>A</b>: mais exames invasivos é justamente o dano que a síndrome produz. <b>C</b>: negligência é omissão de cuidados; aqui há excesso de procura. <b>D</b>: criança espancada tem lesões traumáticas de épocas diversas.</p>"
+   },
+   {
+    "h": "Questão 5 · Abuso sexual",
+    "stem": "Sobre o abuso sexual na infância, segundo a aula, assinale a correta:",
+    "alts": [
+     "O abusador é, na maioria das vezes, um desconhecido da família.",
+     "Exame físico normal afasta a hipótese.",
+     "Só é abuso quando há contato físico.",
+     "Em cerca de 80% dos casos o abusador é um dos pais ou pessoa com laço afetivo com a família, e o exame físico muitas vezes é normal."
+    ],
+    "ok": 3,
+    "why": "<p><b>D.</b> Slides 42 e 43, literalmente.</p><p><b>A</b>: contraria os 80% <span class=\"ct\">Sl. 42</span> e o infográfico (pai/padrasto e amigo/conhecido lideram) <span class=\"ct\">Sl. 11</span>. <b>B</b>: “muitas vezes exame físico normal” <span class=\"ct\">Sl. 43</span>. <b>C</b>: “práticas sexuais <b>com ou sem contato</b>” <span class=\"ct\">Sl. 40</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Sigilo e ética",
+    "stem": "Adolescente de 13 anos, 45 kg, revela em consulta que o padrasto a toca à noite e pede que o médico não conte a ninguém. O médico deve:",
+    "alts": [
+     "Respeitar o pedido, pois o sigilo médico é absoluto na adolescência.",
+     "Orientar a adolescente a procurar a delegacia por conta própria.",
+     "Acolher, anotar o relato sem induzir, explicar à adolescente que precisará acionar a proteção e notificar ao Conselho Tutelar, garantindo acompanhamento multiprofissional.",
+     "Confrontar o padrasto na próxima consulta antes de qualquer notificação."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Ambiente acolhedor, respeitar e anotar, não induzir <span class=\"ct\">Sl. 56</span>; notificação é dever do médico (art. 28, parágrafo único, CEM) <span class=\"ct\">Sl. 58</span> e supera o sigilo quando há risco <span class=\"ct\">Sl. 59</span>; acompanhamento infecto/gineco/psico/social/legal <span class=\"ct\">Sl. 60</span>.</p><p><b>A</b>: o sigilo cede ao risco. <b>B</b>: transfere à vítima um dever que é do médico. <b>D</b>: expõe a vítima e não está na conduta da aula.</p>"
+   },
+   {
+    "h": "Questão 7 · Pista na história",
+    "stem": "Qual dos dados abaixo, isoladamente, é o mais sugestivo de violência física num lactente de 5 meses, 7 kg, levado ao pronto-socorro?",
+    "alts": [
+     "Mãe muito ansiosa, que chora durante o atendimento.",
+     "Fratura de fêmur com a explicação de que “ele se virou e caiu do sofá correndo atrás do irmão”.",
+     "Dermatite de fraldas leve nas superfícies convexas.",
+     "Mancha azulada sacral presente desde o nascimento."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Fratura inexplicada em criança que não anda <span class=\"ct\">Sl. 50</span> + trauma incompatível com idade ou atividade <span class=\"ct\">Sl. 47</span> + lesão não compatível com o desenvolvimento <span class=\"ct\">Sl. 32</span>.</p><p><b>A</b>: ansiedade não é pista; o slide cita pais <b>indiferentes</b>. <b>C</b>: dermatite leve é comum (ver Cap. 1); a negligência do slide 24 é a forma grave. <b>D</b>: mancha mongólica <span class=\"ct\">Sl. 51</span>.</p>"
+   },
+   {
+    "h": "Questão 8 · Abuso psicológico e enurese",
+    "stem": "Menina de 8 anos, 26 kg, que estava sem molhar a cama desde os 4 anos, voltou a urinar durante o sono há 2 meses. Ficou mais retraída, chora sem motivo e passou a ter notas baixas. EAS e glicemia normais. O próximo passo mais adequado é:",
+    "alts": [
+     "Tranquilizar: enurese é normal até os 10 anos.",
+     "Iniciar desmopressina e alarme.",
+     "Investigar ativamente situações de violência (entrevista cuidadosa, escuta da criança), por se tratar de enurese secundária com alteração de comportamento.",
+     "Classificar como enurese primária monossintomática de origem genética."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Enurese, choro sem causa, isolamento e problemas escolares são sinais de abuso psicológico <span class=\"ct\">Sl. 28</span>, <span class=\"ct\">Sl. 20</span>; enurese secundária exige procurar causa, incluindo violência <span class=\"ct\">S36 Outros 31:20–31:53</span>.</p><p><b>A</b>: o corte é 5 anos <span class=\"ct\">S36 Outros 29:37–30:01</span>. <b>B</b>: tratar o sintoma sem procurar a causa. <b>D</b>: ela ficou seca por anos — é secundária <span class=\"ct\">S36 Outros 30:39–31:17</span>.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Problema",
+    "t": "Casa e família; complô de silêncio; mais visível nas classes pobres, mais sigiloso nas ricas. 10% dos traumas na emergência são maus-tratos, 5% delas morrem sem diagnóstico; quem morre já teve &gt; 5 atendimentos. MS 2018: 32.082 notificações de crime sexual; meninas 76,4% (0–9) e 92,2% (10–19); residência lidera; agressor pai/padrasto (0–9) e amigo/conhecido (10–19)."
+   },
+   {
+    "k": "B · Conceitos",
+    "t": "Injúria acidental = acidente; intencional = violência. Maus-tratos (Abrapia 1997): ação ou omissão de adulto ou adolescente mais velho responsável, com intenção consciente ou não de causar dor física ou emocional. Doméstica: intencional, intrafamiliar, repetitiva, todas as classes. Sexual subestimada, psicológica imensurável. ECA art. 7–14, 87, 130, 245. Quatro formas: negligência, psicológico, físico, sexual."
+   },
+   {
+    "k": "C · Negligência / psicológico",
+    "t": "Negligência = omissão crônica de cuidados básicos, intencional ou não; abandono = extrema; física, educacional, emocional. Psicológico: rejeição, humilhação, aterrorização, cobranças; embutido nos demais; sinais — agressividade, apatia, choro sem causa, tiques, enurese/encoprese, recusa alimentar &lt; 1 ano."
+   },
+   {
+    "k": "D · Físico",
+    "t": "Força intencional com lesão visível para demonstrar poder; Lei 13.010/2014 proíbe castigo físico. Pistas: incompatível com idade, relato que não justifica, várias partes, estágios diferentes, áreas cobertas, atraso na procura. Bebê sacudido: &lt; 6 m (até 2 a), TCE fechado grave mais comum &lt; 1 ano, tríade HSD + hemorragia retiniana + sem trauma craniano, fratura de arcos costais posteriores, 50% óbito/50% sequela. Espancada: 2/3 &lt; 3 anos, 1/3 &lt; 6 meses. Munchausen: mentira, simulação, indução; 3–6 meses para diagnóstico."
+   },
+   {
+    "k": "E · Sexual",
+    "t": "Agressor em estágio psicossexual mais adiantado; com ou sem contato; 20% mulheres, 5–10% homens. Intrafamiliar × exploração comercial. 80% pais/laço afetivo; vítima feminina, abusador masculino; exame físico muitas vezes normal."
+   },
+   {
+    "k": "F · Desconfiar",
+    "t": "Discrepância, retardo, vários hospitais, madrugada, pais indiferentes, lesões em várias idades, álcool/drogas. Exame: marcas de objeto, queimadura de cigarro/imersão, fratura em quem não anda, lesão de fígado/baço, hemorragia retiniana, DST. Não confundir: mancha mongólica, hemofilia, eritema multiforme, Henoch-Schönlein, meningococcemia, tinta de roupa."
+   },
+   {
+    "k": "G · Conduta",
+    "t": "Três silêncios; subnotificação. ECA 245: suspeita ou confirmação → Conselho Tutelar, obrigatório, multa 3 a 20 salários. Notificar é dever do médico (CEM art. 28, par. único) e supera o sigilo; não é denúncia policial. Acolher, anotar, não induzir, avaliar risco real, internar se preciso. Abuso sexual: notificação compulsória + infecto, gineco, psico, social, legal. Ficha SINAN."
+   },
+   {
+    "k": "H · Lema",
+    "t": "Dano imediato (estresse pós-traumático) e progressivo (desenvolvimento, atenção, aprendizado). Suspeite, acolha, denuncie."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> A <b>tríade da síndrome do bebê sacudido</b> — hematoma subdural + hemorragia retiniana + ausência de trauma craniano (em vermelho no slide 36) — e ela ser a <b>causa mais comum de TCE fechado grave em menores de 1 ano</b>. <b>(2)</b> <b>Notificação</b>: suspeita <b>ou</b> confirmação de maus-tratos deve ser comunicada <b>obrigatoriamente ao Conselho Tutelar</b> (ECA art. 245, destacado em amarelo), é <b>dever do médico</b> e está <b>acima do sigilo profissional</b>; e a notificação <b>não é denúncia policial</b>. <b>(3)</b> No abuso sexual, em cerca de <b>80%</b> o abusador é um dos pais ou pessoa com laço afetivo, e o <b>exame físico muitas vezes é normal</b>. <b>(4)</b> As <b>pistas de violência</b> na história e no exame (lesões em estágios diferentes, história incompatível, atraso na procura) e o que <b>não confundir</b> (mancha mongólica, coagulopatia, púrpuras, tinta de roupa).</p>",
+  "pts": [
+   [
+    "Sl. 5",
+    "“72 mil denúncias… em 2022” e “22 mil a mais do que no primeiro semestre de 2021”; “17 denúncias por hora”",
+    "72 mil em um ano daria cerca de 8 por hora; 17 por hora é compatível com <b>um semestre</b>. Provável que os 72 mil sejam do 1º semestre de 2022. Números mantidos como no slide; <b>não reconstruídos</b>."
+   ],
+   [
+    "Sl. 11 (imagem)",
+    "Agressor 10–19 anos: “mãe 401” e “irmão 368”, parcialmente encobertos pelas bolhas",
+    "Leitura provável, marcada com *. Os demais valores foram conferidos: séries anuais somam os totais, e “local de ocorrência” soma 13.409 e 18.673. As colunas de agressor <b>não</b> somam o total (esperado: pode haver mais de um agressor ou ignorado)."
+   ],
+   [
+    "Sl. 11",
+    "“Pai/padastro”; período do painel da direita não rotulado",
+    "Grafia corrigida para padrasto. Painel lido como 2018, pela seta a partir do total de 2018 e pelas somas."
+   ],
+   [
+    "Sl. 4",
+    "IPEA: “metade das vítimas tinha até 13” — frase cortada",
+    "Reproduzido como “até 13”, sem completar a unidade."
+   ],
+   [
+    "Sl. 12–13",
+    "10% / 5% / “mais de 5 atendimentos” sem fonte no slide",
+    "Mantidos; sem referência explícita."
+   ],
+   [
+    "Sl. 35 × 36",
+    "Tríade do esquema: hemorragia retiniana + edema cerebral + HSD. Tríade do texto: HSD + hemorragia retiniana + ausência de trauma craniano",
+    "<b>Divergência interna da aula.</b> Na prova, a do slide 36 (texto em vermelho)."
+   ],
+   [
+    "Sl. 36",
+    "“Ausência de trauma craniano”",
+    "Lida como ausência de sinal externo ou de história de trauma que explique a lesão."
+   ],
+   [
+    "Sl. 36",
+    "Coma inexplicado: 50% óbito e 50% sequelas",
+    "Número do slide, sem fonte citada; mantido."
+   ],
+   [
+    "Sl. 38",
+    "“Síndrome de Munchausen por procuração”",
+    "Nome clássico usado na aula; na nomenclatura psiquiátrica atual, transtorno factício imposto a outro. Na prova, o nome do slide."
+   ],
+   [
+    "Sl. 20, 42, 43, 50",
+    "“DST”",
+    "Terminologia atual é IST; mantido “DST” como no slide."
+   ],
+   [
+    "Sl. 51",
+    "Manchas mongólicas “não perdem a cor”",
+    "Interpretado como “não passam pela evolução de cores da equimose”. O Cap. 1 diz que “costumam involuir” — em anos, não em dias; sem contradição."
+   ],
+   [
+    "Sl. 54",
+    "ECA art. 245 entre aspas, com “multa de 3 a 20 salários”",
+    "O texto do slide parece paráfrase do artigo; conferir a redação literal no ECA. Números mantidos como no slide."
+   ],
+   [
+    "Sl. 55",
+    "Conselho Tutelar “3690-7352”; Disque Direitos Humanos “0800 31 1119”",
+    "Telefones locais (Juiz de Fora) do material de 2023; podem ter mudado — conferir antes de usar."
+   ],
+   [
+    "Sl. 57",
+    "Título “0100” ao lado de ícone de telefone",
+    "Sentido não esclarecido pelo slide (talvez alusão ao Disque 100). O conteúdo do slide é a definição de notificação; título tratado como “O que é a notificação”."
+   ],
+   [
+    "Sl. 58",
+    "“Parágrafo único do artigo 28 do Código de Ética Médica”",
+    "Mantido como no slide."
+   ],
+   [
+    "Sl. 60",
+    "“Atendimento em Juiz de Fora no HPS”",
+    "Sigla local, lida como Hospital de Pronto Socorro; não expandida no texto."
+   ],
+   [
+    "Sl. 61–62 (imagem)",
+    "Ficha SINAN em baixa resolução: art. 13 da Lei 8.069/1990; OMS 2002; versão SVS 10/07/2008; telefones 180 e 100",
+    "Leitura de imagem borrada. Também aparecem no cabeçalho Decreto 5.099/2004, Lei 10.778/2003 e Lei 10.741/2003 (violência contra a mulher e idoso) e Disque-Saúde “0800 61 1997” — não usados no texto por estarem fora do escopo e ilegíveis com segurança."
+   ],
+   [
+    "Sl. 25",
+    "“Negligência?” com foto de crianças com obesidade grave",
+    "Pergunta aberta da professora; não transformada em regra. Imagem com logotipo comercial: descrita, não reproduzida."
+   ],
+   [
+    "Sl. 44–45",
+    "Desenhos infantis sem legenda",
+    "Descritos; a interpretação como sinal de abuso é leitura do contexto (entre os slides de abuso sexual), não texto da aula."
+   ],
+   [
+    "Sl. 31",
+    "Lei 13.010/2014",
+    "Os apelidos “Lei Menino Bernardo” e “Lei da Palmada” não estão no slide."
+   ],
+   [
+    "Sl. 37",
+    "“diferentes étapas” (Azevedo &amp; Guerra, 1989)",
+    "Erro de digitação; lido como “etapas”."
+   ],
+   [
+    "Sl. 2",
+    "Plano de ensino “Semestre 2 de 2023”",
+    "Material de semestre anterior; conferir se os slides mudaram."
+   ],
+   [
+    "Acervo",
+    "Sem transcrição sobre síndromes do abuso físico, abuso sexual, notificação, ECA, profilaxias pós-violência sexual",
+    "Aula é fonte única. A aula também <b>não traz</b> esquema de profilaxia (IST/HIV/contracepção) — nada foi acrescentado."
+   ]
+  ]
+ },
+ {
+  "n": 6,
+  "nome": "Dengue",
+  "file": "Cap6_Dengue",
+  "pag": 35,
+  "cards": 106,
+  "min": 21,
+  "qs": [
+   {
+    "h": "Questão 1 · Classificação no lactente",
+    "stem": "Lactente de 18 meses, 11 kg, mora em área de transmissão, febre há 3 dias sem foco aparente. Ativo, hidratado, sem vômitos, sem dor abdominal, sem sangramentos; prova do laço negativa. PA e enchimento capilar normais. Qual a classificação e a conduta?",
+    "alts": [
+     "Grupo A — hidratação oral em casa, retorno no 5º dia.",
+     "Grupo B — observação na unidade, hemograma obrigatório e hidratação oral supervisionada de no mínimo 550 mL em 4 a 6 horas.",
+     "Grupo C — internação e SF 0,9% 220 mL em 1 hora.",
+     "Não é caso suspeito, pois não tem 2 sintomas associados à febre."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Criança com febre de 2–7 dias sem foco em área de transmissão já é suspeita <span class=\"ct\">Sl. 17</span>; <b>&lt; 2 anos</b> é condição especial → Grupo B <span class=\"ct\">Sl. 30</span>; hemograma obrigatório <span class=\"ct\">Sl. 31</span>; mínimo 50 mL/kg em 4–6 h = 550 mL <span class=\"ct\">Sl. 32</span>.</p><p><b>A</b> ignora a idade. <b>C</b> exige sinal de alarme, que ele não tem. <b>D</b>: na criança, febre sem foco + epidemiologia basta — os “2 sintomas” são do adulto.</p>"
+   },
+   {
+    "h": "Questão 2 · Volume do Grupo A",
+    "stem": "Escolar de 7 anos, 22 kg, com dengue suspeita no 2º dia de febre, sem sangramento, prova do laço negativa, sem sinais de alarme e sem comorbidades. Qual orientação de hidratação está de acordo com a aula?",
+    "alts": [
+     "2.860 mL/dia, todo em SRO.",
+     "SF 0,9% 440 mL em 1 hora na unidade.",
+     "Cerca de 1.760 mL/dia, 1/3 em SRO e o restante em líquidos caseiros, com dipirona ou paracetamol para febre.",
+     "1.760 mL/dia e ibuprofeno para a febre alta."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Acima de 20 kg: <b>80 mL/kg/dia</b> × 22 = 1.760 mL; SRO = 1/3 das necessidades + líquidos caseiros; antitérmico dipirona ou paracetamol <span class=\"ct\">Sl. 28</span>.</p><p><b>A</b> usa 130 mL/kg (faixa até 10 kg) e só SRO. <b>B</b> é expansão do Grupo C. <b>D</b>: anti-inflamatório não se usa na dengue <span class=\"ct\">Sl. 28</span>.</p>"
+   },
+   {
+    "h": "Questão 3 · Sinal de alarme",
+    "stem": "Menina de 9 anos, 30 kg, 5º dia de dengue, febre cedeu ontem. Qual achado a coloca, isoladamente, no Grupo C?",
+    "alts": [
+     "Prova do laço positiva com 14 petéquias.",
+     "Exantema maculopapular pruriginoso em tronco.",
+     "Dor abdominal intensa e contínua.",
+     "Leucopenia com linfócitos atípicos."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Dor abdominal intensa e contínua é sinal de alarme; basta 1 <span class=\"ct\">Sl. 18</span>, e alarme = Grupo C <span class=\"ct\">Sl. 25</span>. A defervescência é o momento típico <span class=\"ct\">Sl. 15</span>.</p><p><b>A</b>: laço positivo (≥ 10 na criança) leva ao Grupo B, não ao C <span class=\"ct\">Sl. 23, 30</span>. <b>B</b>: exantema e prurido são da fase febril/recuperação <span class=\"ct\">Sl. 14, 16</span>. <b>D</b>: leucopenia é achado comum da dengue <span class=\"ct\">Sl. 22</span>.</p>"
+   },
+   {
+    "h": "Questão 4 · Expansão do Grupo C",
+    "stem": "Pré-escolar de 4 anos, 16 kg, com dengue no 4º dia, vômitos persistentes e hepatomegalia dolorosa. PA 96 × 60 mmHg, pulsos cheios, enchimento capilar de 2 s. Qual a conduta inicial?",
+    "alts": [
+     "SRO 800 mL em 4 a 6 horas na unidade.",
+     "SF 0,9% ou Ringer 320 mL em 1 hora, até 3 vezes, com reavaliação clínica horária e hematócrito após 2 horas.",
+     "SF 0,9% 320 mL em até 20 minutos e internação em UTI.",
+     "Soro glicosado 5% 320 mL em 1 hora."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Sinais de alarme sem choque = Grupo C: <b>20 mL/kg/hora</b> (16 × 20 = 320 mL), até 3×; reavaliação horária, Ht após 2 h <span class=\"ct\">Sl. 36</span>.</p><p><b>A</b> é o Grupo B. <b>C</b> é o Grupo D — PA não convergente (diferencial 36 mmHg), pulso cheio e TEC 2 s não são choque <span class=\"ct\">Sl. 19</span>. <b>D</b>: expansão é com cristaloide, nunca glicosado <span class=\"ct\">S30 P2 18:29–20:04</span>.</p>"
+   },
+   {
+    "h": "Questão 5 · Grupo D",
+    "stem": "Escolar de 6 anos, 20 kg, 5º dia de dengue, sonolento, extremidades frias, pulso rápido e fino, enchimento capilar de 4 s, PA 90 × 76 mmHg. Qual a conduta?",
+    "alts": [
+     "SF 0,9% 400 mL em 1 hora, reavaliar em 2 horas.",
+     "Aguardar hemograma e NS1 antes de iniciar volume.",
+     "O₂, acesso calibroso, SF 0,9% ou Ringer 400 mL em até 20 minutos com reavaliação contínua, repetindo até 3 vezes; Ht após 2 horas; UTI.",
+     "Albumina 1 g/kg imediatamente."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Pulso fino, TEC &gt; 2 s e PA convergente (diferencial 14 &lt; 20 mmHg) = choque → Grupo D <span class=\"ct\">Sl. 19, 38</span>; 20 mL/kg em até 20 min, até 3×, Ht após 2 h <span class=\"ct\">Sl. 40</span>.</p><p><b>A</b> é o ritmo do Grupo C. <b>B</b>: o manejo não depende de laboratório; hidratar de imediato <span class=\"ct\">Sl. 21, 26</span>. <b>D</b>: albumina só se o Ht sobe e o choque persiste <b>após</b> hidratação adequada <span class=\"ct\">Sl. 41</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Hematócrito depois da expansão",
+    "stem": "A criança da questão anterior recebeu três expansões de 20 mL/kg. Continua em choque, com melena volumosa; o hematócrito caiu de 48% para 30%. Qual o próximo passo?",
+    "alts": [
+     "Albumina, por persistência do choque.",
+     "Furosemida, por hiper-hidratação.",
+     "Concentrado de hemácias e investigação de coagulopatia (plasma, vitamina K, crioprecipitado conforme necessidade).",
+     "Quarta expansão de cristaloide e observar."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Ht em queda + choque + hemorragia → concentrado de hemácias; investigar coagulopatias <span class=\"ct\">Sl. 41</span>.</p><p><b>A</b>: albumina é para Ht em <b>ascensão</b>. <b>B</b>: diurético é para Ht em queda <b>sem</b> sangramento (diluição). <b>D</b>: o slide limita a 3 repetições <span class=\"ct\">Sl. 40</span> e o problema aqui é sangue, não volume.</p>"
+   },
+   {
+    "h": "Questão 7 · Laboratório e prova do laço",
+    "stem": "Menino de 5 anos, 18 kg, no 3º dia de febre. Sobre a investigação, assinale a correta.",
+    "alts": [
+     "Pedir IgM para dengue, que já é positiva no 3º dia.",
+     "Pedir NS1 ou PCR; a prova do laço é positiva se houver 10 ou mais petéquias no quadrado de 2,5 × 2,5 cm após 3 minutos de manguito.",
+     "A prova do laço é positiva a partir de 20 petéquias, após 5 minutos.",
+     "A hidratação só deve ser iniciada após o resultado do NS1."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Até o 5º dia: PCR ou NS1 <span class=\"ct\">Sl. 21</span>; na criança, 3 min e ≥ 10 petéquias <span class=\"ct\">Sl. 23</span>.</p><p><b>A</b>: IgM a partir do 6º dia <span class=\"ct\">Sl. 21</span>. <b>C</b>: esses são os valores do <b>adulto</b>. <b>D</b>: manejo clínico não depende de laboratório <span class=\"ct\">Sl. 21</span>.</p>"
+   },
+   {
+    "h": "Questão 8 · Vacinas",
+    "stem": "Adolescente de 12 anos, que nunca teve dengue (sorologia negativa), pergunta sobre vacina. Mãe, de 34 anos, amamenta um bebê de 8 meses. Qual a orientação correta?",
+    "alts": [
+     "Dengvaxia para o adolescente, em 3 doses.",
+     "Qdenga para o adolescente, 2 doses com intervalo de 3 meses; a mãe não deve receber a vacina enquanto amamenta.",
+     "Qdenga para os dois, pois o bebê já tem mais de 6 meses.",
+     "Nenhuma vacina é possível em soronegativos."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Qdenga: 2 doses, intervalo de 3 meses, pode em soronegativos <span class=\"ct\">Sl. 42</span>; vacina viva, contraindicada na lactante independentemente da idade da criança <span class=\"ct\">S27 Aspectos iniciais 31:53–32:24</span>.</p><p><b>A</b>: Dengvaxia só com primoinfecção comprovada <span class=\"ct\">Sl. 42</span>. <b>C</b>: o corte de 6 meses é da <b>febre amarela</b>, não da dengue <span class=\"ct\">S27 Aspectos iniciais 31:26–31:52</span>. <b>D</b>: a Qdenga pode.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Doença",
+    "t": "Flavivírus (RNA), 4 sorotipos, imunidade permanente só ao mesmo; <i>Aedes aegypti</i> fêmea; incubação 4–7 d (3–14); viremia 5–7 d começando 1–2 d antes dos sintomas; mosquito transmite após 8–12 d; risco: infecção secundária heterotípica, criança, doença crônica; sazonal jan–jun."
+   },
+   {
+    "k": "B · Fases",
+    "t": "Febril 2–7 d (39–40 °C, retro-orbitária, exantema 50%) → crítica na defervescência, 3º–7º dia, com sinais de alarme → recuperação (reabsorção, <i>rash</i> pruriginoso; cuidado com hiper-hidratação e infecção bacteriana)."
+   },
+   {
+    "k": "C · Definições",
+    "t": "Suspeito: área de transmissão + febre 2–7 d + ≥ 2 sintomas; criança: febre 2–7 d sem foco. Notificar. Alarme (1 basta): dor abdominal intensa, vômitos persistentes, hipotensão postural/lipotimia, hepatomegalia dolorosa, sangramento de mucosa/hemorragia, sonolência/irritabilidade, ↓ diurese, hipotermia, ↑ Ht, ↓ plaquetas, desconforto respiratório. Choque: hipotensão, PA diferencial &lt; 20 mmHg, pulso rápido e fino, TEC &gt; 2 s."
+   },
+   {
+    "k": "D · Diagnóstico",
+    "t": "Clínico. NS1/PCR até o 5º dia; IgM a partir do 6º. Hemograma: leucopenia, linfócitos atípicos; grave: hemoconcentração, plaquetas &lt; 100.000, hipoalbuminemia. Laço: criança 3 min e ≥ 10 petéquias (adulto 5 min, ≥ 20) em 2,5 × 2,5 cm."
+   },
+   {
+    "k": "E · Grupos",
+    "t": "A primário · B secundário com observação · C terciário com internação · D UTI. Reclassificar sempre. Hidratar antes do exame."
+   },
+   {
+    "k": "F · A e B",
+    "t": "A: SRO 1/3 + caseiros, 130/100/80 mL/kg/dia (≤ 10 / 10–20 / &gt; 20 kg); dipirona ou paracetamol, sem AINE; bromoprida/metoclopramida; hemograma obrigatório &lt; 5 anos; retorno na defervescência ou 5º dia. B (inclui &lt; 2 anos): hemograma obrigatório em até 4 h; VO supervisionada ≥ 50 mL/kg em 4–6 h; Ht &gt; 38% ou recusa → venosa (C); diurese &lt; 1,5 mL/kg/h é alerta."
+   },
+   {
+    "k": "G · C e D",
+    "t": "C: SF/RL 20 mL/kg/h até 3×, reavaliação horária, Ht após 2 h; melhora → Holliday-Segar (100 · 1000+50 · 1500+20 até 30 kg · 40–60 mL/kg/d acima de 30) + reposição. D: 20 mL/kg em até 20 min até 3×, Ht após 2 h; PA 2/2 h, Ht 4/4 h, plaquetas 12/12 h; Ht ↑ albumina (coloide), Ht ↓ com choque hemácias/plasma/vit K/crio, Ht ↓ sem sangrar ↓ soro/diurético/inotrópico."
+   },
+   {
+    "k": "H · Prevenção",
+    "t": "Controle do vetor. Dengvaxia 9–45 anos, 3 doses/6 meses, só soropositivo. Qdenga atenuada, 2 doses/3 meses, pode em soronegativo; vírus vivo, contraindicada na lactante."
+   }
+  ],
+  "fogo": "<p>Os próprios objetivos da aula (slide 3) dizem: <b>(1) definir caso suspeito</b> em pediatria; <b>(2) conhecer sinais de alarme e de gravidade</b>; <b>(3) classificar e reclassificar</b> conforme a evolução; <b>(4) propedêutica por grupo</b> — local, hidratação, exames, reavaliação. Os destaques gráficos da professora confirmam: “<b>OBSERVAR SINAIS DE ALARME ou de CHOQUE</b>” em caixa (slide 15), “<b>REPOSIÇÃO HÍDRICA</b>” em laranja (slide 24), hemograma “<u>obrigatório</u>” e “<u>avaliar hemoconcentração</u>” sublinhados no Grupo B (slide 31) e a expansão do Grupo C em negrito (slide 36). Decore os números de hidratação de cada grupo — é deles que sai a questão com peso e idade.</p>",
+  "pts": [
+   [
+    "Sl. 26 (imagem)",
+    "Fluxograma do MS embutido em baixa resolução (~500 × 780 px)",
+    "Lido por ampliação de regiões. <b>Todos os números abaixo marcados “Sl. 26” vêm dessa leitura</b>; conferir no PDF oficial."
+   ],
+   [
+    "Sl. 26",
+    "Grupo C: “20ml/kg/h” com SF ou RL",
+    "Lido como 20 mL/kg/h; <b>coerente com o slide 36</b>."
+   ],
+   [
+    "Sl. 26",
+    "Grupo B com Ht aumentado: oral “50 a 100ml/kg em 4 horas”; venosa “40ml/kg/4horas”",
+    "Mantido; <b>diverge</b> do slide 32 (mínimo 50 mL/kg em 4–6 h; Ht &gt; 38% → conduta C)."
+   ],
+   [
+    "Sl. 26",
+    "Ht aumentado: “em mais de 10% ou crianças &gt; 38%, mulheres &gt; 44%, homens &gt; 50%”",
+    "Mantido; 38% coincide com o slide 32."
+   ],
+   [
+    "Sl. 26 × 37",
+    "Potássio “2 a 3 mEq/kg/dia” (fluxograma) × “2 a 4 mEq/kg/dia” (slide)",
+    "<b>Divergência interna</b>; na prova, 2 a 4 (slide 37). O “3” do fluxograma está pouco nítido."
+   ],
+   [
+    "Sl. 26",
+    "“&gt; 30 kg: 40 a 60 ml/kg/dia ou 1.700 a 2.000 ml/m²SC”",
+    "A alternativa em m² não está no slide 37; mantida só na transcrição."
+   ],
+   [
+    "Sl. 26",
+    "Coloide sintético “10ml/kg/hora”; albumina “adulto 3ml/kg/h, criança 0,5 a 1g/kg”",
+    "Leitura com baixa nitidez; slide 41 não dá números."
+   ],
+   [
+    "Sl. 26",
+    "Plasma “10 ml/Kg”; crioprecipitado “1U para cada 5-10 kg”",
+    "Leitura com baixa nitidez; slide 41 não dá números."
+   ],
+   [
+    "Sl. 26",
+    "Alta: plaquetas “acima de 50.000/mm³”; estabilidade 48 h; afebril 48 h; Ht estável 24 h",
+    "Mantido; não há critério de alta nos slides de texto."
+   ],
+   [
+    "Sl. 26",
+    "Grupo C internação “mínimo de 48h” (cursor do mouse sobre o número)",
+    "Lido como 48 h."
+   ],
+   [
+    "Sl. 26 (adulto)",
+    "Manutenção adulto: “25ml/kg em 6 horas; se melhora 25ml/kg em 8 h, 1/3 SF e 2/3 SG”",
+    "Só adulto; transcrito, não usado em questão."
+   ],
+   [
+    "Sl. 36 × 26",
+    "Reavaliação no C: “clínica horária” × “clínica e laboratorial a cada 2 h”",
+    "Divergência interna; prova = horária."
+   ],
+   [
+    "Sl. 40 × 26 × 39",
+    "D: “reavaliação clínica contínua” × “a cada 15–30 min” × “PA a cada 2 horas”",
+    "Leitura: bolus = contínua/15–30 min; slide 39 = rotina da internação."
+   ],
+   [
+    "Sl. 41 × 26",
+    "Albumina e, na falta, coloide (slide) × coloide e, na falta, albumina (fluxograma)",
+    "Divergência interna; prova = slide 41."
+   ],
+   [
+    "Sl. 36",
+    "“Se melhorar Ht: manutenção + reposição de perdas estimadas SF0,9% ou ringer lactato. 50% das necessidades hídricas basais em outro acesso ou acesso via dupla”",
+    "Frase ambígua; interpretada como reposição = 50% das basais, em via separada. Conferir com a professora."
+   ],
+   [
+    "Sl. 33 × 26",
+    "Ht e plaquetas “período mínimo de 2 a 4 horas” × reavaliação “em 4 horas”",
+    "Divergência menor; prova = slide."
+   ],
+   [
+    "Sl. 27 × 26",
+    "Hemograma no A: “obrigatório para &lt; 5 anos” × “a critério médico”",
+    "O slide acrescenta o corte de 5 anos; prova = slide."
+   ],
+   [
+    "Sl. 29 × 26",
+    "Retorno do A: “defervescência ou quinto dia” × “3º ao 6º dia”",
+    "Compatíveis; prova = slide."
+   ],
+   [
+    "Sl. 17 × 26",
+    "Sintomas do caso suspeito: lista de 10 (slide) × 6 com “prostração” (fluxograma)",
+    "Versões diferentes da definição; ambas registradas."
+   ],
+   [
+    "Sl. 28",
+    "Antitérmicos e antieméticos sem dose",
+    "Nenhuma dose acrescentada."
+   ],
+   [
+    "Sl. 28 × S30",
+    "Bromoprida/metoclopramida (dengue) × ondansetrona (diarreia, MS) <span class=\"ct\">S30 P2 27:41–30:00</span>",
+    "Contextos diferentes; prova de dengue = slide."
+   ],
+   [
+    "Sl. 36 (protocolo)",
+    "Expansão do C a 20 mL/kg/h",
+    "Edições mais recentes do manual do MS podem trazer outro volume/tempo para o Grupo C; <b>conferir a versão vigente antes da residência</b> (número não acrescentado aqui)."
+   ],
+   [
+    "Sl. 42 × Apostila",
+    "Dengvaxia 9–45 anos (slide) × 6–45 anos (Apostila MEDCURSO PED 3)",
+    "Prova = 9–45. Qdenga sem faixa no slide (apostila: 4–60; PNI 10–14)."
+   ],
+   [
+    "Sl. 42",
+    "Qdenga “aprovada em março pela ANVISA” (ano não escrito)",
+    "Aula de 2º semestre de 2023 (slide 2); ano não completado."
+   ],
+   [
+    "Sl. 6",
+    "“Mais de 1.400 casos de dengue grave / mais de 1.000 mortes” repetidos duas vezes",
+    "Duplicação do slide; tratados como os números de 2022."
+   ],
+   [
+    "Sl. 7",
+    "“Flaviviradae”",
+    "Grafia correta: <i>Flaviviridae</i>."
+   ],
+   [
+    "Sl. 8, 12",
+    "Sexo feminino e raça branca como fatores de risco; “mais frequente em mulheres”",
+    "Mantido como dito."
+   ],
+   [
+    "S27 (c)",
+    "“As Vacinas — Parte 02” é duplicata da Parte 01",
+    "Sem o arquivo real, não há aula MEDCURSO sobre Qdenga/Dengvaxia; usada a apostila-texto."
+   ],
+   [
+    "Acervo",
+    "Sem videoaula de dengue; apostilas PED 4/5 sem capítulo de dengue",
+    "Clínica e hidratação da dengue: fonte única = slides."
+   ]
+  ]
+ },
+ {
+  "n": 7,
+  "nome": "Hepatites virais",
+  "file": "Cap7_Hepatites_virais",
+  "pag": 23,
+  "cards": 88,
+  "min": 18,
+  "qs": [
+   {
+    "h": "Questão 1 · Marcadores",
+    "stem": "Adolescente de 16 anos, 58 kg, com icterícia, colúria e mal-estar há uma semana. Sorologia: HBsAg reagente, anti-HBc IgM reagente, anti-HBs não reagente. Qual a interpretação?",
+    "alts": [
+     "Hepatite B crônica em fase de replicação.",
+     "Hepatite B aguda.",
+     "Imunidade por vacinação prévia.",
+     "Infecção passada curada."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> HBsAg + anti-HBc IgM = hepatite B aguda <span class=\"ct\">Sl. 16</span>.</p><p><b>A</b>: crônica exige anti-HBc <b>IgG/total</b> com HBsAg persistente &gt; 6 meses <span class=\"ct\">Sl. 14, 16</span>; replicação se lê pelo HBeAg. <b>C</b>: o vacinado tem <b>só anti-HBs</b> <span class=\"ct\">S27 P1 16:45–17:39</span>. <b>D</b>: na infecção curada o HBsAg já negativou.</p>"
+   },
+   {
+    "h": "Questão 2 · Vacinado × curado",
+    "stem": "Estudante de medicina de 20 anos faz sorologia pré-estágio: HBsAg não reagente, anti-HBc total não reagente, anti-HBs reagente. O que isso significa?",
+    "alts": [
+     "Infecção passada curada.",
+     "Janela imunológica; repetir em 6 meses.",
+     "Imunidade vacinal.",
+     "Suscetível; precisa vacinar."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> A vacina contém só o HBsAg, então gera <b>apenas anti-HBs</b> <span class=\"ct\">S27 P1 16:45–17:39</span>.</p><p><b>A</b>: quem teve a infecção tem <b>anti-HBc</b>, porque viu o core. <b>B</b>: na janela o anti-HBc (IgM) está positivo. <b>D</b>: anti-HBs reagente = protegido.</p>"
+   },
+   {
+    "h": "Questão 3 · RN exposto à hepatite B",
+    "stem": "RN a termo, 3.100 g, nascido de parto vaginal há 2 horas; mãe HBsAg reagente e HBeAg não reagente no pré-natal. Qual a conduta?",
+    "alts": [
+     "Só a vacina, porque a mãe é HBeAg negativa e o risco é baixo.",
+     "Dosar HBsAg do RN e decidir conforme o resultado.",
+     "Vacina hepatite B + imunoglobulina (IGHAHB), em grupamentos musculares diferentes, o quanto antes.",
+     "Imunoglobulina agora e vacina só após 30 dias, para não haver interferência.",
+     "Contraindicar o aleitamento materno."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Criança exposta: <b>vacina + IGHAHB</b>, preferencialmente nas primeiras 24 h (slide) — ou 12 h (MEDCURSO) <span class=\"ct\">Sl. 17</span> <span class=\"ct\">S27 P1 21:17–22:44</span>.</p><p><b>A</b>: mesmo HBeAg negativa, o risco chega a <b>10–40%</b> <span class=\"ct\">Sl. 12</span>; a indicação independe do HBeAg. <b>B</b>: no RN não se dosa HBsAg — resultado transitório <span class=\"ct\">Sl. 14</span>. <b>D</b>: vacina não viva não sofre interferência; aplica-se tudo junto <span class=\"ct\">S27 P1 21:17–22:44</span>. <b>E</b>: HBsAg+ não contraindica amamentar <span class=\"ct\">Apostila PED 2</span>.</p>"
+   },
+   {
+    "h": "Questão 4 · Hepatite C no lactente",
+    "stem": "Lactente de 5 meses, 7 kg, assintomático, filho de mãe com hepatite C crônica. Sorologia anti-HCV reagente. Qual a interpretação e a conduta?",
+    "alts": [
+     "Hepatite C confirmada; encaminhar para tratamento.",
+     "Infecção passada autolimitada; alta.",
+     "O anticorpo pode ser IgG materna; o diagnóstico depende do RNA-VHC por PCR.",
+     "Vacinar contra hepatite C e repetir a sorologia aos 18 meses."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Abaixo de <b>18 meses</b>, anti-HCV pode ser IgG da mãe (atravessa a placenta) → <b>PCR</b> com 3 meses e repetir 6 a 12 meses após <span class=\"ct\">Sl. 21–22</span>.</p><p><b>A</b> e <b>B</b>: o anticorpo sozinho não separa infecção de passagem materna — o PCR é que diz “vírus circulante” <span class=\"ct\">Sl. 21</span>. <b>D</b>: <b>não há vacina</b> contra hepatite C <span class=\"ct\">Sl. 22</span>.</p>"
+   },
+   {
+    "h": "Questão 5 · Hepatite A",
+    "stem": "Menino de 4 anos, 16 kg, frequenta creche. Três colegas e a professora de 35 anos tiveram hepatite A no último mês; a professora ficou ictérica, as crianças não. Sobre a hepatite A, é correto:",
+    "alts": [
+     "As crianças que não ficaram ictéricas não foram infectadas.",
+     "Cerca de 70% dos menores de 6 anos são assintomáticos, e a doença não cronifica.",
+     "A transmissão é principalmente sanguínea.",
+     "O anti-HAV IgG positivo confirma infecção aguda."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Assintomática em <b>70%</b> dos &lt; 6 anos e em só 30% dos maiores e adultos; <b>não cronifica</b> <span class=\"ct\">Sl. 5, 7</span>.</p><p><b>A</b>: a criança pequena é justamente o reservatório silencioso. <b>C</b>: é <b>fecal-oral</b>; sangue só raramente <span class=\"ct\">Sl. 6</span>. <b>D</b>: agudo = <b>IgM</b>; IgG positiva por toda a vida = infecção passada ou vacina <span class=\"ct\">Sl. 8</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Vacinas",
+    "stem": "Sobre as vacinas de hepatite no calendário do SUS, é correto:",
+    "alts": [
+     "Hepatite A: duas doses, aos 12 e aos 18 meses.",
+     "Hepatite B: dose ao nascer e depois aos 2, 4 e 6 meses na forma da pentavalente.",
+     "Hepatite B: não se aplica em prematuros até atingirem 2 kg.",
+     "Hepatite B: criança de 8 anos não vacinada recebe três doses de pentavalente."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Ao nascer, repetir aos 2, 4 e 6 meses (pentavalente) <span class=\"ct\">Sl. 17</span>.</p><p><b>A</b>: duas doses em 12–18 m é o calendário <b>SBP/SBIm</b>; no SUS, <b>dose única aos 15 meses</b> <span class=\"ct\">Sl. 8</span>. <b>C</b>: o peso mínimo de 2 kg é regra da <b>BCG</b>; o prematuro &lt; 33 semanas recebe <b>4 doses</b> de hepatite B <span class=\"ct\">S27 P1 09:58–13:24 · 18:05–19:02</span>. <b>D</b>: penta só até 7 anos; depois, hepatite B isolada <b>0-1-6</b> <span class=\"ct\">S27 P1 20:00–20:47</span>.</p>"
+   },
+   {
+    "h": "Questão 7 · Diagnóstico diferencial",
+    "stem": "Lactente de 5 semanas, 4 kg, em aleitamento exclusivo, ictérico desde a 2ª semana, com urina escura e fezes esbranquiçadas. Mãe HBsAg negativa. Qual a prioridade?",
+    "alts": [
+     "Diagnosticar icterícia do leite materno e manter observação.",
+     "Solicitar sorologia para hepatite A.",
+     "Dosar bilirrubina total e frações e investigar atresia de vias biliares com urgência.",
+     "Fototerapia e reavaliação em 48 horas."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Colúria + acolia = bilirrubina direta; BD &gt; 1 = colestase; AVB é urgência — Kasai sem benefício a partir de 8 semanas <span class=\"ct\">S08 39:19–39:45 · 43:41–43:56</span>.</p><p><b>A</b>: a icterícia do leite materno aumenta só a <b>indireta</b> <span class=\"ct\">S08 1:02:37–1:03:44</span>. <b>B</b>: não é o primeiro suspeito no lactente de 5 semanas. <b>D</b>: fototerapia trata bilirrubina indireta, não colestase.</p>"
+   },
+   {
+    "h": "Questão 8 · Abordagem por idade",
+    "stem": "Criança de 3 anos, 14 kg, com HBsAg reagente em exame de rotina, filha de mãe portadora. Assintomática. Qual o próximo passo para confirmar infecção crônica, segundo a aula?",
+    "alts": [
+     "Nenhum: HBsAg positivo aos 3 anos já é crônico.",
+     "Dosar anti-HBs.",
+     "Repetir o HBsAg em 6 meses.",
+     "Vacinar imediatamente e repetir a sorologia."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Acima de 12 meses, dosar HBsAg e <b>repetir em 6 meses</b> após o primeiro positivo para confirmar cronicidade <span class=\"ct\">Sl. 14</span>.</p><p><b>A</b>: crônica = HBsAg persistente; um exame isolado não prova persistência. <b>B</b>: anti-HBs é marcador de imunidade. <b>D</b>: vacina previne, não trata quem já tem o antígeno.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Hepatite A",
+    "t": "Fecal-oral, saneamento; viremia do início dos sintomas ao fim da icterícia; assintomática em 70% dos &lt; 6 anos (30% dos maiores/adultos); tríade colúria-hipocolia-icterícia; cura 30–40 dias; 15% prolongada &lt; 6 meses; não cronifica; IgM a partir de 5–10 dias por 1–2 meses; IgG por toda a vida; vacina SUS dose única 15 m, SBP/SBIm 2 doses 12–18 m."
+   },
+   {
+    "k": "B · Hepatite B",
+    "t": "300 milhões (OMS); agudo 15–39 anos; 2 milhões de casos novos/ano por TV; HBeAg = mais infectante; sangue, sêmen e saliva; na criança perinatal e intrafamiliar (14–60%); mãe HBsAg+/HBeAg+ 70–90%, HBeAg− 10–40%; crônicas vêm da infância → cirrose e câncer."
+   },
+   {
+    "k": "C · Marcadores",
+    "t": "Aguda = HBsAg + anti-HBc IgM; crônica = HBsAg + anti-HBc IgG/total (às vezes HBeAg/anti-HBe); anti-HBs = imunidade (vacinado só anti-HBs); PCR só para quem vai tratar; &lt; 6 m não dosar; 6–12 m exposto HBsAg + DNA; &gt; 12 m HBsAg e repetir em 6 meses."
+   },
+   {
+    "k": "D · Prevenção B",
+    "t": "Ao nascer + penta 2-4-6; adolescentes até 19 anos e risco (slide) × toda a população (MEDCURSO); RN exposto: vacina + IGHAHB, preferencialmente 24 h (slide) / 12 h (MEDCURSO), músculos diferentes; &lt; 33 sem 4 doses; ≥ 7 anos 0-1-6."
+   },
+   {
+    "k": "E · Hepatite C",
+    "t": "Não A-não B; mutações → sem imunidade; &gt; 80% cronifica; raramente aguda; vertical é a via da criança (cesárea, sangue materno, alta viremia 5%, HIV 10%); anti-HCV 20–150 dias = contato; RNA 7–21 dias = vírus; &lt; 18 m: PCR com 3 m e repetir 6–12 m após; viremia pode ceder até 3–4 anos; sem vacina."
+   },
+   {
+    "k": "F · Diferencial",
+    "t": "Urina escura + fezes claras = BD; BD &gt; 1 = colestase; AVB → Kasai antes de 8 semanas."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> <b>Marcadores da hepatite B:</b> aguda = <b>HBsAg + anti-HBc IgM</b>; crônica = <b>HBsAg + anti-HBc IgG (ou total)</b> — é o único slide inteiro em negrito <span class=\"ct\">Sl. 16</span>. <b>(2)</b> <b>RN de mãe HBsAg+:</b> <b>vacina + imunoglobulina (IGHAHB)</b>, preferencialmente nas primeiras 24 h, em músculos diferentes <span class=\"ct\">Sl. 17</span> <span class=\"ct\">S27 P1 21:17–22:44</span>. <b>(3)</b> <b>Hepatite C no lactente:</b> anti-HCV positivo antes dos 18 meses pode ser <b>IgG da mãe</b> → quem decide é o <b>PCR (RNA-VHC)</b> — os trechos em vermelho da aula <span class=\"ct\">Sl. 21–22</span>. <b>(4)</b> Quanto mais cedo a infecção pelo B, <b>maior a cronificação</b>: mãe HBsAg+/HBeAg+ → <b>70–90%</b> <span class=\"ct\">Sl. 12, 15</span>. <b>(5)</b> Hepatite A <b>não cronifica</b> e é assintomática em <b>70% dos menores de 6 anos</b> <span class=\"ct\">Sl. 5, 7</span>.</p>",
+  "pts": [
+   [
+    "Sl. 12",
+    "Título “Risco de Hep Crônica”, faixa “Transmissão perinatal”, valores 70–90% e “10-40%%”",
+    "Não fica claro se é risco de <b>transmissão</b> ou de <b>hepatite crônica</b> no filho; adotado o título do slide. “%%” = erro de digitação."
+   ],
+   [
+    "Sl. 12 × apostila",
+    "70–90% / 10–40% (slide) × 90% / 10% (apostila MEDCURSO PED 3)",
+    "Na prova, os números do slide."
+   ],
+   [
+    "Sl. 17 × S27",
+    "IGHAHB “preferencialmente nas primeiras 24 hs” × vacina em 12 h (S27 P1 19:02) e vacina + IG em 12 h, IG até 7 dias (apostila)",
+    "<b>Divergência</b>; prova da faculdade: 24 h; residência: protocolo vigente. A videoaula <b>não</b> dá prazo da IG."
+   ],
+   [
+    "Sl. 17 × S27",
+    "Vacina “para adolescentes até 19 anos, para todos os pacientes de risco” × “toda a população, inclusive idoso” (S27 P1 17:41)",
+    "Slide de 2023, anterior à universalização; residência: toda a população."
+   ],
+   [
+    "Sl. 17",
+    "“Para todas as crianças expostas na GESTAÇÃO”",
+    "Lido como filho de mãe <b>HBsAg+</b> (critério da apostila MEDCURSO)."
+   ],
+   [
+    "Apostila PED 3",
+    "IGHAHB 0,5 mL no RN; 0,06 mL/kg (máx. 5 mL) nas demais idades",
+    "Único dado de dose de IG; fonte é texto sem vídeo — conferir no PCDT/CRIE."
+   ],
+   [
+    "Apostila PED 2",
+    "Imunoglobulina padrão 0,02 a 0,04 mL/kg IM (mãe com hepatite A aguda)",
+    "Só da apostila-texto; conferir."
+   ],
+   [
+    "Sl. 11",
+    "“Apenas sangue, sêmen e saliva são infecciosos”",
+    "A apostila MEDCURSO cita também <b>secreção vaginal</b>; mantido o slide."
+   ],
+   [
+    "Sl. 7",
+    "“Assintomático em 70% dos &lt;6 anos / 30% das crianças maiores e adultos”",
+    "Lido como: assintomáticos em 30% dos maiores/adultos (coerente com “adultos frequentemente sintomáticos”, Sl. 5)."
+   ],
+   [
+    "Sl. 14 × protocolo",
+    "Exposto de 6–12 meses: HBsAg e VHB-DNA",
+    "Protocolos usam sorologia pós-vacinal em idade definida — idade não está no acervo; não escrita."
+   ],
+   [
+    "Sl. 20",
+    "Cesariana = maior risco de transmissão do HCV",
+    "Diverge das diretrizes usuais (via de parto não indicada para prevenção); mantido como dito."
+   ],
+   [
+    "Sl. 20",
+    "“mãe com alta viremia (5% de transmissão) ou coinfectada pelo HIV (10%)”",
+    "Não fica claro se 5% é a taxa geral ou a da alta viremia; adotada a leitura literal."
+   ],
+   [
+    "Sl. 22",
+    "“fazer com 3m / repetir 6 a 12 meses após”",
+    "Ambíguo: “6–12 meses após o 1º PCR” ou “aos 6–12 meses de idade”. Reproduzido literalmente."
+   ],
+   [
+    "Sl. 21–22",
+    "VHC / HCV / HVC; “Acs anti-VHC”; “RNA-HVC”",
+    "Mesma sigla (vírus da hepatite C); padronizado anti-HCV e RNA-VHC."
+   ],
+   [
+    "Sl. 19",
+    "“risco intermediário” para filhos de mãe infectada",
+    "Sem número no slide; mantido."
+   ],
+   [
+    "S27 P1 20:21",
+    "Esquema “0, 16”",
+    "0-1-6, pela explicação da própria professora."
+   ],
+   [
+    "Acervo",
+    "Sem videoaula de hepatites virais",
+    "Lacunas: clínica da B aguda, fulminante, D e E, tratamento, HCV na gestante."
+   ]
+  ]
+ },
+ {
+  "n": 8,
+  "nome": "Meningites",
+  "file": "Cap8_Meningites",
+  "pag": 27,
+  "cards": 108,
+  "min": 18,
+  "qs": [
+   {
+    "h": "Questão 1 · Conduta inicial",
+    "stem": "Lactente de 8 meses, 8 kg, vacinação atrasada, com febre há 1 dia, vômitos, irritabilidade e choro ao ser pego no colo. Ao exame: fontanela anterior abaulada, sem petéquias, hemodinamicamente estável, sem sinais focais. Qual a conduta mais adequada?",
+    "alts": [
+     "Tomografia de crânio antes de qualquer outra medida e punção só após o resultado.",
+     "Amoxicilina oral e reavaliação em 48 horas.",
+     "Hemocultura, punção lombar imediata e início de ceftriaxona associada a vancomicina.",
+     "Ampicilina associada a gentamicina após o resultado do líquor."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Lactente &gt; 2 meses com quadro de infecção do SNC (fontanela abaulada, Sl. 17–20), estável e sem sinais focais: não há exceção à punção imediata <span class=\"ct\">Sl. 22</span>; empírico = C3G + vancomicina <span class=\"ct\">Sl. 30</span>.</p><p><b>A</b>: sem sinais focais nem HIC evidente, a imagem só atrasa — e atraso de 3–6 h aumenta mortalidade <span class=\"ct\">Sl. 23</span>. <b>B</b>: via oral e espera são inaceitáveis numa emergência <span class=\"ct\">Sl. 4</span>. <b>D</b>: ampicilina + aminoglicosídeo é a 2ª opção do <b>período neonatal</b>, e antibiótico não espera o resultado <span class=\"ct\">Sl. 22, 30</span>.</p>"
+   },
+   {
+    "h": "Questão 2 · Leitura do líquor",
+    "stem": "Menino de 5 anos, 18 kg, febre alta, cefaleia, vômitos e rigidez de nuca há 12 horas. Líquor turvo: 2.800 leucócitos/mm³ com 90% de neutrófilos, proteína 180 mg/dL, glicose 20 mg/dL, bacterioscopia com diplococos. A interpretação é:",
+    "alts": [
+     "Meningite viral em fase inicial.",
+     "Meningite bacteriana.",
+     "Meningite tuberculosa.",
+     "Líquor normal para a idade com acidente de punção."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Leucócitos &gt; 1.000, neutrófilos, proteína 100–200 mg/dL, glicose &lt; 30 e bacterioscopia positiva: coluna bacteriana <span class=\"ct\">Sl. 26</span>.</p><p><b>A</b>: viral tem &lt; 1.000 células, glicose normal e bacterioscopia negativa — neutrófilos precoces não explicam glicose 20 nem diplococos. <b>C</b>: tuberculosa tem aumento leve (20–500) com linfócitos. <b>D</b>: acidente de punção dá sangue, não pus com consumo de glicose.</p>"
+   },
+   {
+    "h": "Questão 3 · Tuberculosa e BCG",
+    "stem": "Criança de 2 anos, 11 kg, não vacinada, com 3 semanas de febre, irritabilidade e sonolência progressiva, avó em tratamento para tuberculose. Líquor: 250 células com predomínio de linfócitos, proteína muito elevada e glicose baixa. Sobre o caso, é correto:",
+    "alts": [
+     "O perfil é típico de meningite viral e dispensa investigação adicional.",
+     "A bacterioscopia pelo Ziehl-Neelsen é positiva na grande maioria dos casos.",
+     "É uma meningite tuberculosa, forma grave que a BCG aplicada ao nascer visa prevenir.",
+     "A BCG não tem relação com meningite, pois só previne a tuberculose pulmonar do adulto."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Aumento leve de células, linfócitos, proteína bastante elevada e glicose diminuída = tuberculosa <span class=\"ct\">Sl. 26</span>; a BCG protege contra as <b>formas graves — miliar e meníngea</b> <span class=\"ct\">S27 P01 02:22–03:38</span>.</p><p><b>A</b>: glicose baixa e proteína muito alta afastam a viral. <b>B</b>: Ziehl-Neelsen é positivo em só <b>30%</b> <span class=\"ct\">Sl. 26</span>. <b>D</b>: é o oposto do que a vacina faz.</p>"
+   },
+   {
+    "h": "Questão 4 · Recém-nascido",
+    "stem": "Recém-nascido de 20 dias, 3,4 kg, com hipotermia, recusa alimentar, gemência e icterícia. Sem rigidez de nuca; fontanela normotensa. Líquor com pleocitose neutrofílica. Qual o esquema empírico indicado pela professora?",
+    "alts": [
+     "Ceftriaxona associada a vancomicina.",
+     "Ampicilina associada a cefotaxima.",
+     "Vancomicina isolada.",
+     "Não tratar: sem febre e sem rigidez de nuca, meningite está afastada."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Até 60 dias: ampicilina (<i>Listeria</i>, GBS) + cefotaxima (enterobactérias) <span class=\"ct\">Sl. 5, 30</span>.</p><p><b>A</b>: esquema para &gt; 2 meses; ceftriaxona desloca bilirrubina no RN ictérico (conhecimento geral). <b>C</b>: vancomicina isolada tem <b>baixa penetração liquórica</b> <span class=\"ct\">Sl. 32</span>. <b>D</b>: no RN, febre e rigidez de nuca <b>nem sempre</b> aparecem; hipotermia e recusa alimentar são manifestações típicas <span class=\"ct\">Sl. 17</span>.</p>"
+   },
+   {
+    "h": "Questão 5 · Profilaxia do meningococo",
+    "stem": "Escolar de 7 anos, 20 kg, vacinado com meningo C, dorme no mesmo quarto do irmão internado ontem com doença meningocócica. Qual a conduta para o escolar?",
+    "alts": [
+     "Nenhuma, pois é vacinado contra meningococo C.",
+     "Rifampicina 20 mg/kg (400 mg) uma vez ao dia por 4 dias.",
+     "Rifampicina 10 mg/kg (200 mg) de 12/12 horas por 2 dias.",
+     "Ciprofloxacina 500 mg em dose única."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Contato domiciliar recebe profilaxia <b>independentemente do estado vacinal</b>; rifampicina 10 mg/kg (máx. 600 mg) 12/12 h por 2 dias <span class=\"ct\">Sl. 38</span>.</p><p><b>A</b>: o slide é explícito sobre o estado vacinal — e a vacina C não cobre o B. <b>B</b>: é o esquema do <b>Hib</b> <span class=\"ct\">Sl. 39</span>. <b>D</b>: ciprofloxacina é para <b>≥ 18 anos</b> <span class=\"ct\">Sl. 38</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Profilaxia do Hib",
+    "stem": "Menina de 3 anos, 14 kg, com meningite por <i>H. influenzae</i> tipo b. Na casa moram os pais, uma irmã de 9 anos e um irmão de 18 meses que recebeu só uma dose de penta. Quem deve receber quimioprofilaxia?",
+    "alts": [
+     "Apenas o irmão de 18 meses.",
+     "Todos os contatos domiciliares, com rifampicina 20 mg/kg (máx. 600 mg) uma vez ao dia por 4 dias.",
+     "Ninguém, pois profilaxia só se aplica ao meningococo.",
+     "Todos, com rifampicina 10 mg/kg de 12/12 horas por 2 dias."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Há um contato &lt; 4 anos <b>parcialmente vacinado</b> → profilaxia para <b>todos</b> os contatos domiciliares íntimos, de qualquer idade <span class=\"ct\">Sl. 39</span>.</p><p><b>A</b>: o critério define a casa, não só a criança pequena. <b>C</b>: o slide 39 é inteiro sobre Hib. <b>D</b>: é a dose do meningococo <span class=\"ct\">Sl. 38</span>.</p>"
+   },
+   {
+    "h": "Questão 7 · Corticoide",
+    "stem": "Sobre a dexametasona na meningite bacteriana da criança, segundo a aula, é correto:",
+    "alts": [
+     "Reverte as lesões do SNC já estabelecidas, por isso pode ser iniciada no 3º dia.",
+     "É indicada em recém-nascidos a partir do 7º dia de vida.",
+     "0,15 mg/kg/dose IV de 6/6 h por 2 dias, acima de 6 semanas de vida, reduz perda auditiva grave e sequelas.",
+     "Está indicada na meningite viral para reduzir edema cerebral."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Texto do slide 35 <span class=\"ct\">Sl. 35</span>.</p><p><b>A</b>: “previne, mas <b>não reverte</b>” — daí o uso junto ao antibiótico. <b>B</b>: idade mínima é <b>6 semanas</b>. <b>D</b>: indicação na <b>meningite bacteriana</b> (“MB”).</p>"
+   },
+   {
+    "h": "Questão 8 · Quando não puncionar",
+    "stem": "Menino de 4 anos, 16 kg, febre há 8 horas, petéquias e púrpuras que não desaparecem à digitopressão, tempo de enchimento capilar prolongado e hipotensão. Qual a conduta?",
+    "alts": [
+     "Punção lombar imediata; o antibiótico só depois do líquor para não negativar a cultura.",
+     "Suporte (acesso, SF 20 mL/kg em 5–10 min, UTI), hemocultura e antibiótico imediato; punção adiada.",
+     "Observação por 6 horas para ver a evolução das lesões.",
+     "Corticoide isolado e punção após estabilização."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Hipotensão é exceção à punção imediata, “mas nunca postergar tratamento” <span class=\"ct\">Sl. 22</span>; suporte com SF 20 mL/kg <span class=\"ct\">Sl. 29</span>. Púrpura + choque = doença meningocócica <span class=\"ct\">Sl. 15</span>.</p><p><b>A</b>: inverte a prioridade; antígenos e PCR continuam úteis após o antibiótico <span class=\"ct\">Sl. 27</span>. <b>C</b>: atraso de 3–6 h aumenta mortalidade <span class=\"ct\">Sl. 23</span>. <b>D</b>: corticoide não substitui antibiótico.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Epidemiologia",
+    "t": "Inflamação das leptomeninges; &lt; 5 anos, sobretudo 3–12 meses; maioria viral; não tratada ≈ 100% de mortalidade; Brasil 2007–2020: 265.644 casos (121.955 virais, 87.993 bacterianas); meningococo lidera, C predomina mas o B cresce e já domina em 0–4 anos; Hib −95% com a vacina (1999); pneumo ↓ em &lt; 2 anos com a VPC10 (2010), letalidade 26,9–31,1%."
+   },
+   {
+    "k": "B · Etiologia",
+    "t": "Até 2 meses: enterobactérias, GBS, <i>Listeria</i>; &gt; 2 meses: meningococo, Hib, pneumococo; 6–21 anos: meningococo e pneumococo. Asplenia/falciforme/complemento → encapsuladas; DVP/neurocirurgia → estafilococos e <i>Pseudomonas</i>. Via principal: hematogênica a partir da nasofaringe."
+   },
+   {
+    "k": "C · Clínica",
+    "t": "Hib insidioso; pneumo e meningo abruptos; tríade febre, cefaleia, vômitos; convulsão precoce em 20–30% sem pior prognóstico; 60% das meningocócicas com petéquias/púrpura; RN: inespecífico, febre e rigidez nem sempre, 1/3 fontanela abaulada, convulsões 40%; Kernig e Brudzinski."
+   },
+   {
+    "k": "D · Líquor",
+    "t": "Punção imediata, exceto instabilidade, sinais focais/HIC, coagulopatia — nunca postergar antibiótico (atraso &gt; 3–6 h mata). Bacteriana: &gt; 1.000, neutrófilos, proteína 100–200, glicose &lt; 30, Gram + em 85%. Viral: &lt; 1.000, linfócitos, glicose normal. TB: 20–500, linfócitos, proteína &gt; 100, glicose baixa, ZN + 30%. Antígenos 70–90%; hemocultura até 90%."
+   },
+   {
+    "k": "E · Tratamento",
+    "t": "SF 20 mL/kg em 5–10 min; até 60 dias: ampicilina + cefotaxima; &gt; 2 meses: C3G + vancomicina (nunca vanco só); ceftriaxona 100 mg/kg/dia 12/12 h, cefotaxima 200 e ampicilina 200–300 mg/kg/dia 6/6 h, vanco 60 mg/kg/dia 6/6 h; duração meningo 5–7, Hib 7–10, pneumo 10–14, gram-negativo 21 dias; dexametasona 0,15 mg/kg/dose 6/6 h × 2 dias acima de 6 semanas."
+   },
+   {
+    "k": "F · Prevenção",
+    "t": "Meningo: todo contato íntimo dos 7 dias prévios, vacinado ou não — rifampicina 10 mg/kg (máx 600) 12/12 h × 2 d (RN 5 mg/kg), ceftriaxona 125/250 mg IM, cipro 500 mg ≥ 18 anos, azitro 10 mg/kg. Hib: casa com &lt; 4 anos não/parcialmente vacinado — rifampicina 20 mg/kg (máx 600) 1×/dia × 4 d. Precaução 24–48 h. Vacinas: meningo C 3-5-12 m, penta 2-4-6 m, pneumo 10 2-4 + 12 m; BCG contra a tuberculosa."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> <b>Agente por faixa etária</b> e o <b>antibiótico empírico</b> correspondente: até 2 meses = ampicilina + cefalosporina de 3ª geração; acima de 2 meses = ceftriaxona/cefotaxima <b>+ vancomicina</b> (destacada em vermelho no slide 30). <b>(2)</b> A <b>tabela do líquor</b> viral × bacteriano × tuberculoso (slide 26). <b>(3)</b> “Exame de líquor imediatamente, <b>exceto</b>…” — e, em vermelho e sublinhado, <b>“MAS NUNCA POSTERGAR TRATAMENTO”</b> (slide 22). <b>(4)</b> <b>Quimioprofilaxia</b>: quem recebe e as doses de rifampicina (sublinhadas no slide 39). <b>(5)</b> Dexametasona: dose, duração e idade mínima.</p>",
+  "pts": [
+   [
+    "Sl. 6",
+    "“5581 mortes (taxa de letalidade 20%)” sobre 265.644 casos",
+    "<b>Divergência interna</b>: 5.581/265.644 ≈ 2,1%; 20% daria ~53 mil óbitos. Um dos dois números está errado; <b>nenhum foi corrigido</b>."
+   ],
+   [
+    "Sl. 6",
+    "Sorogrupos C 8.811 + B 2.662 + W 815 + Y 215",
+    "Somam 12.503 dos 26.436 meningocócicos; o slide não explica o restante."
+   ],
+   [
+    "Sl. 5",
+    "“(90%)” para <i>N. meningitidis</i> em “acima de 2 meses” e em “6–21 anos”",
+    "Sentido do percentual não explicado; faixas sobrepostas. Mantido como está."
+   ],
+   [
+    "Sl. 5",
+    "“Aerobacter”",
+    "Nome antigo de <i>Enterobacter</i>."
+   ],
+   [
+    "Sl. 7 (imagem)",
+    "Gráfico de sorogrupos 2010–2021, sem fonte, região nem valores escritos; título diz “meningites”",
+    "É sorogrupo meningocócico. Percentuais do texto (B ~10% → ~60%; C ~80%) são <b>leitura visual aproximada</b>. Legenda “29E” mantida."
+   ],
+   [
+    "Sl. 8",
+    "Sequências de letras por faixa etária (MG 2014–2018)",
+    "Leitura “uma letra por caso” é provável, não dita. Contagens pela camada de texto (0–4 anos: 6 B, 4 W, 2 C); na imagem o bloco W parece ter 4–5 letras."
+   ],
+   [
+    "Sl. 9",
+    "“Letalitade… 26,9–31,1%”",
+    "Erro de digitação; valores mantidos."
+   ],
+   [
+    "Sl. 14 × 17",
+    "Convulsões 20–30% × 40% (neonatal/lactente)",
+    "Populações diferentes; ambos mantidos."
+   ],
+   [
+    "Sl. 26",
+    "Unidades “mg/dl” e “mg/100 ml”; TB “aumento leve 20 a 500”",
+    "Mesma unidade. Sem valores normais nem relação glicose LCR/sangue no slide."
+   ],
+   [
+    "Sl. 26 × PED 5",
+    "Viral “&lt; 1.000” × apostila “em geral &lt; 500”; neutrófilos nas primeiras 48 h",
+    "Na prova, o corte da professora (&lt; 1.000)."
+   ],
+   [
+    "Sl. 30 × 33",
+    "Ampicilina aparece em “Doses maiores de 2 meses”, mas o empírico &gt; 2 meses não a inclui",
+    "Dose mantida; uso presumido após cultura (<i>Listeria</i>) — não dito."
+   ],
+   [
+    "Sl. 33",
+    "“cefatoxima”; sem dose máxima diária; sem doses neonatais",
+    "= cefotaxima. Máximos <b>não acrescentados</b>."
+   ],
+   [
+    "Sl. 29",
+    "Manitol sem dose; anticonvulsivantes sem dose",
+    "Nenhuma dose acrescentada."
+   ],
+   [
+    "Sl. 35",
+    "Dexametasona “&gt; 6 semanas” × esquema neonatal “até 60 dias”",
+    "Sobreposição de 6 a 8 semanas; o slide não diz o momento (antes/junto à 1ª dose) — explicação marcada como fora do slide."
+   ],
+   [
+    "Sl. 38",
+    "“até 24 horas depois do contágio. (muito pouco valor após 2 semanas)”",
+    "Frase ambígua (contágio? diagnóstico do caso índice?). <b>Não reinterpretada</b>; perguntar à professora."
+   ],
+   [
+    "Sl. 38",
+    "RN: “5 mg/kg de 12/12 hs”, sem duração",
+    "Duração não acrescentada."
+   ],
+   [
+    "Sl. 38",
+    "Ceftriaxona 125 mg &lt; 15 anos / 250 mg ≥ 15 anos",
+    "Corte etário da professora; conferir o Guia de Vigilância vigente antes da residência."
+   ],
+   [
+    "Sl. 39",
+    "Frases truncadas: “…60 dias. Também é” e “A quimioprofilaxia”",
+    "Conteúdo perdido no próprio slide; <b>não reconstruído</b>."
+   ],
+   [
+    "Sl. 39",
+    "Hib: sem dose neonatal nem alternativa à rifampicina",
+    "Nada acrescentado."
+   ],
+   [
+    "Sl. 42 × PED 3",
+    "ACWY “11–12 anos incompletos” × “11 a 14 anos desde 2022”",
+    "<b>Na prova da faculdade vale o professor; na residência, o protocolo</b> (conferir calendário vigente)."
+   ],
+   [
+    "Sl. 43",
+    "“PNEUMO 13 aos 2.4 e 6 meses”",
+    "= 2, 4 e 6 meses."
+   ],
+   [
+    "Aula inteira",
+    "Notificação compulsória não aparece nos slides",
+    "Acrescentada como conhecimento geral, sem prazo numérico, marcada como fora da aula."
+   ],
+   [
+    "Bloco E",
+    "Ceftriaxona no RN (bilirrubina, cálcio) e momento da dexametasona",
+    "Explicações de conhecimento geral, sem número; não estão no slide."
+   ],
+   [
+    "S27 P02",
+    "Arquivo “As Vacinas — Parte 02” = cópia da Parte 01",
+    "Sem vídeo de meningo C/ACWY/B; lacuna coberta só pela apostila-texto PED 3. Pedir o .srt correto."
+   ],
+   [
+    "S27 Calend. 18:00",
+    "ACWY do adolescente citada sem faixa etária",
+    "Faixa não dita no vídeo."
+   ],
+   [
+    "S08",
+    "Aula só de classificação do RN",
+    "Sem sepse/meningite neonatal, GBS, <i>Listeria</i>, antibiótico — lacuna declarada."
+   ],
+   [
+    "Cap. 2",
+    "Meningococcemia dos slides 6–8 da Aula 2 sem timestamp MEDCURSO",
+    "Única menção no acervo: S41 B01 03:47–03:59, de passagem."
+   ],
+   [
+    "Acervo",
+    "Sem aula MEDCURSO de meningite",
+    "Etiologia, LCR, antibiótico, doses, dexametasona e profilaxia: <b>fonte única = slides</b>."
+   ]
+  ]
+ },
+ {
+  "n": 9,
+  "nome": "ITU",
+  "file": "Cap9_ITU",
+  "pag": 34,
+  "cards": 110,
+  "min": 20,
+  "qs": [
+   {
+    "h": "Questão 1 · Coleta",
+    "stem": "Lactente de 5 meses, 7 kg, sem controle esfincteriano, com febre de 39 °C há 2 dias, sem outros achados ao exame. A mãe pergunta como será colhida a urina para confirmar infecção urinária. Qual afirmação está correta?",
+    "alts": [
+     "O saco coletor é o método preferencial em menores de 2 anos, porque é o menos invasivo.",
+     "Urocultura por saco coletor com ≥ 100.000 UFC confirma a ITU.",
+     "Urocultura negativa colhida por saco coletor é confiável para afastar a ITU.",
+     "O cateterismo vesical está contraindicado em lactentes por risco de lesão uretral.",
+     "A punção suprapúbica deve ser evitada em diarreia e vulvovaginite."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> O saco coletor tem frequentes falsos-positivos, mas é <b>confiável quando negativo</b> <span class=\"ct\">Sl. 14</span> — alto valor preditivo negativo <span class=\"ct\">S36 38:01–39:33</span>.</p><p><b>A</b>: foi exatamente a alternativa incorreta de uma questão comentada no MEDCURSO <span class=\"ct\">S36 50:11–50:35</span>. <b>B</b>: positivo por saco é “muito difícil valorizar” — contaminação. <b>D</b>: o cateterismo é invasivo e pode lesar a mucosa, mas é método aceito (contraindicado na vulvovaginite/balanopostite). <b>E</b>: é o inverso — a punção é <b>indicada</b> justamente quando diarreia, vulvovaginite ou balanopostite tornam a coleta natural duvidosa.</p>"
+   },
+   {
+    "h": "Questão 2 · Interpretação da urocultura",
+    "stem": "Menina de 6 anos, 20 kg, com disúria e polaciúria há 2 dias, afebril. Urocultura por jato médio: 40.000 UFC/mL de <i>E. coli</i>. Segundo os critérios do slide 17, como interpretar?",
+    "alts": [
+     "ITU confirmada: qualquer crescimento de <i>E. coli</i> é significativo.",
+     "Negativo: é flora da uretra anterior.",
+     "Resultado duvidoso: repetir a urocultura.",
+     "Contaminação: indica coleta com duas cepas."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Entre <b>10.000 e 100.000 UFC</b> o exame é <b>duvidoso — repetir</b> <span class=\"ct\">Sl. 17</span>.</p><p><b>A</b>: “qualquer crescimento” vale para a <b>punção suprapúbica</b>, não para o jato médio <span class=\"ct\">S36 40:32–42:06</span>. <b>B</b>: negativo é &lt; 10.000. <b>D</b>: contaminação é sugerida por <b>duas ou mais cepas</b>, e aqui só há uma.</p>"
+   },
+   {
+    "h": "Questão 3 · Tratamento ambulatorial e dose",
+    "stem": "Menino de 3 anos, 14 kg, com febre de 38,8 °C, dor lombar, bom estado geral, hidratado, aceitando dieta. EAS com piúria, esterase e nitrito positivos; urocultura colhida. Pela tabela da professora, qual prescrição oral está correta?",
+    "alts": [
+     "Nitrofurantoína, pois concentra-se bem na urina.",
+     "Cefalexina 50–100 mg/kg/dia divididos em 4 doses, por 10 dias (7 a 14).",
+     "Aguardar o resultado da urocultura antes de iniciar o antibiótico.",
+     "Cefadroxil 50–100 mg/kg/dia em 4 doses.",
+     "Internar para ceftriaxona, pois toda pielonefrite exige tratamento parenteral."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Cefalexina <b>50–100 mg/kg/dia em 4 doses</b>, tratamento ambulatorial de <b>10 dias (7 a 14)</b> <span class=\"ct\">Sl. 23</span>.</p><p><b>A</b>: febre + dor lombar = pielonefrite; a nitrofurantoína não atinge o parênquima <span class=\"ct\">S36 55:59–57:03</span>. <b>C</b>: iniciar <b>logo após a coleta</b> — a demora é fator de risco para lesão renal <span class=\"ct\">Sl. 21</span>. <b>D</b>: cefadroxil é <b>30–50 mg/kg/dia em 2 doses</b>. <b>E</b>: criança sem toxemia, desidratação ou vômitos não tem indicação de internação <span class=\"ct\">Sl. 22</span>; “toda pielonefrite interna” é mito <span class=\"ct\">S36 51:16–52:02</span>.</p>"
+   },
+   {
+    "h": "Questão 4 · Recém-nascido",
+    "stem": "RN de 18 dias, 3,4 kg, com hipoatividade, recusa alimentar, icterícia e hipotermia. EAS com piúria. Qual a conduta mais adequada?",
+    "alts": [
+     "Tratamento ambulatorial com cefalexina e retorno em 48 horas.",
+     "Sulfametoxazol + trimetoprim VO, por ser o primeiro da tabela oral.",
+     "Internação, coleta de urocultura e ampicilina (ou penicilina) + aminoglicosídeo.",
+     "Aguardar a urocultura, pois o RN com ITU raramente tem bacteremia."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> RN é <b>ITU complicada ou potencialmente grave</b> → internar <span class=\"ct\">Sl. 22</span>; esquema: <b>penicilina ou ampicilina + aminoglicosídeo</b> <span class=\"ct\">Sl. 25</span>.</p><p><b>A/B</b>: RN não é tratado ambulatorialmente; e sulfa não se usa antes dos 2 meses (a própria profilaxia usa cefalexina nessa idade, Sl. 27). <b>D</b>: é o contrário — <b>alta probabilidade de bacteremia</b> e mortalidade de cerca de 10% <span class=\"ct\">Sl. 9</span>.</p>"
+   },
+   {
+    "h": "Questão 5 · Investigação",
+    "stem": "Menina de 3 anos, 14 kg, com segundo episódio de ITU febril tratado; USG prévia normal. O pediatra quer saber se já existe <b>cicatriz renal</b>. Qual exame?",
+    "alts": [
+     "Uretrocistografia miccional durante o tratamento.",
+     "Cintilografia renal estática com DMSA, fora da fase aguda.",
+     "Cintilografia com DTPA.",
+     "Nova ultrassonografia.",
+     "Urografia excretora."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> DMSA avalia <b>morfologia</b> e função quantitativa do parênquima <span class=\"ct\">Sl. 30</span> — “M de Morfológica” <span class=\"ct\">S36 1:07:34–1:08:14</span>; para cicatriz, <b>3 meses após a cura</b> (slide 34) ou 4–6 meses (MEDCURSO). Questão modelo no MEDCURSO <span class=\"ct\">S36 1:17:46–1:18:39</span>.</p><p><b>A</b>: UCM diagnostica <b>RVU</b>, e nunca durante o tratamento <span class=\"ct\">Sl. 29</span>. <b>C</b>: DTPA é dinâmica, avalia <b>obstrução</b>. <b>D</b>: USG é observador-dependente e pouco sensível para cicatriz e RVU. <b>E</b>: urografia é para malformações complexas, com muita radiação <span class=\"ct\">Sl. 32</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Profilaxia",
+    "stem": "Sobre a profilaxia antibiótica na ITU pediátrica, segundo a aula, assinale a correta.",
+    "alts": [
+     "Está indicada em todo RVU, inclusive graus I e II isolados.",
+     "Em lactentes com menos de 2 meses, o fármaco de escolha é a nitrofurantoína.",
+     "As metanálises mostram que reduz a formação de novas cicatrizes renais.",
+     "Está indicada na anomalia obstrutiva até a correção cirúrgica e no RVU graus III a V.",
+     "Usa doses terapêuticas plenas por 10 dias após cada episódio."
+    ],
+    "ok": 3,
+    "why": "<p><b>D.</b> Itens 2 e 3 do slide 26.</p><p><b>A</b>: RVU I–II só com <b>ITU de repetição ou cintilografia alterada</b>. <b>B</b>: &lt; 2 meses = <b>cefalexina</b>; nitrofurantoína ou SMX-TMP &gt; 2 meses <span class=\"ct\">Sl. 27</span>. <b>C</b>: reduz ITU sintomática, <b>não</b> novas cicatrizes <span class=\"ct\">Sl. 27</span>. <b>E</b>: profilaxia é por definição <b>subterapêutica</b> <span class=\"ct\">Sl. 26</span>.</p>"
+   },
+   {
+    "h": "Questão 7 · Lesão renal e válvula de uretra posterior",
+    "stem": "Menino de 4 meses, 6 kg, com segunda ITU febril. A mãe conta que o jato é fraco, “em gotejamento”; ao exame, bexiga palpável acima da sínfise. O pré-natal mostrou hidronefrose bilateral. Qual a hipótese e o exame que a confirma?",
+    "alts": [
+     "Estenose de junção ureteropélvica bilateral — cintilografia com DTPA.",
+     "RVU primário grau I — ultrassonografia.",
+     "Válvula de uretra posterior — uretrocistografia miccional.",
+     "Bexiga hiperativa — estudo urodinâmico."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Menino + hidronefrose bilateral com distensão vesical + jato fraco/gotejamento + ITU de repetição = <b>VUP</b>; confirma com <b>UCM</b> <span class=\"ct\">S36 Outros 16:54–20:17</span>. O slide 12 manda observar o jato e palpar os rins; o slide 35 lista <b>malformação obstrutiva</b> e <b>&lt; 1 ano</b> como risco de lesão renal.</p><p><b>A</b>: obstrução “lá em cima” — a bexiga estaria normal. <b>B</b>: RVU grau I não explica bexiga distendida nem jato fraco. <b>D</b>: bexiga hiperativa não tem hidronefrose <span class=\"ct\">S36 Outros 21:37–23:00</span>.</p>"
+   },
+   {
+    "h": "Questão 8 · Bacteriúria assintomática",
+    "stem": "Menina de 8 anos, 26 kg, com mielomeningocele e cateterismo vesical intermitente, sem febre ou queixas. Três uroculturas de rotina, em 10 dias, com 10⁵ UFC de <i>E. coli</i>; EAS sem leucocitúria. Conduta?",
+    "alts": [
+     "Tratar por 10 dias com cefalexina.",
+     "Iniciar profilaxia contínua com nitrofurantoína.",
+     "Não tratar: bacteriúria assintomática persistente.",
+     "Internar para ceftriaxona."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Três uroculturas consecutivas em 3 dias a 2 semanas, sem sintomas = bacteriúria assintomática; a persistente é típica de meningomielocele, bexiga neurogênica e cateterismo de repetição; <b>não tratar</b> <span class=\"ct\">Sl. 19</span>. Exceções do MEDCURSO: gestante e manipulação urológica com lesão de mucosa <span class=\"ct\">S36 21:53–22:52</span>.</p><p><b>A/B/D</b>: tratar pode selecionar germes de <b>maior virulência</b> e levar à ITU sintomática.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Conceito",
+    "t": "Germe único + inflamação sintomática; 8% meninas, &lt; 2% meninos &lt; 7 anos; recorrência 30% em 1 ano, 50% em 5 anos; via ascendente (hematogênica no RN e na sepse); <i>E. coli</i> 80–90% do 1º surto; <i>Proteus</i> 30% dos meninos com cistite; <i>S. saprophyticus</i> 30% dos adolescentes."
+   },
+   {
+    "k": "B · Clínica",
+    "t": "RN: sepse ou quadro arrastado com icterícia; bacteremia, mortalidade ~10%. Lactente: febre pode ser o único sinal. Maiores: cistite (disúria, polaciúria, urgência) × pielonefrite (febre, calafrio, dor em flancos). Exame: fecaloma, rins, Giordano, genitália, jato, região sacral, PA."
+   },
+   {
+    "k": "C · Laboratório",
+    "t": "Jato médio com controle (2 h sem urinar); sem controle: estímulo suprapúbico (60%), saco coletor (só vale negativo), cateterismo, punção suprapúbica. Piúria ≥ 5/campo ou &gt; 10 mil/mL; esterase + nitrito = fortemente sugestivo; urocultura ≥ 100.000 UFC de uma bactéria; &lt; 10.000 negativo; 10–100 mil repetir; 2 cepas = contaminação."
+   },
+   {
+    "k": "D · Bacteriúria assintomática",
+    "t": "3 uroculturas em 3 dias a 2 semanas, sem sintoma; persistente em mielomeningocele/bexiga neurogênica/cateterismo; não tratar."
+   },
+   {
+    "k": "E · Tratamento",
+    "t": "Antibiótico logo após a coleta; internar se toxemia, desidratação, vômitos, choque e todo RN. VO 10 dias (7–14): SMX-TMP 40+8 (2×), cefadroxil 30–50 (2×), cefalexina 50–100 (4×), ác. nalidíxico 60 (4×), amoxi-clav 40 (2×). EV/IM: ceftriaxona 50–100 (1–2×), gentamicina 7,5 (3×), amicacina 15 (1–2×). RN: ampicilina + aminoglicosídeo."
+   },
+   {
+    "k": "F · Profilaxia",
+    "t": "Dose subterapêutica; durante a investigação, obstrução até cirurgia, RVU III–V, RVU I–II com recidiva ou DMSA alterada, recidivas (6–12 meses). Nitrofurantoína ou SMX-TMP &gt; 2 meses; cefalexina &lt; 2 meses. Reduz ITU, não cicatriz."
+   },
+   {
+    "k": "G · Imagem",
+    "t": "USG primeiro (não vê RVU); UCM = principal para RVU, só após o tratamento e em profilaxia; DMSA = morfologia/cicatriz; DTPA = obstrução, não no RVU; cistografia isotópica = RVU sem iodo. Algoritmo: &lt; 2 anos com profilaxia até US."
+   },
+   {
+    "k": "H · RVU e lesão",
+    "t": "1% das crianças, 30–40% das com ITU; DMSA 3 meses após a cura; cirurgia rara, involução frequente; seguir até adulto. Risco de lesão: &lt; 1 ano, atraso &gt; 72 h, refluxo alto, obstrução, recorrência."
+   }
+  ],
+  "fogo": "<p>O que a professora pôs em <b>vermelho, negrito ou sublinhado</b>: <b>(1)</b> <i>E. coli</i> é o germe mais identificado — <b>80–90% do primeiro surto</b> <span class=\"ct\">Sl. 7</span>; <b>(2)</b> no <b>recém-nascido</b>, alta probabilidade de <b>bacteremia</b> (via hematogênica), mortalidade de cerca de <b>10%</b>, e RN é sempre <b>ITU complicada</b> → internar <span class=\"ct\">Sl. 9, 22</span>; <b>(3)</b> no lactente, <b>a febre pode ser o único sinal</b> <span class=\"ct\">Sl. 10–11</span>; <b>(4)</b> <b>piúria</b> = ≥ 5 leucócitos/campo ou &gt; 10 mil/mL <span class=\"ct\">Sl. 15</span>; <b>(5)</b> <b>iniciar o antibiótico logo após colher a urina</b> — a demora é fator de risco para lesão renal <span class=\"ct\">Sl. 20–21</span>; <b>(6)</b> <b>UCM é o principal exame para RVU</b> e só se faz <b>após o término do tratamento</b> <span class=\"ct\">Sl. 29</span>.</p>",
+  "pts": [
+   [
+    "Sl. 23",
+    "Amoxicilina + clavulanato “40 mg” mg/kg/dia, 2 doses",
+    "O slide não diz o componente; lido como <b>amoxicilina</b>. Transcrito como está — conferir com a professora."
+   ],
+   [
+    "Sl. 23 × 24",
+    "Duração “10 dias (7 a 14 dias)” só no título do tratamento ambulatorial",
+    "Não há duração para o parenteral nem separação cistite × pielonefrite. MEDCURSO: cistite 3–5 d; pielonefrite 7–14 ou 7–10 (Nelson)."
+   ],
+   [
+    "Sl. 23–24",
+    "Doses em tabelas só-imagem",
+    "Lidas no slide em resolução cheia; imagens originais reproduzidas ao lado para conferência."
+   ],
+   [
+    "Sl. 27",
+    "Profilaxia sem dose",
+    "Não completada. MEDCURSO: “um terço da dose… à noite”, sem mg/kg (S36 1:12:02)."
+   ],
+   [
+    "Sl. 25",
+    "RN: fármacos sem dose",
+    "Não completada."
+   ],
+   [
+    "Sl. 19",
+    "“Não tratar=&gt; podem desenvolver ITU sintomática … germes de virulência maior”",
+    "Lido como: não tratar, <b>porque</b> o tratamento pode levar a ITU com germe mais virulento (coerente com S36 21:53). Confirmar."
+   ],
+   [
+    "Sl. 15",
+    "Piúria: “valor preditivo de entre 40-80%”",
+    "Não diz se positivo ou negativo; mantido literal."
+   ],
+   [
+    "Sl. 15 × 16",
+    "Piúria “5 ou mais/campo” × esterase detecta “mais de 5/campo”",
+    "≥ × &gt;; mantidos como no slide."
+   ],
+   [
+    "Sl. 17",
+    "Critério único ≥ 100.000 UFC, sem distinguir método",
+    "<b>Divergência</b> com MEDCURSO (jato ≥ 100 mil; cateterismo ≥ 50 mil sem consenso; punção qualquer; AAP ≥ 50 mil). Na faculdade, o slide."
+   ],
+   [
+    "Sl. 14 · S36 44:36",
+    "Saco coletor troca a cada 30 min × questão “20 minutos”",
+    "Mantido 30 min (slide)."
+   ],
+   [
+    "Sl. 5 · S36 02:27",
+    "8% e &lt; 2% × “3% até 8%” e “1% a 2%”",
+    "Na prova, o slide."
+   ],
+   [
+    "Sl. 5 · S36 08:35",
+    "1º ano: incidência semelhante nos sexos × primeiros meses mais no masculino",
+    "Divergência registrada."
+   ],
+   [
+    "Sl. 7 · S36 15:07",
+    "<i>S. saprophyticus</i>: “ambos os sexos” × adolescente do sexo feminino sexualmente ativa",
+    "Divergência registrada."
+   ],
+   [
+    "Sl. 20 × 22 × 27",
+    "Bacteremia “&lt; 2 meses”; RN = ITU complicada; profilaxia cefalexina “&lt; 2 meses”",
+    "Cortes diferentes na mesma aula; MEDCURSO interna &lt; 3 meses ou &lt; 1 mês (S36 51:53)."
+   ],
+   [
+    "Sl. 26 × 33",
+    "Profilaxia durante investigação sem limite de idade × algoritmo só no ramo &lt; 2 anos",
+    "<b>Divergência interna</b>; SBP (S36 1:12:57) = &lt; 2 anos com ITU febril."
+   ],
+   [
+    "Sl. 34 · S36 1:04:00",
+    "DMSA para cicatriz 3 meses após a cura × 4–6 meses",
+    "Na prova, 3 meses (slide)."
+   ],
+   [
+    "Sl. 28 × 33",
+    "Investigar após “primeiro episódio bem documentado” × algoritmo parte de “ITU febril comprovada”",
+    "Leitura: a investigação por imagem é para ITU febril."
+   ],
+   [
+    "Sl. 26 · S36 Outros 10:48",
+    "RVU I–II: “ITU de repetição ou cintilografia alterada” × só cintilografia alterada",
+    "Divergência registrada."
+   ],
+   [
+    "Sl. 31 (imagem)",
+    "Tabela “% Ratios” da DMSA, letra minúscula",
+    "Aparentemente ~50% para cada rim; <b>número não usado</b>."
+   ],
+   [
+    "Sl. 33 (imagem)",
+    "Seta de “Recidivas” (ramo &gt; 2 anos) volta à caixa “UCM ou DMSA”",
+    "Leitura do traçado do fluxograma."
+   ],
+   [
+    "Sl. 6",
+    "“0,5 a 1% da prática pediátrica” no slide de fisiopatogenia",
+    "Mantido; sem denominador explícito."
+   ],
+   [
+    "S36 05:39",
+    "“3,” / “5% dos casos de FSSL”",
+    "Número partido; <b>não usado</b>."
+   ],
+   [
+    "S36 29:38",
+    "Leucocitúria “mais do que” × “pelo menos” 10 mil/mL",
+    "Seguido o slide (&gt; 10 mil)."
+   ],
+   [
+    "S36 41:42",
+    "Trecho sobre laboratório “não faz a diferença entre 100 e 10 mil… mil a um, mil a dois”",
+    "Corrompido; <b>não usado</b>."
+   ],
+   [
+    "S36 Outros 11:34",
+    "“No grau 3 e no grau 5”",
+    "Lido como “graus 3 a 5” (dito assim em 13:20)."
+   ],
+   [
+    "S36 Outros 31:10",
+    "Enurese secundária após “alguns meses” seco",
+    "ICCS: ≥ 6 meses; não usado número."
+   ],
+   [
+    "Protocolo",
+    "Ácido nalidíxico e SMX-TMP na tabela oral",
+    "Mantidos (professora); MEDCURSO alerta resistência à sulfa e uso criterioso de quinolonas. Na residência, seguir protocolo local/SBP."
+   ]
+  ]
+ },
+ {
+  "n": 10,
+  "nome": "Choque",
+  "file": "Cap10_Choque",
+  "pag": 31,
+  "cards": 108,
+  "min": 20,
+  "qs": [
+   {
+    "h": "Questão 1 · Choque compensado",
+    "stem": "Lactente de 8 meses, 8 kg, com diarreia e vômitos há 2 dias. Está irritado, FC 180 bpm, extremidades frias, pálido, enchimento capilar de 4 segundos, pulsos periféricos presentes e finos, fralda seca há 8 horas. PA sistólica 84 mmHg. Como classificar?",
+    "alts": [
+     "Sem choque, porque a pressão arterial está normal para a idade.",
+     "Choque hipovolêmico compensado.",
+     "Choque hipovolêmico descompensado.",
+     "Choque cardiogênico, pela taquicardia."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Taquicardia, palidez, extremidades frias e oligúria com pulsos periféricos presentes e PA normal = <b>choque compensado</b> <span class=\"ct\">Sl. 11</span>; aos 8 meses, hipotensão seria PAS &lt; 70 <span class=\"ct\">Sl. 16</span>.</p><p><b>A</b>: é o erro que a aula quer evitar — PA normal não exclui choque. <b>C</b>: descompensado exige hipotensão, ausência de pulsos periféricos ou rebaixamento de consciência <span class=\"ct\">Sl. 12</span>. <b>D</b>: taquicardia é compensação comum a todos os tipos; a história de perdas aponta hipovolemia.</p>"
+   },
+   {
+    "h": "Questão 2 · Hipotensão por idade",
+    "stem": "Menino de 6 anos, 20 kg, febril, com PA 80 × 40 mmHg. Pela definição da aula, qual o limite de hipotensão sistólica e como está este paciente?",
+    "alts": [
+     "Limite 70 mmHg; não está hipotenso.",
+     "Limite 90 mmHg; está hipotenso.",
+     "Limite 82 mmHg; está hipotenso.",
+     "Limite 76 mmHg; não está hipotenso."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> De 1 a 10 anos, hipotensão = PAS &lt; 70 + (idade × 2) = 70 + 12 = <b>82</b>; 80 está abaixo <span class=\"ct\">Sl. 16</span> — a mesma fórmula do MEDCURSO <span class=\"ct\">S30 P2 48:15–50:03</span>.</p><p><b>A</b>: 70 é o corte de 1–12 meses. <b>B</b>: 90 é o corte acima de 10 anos. <b>D</b>: 76 seria a conta com 3 anos, erro de aplicar a idade.</p>"
+   },
+   {
+    "h": "Questão 3 · Primeira expansão",
+    "stem": "Menina de 4 anos, 16 kg, com febre, letargia, enchimento capilar de 5 s e pulsos periféricos impalpáveis. Recebe O₂ em máscara com reservatório; duas tentativas de punção venosa falharam. Qual a sequência correta?",
+    "alts": [
+     "Continuar tentando veia periférica e iniciar soro glicosado 5% 320 mL.",
+     "Acesso intraósseo e soro fisiológico 320 mL em 5–20 minutos, reavaliando ao final.",
+     "Acesso intraósseo e soro fisiológico 1600 mL em 3 horas.",
+     "Iniciar noradrenalina por via periférica antes de qualquer volume."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Acesso <b>intraósseo</b> se não houver acesso venoso <span class=\"ct\">Sl. 20</span>; <b>20 mL/kg</b> (16 × 20 = 320 mL) de solução isotônica em 5–20 min, repetindo conforme reavaliação <span class=\"ct\">Sl. 21–22</span>.</p><p><b>A</b>: insistir na veia atrasa o volume, e <b>soro glicosado não expande</b> — na expansão é cristaloide <span class=\"ct\">S30 P2 18:29–20:04</span>. <b>C</b>: 100 mL/kg em 3 h é o formato do Plano C da diarreia <span class=\"ct\">S30 P2 32:01–33:44</span>, não a ressuscitação do choque do slide. <b>D</b>: aminas entram quando o choque persiste após a expansão <span class=\"ct\">Sl. 23, 37</span>.</p>"
+   },
+   {
+    "h": "Questão 4 · Choque cardiogênico",
+    "stem": "Lactente de 10 meses, 9 kg, com miocardite viral. Após um bolus de 20 mL/kg de SF, surgem estertores crepitantes bilaterais, o fígado cresce de 2 para 5 cm do rebordo e a saturação cai. Persistem sinais de choque. Qual a conduta mais adequada?",
+    "alts": [
+     "Novo bolus de 20 mL/kg em 5 minutos.",
+     "Reduzir as alíquotas para 5–10 mL/kg em 10–20 min, se ainda necessárias, e considerar dobutamina.",
+     "Concentrado de hemácias 10 mL/kg.",
+     "Suspender o oxigênio para evitar hiperóxia."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Estertores, hepatomegalia e piora com volume rápido apontam disfunção miocárdica: alíquota de <b>5–10 mL/kg em 10–20 min</b> <span class=\"ct\">Sl. 21</span>; <b>dobutamina</b> se sinais de insuficiência cardíaca <span class=\"ct\">Sl. 25, 38</span>.</p><p><b>A</b>: mais volume rápido piora a congestão. <b>C</b>: hemácias são para choque hemorrágico no trauma <span class=\"ct\">Sl. 21</span>. <b>D</b>: oxigênio em alta concentração é passo básico <span class=\"ct\">Sl. 20</span>.</p>"
+   },
+   {
+    "h": "Questão 5 · Escolha da amina",
+    "stem": "Escolar de 7 anos, 22 kg, com sepse de foco abdominal, já recebeu 60 mL/kg de cristaloide. Está com extremidades quentes, pulsos amplos, enchimento capilar rápido e PA 70 × 30 mmHg. Qual amina a aula indica?",
+    "alts": [
+     "Dobutamina 1–20 µg/kg/min.",
+     "Dopamina 2–20 µg/kg/min.",
+     "Noradrenalina 0,05–1,0 µg/kg/min.",
+     "Nenhuma; manter apenas volume."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Choque <b>quente</b> (vasodilatado, diastólica baixa) → <b>noradrenalina</b>, objetivo PA adequada <span class=\"ct\">Sl. 25, 38</span>.</p><p><b>A</b>: dobutamina reduz a RVP e <b>pode diminuir a PA</b> — é para insuficiência cardíaca. <b>B</b>: dopamina é opção do choque <b>frio</b> no slide (e perde espaço nas diretrizes atuais). <b>D</b>: após 60 mL/kg com choque persistente, a aula manda iniciar aminas mantendo a expansão <span class=\"ct\">Sl. 37</span>.</p>"
+   },
+   {
+    "h": "Questão 6 · Choque obstrutivo",
+    "stem": "Adolescente de 13 anos, 45 kg, politraumatizado, intubado, evolui com queda da saturação, hipotensão, murmúrio abolido e timpanismo à direita, sem resposta a 40 mL/kg de cristaloide. Conduta?",
+    "alts": [
+     "Mais 20 mL/kg de SF e noradrenalina.",
+     "Punção de tórax e drenagem.",
+     "Punção pericárdica de alívio.",
+     "Ecocardiograma antes de qualquer intervenção."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> Politrauma/ventilação mecânica + ↓ murmúrio + timpanismo + piora respiratória = <b>pneumotórax hipertensivo</b> → <b>punção de tórax e drenagem</b> <span class=\"ct\">Sl. 30</span>.</p><p><b>A</b>: choque obstrutivo não se resolve com volume nem amina. <b>C</b>: punção de alívio é do <b>tamponamento</b> (bulhas abafadas, QRS achatado). <b>D</b>: atrasar a descompressão num paciente instável.</p>"
+   },
+   {
+    "h": "Questão 7 · Soro de manutenção",
+    "stem": "Pré-escolar de 15 kg, já estabilizado após choque, sem aceitar via oral. Pelo Holliday-Segar da aula, qual o volume de soro glicosado 5% para 24 horas?",
+    "alts": [
+     "1500 mL (100 mL/kg).",
+     "1250 mL.",
+     "1750 mL.",
+     "750 mL."
+    ],
+    "ok": 1,
+    "why": "<p><b>B.</b> De 11 a 20 kg: <b>1000 + 50 mL/kg acima de 10 kg</b> = 1000 + 50 × 5 = <b>1250 mL</b> <span class=\"ct\">Sl. 27</span>.</p><p><b>A</b>: 100 mL/kg vale só até 10 kg. <b>C</b>: somou 50 mL/kg sobre o peso <b>inteiro</b> (1000 + 50 × 15), e não só sobre os quilos acima de 10. <b>D</b>: aplicou 50 mL/kg a todo o peso.</p>"
+   },
+   {
+    "h": "Questão 8 · O caso da aula",
+    "stem": "Criança de 10 anos, 30 kg, febre há 5 dias e exantema, agora afebril e sonolenta. Recebeu 3 bolus de SF 20 mL/kg em 1 hora. Reavaliação: responde mal ao verbal, FC 120, PA 90 × 60, pulsos periféricos impalpáveis, centrais normais, perfusão 4 s, pulmões limpos. Conduta segundo a aula?",
+    "alts": [
+     "Alta do choque, pois a PA normalizou; iniciar Holliday-Segar.",
+     "Suspender volume, pois já atingiu 60 mL/kg.",
+     "Manter expansão, iniciar amina vasoativa e solicitar exames.",
+     "Trocar para soro glicosado 5% 1700 mL/dia."
+    ],
+    "ok": 2,
+    "why": "<p><b>C.</b> Exatamente o slide 37: após 1 h (60 mL/kg), ainda com sinais de choque → <b>manter expansão, iniciar aminas e exames</b>; Sl. 38: novo SF 20 mL/kg em 20 min + escolha da amina.</p><p><b>A</b>: perfusão 4 s, pulsos periféricos ausentes e sonolência = choque persistente; manutenção só <b>após</b> a melhora <span class=\"ct\">Sl. 26, 39</span>. <b>B</b>: sem sinais de sobrecarga, prosseguir conforme a resposta <span class=\"ct\">Sl. 23</span>. <b>D</b>: é o soro de manutenção do slide 40, para depois da estabilização.</p>"
+   }
+  ],
+  "res": [
+   {
+    "k": "A · Conceito",
+    "t": "Desequilíbrio cardiocirculatório entre oferta e necessidade de O₂; tripé volume–bomba–tônus; oferta = conteúdo arterial (Hb, SatO₂, pO₂) × débito; PA = débito × resistência; extração compensa até não conseguir → lactato."
+   },
+   {
+    "k": "B · Tipos",
+    "t": "Hipovolêmico (desidratação, sangue, queimado), distributivo (sepse, anafilático, neurogênico), cardiogênico (cardiopatia, acidose, mediadores), obstrutivo (tamponamento, pneumotórax); mais comuns: hipovolemia e sepse."
+   },
+   {
+    "k": "C · Reconhecer",
+    "t": "Compensado: taquicardia, palidez, extremidade fria, oligúria, pulsos presentes, PA normal. Descompensado: hipotensão, sem pulso periférico, consciência rebaixada. TEC normal ≤ 2 s; diurese 1–2 (1,5–2) mL/kg/h; hipotensão RN &lt; 60, 1–12 m &lt; 70, 1–10 a &lt; 70 + 2 × idade, &gt; 10 a &lt; 90."
+   },
+   {
+    "k": "D · 1ª hora",
+    "t": "Supina se hipotensa; O₂ com reservatório; acesso venoso ou intraósseo; SF/RL 20 mL/kg em 5–20 min (graves ≤ 10), repetir; hemorragia: hemácias 10 mL/kg; cardiogênico 5–10 mL/kg em 10–20 min; reavaliar após 40–60 mL/kg; exames: hemograma, glicemia, gasometria, Ca, K, lactato. Nunca SG na expansão."
+   },
+   {
+    "k": "E · Aminas",
+    "t": "Frio: adrenalina 0,05–1,5 ou dopamina 2–20; quente: noradrenalina 0,05–1,0; IC: dobutamina 1–20 (pode baixar PA) — µg/kg/min."
+   },
+   {
+    "k": "F · Manutenção",
+    "t": "100 mL/kg até 10 kg; 1000 + 50/kg &gt; 10; 1500 + 20/kg &gt; 20; Na 3 e K 2 mEq/kg (ou 2–3 e 1–2 mEq/100 mL); NaCl 20% 3,4; KCl 10% 1,3; KCl 19,1% 2,5 mEq/mL; 30 kg: 1700 mL, 4 etapas de 425 mL, 72 mL/h."
+   },
+   {
+    "k": "G · Final",
+    "t": "Pneumotórax: punção de tórax e drenagem; tamponamento: punção de alívio; corrigir distúrbios metabólicos; UTI; transporte só após estabilizar."
+   },
+   {
+    "k": "H · Caso",
+    "t": "10 anos, 30 kg, PA 80 (&lt; 90) = descompensado; 3 × 20 mL/kg; PA 90 com perfusão 4 s ainda é choque; após 60 mL/kg: manter volume + amina + exames; depois Holliday."
+   }
+  ],
+  "fogo": "<p><b>(1)</b> <b>Compensado × descompensado</b>: a PA normal não exclui choque — taquicardia, palidez, extremidades frias e oligúria vêm antes; a hipotensão é sinal tardio <span class=\"ct\">Sl. 11–12</span>. <b>(2)</b> A <b>definição de hipotensão por idade</b> — o único slide da aula num quadro verde de destaque: RN &lt; 60, 1–12 meses &lt; 70, 1–10 anos &lt; 70 + 2 × idade, &gt; 10 anos &lt; 90 <span class=\"ct\">Sl. 16</span>. <b>(3)</b> A <b>expansão</b>, em vermelho no slide: <b>20 mL/kg de cristaloide isotônico</b>, repetida, com reavaliação após 40–60 mL/kg; e, em azul, a <b>exceção do cardiogênico</b> (5–10 mL/kg) <span class=\"ct\">Sl. 21, 23</span>. <b>(4)</b> A <b>escolha da amina</b> pelo tipo de choque (frio × quente × insuficiência cardíaca) <span class=\"ct\">Sl. 25, 38</span>. <b>(5)</b> O <b>cálculo do soro de manutenção</b> de Holliday-Segar — os objetivos da aula pedem que você saiba prescrevê-lo <span class=\"ct\">Sl. 3, 27–29, 40</span>.</p>",
+  "pts": [
+   [
+    "Sl. 13 × 14",
+    "Débito urinário normal 1–2 × 1,5–2 mL/kg/h",
+    "<b>Divergência interna da aula</b>; ambos mantidos. Perguntar à professora."
+   ],
+   [
+    "Sl. 13 × 14",
+    "TEC normal “até 2 s” × “menor que 2 s”",
+    "Divergência interna; exatamente 2 s fica indefinido."
+   ],
+   [
+    "Sl. 21 × 34/38",
+    "Graves: bolus “até 10 min” × caso descompensado com 20 mL/kg “em 20 minutos”",
+    "Divergência interna; mantidos os dois."
+   ],
+   [
+    "Sl. 16",
+    "“&gt; 10 anos: &lt; 90” sem unidade",
+    "Lido como mmHg; aos 10 anos a fórmula também dá 90."
+   ],
+   [
+    "Sl. 25",
+    "Faixas: adrenalina 0,05–1,5; dopamina 2–20; noradrenalina 0,05–1,0; dobutamina 1–20 µg/kg/min",
+    "Copiadas do slide; faixas variam entre referências — conferir com o protocolo do serviço antes de usar na prática."
+   ],
+   [
+    "Sl. 25/38",
+    "Dopamina como opção no choque frio",
+    "<b>Diverge do protocolo vigente</b> (SSC pediátrica 2020: adrenalina/noradrenalina preferidas). Na faculdade, o slide."
+   ],
+   [
+    "Aula inteira",
+    "Não menciona antibiótico",
+    "“Antibiótico na 1ª hora” entra só como protocolo (SSC 2020), sem droga nem dose."
+   ],
+   [
+    "Sl. 10",
+    "Anafilático e neurogênico só nomeados",
+    "Sem clínica nem dose na aula; nenhuma dose de adrenalina acrescentada (ver Cap. 1)."
+   ],
+   [
+    "Sl. 27 × 28–29/40",
+    "Eletrólitos por kg (tabela) × por 100 mL (modificado)",
+    "Dois métodos. Para 30 kg: tabela → Na 60 / K 35 mEq; modificado (slide 40) → 51 / 34. Contas da apostila, com números do slide."
+   ],
+   [
+    "Sl. 28 × 40",
+    "“KCl 19,1%” × “KCl 19%”; NaCl 3,7 mL/etapa; 72 mL/h",
+    "Mesma apresentação (2,5 mEq/mL). 15 ÷ 4 = 3,75 (arredondado); 72 mL/h = (425 + 3,7 + 3,4) ÷ 6. Contas conferidas: batem."
+   ],
+   [
+    "Sl. 27",
+    "Linha “Superfície (m²): 1800 / 50 / 40”",
+    "Lida como por m²/dia; o slide não diz quando usar."
+   ],
+   [
+    "Sl. 32–40",
+    "Caso sem diagnóstico",
+    "Hipótese de <b>dengue grave</b> é da apostila; esquema de expansão confere com o Grupo D da Aula 6 (Sl. 39–41, ver Cap. 6). Amina do caso não especificada; “perfil frio” é leitura da apostila."
+   ],
+   [
+    "S30 P2 33:15–33:44",
+    "Plano C &gt; 1 ano: “50… 150… 5:02 horas 30 minutos”",
+    "Legenda corrompida; só “metade do tempo” (total 3 h) usado. Tempos da etapa rápida <b>não reconstruídos</b>."
+   ],
+   [
+    "S30 P2 53:03–53:34",
+    "RL “120 ml, 160” “em duas horas” × etapa inicial “30 a 60 minutos”",
+    "Contradição da própria aula do MEDCURSO; só 160 mL = 20 mL/kg usado."
+   ],
+   [
+    "S30 P2 35:48–36:15 · S26 DG 28:24–28:39",
+    "Alíquotas menores no desnutrido/cardiopata; EV só com choque franco",
+    "<b>Nenhum volume</b> nas aulas. Aplicar os 5–10 mL/kg do slide 21 ao desnutrido seria extrapolação — não feito."
+   ],
+   [
+    "04 Misc 30:06–32:14",
+    "SG 10% 2 mL/kg = 200 mg/kg; 400 mg/kg na convulsão",
+    "Volume de 400 mg/kg (4 mL/kg) não dito na aula; não inserido. Não usar no desnutrido."
+   ],
+   [
+    "Acervo",
+    "Sem aula de choque, sepse, anafilaxia, dengue, aminas, Holliday-Segar (Holliday-Segar e dengue também nos slides da Aula 6 — ver Cap. 6)",
+    "Lacunas registradas nos blocos; fonte única = slides."
+   ]
+  ]
+ }
+]
