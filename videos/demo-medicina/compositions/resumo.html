@@ -1,0 +1,44 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: var(--ink);
+      font-family: var(--font-body);
+    }
+    #res-result {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 96px;
+      text-align: center;
+      line-height: 1.1;
+    }
+    #res-result em {
+      font-style: normal;
+      color: var(--accent);
+    }
+    #res-clinic {
+      margin-top: 40px;
+      font-size: 42px;
+      color: var(--muted);
+      text-align: center;
+    }
+    #res-clinic b {
+      color: var(--enzyme);
+    }
+  </style>
+  <div id="root" data-composition-id="resumo" data-width="1920" data-height="1080">
+    <div id="res-result">↑ <em>Pressão arterial</em><br />↑ Volemia</div>
+    <div id="res-clinic">Bloqueado por <b>IECA</b> (ex.: enalapril) e <b>BRA</b> (ex.: losartana)</div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo("#res-result", { opacity: 0, filter: "blur(10px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.3, ease: "power4.out" }, 0.15);
+    tl.fromTo("#res-clinic", { opacity: 0 }, { opacity: 1, duration: 0.5, ease: "power2.out" }, 0.8);
+    window.__timelines["resumo"] = tl;
+  </script>
+</template>

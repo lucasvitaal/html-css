@@ -1,0 +1,124 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: var(--ink);
+      font-family: var(--font-body);
+    }
+    #cas-row {
+      display: flex;
+      align-items: center;
+    }
+    .cas-node {
+      width: 380px;
+      padding: 36px 16px;
+      border-radius: 28px;
+      background: var(--panel);
+      text-align: center;
+    }
+    .cas-node h2 {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 32px;
+      line-height: 1.1;
+      white-space: nowrap;
+    }
+    .cas-node p {
+      margin-top: 12px;
+      font-size: 28px;
+      color: var(--muted);
+    }
+    .cas-node.hero {
+      background: #c2253a;
+    }
+    .cas-node.hero p {
+      color: #ffe3e6;
+    }
+    .cas-link {
+      width: 250px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+    }
+    .cas-enzyme {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 30px;
+      color: var(--enzyme);
+    }
+    .cas-where {
+      font-size: 28px;
+      color: var(--muted);
+      margin-bottom: 10px;
+      text-align: center;
+    }
+    .cas-arrow {
+      width: 150px;
+      height: 6px;
+      background: var(--enzyme);
+      position: relative;
+      transform-origin: left center;
+    }
+    .cas-arrow::after {
+      content: "";
+      position: absolute;
+      right: -4px;
+      top: -11px;
+      border-left: 22px solid var(--enzyme);
+      border-top: 14px solid transparent;
+      border-bottom: 14px solid transparent;
+    }
+    #cas-effects {
+      margin-top: 70px;
+      display: flex;
+      gap: 36px;
+    }
+    .cas-effect {
+      padding: 22px 34px;
+      border: 3px solid var(--accent);
+      border-radius: 999px;
+      font-size: 32px;
+      font-weight: 700;
+    }
+  </style>
+  <div id="root" data-composition-id="cascata" data-width="1920" data-height="1080">
+    <div id="cas-row">
+      <div class="cas-node" id="cas-n1"><h2>Angiotensi&shy;nogênio</h2><p>produzido no fígado</p></div>
+      <div class="cas-link" id="cas-l1">
+        <div class="cas-enzyme">Renina</div>
+        <div class="cas-where">rim (aparelho JG)</div>
+        <div class="cas-arrow"></div>
+      </div>
+      <div class="cas-node" id="cas-n2"><h2>Angiotensina I</h2><p>pouco ativa</p></div>
+      <div class="cas-link" id="cas-l2">
+        <div class="cas-enzyme">ECA</div>
+        <div class="cas-where">endotélio pulmonar</div>
+        <div class="cas-arrow"></div>
+      </div>
+      <div class="cas-node hero" id="cas-n3"><h2>Angiotensina II</h2><p>efetora principal</p></div>
+    </div>
+    <div id="cas-effects">
+      <div class="cas-effect">Vasoconstrição</div>
+      <div class="cas-effect">↑ Aldosterona → retém Na⁺ e água</div>
+      <div class="cas-effect">↑ ADH e sede</div>
+    </div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo("#cas-n1", { opacity: 0, x: -60 }, { opacity: 1, x: 0, duration: 0.6, ease: "expo.out" }, 0.1);
+    tl.fromTo("#cas-l1 .cas-enzyme, #cas-l1 .cas-where", { opacity: 0 }, { opacity: 1, duration: 0.3, stagger: 0.08 }, 0.8);
+    tl.fromTo("#cas-l1 .cas-arrow", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power2.inOut" }, 1.0);
+    tl.fromTo("#cas-n2", { opacity: 0, x: -40 }, { opacity: 1, x: 0, duration: 0.6, ease: "expo.out" }, 1.4);
+    tl.fromTo("#cas-l2 .cas-enzyme, #cas-l2 .cas-where", { opacity: 0 }, { opacity: 1, duration: 0.3, stagger: 0.08 }, 2.1);
+    tl.fromTo("#cas-l2 .cas-arrow", { scaleX: 0 }, { scaleX: 1, duration: 0.5, ease: "power2.inOut" }, 2.3);
+    tl.fromTo("#cas-n3", { opacity: 0, scale: 0.85 }, { opacity: 1, scale: 1, duration: 0.7, ease: "back.out(1.4)" }, 2.7);
+    tl.fromTo(".cas-effect", { opacity: 0, y: 30, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, stagger: 0.35, ease: "expo.out" }, 3.5);
+    tl.to(["#cas-row", "#cas-effects"], { opacity: 0, filter: "blur(8px)", duration: 0.25, ease: "power3.in" }, 7.3);
+    window.__timelines["cascata"] = tl;
+  </script>
+</template>

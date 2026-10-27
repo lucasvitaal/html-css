@@ -1,0 +1,52 @@
+<template>
+  <style>
+    #root {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: var(--ink);
+      font-family: var(--font-body);
+    }
+    #intro-kicker {
+      font-family: var(--font-display);
+      font-weight: 700;
+      font-size: 34px;
+      letter-spacing: 0.3em;
+      color: var(--accent);
+      margin-bottom: 28px;
+    }
+    #intro-title {
+      font-family: var(--font-display);
+      font-weight: 800;
+      font-size: 92px;
+      letter-spacing: -0.02em;
+      text-align: center;
+      line-height: 1.05;
+    }
+    #intro-title span {
+      display: inline-block;
+    }
+    #intro-sub {
+      margin-top: 32px;
+      font-size: 40px;
+      color: var(--muted);
+    }
+  </style>
+  <div id="root" data-composition-id="intro" data-width="1920" data-height="1080">
+    <div id="intro-kicker">FISIOLOGIA RENAL</div>
+    <h1 id="intro-title">
+      <span>Sistema</span> <span>Renina-Angiotensina-</span><br /><span>Aldosterona</span>
+    </h1>
+    <div id="intro-sub">o SRAA em 15 segundos</div>
+  </div>
+  <script>
+    const tl = gsap.timeline({ paused: true });
+    tl.fromTo("#intro-title span", { opacity: 0, filter: "blur(8px)" }, { opacity: 1, filter: "blur(0px)", duration: 0.2, stagger: 0.12, ease: "power4.out" }, 0.25);
+    tl.fromTo("#intro-sub", { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, 0.9);
+    tl.to(["#intro-kicker", "#intro-title", "#intro-sub"], { opacity: 0, filter: "blur(8px)", duration: 0.2, stagger: 0.05, ease: "power3.in" }, 3.25);
+    window.__timelines["intro"] = tl;
+  </script>
+</template>
