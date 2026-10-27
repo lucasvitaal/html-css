@@ -1,0 +1,37 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="resumo" data-width="1920" data-height="1080">
+    <div id="resumo-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>10</b> Resumo</div>
+  <div class="grid g2 qgrid">
+    <div class="card rv" data-seg="0" data-f="0.25" data-fx="pop"><div class="num">1</div><div class="big">Está estável?</div><div class="txt m">hemodinâmica</div></div>
+    <div class="card rv" data-seg="0" data-f="0.42" data-fx="pop"><div class="num">2</div><div class="big">Está grávida?</div><div class="txt m">β-hCG</div></div>
+    <div class="card rv" data-seg="0" data-f="0.6" data-fx="pop"><div class="num">3</div><div class="big">De onde vem?</div><div class="txt m">exame especular · PALM</div></div>
+    <div class="card rv" data-seg="0" data-f="0.82" data-fx="pop"><div class="num">4</div><div class="big">Por quê?</div><div class="txt m">COEIN · exames · biópsia</div></div>
+  </div>
+  <div class="strip rv" data-seg="1">Nessa ordem: estável → grávida → de onde vem → por quê</div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 4.949], [5.75, 4.395]];
+      const DUR = 13.644;
+      const root = document.getElementById("resumo-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["resumo"] = tl;
+    })();
+  </script>
+</template>

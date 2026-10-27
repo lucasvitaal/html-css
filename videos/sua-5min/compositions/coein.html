@@ -1,0 +1,45 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="coein" data-width="1920" data-height="1080">
+    <div id="coein-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>04</b> Etiologias · PALM-COEIN</div>
+  <h2 class="h rv" data-seg="0"><em>COEIN</em> = não estrutural</h2>
+  <div class="grid g5 letters">
+    <div class="card"><div class="L n rv" data-seg="0" data-f="0.3" data-fx="pop">C</div><div class="lbl">Coagulopatia</div><div class="txt rv" data-seg="1">von Willebrand · sangra desde a menarca</div></div>
+    <div class="card hot"><div class="L n rv" data-seg="0" data-f="0.4" data-fx="pop">O</div><div class="lbl">Ovulatória</div><div class="tag rv" data-seg="2" data-f="0.05">a mais comum</div></div>
+    <div class="card"><div class="L n rv" data-seg="0" data-f="0.5" data-fx="pop">E</div><div class="lbl">Endometrial</div><div class="txt rv" data-seg="3">hemostasia local · ciclos regulares</div></div>
+    <div class="card"><div class="L n rv" data-seg="0" data-f="0.6" data-fx="pop">I</div><div class="lbl">Iatrogênica</div><div class="txt rv" data-seg="4">DIU de cobre · hormônios · anticoagulantes</div></div>
+    <div class="card"><div class="L n rv" data-seg="0" data-f="0.7" data-fx="pop">N</div><div class="lbl">Não classificada</div><div class="txt rv" data-seg="4" data-f="0.6">MAV · istmocele</div></div>
+  </div>
+  <div class="chain">
+    <span class="rv" data-seg="2" data-f="0.25">SOP: não ovula</span><i class="rv" data-seg="2" data-f="0.32">→</i>
+    <span class="rv" data-seg="2" data-f="0.38">sem corpo lúteo</span><i class="rv" data-seg="2" data-f="0.44">→</i>
+    <span class="rv" data-seg="2" data-f="0.48">sem progesterona</span><i class="rv" data-seg="2" data-f="0.58">→</i>
+    <span class="hot rv" data-seg="2" data-f="0.62">estrogênio sem oposição</span><i class="rv" data-seg="2" data-f="0.75">→</i>
+    <span class="rv" data-seg="2" data-f="0.8">descamação irregular</span>
+  </div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 2.24], [3.04, 5.888], [9.278, 12.544], [22.172, 4.267], [26.789, 7.211]];
+      const DUR = 34.449;
+      const root = document.getElementById("coein-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["coein"] = tl;
+    })();
+  </script>
+</template>

@@ -1,0 +1,51 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="atendimento" data-width="1920" data-height="1080">
+    <div id="atendimento-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>02</b> Primeiro atendimento</div>
+  <div class="card case rv" data-seg="0"><span class="lbl">Caso 1</span><span class="big">26 anos · sangramento intenso há 3 dias</span></div>
+  <div class="grid g2 tall">
+    <div class="card rv" data-seg="1">
+      <div class="lbl g">1 · Hemodinâmica</div>
+      <div class="row chips">
+        <span class="chip rv" data-seg="1" data-f="0.3">FC</span><span class="chip rv" data-seg="1" data-f="0.45">PA</span><span class="chip rv" data-seg="1" data-f="0.6">pulsos</span><span class="chip rv" data-seg="1" data-f="0.72">consciência</span><span class="chip rv" data-seg="1" data-f="0.85">diurese</span>
+      </div>
+      <div class="hypo">
+        <div class="hr rv" data-seg="2" data-f="0.05"><b>Classe I</b><span>&lt; 15%</span><span>FC normal</span></div>
+        <div class="hr rv" data-seg="2" data-f="0.1"><b>Classe II</b><span>15–30%</span><span>FC &gt; 100</span></div>
+        <div class="hr hot rv" data-seg="2" data-f="0.2" data-fx="pop"><b>Classe III</b><span>30–40%</span><span>FC &gt; 120 · PA cai</span></div>
+        <div class="hr rv" data-seg="2" data-f="0.3"><b>Classe IV</b><span>&gt; 40%</span><span>FC &gt; 140</span></div>
+      </div>
+    </div>
+    <div class="card rv" data-seg="3">
+      <div class="lbl a">2 · Excluir gravidez</div>
+      <div class="mega a">β-hCG</div>
+      <div class="txt">em toda mulher em idade fértil que sangra, antes de qualquer conduta</div>
+    </div>
+  </div>
+  <div class="strip rv" data-seg="4">Estável ✓ &nbsp; β-hCG negativo ✓ &nbsp;→&nbsp; procurar a causa</div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 4.864], [5.664, 4.864], [10.878, 8.555], [19.783, 6.037], [26.17, 3.861]];
+      const DUR = 30.482;
+      const root = document.getElementById("atendimento-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["atendimento"] = tl;
+    })();
+  </script>
+</template>

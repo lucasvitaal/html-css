@@ -5,6 +5,10 @@ você escreve HTML/CSS com animações e ele renderiza um MP4.
 
 - `demo-medicina/` é um exemplo de 15 s sobre o **Sistema Renina-Angiotensina-Aldosterona**.
   O vídeo pronto está em `demo-medicina/renders/sraa-demo.mp4`.
+- `sua-5min/` é a revisão de **Sangramento Uterino Anormal** (5 min, narrada e com legendas), feita a
+  partir do Ensaio SUA de 40 min. Vídeo pronto: `sua-5min/renders/sua-5min.mp4`.
+  O roteiro fica em `sua-5min/build.py`: edite as falas e rode `python3 build.py` para regerar
+  narração, legendas e cenas (precisa de `pip install kokoro-onnx soundfile`).
 
 ## Pedindo um vídeo novo ao Claude
 

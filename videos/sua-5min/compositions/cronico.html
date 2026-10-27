@@ -1,0 +1,40 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="cronico" data-width="1920" data-height="1080">
+    <div id="cronico-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>07</b> Tratamento do SUA crônico</div>
+  <div class="grid g2">
+    <div class="card rv" data-seg="0"><div class="lbl n">Hormonal</div><div class="row chips"><span class="chip rv" data-seg="0" data-f="0.4">ACO</span><span class="chip rv" data-seg="0" data-f="0.6">progestagênio</span><span class="chip rv" data-seg="0" data-f="0.8">DIU de levonorgestrel</span></div></div>
+    <div class="card rv" data-seg="1"><div class="lbl n">Não hormonal</div><div class="row chips"><span class="chip rv" data-seg="1" data-f="0.25">ácido tranexâmico</span><span class="chip rv" data-seg="1" data-f="0.55">AINE</span><span class="chip rv" data-seg="1" data-f="0.8">ferro</span></div></div>
+  </div>
+  <div class="quote rv" data-seg="2"><div>O remédio controla o <em>sintoma</em>, não remove a <em>causa estrutural</em>.</div><span class="rv" data-seg="2" data-f="0.7">pólipo → polipectomia</span></div>
+  <div class="grid g3">
+    <div class="card rv" data-seg="3"><div class="lbl g">Histeroscopia</div><div class="txt">melhor que curetagem às cegas</div></div>
+    <div class="card rv" data-seg="3" data-f="0.45"><div class="lbl g">Embolização</div><div class="txt">principalmente na MAV</div></div>
+    <div class="card rv" data-seg="3" data-f="0.75"><div class="lbl w">Histerectomia</div><div class="txt">última opção</div></div>
+  </div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 6.187], [6.986, 3.392], [10.728, 6.144], [17.222, 9.387]];
+      const DUR = 27.059;
+      const root = document.getElementById("cronico-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["cronico"] = tl;
+    })();
+  </script>
+</template>

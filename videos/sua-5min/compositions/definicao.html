@@ -1,0 +1,41 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="definicao" data-width="1920" data-height="1080">
+    <div id="definicao-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>01</b> Definição</div>
+  <h2 class="h rv" data-seg="0">Alteração do <em>padrão menstrual</em>, fora da gestação</h2>
+  <div class="grid g4">
+    <div class="card axis rv" data-seg="1" data-f="0.25"><div class="lbl">Frequência</div><div class="val rv" data-seg="2" data-f="0.12">24 a 38 dias</div></div>
+    <div class="card axis rv" data-seg="1" data-f="0.42"><div class="lbl">Duração</div><div class="val rv" data-seg="2" data-f="0.33">até 8 dias</div></div>
+    <div class="card axis rv" data-seg="1" data-f="0.6"><div class="lbl">Regularidade</div><div class="val rv" data-seg="2" data-f="0.52">variação ≤ 7 a 9 dias</div></div>
+    <div class="card axis rv" data-seg="1" data-f="0.8"><div class="lbl">Volume</div><div class="val rv" data-seg="2" data-f="0.8">não atrapalha a vida</div></div>
+  </div>
+  <div class="grid g2">
+    <div class="card bw rv" data-seg="3" data-f="0.02"><div class="lbl w">Agudo</div><div class="txt">intenso, exige intervenção imediata</div></div>
+    <div class="card bn rv" data-seg="3" data-f="0.45"><div class="lbl n">Crônico</div><div class="txt">na maioria dos ciclos dos últimos 6 meses</div></div>
+  </div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 6.251], [7.051, 3.456], [10.857, 10.24], [21.447, 9.131]];
+      const DUR = 31.027;
+      const root = document.getElementById("definicao-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["definicao"] = tl;
+    })();
+  </script>
+</template>

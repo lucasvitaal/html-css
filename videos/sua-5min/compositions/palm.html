@@ -1,0 +1,37 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="palm" data-width="1920" data-height="1080">
+    <div id="palm-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>04</b> Etiologias · PALM-COEIN</div>
+  <h2 class="h rv" data-seg="0" data-f="0.35"><em>PALM</em> = estrutural: aparece na imagem ou na histologia</h2>
+  <div class="grid g4 letters">
+    <div class="card"><div class="L rv" data-seg="0" data-f="0.55" data-fx="pop">P</div><div class="lbl">Pólipo</div><div class="txt rv" data-seg="1">20–30% dos casos · perto da menopausa</div></div>
+    <div class="card"><div class="L rv" data-seg="0" data-f="0.62" data-fx="pop">A</div><div class="lbl">Adenomiose</div><div class="txt rv" data-seg="2">endométrio no miométrio · fluxo ↑ + cólica</div></div>
+    <div class="card"><div class="L rv" data-seg="0" data-f="0.69" data-fx="pop">L</div><div class="lbl">Leiomioma</div><div class="txt rv" data-seg="3">submucoso → metrorragia</div><div class="txt rv" data-seg="3" data-f="0.45">intramural → menorragia</div><div class="txt m rv" data-seg="3" data-f="0.8">subseroso: raramente sangra</div></div>
+    <div class="card"><div class="L rv" data-seg="0" data-f="0.76" data-fx="pop">M</div><div class="lbl">Malignidade e hiperplasia</div><div class="txt rv" data-seg="4">pós-menopausa + endométrio &gt; 4 mm → <b class="w">biópsia</b></div></div>
+  </div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 6.272], [7.072, 3.371], [10.792, 4.48], [15.622, 8.085], [24.058, 5.717]];
+      const DUR = 30.225;
+      const root = document.getElementById("palm-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["palm"] = tl;
+    })();
+  </script>
+</template>

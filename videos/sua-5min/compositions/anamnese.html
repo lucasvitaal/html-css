@@ -1,0 +1,44 @@
+<template>
+  <style>
+    #root { position: absolute; inset: 0; }
+  </style>
+  <div id="root" data-composition-id="anamnese" data-width="1920" data-height="1080">
+    <div id="anamnese-stage" class="scene">
+<div class="stage">
+  <div class="chap"><b>03</b> Anamnese e exame físico</div>
+  <h2 class="h rv" data-seg="0">A <em>idade</em> orienta a suspeita</h2>
+  <div class="grid g3">
+    <div class="card rv" data-seg="0" data-f="0.2"><div class="lbl n">Adolescência</div><div class="txt">imaturidade do eixo · gestação · IST · coagulopatia</div></div>
+    <div class="card rv" data-seg="1"><div class="lbl n">Adulta</div><div class="txt">disfunção ovulatória · gestação anormal</div></div>
+    <div class="card rv" data-seg="1" data-f="0.4"><div class="lbl n">Pós-menopausa</div><div class="txt">atrofia · terapia hormonal</div><div class="txt w b rv" data-seg="1" data-f="0.68">câncer de endométrio até prova em contrário</div></div>
+  </div>
+  <div class="grid g2">
+    <div class="card rv" data-seg="2"><div class="lbl g">Especular</div><div class="txt">vem do colo? pólipo · mioma parido · cervicite</div></div>
+    <div class="card rv" data-seg="3">
+      <div class="lbl g">Toque bimanual</div>
+      <div class="txt rv" data-seg="3" data-f="0.25"><b>Mioma:</b> aumentado, nodular, indolor</div>
+      <div class="txt rv" data-seg="3" data-f="0.7"><b>Adenomiose:</b> amolecido, doloroso</div>
+    </div>
+  </div>
+</div>
+    </div>
+  </div>
+  <script>
+    (function () {
+      const tl = gsap.timeline({ paused: true });
+      const SEG = [[0.45, 5.973], [6.773, 8.384], [15.507, 5.461], [21.318, 5.909]];
+      const DUR = 27.678;
+      const root = document.getElementById("anamnese-stage");
+      root.querySelectorAll(".rv").forEach((el) => {
+        const s = SEG[+el.dataset.seg || 0];
+        const t = Math.max(0.05, s[0] + (+el.dataset.f || 0) * s[1] - 0.12);
+        const fx = el.dataset.fx || "up";
+        if (fx === "pop") tl.fromTo(el, { opacity: 0, scale: 0.86 }, { opacity: 1, scale: 1, duration: 0.45, ease: "back.out(1.6)" }, t);
+        else if (fx === "fade") tl.fromTo(el, { opacity: 0 }, { opacity: 1, duration: 0.4, ease: "power2.out" }, t);
+        else tl.fromTo(el, { opacity: 0, y: 26, filter: "blur(6px)" }, { opacity: 1, y: 0, filter: "blur(0px)", duration: 0.5, ease: "expo.out" }, t);
+      });
+      tl.to(root, { opacity: 0, filter: "blur(8px)", duration: 0.3, ease: "power3.in" }, DUR - 0.34);
+      window.__timelines["anamnese"] = tl;
+    })();
+  </script>
+</template>
