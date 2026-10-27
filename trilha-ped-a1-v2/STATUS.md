@@ -18,3 +18,9 @@ python3 <skill>/scripts/build.py . && python3 <skill>/scripts/smoke.py saida/ind
 # depois do build: trocar <title>Trilha de estudos</title> por <title>Trilha Ped A1 2.0</title>
 # publicar SEMPRE com a url acima
 ```
+
+## Motor (27/10)
+- Trocado pelo motor do Dr. Monkey Kong, extraído da Trilha de SUA · Simpósio (claude.ai/artifact/KaftXKifnxwUqczDCQqp8J, a mais recente).
+- `trabalho/motor/template.html` = esse motor com os marcadores CFG/D/IMG. Textos que estavam cravados ("simpósio", "slides do grupo") agora vêm de `CFG.eventoArt/eventoDo/eventoCurto/eventoPro` e `CFG.profDo` (padrão: prova).
+- curso.json ganhou `mk` (artes do Monkey Kong), `musica`, `musicas`, `mcNome`, `caiuSrc`.
+- smoke.py antigo acusa "#agplay" no motor novo (o botão é escondido de propósito; acontece igual na SUA original).
