@@ -1,7 +1,7 @@
 """App de voz local (XTTS v2) com Drive. Rode: python app.py  (no Colab: python app.py --share)
 
 No Colab, com o Drive montado, tudo fica em Meu Drive/voz-local/:
-  voz_lucas.wav      voz de referência padrão (5 a 10 s), usada quando nenhuma é enviada
+  voz_lucas.*        voz padrão (ogg, wav, mp3...; vários voz_lucas* somam até 30 s), usada quando nenhuma é enviada
   saidas/            áudios gerados (<nome>.mp3) e lotes (<nome>.zip + pasta <nome>/)
   pedidos/           um .txt aqui vira áudio sozinho: pedidos/aula1.txt -> saidas/aula1.mp3
                      (texto que começa com "## nome" é um lote: saidas/aula1.zip)
@@ -13,6 +13,7 @@ import datetime
 import os
 import re
 import shutil
+import subprocess
 import sys
 import tempfile
 import threading
@@ -42,7 +43,9 @@ DRIVE = os.environ.get("VOZ_DRIVE", "/content/drive/MyDrive/voz-local")
 if not os.path.isdir(os.path.dirname(DRIVE)):  # fora do Colab (ou sem Drive): pasta local
     DRIVE = os.path.join(AQUI, "voz-local")
 SAIDAS, PEDIDOS = os.path.join(DRIVE, "saidas"), os.path.join(DRIVE, "pedidos")
-VOZ_PADRAO = os.path.join(DRIVE, "voz_lucas.wav")
+VOZ_PADRAO = os.path.join(DRIVE, "voz_lucas.wav")  # o botão "Salvar como padrão" grava aqui
+FORMATOS = ("wav", "ogg", "opus", "mp3", "m4a", "flac", "webm")
+CACHE = tempfile.mkdtemp()
 LOTES = ["sua40", "sua5min", "pedA1"]  # testes prontos em lotes/ do repositório
 for d in (SAIDAS, PEDIDOS, os.path.join(PEDIDOS, "feitos")):
     os.makedirs(d, exist_ok=True)
@@ -61,12 +64,30 @@ def nome_livre(nome, texto):
     return nome
 
 
+def como_wav(caminho):
+    """O XTTS lê wav: ogg, opus, mp3, m4a... viram wav 24 kHz mono, convertidos uma vez por versão do arquivo."""
+    if caminho.lower().endswith(".wav"):
+        return caminho
+    st = os.stat(caminho)
+    destino = os.path.join(CACHE, f"{os.path.basename(caminho)}-{int(st.st_mtime)}-{st.st_size}.wav")
+    if not os.path.exists(destino):
+        subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", caminho, "-ar", "24000", "-ac", "1", destino], check=True)
+    return destino
+
+
+def vozes_padrao():
+    """Todo voz_lucas* do Drive (voz_lucas.ogg, voz_lucas_26s.ogg...): o XTTS junta até 30 s de referência."""
+    return sorted(os.path.join(DRIVE, f) for f in os.listdir(DRIVE)
+                  if f.startswith("voz_lucas") and f.rsplit(".", 1)[-1].lower() in FORMATOS)
+
+
 def voz(referencia):
     if referencia:
-        return referencia
-    if os.path.exists(VOZ_PADRAO):
-        return VOZ_PADRAO
-    raise gr.Error("Sem voz: envie um áudio de 5 a 10 s ou salve voz_lucas.wav em Meu Drive/voz-local.")
+        return [como_wav(referencia)]
+    padrao = vozes_padrao()
+    if padrao:
+        return [como_wav(v) for v in padrao]
+    raise gr.Error("Sem voz: envie um áudio de 5 a 10 s ou salve voz_lucas.ogg (ou .wav) em Meu Drive/voz-local.")
 
 
 def para_drive(origem, destino):
@@ -159,7 +180,7 @@ def api_falar(texto, nome=""):
 def salvar_padrao(referencia):
     if not referencia:
         raise gr.Error("Envie a voz primeiro.")
-    shutil.copy(referencia, VOZ_PADRAO)
+    shutil.copy(como_wav(referencia), VOZ_PADRAO)
     return "Voz padrão salva em voz-local/voz_lucas.wav"
 
 
@@ -176,9 +197,9 @@ def voz_gorila():
 
 with gr.Blocks(title="Voz local") as demo:
     gr.Markdown("# Voz local · XTTS v2\nClone só a sua voz ou a de quem autorizou.")
-    tem_padrao = os.path.exists(VOZ_PADRAO)
+    padrao = [os.path.basename(v) for v in vozes_padrao()]
     referencia = gr.Audio(label="Voz de referência (vazio = voz padrão do Drive)", type="filepath")
-    gr.Markdown("Voz padrão: **voz_lucas.wav** do Drive." if tem_padrao else
+    gr.Markdown("Voz padrão do Drive: **" + ", ".join(padrao) + "**." if padrao else
                 "Sem voz padrão ainda: envie uma voz e clique em *Salvar como padrão*.")
     with gr.Row():
         gr.Button("Salvar como padrão", size="sm").click(salvar_padrao, referencia, gr.Markdown())

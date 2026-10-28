@@ -16,7 +16,7 @@ from TTS.api import TTS
 
 SR = 24000  # taxa de saída do XTTS v2
 _xtts = None
-_latentes = {}  # referência -> (gpt_cond_latent, speaker_embedding), calculado uma vez por voz
+_latentes = {}  # referências -> (gpt_cond_latent, speaker_embedding), calculado uma vez por voz
 
 
 def xtts():
@@ -42,9 +42,10 @@ def gerar(texto, referencia, saida="saida.wav", pausa=0.45, velocidade=1.0, norm
         from narracao import falar, frases as curtas
         texto = "\n".join(curtas(falar(texto)))
     m = xtts()
-    if referencia not in _latentes:
-        _latentes[referencia] = m.get_conditioning_latents(audio_path=[referencia])
-    gpt, spk = _latentes[referencia]
+    refs = tuple(referencia) if isinstance(referencia, (list, tuple)) else (referencia,)  # uma ou várias gravações
+    if refs not in _latentes:
+        _latentes[refs] = m.get_conditioning_latents(audio_path=list(refs))
+    gpt, spk = _latentes[refs]
     partes = []
     for f in frases(texto):
         with torch.inference_mode():

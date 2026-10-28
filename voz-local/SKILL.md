@@ -11,7 +11,7 @@ O app roda no Colab do Lucas e conversa com o Claude pelo Google Drive, pasta **
 |---|---|
 | `status.txt` | "no ar: AAAA-MM-DD HH:MM". Atualizado a cada minuto enquanto o app roda |
 | `link.txt` | endereço gradio.live da sessão atual (só abre no navegador do PC dele) |
-| `voz_lucas.wav` | voz padrão (5 a 10 s) |
+| `voz_lucas.ogg` | voz padrão (wav, ogg, mp3...; vários `voz_lucas*` somam até 30 s) |
 | `pedidos/` | o Claude cria aqui `<nome>.txt`; o app gera e move o pedido para `pedidos/feitos/` |
 | `saidas/` | `<nome>.mp3` (ou `<nome>.zip` + pasta `<nome>/` para lote); erro vira `<nome>.erro.txt` |
 
