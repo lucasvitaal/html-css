@@ -40,8 +40,13 @@ import gradio as gr  # noqa: E402
 from motor import gerar  # noqa: E402
 
 DRIVE = os.environ.get("VOZ_DRIVE", "/content/drive/MyDrive/voz-local")
-if not os.path.isdir(os.path.dirname(DRIVE)):  # fora do Colab (ou sem Drive): pasta local
+SEM_DRIVE = not os.path.isdir(os.path.dirname(DRIVE))
+if SEM_DRIVE:  # fora do Colab, ou Drive não montado: pasta local (o Claude não enxerga)
     DRIVE = os.path.join(AQUI, "voz-local")
+AVISO_DRIVE = ("⚠ DRIVE NÃO MONTADO: a voz padrão e as saídas não estão no Drive. Rode a célula 3 (Drive), "
+               "clique em permitir na janela do Google e rode de novo a célula 4.") if SEM_DRIVE and os.path.isdir("/content") else ""
+TEXTO_TESTE = ("Na paciente estável: ACO 35 mcg, 3×/dia. "
+               "Se o estrogênio for contraindicado, medroxiprogesterona 20 mg por 7 dias.")
 SAIDAS, PEDIDOS = os.path.join(DRIVE, "saidas"), os.path.join(DRIVE, "pedidos")
 VOZ_PADRAO = os.path.join(DRIVE, "voz_lucas.wav")  # o botão "Salvar como padrão" grava aqui
 FORMATOS = ("wav", "ogg", "opus", "mp3", "m4a", "flac", "webm")
@@ -197,6 +202,8 @@ def voz_gorila():
 
 with gr.Blocks(title="Voz local") as demo:
     gr.Markdown("# Voz local · XTTS v2\nClone só a sua voz ou a de quem autorizou.")
+    if AVISO_DRIVE:
+        gr.Markdown("### " + AVISO_DRIVE)
     padrao = [os.path.basename(v) for v in vozes_padrao()]
     referencia = gr.Audio(label="Voz de referência (vazio = voz padrão do Drive)", type="filepath")
     gr.Markdown("Voz padrão do Drive: **" + ", ".join(padrao) + "**." if padrao else
@@ -229,11 +236,31 @@ with gr.Blocks(title="Voz local") as demo:
         api_texto, api_nome, api_saida = gr.Textbox(), gr.Textbox(), gr.Textbox()
         gr.Button().click(api_falar, [api_texto, api_nome], api_saida, api_name="falar")
 
+def teste_rapido():
+    """Ao subir, gera saidas/teste1.mp3 com a voz padrão e diz no log se deu certo."""
+    if AVISO_DRIVE:
+        print("\n" + AVISO_DRIVE + "\n", flush=True)
+        return
+    if not vozes_padrao():
+        print("TESTE RÁPIDO pulado: sem voz_lucas.* em", DRIVE, flush=True)
+        return
+    t = time.time()
+    try:
+        caminho = uma_fala(TEXTO_TESTE, nome="teste1")
+        print(f"TESTE RÁPIDO OK em {time.time() - t:.0f} s: {caminho}", flush=True)
+    except Exception:
+        traceback.print_exc()
+        print("TESTE RÁPIDO FALHOU (erro acima)", flush=True)
+
+
 if __name__ == "__main__":
+    print("Pasta de trabalho:", DRIVE, "| vozes:", [os.path.basename(v) for v in vozes_padrao()], flush=True)
     threading.Thread(target=vigiar_pedidos, daemon=True).start()
     _, local, publico = demo.queue().launch(share="--share" in sys.argv, prevent_thread_lock=True)
     link = publico or local
     with open(os.path.join(DRIVE, "link.txt"), "w") as f:
         f.write(f"{link}\naberto em {agora()} (Brasília)\n")
     print("APP NO AR:", link, flush=True)
+    if "--sem-teste" not in sys.argv:
+        threading.Thread(target=teste_rapido, daemon=True).start()
     demo.block_thread()
