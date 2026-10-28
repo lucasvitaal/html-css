@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Gera o vídeo "SUA em 5 minutos": narração (Kokoro, pt-BR), legendas e cenas.
+"""Gera o vídeo "SUA em 5 minutos": narração (ElevenLabs ou Kokoro, pt-BR), legendas e cenas.
 
 Edite o roteiro em CENAS e rode:  python3 build.py
 Depois: npx hyperframes check  e  npx hyperframes render -o renders/sua-5min.mp4
@@ -21,6 +21,9 @@ import numpy as np
 import soundfile as sf
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
+# FONTE=eleven usa as falas do ElevenLabs em assets/eleven/<cena>-<fala>.mp3 (voz Henrique);
+# FONTE=kokoro gera a voz local, frase a frase.
+FONTE = os.environ.get("FONTE", "eleven")
 VOZ = os.environ.get("VOZ", "pf_dora")
 VELOCIDADE = os.environ.get("VELOCIDADE", "1.05")
 HF = os.environ.get("HYPERFRAMES_BIN") or shutil.which("hyperframes") or "hyperframes"
@@ -402,6 +405,40 @@ def aparar(dados, sr, limiar=0.008, margem=0.04):
     return dados[max(0, voz[0] - m): voz[-1] + m]
 
 
+def pausas(dados, sr, n, janela=0.02, limiar=0.012, minimo=0.15):
+    """Meio das n pausas mais longas do áudio, em ordem de tempo."""
+    if n <= 0:
+        return []
+    w = int(janela * sr)
+    rms = np.sqrt(np.convolve(dados ** 2, np.ones(w) / w, mode="same"))[::w]
+    quieto = rms < limiar
+    trechos, ini = [], None
+    for i, q in enumerate(quieto):
+        if q and ini is None:
+            ini = i
+        elif not q and ini is not None:
+            if (i - ini) * janela >= minimo:
+                trechos.append(((i - ini) * janela, (ini + i) / 2 * janela))
+            ini = None
+    escolhidos = sorted(trechos, reverse=True)[:n]
+    meios = sorted(m for _, m in escolhidos)
+    while len(meios) < n:  # sem pausas suficientes: divide o que falta igualmente
+        meios.append((meios[-1] if meios else 0) + 0.5)
+    return meios
+
+
+def legendar(legendas, frase, ini, dur):
+    """Dentro da frase, tempo de cada grupo proporcional ao número de caracteres."""
+    gs = grupos(frase)
+    pesos = [len(g) + 6 * len(re.findall(r"[.?!:;,]", g)) for g in gs]
+    tot = sum(pesos)
+    acc = 0
+    for g, p in zip(gs, pesos):
+        a = ini + dur * acc / tot
+        acc += p
+        legendas.append([a, ini + dur * acc / tot, g])
+
+
 def grupos(texto, max_palavras=6):
     """Quebra a legenda em grupos curtos, preferindo pontuação."""
     palavras = texto.split()
@@ -438,9 +475,24 @@ def main():
         for si, cap in enumerate(cena["segs"]):
             if si:
                 t += PAUSA_FALA
-            # cada frase é gerada à parte, com silêncio de verdade entre elas
             pecas = [x for x in re.split(r"(?<=[.?!:;])\s+", cap) if x]
             seg_ini = t
+            if FONTE == "eleven":
+                dados, sr_ = sf.read(os.path.join(ROOT, "assets", "eleven", f"{cena['id']}-{si}.mp3"), dtype="float32")
+                if dados.ndim > 1:
+                    dados = dados.mean(axis=1)
+                sr = sr or sr_
+                dados = aparar(dados, sr)
+                audio.append((t, dados))
+                # as pausas já estão no áudio: cada frase vai de uma pausa até a próxima
+                cortes = [0.0] + pausas(dados, sr, len(pecas) - 1) + [len(dados) / sr]
+                for pi, peca in enumerate(pecas):
+                    a, b = cortes[pi], cortes[pi + 1]
+                    legendar(legendas, peca, t + a, b - a)
+                t += len(dados) / sr
+                segs.append([seg_ini, t - seg_ini])
+                continue
+            # cada frase é gerada à parte, com silêncio de verdade entre elas
             for pi, peca in enumerate(pecas):
                 say = fala(peca)
                 h = hashlib.md5((VOZ + VELOCIDADE + say).encode()).hexdigest()[:12]
@@ -455,15 +507,7 @@ def main():
                 dados = aparar(dados, sr)
                 dur = len(dados) / sr
                 audio.append((t, dados))
-                # legendas: dentro da frase, tempo proporcional ao número de caracteres
-                gs = grupos(peca)
-                pesos = [len(g) + 6 * len(re.findall(r"[.?!:;,]", g)) for g in gs]
-                tot = sum(pesos)
-                acc = 0
-                for g, p in zip(gs, pesos):
-                    ini = t + dur * acc / tot
-                    acc += p
-                    legendas.append([ini, t + dur * acc / tot, g])
+                legendar(legendas, peca, t, dur)
                 t += dur
                 if pi + 1 < len(pecas):
                     t += PAUSA_CURTA if peca[-1] in ":;" else PAUSA_FRASE

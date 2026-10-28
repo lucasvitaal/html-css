@@ -7,8 +7,10 @@ você escreve HTML/CSS com animações e ele renderiza um MP4.
   O vídeo pronto está em `demo-medicina/renders/sraa-demo.mp4`.
 - `sua-5min/` é a revisão de **Sangramento Uterino Anormal** (5 min, narrada e com legendas), feita a
   partir do Ensaio SUA de 40 min. Vídeo pronto: `sua-5min/renders/sua-5min.mp4`.
-  O roteiro fica em `sua-5min/build.py`: edite as falas e rode `python3 build.py` para regerar
-  narração, legendas e cenas (precisa de `pip install kokoro-onnx soundfile`).
+  Narração com a voz Henrique (ElevenLabs), uma fala por arquivo em `sua-5min/assets/eleven/`.
+  O roteiro fica em `sua-5min/build.py`: rode `python3 build.py` para regerar legendas e cenas
+  (precisa de `pip install soundfile numpy`). Com `FONTE=kokoro` ele usa a voz local gratuita
+  (precisa também de `pip install kokoro-onnx`).
 
 ## Pedindo um vídeo novo ao Claude
 

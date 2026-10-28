@@ -2,6 +2,6 @@
 node_modules/
 **/assets/tts/
 __pycache__/
-**/assets/eleven/
+**/assets/eleven/*.b.mp3
 **/renders/work-*/
 **/renders/.*hf-transaction*/
