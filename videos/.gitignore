@@ -3,3 +3,5 @@ node_modules/
 **/assets/tts/
 __pycache__/
 **/assets/eleven/
+**/renders/work-*/
+**/renders/.*hf-transaction*/
