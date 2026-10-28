@@ -1,0 +1,5 @@
+# PyTorch: instale antes, pela página https://pytorch.org (escolha CUDA se tiver placa NVIDIA)
+coqui-tts>=0.24
+gradio>=4.44
+soundfile
+numpy
