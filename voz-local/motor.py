@@ -35,8 +35,12 @@ def frases(texto):
     return [f.strip() for f in re.split(r"(?<=[.!?:;])\s+|\n+", texto.strip()) if f.strip()]
 
 
-def gerar(texto, referencia, saida="saida.wav", pausa=0.45, velocidade=1.0):
-    """Gera `texto` com a voz de `referencia` e salva em .wav ou .mp3. Devolve o caminho."""
+def gerar(texto, referencia, saida="saida.wav", pausa=0.45, velocidade=1.0, normalizar=True):
+    """Gera `texto` com a voz de `referencia` e salva em .wav ou .mp3. Devolve o caminho.
+    Com `normalizar`, números, unidades e siglas viram texto falado (narracao.py) e frases longas são quebradas."""
+    if normalizar:
+        from narracao import falar, frases as curtas
+        texto = "\n".join(curtas(falar(texto)))
     m = xtts()
     if referencia not in _latentes:
         _latentes[referencia] = m.get_conditioning_latents(audio_path=[referencia])

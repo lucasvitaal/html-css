@@ -57,7 +57,7 @@ SIMBOLOS = [
     (r"β-?hCG", "beta agá cê gê"), (r"\bPALM-COEIN\b", "Pálm Coêin"), (r"\bPALM\b", "Pálm"), (r"\bCOEIN\b", "Coêin"),
     (r"\bFIGO\b", "Fígo"), (r"\bvon Willebrand\b", "fon Vílebrand"), (r"\bkg/m²", "quilos por metro quadrado"),
     (r"(\d)\s*×\s*/\s*dia", r"\1 vezes ao dia"), (r"(\d)\s*×", r"\1 vezes"), (r"\s*/\s*dia\b", " por dia"),
-    (r"/kg\b", " por quilo"), (r"≥", " maior ou igual a "), (r"≤", " menor ou igual a "), (r"≈", " cerca de "),
+    (r"/kg\b", " por quilo"), (r"/m[lL]\b", " por mililitro"), (r"/h\b", " por hora"), (r"/min\b", " por minuto"), (r"≥", " maior ou igual a "), (r"≤", " menor ou igual a "), (r"≈", " cerca de "),
     (r"±", " mais ou menos "), (r"(?<=\s)>(?=\s*\d)", " maior que "), (r"(?<=\s)<(?=\s*\d)", " menor que "),
     (r"^>(?=\s*\d)", "maior que "), (r"^<(?=\s*\d)", "menor que "), (r"\s*→\s*", ", "), (r"\s*[·—–]\s+", ", "),
     (r"(\d)\s*[–-]\s*(\d)", r"\1 a \2"), (r"\s/\s", " sobre "), (r"%", " por cento"), (r"(\d)\s*°C", r"\1 graus"),
@@ -73,7 +73,7 @@ SIGLAS = {"FSH": "éfe ésse agá", "TSH": "tê ésse agá", "DIU": "diu", "SOP"
           "ITU": "infecção urinária", "LCR": "líquor", "AINE": "anti-inflamatório", "ACO": "anticoncepcional oral",
           "USG": "ultrassom", "MAV": "malformação arteriovenosa", "EV": "endovenoso", "IST": "i ésse tê",
           "PA": "pressão arterial", "FC": "frequência cardíaca", "Hb": "hemoglobina", "HPV": "agá pê vê",
-          "SUA": "sangramento uterino anormal", "RR": "risco relativo", "RN": "recém-nascido", "UBS": "u bê ésse", "SUS": "sus"}
+          "SUA": "sangramento uterino anormal", "RR": "risco relativo", "UFC": "unidades formadoras de colônia", "VO": "via oral", "IM": "intramuscular", "SC": "subcutâneo", "RN": "recém-nascido", "UBS": "u bê ésse", "SUS": "sus"}
 
 
 def falar(t):

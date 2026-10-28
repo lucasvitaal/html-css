@@ -1581,18 +1581,18 @@ Olhe o esquema enquanto eu explico.
 Hematócrito acima de trinta e oito, alarme ou recusa, vira grupo C.
 
 ## g_ab-m-04
-O slide diz: Slide trinta e dois: VO maior ou igual a cinquenta mililitros por quilo em quatro a seis horas.
+O slide diz: Slide trinta e dois: via oral maior ou igual a cinquenta mililitros por quilo em quatro a seis horas.
 Hematócrito maior que trinta e oito por cento, conduta do grupo C.
 
 ## g_ab-m-05
 A outra fonte diz: Fluxograma do MS, slide vinte e seis, baixa resolução.
-VO cinquenta a cem mililitros por quilo em quatro horas ou venosa quarenta mililitros por quilo por quatro horas.
+Via oral cinquenta a cem mililitros por quilo em quatro horas ou venosa quarenta mililitros por quilo por quatro horas.
 
 ## g_ab-m-06
 Na prova, responda: Prova: slide trinta e dois.
 
 ## g_ab-p-00
-Criança de quinze quilos no B: maior ou igual a setecentos e cinquenta mililitros VO em quatro a seis horas na unidade.
+Criança de quinze quilos no B: maior ou igual a setecentos e cinquenta mililitros via oral em quatro a seis horas na unidade.
 
 ## g_ab-p-01
 Erro dos compilados: grupo A e cinquenta mililitros por quilo venoso.
