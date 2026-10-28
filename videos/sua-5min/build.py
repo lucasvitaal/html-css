@@ -22,11 +22,13 @@ import soundfile as sf
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 VOZ = os.environ.get("VOZ", "pf_dora")
-VELOCIDADE = os.environ.get("VELOCIDADE", "1.1")
+VELOCIDADE = os.environ.get("VELOCIDADE", "1.05")
 HF = os.environ.get("HYPERFRAMES_BIN") or shutil.which("hyperframes") or "hyperframes"
 
-PAUSA_FALA = 0.35   # entre falas da mesma cena
-PAUSA_CENA = 0.9    # entre cenas
+PAUSA_FRASE = 0.55  # depois de ponto final, interrogação ou exclamação
+PAUSA_CURTA = 0.3   # depois de dois-pontos ou ponto e vírgula
+PAUSA_FALA = 0.7    # entre falas da mesma cena
+PAUSA_CENA = 1.3    # entre cenas
 INICIO = 0.5
 FIM = 2.5
 
@@ -391,6 +393,15 @@ def tts(texto, destino):
 FRACAS = {"de", "a", "o", "e", "do", "da", "dos", "das", "no", "na", "em", "com", "que", "um", "uma", "por", "se", "à", "ao", "as", "os"}
 
 
+def aparar(dados, sr, limiar=0.008, margem=0.04):
+    """Tira o silêncio que o TTS deixa no começo e no fim de cada frase."""
+    voz = np.flatnonzero(np.abs(dados) > limiar)
+    if not len(voz):
+        return dados
+    m = int(margem * sr)
+    return dados[max(0, voz[0] - m): voz[-1] + m]
+
+
 def grupos(texto, max_palavras=6):
     """Quebra a legenda em grupos curtos, preferindo pontuação."""
     palavras = texto.split()
@@ -427,30 +438,36 @@ def main():
         for si, cap in enumerate(cena["segs"]):
             if si:
                 t += PAUSA_FALA
-            say = fala(cap)
-            h = hashlib.md5((VOZ + VELOCIDADE + say).encode()).hexdigest()[:12]
-            wav = os.path.join(ROOT, "assets", "tts", f"{cena['id']}-{si}-{h}.wav")
-            if not os.path.exists(wav):
-                print("TTS", cena["id"], si, flush=True)
-                tts(say, wav)
-            dados, sr_ = sf.read(wav, dtype="float32")
-            if dados.ndim > 1:
-                dados = dados.mean(axis=1)
-            sr = sr or sr_
-            dur = len(dados) / sr
-            audio.append((t, dados))
-            segs.append([t, dur])
-            # legendas: tempo de cada grupo proporcional ao número de caracteres
-            gs = grupos(cap)
-            pesos = [len(g) + 6 * len(re.findall(r"[.?!:;,]", g)) for g in gs]
-            tot = sum(pesos)
-            acc = 0
-            for g, p in zip(gs, pesos):
-                ini = t + dur * acc / tot
-                acc += p
-                fim = t + dur * acc / tot
-                legendas.append([ini, fim, g])
-            t += dur
+            # cada frase é gerada à parte, com silêncio de verdade entre elas
+            pecas = [x for x in re.split(r"(?<=[.?!:;])\s+", cap) if x]
+            seg_ini = t
+            for pi, peca in enumerate(pecas):
+                say = fala(peca)
+                h = hashlib.md5((VOZ + VELOCIDADE + say).encode()).hexdigest()[:12]
+                wav = os.path.join(ROOT, "assets", "tts", f"{cena['id']}-{si}-{pi}-{h}.wav")
+                if not os.path.exists(wav):
+                    print("TTS", cena["id"], si, pi, flush=True)
+                    tts(say, wav)
+                dados, sr_ = sf.read(wav, dtype="float32")
+                if dados.ndim > 1:
+                    dados = dados.mean(axis=1)
+                sr = sr or sr_
+                dados = aparar(dados, sr)
+                dur = len(dados) / sr
+                audio.append((t, dados))
+                # legendas: dentro da frase, tempo proporcional ao número de caracteres
+                gs = grupos(peca)
+                pesos = [len(g) + 6 * len(re.findall(r"[.?!:;,]", g)) for g in gs]
+                tot = sum(pesos)
+                acc = 0
+                for g, p in zip(gs, pesos):
+                    ini = t + dur * acc / tot
+                    acc += p
+                    legendas.append([ini, t + dur * acc / tot, g])
+                t += dur
+                if pi + 1 < len(pecas):
+                    t += PAUSA_CURTA if peca[-1] in ":;" else PAUSA_FRASE
+            segs.append([seg_ini, t - seg_ini])
         cenas_t.append((cena, cena_ini, segs))
     total = t + FIM
 

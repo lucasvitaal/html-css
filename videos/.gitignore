@@ -2,3 +2,4 @@
 node_modules/
 **/assets/tts/
 __pycache__/
+**/assets/eleven/
