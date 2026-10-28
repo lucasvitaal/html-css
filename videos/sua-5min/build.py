@@ -22,6 +22,7 @@ import soundfile as sf
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 # FONTE=eleven usa as falas do ElevenLabs em assets/eleven/<cena>-<fala>.mp3 (voz Henrique);
+# FONTE=xtts usa as falas do app voz-local em assets/xtts/<cena>-<fala>.wav (ver voz-local/README.md);
 # FONTE=kokoro gera a voz local, frase a frase.
 FONTE = os.environ.get("FONTE", "eleven")
 VOZ = os.environ.get("VOZ", "pf_dora")
@@ -477,8 +478,9 @@ def main():
                 t += PAUSA_FALA
             pecas = [x for x in re.split(r"(?<=[.?!:;])\s+", cap) if x]
             seg_ini = t
-            if FONTE == "eleven":
-                dados, sr_ = sf.read(os.path.join(ROOT, "assets", "eleven", f"{cena['id']}-{si}.mp3"), dtype="float32")
+            if FONTE in ("eleven", "xtts"):
+                ext = "mp3" if FONTE == "eleven" else "wav"
+                dados, sr_ = sf.read(os.path.join(ROOT, "assets", FONTE, f"{cena['id']}-{si}.{ext}"), dtype="float32")
                 if dados.ndim > 1:
                     dados = dados.mean(axis=1)
                 sr = sr or sr_

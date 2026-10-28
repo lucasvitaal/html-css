@@ -1,0 +1,2995 @@
+## d_semio-m-00
+Na pele da criança o exame começa com luz natural e com palavras certas: morfologia, distribuição e evolução.
+
+## d_semio-m-01
+O gesto que separa o banal do grave é a digitopressão.
+
+## d_semio-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_semio-m-03
+Eritema some quando você aperta, porque é vaso dilatado; púrpura não some, porque o sangue já saiu do vaso.
+
+## d_semio-m-04
+Púrpura em criança febril é meningococo até prova em contrário.
+
+## d_semio-p-00
+Mancha que não some à digitopressão é púrpura, não eritema.
+
+## d_semio-p-01
+Em criança febril, a hipótese que mata é meningococcemia.
+
+## d_semio-z-00
+Apertou e não sumiu?
+
+## d_semio-z-01
+Para de descrever bonitinho e corre: púrpura com febre é meningococo até alguém provar o contrário, porra.
+
+## d_discrom-m-00
+As discromias se separam pela cor.
+
+## d_discrom-m-01
+Vitiligo é acrômico, branco-leite, simétrico.
+
+## d_discrom-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_discrom-m-03
+Pitiríase alba é só hipocrômica, com descamação fina, e anda junto com a atopia, por isso se trata hidratando.
+
+## d_discrom-m-04
+Mancha mongólica é azul-acinzentada, sacral, presente desde o nascimento e some com os anos.
+
+## d_discrom-m-05
+E o nevo congênito grande merece seguimento, porque o risco de melanoma chega a doze por cento.
+
+## d_discrom-p-00
+Mancha mongólica não muda de cor como equimose e está lá desde o nascimento, documente no prontuário para não virar suspeita de maus-tratos.
+
+## d_discrom-z-00
+Mancha azul na bunda do bebê desde que nasceu não é surra, é mongólica.
+
+## d_discrom-z-01
+Anota no prontuário antes que a creche chame o Conselho Tutelar, caralho.
+
+## d_urtic-m-00
+Urticária é a placa vermelha, inchada e que coça, que muda de lugar e some quando você aperta.
+
+## d_urtic-m-01
+Aguda vai até seis semanas; depois disso é crônica.
+
+## d_urtic-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_urtic-m-03
+As causas caíram em prova: remédios, alimentos, inalantes, parasitas, infecções, doenças sistêmicas, agentes físicos e causas psicogênicas.
+
+## d_urtic-m-04
+Trata com anti-histamínico pela boca e, se pegar laringe ou brônquio, adrenalina na dose de um centésimo de miligrama por quilo.
+
+## d_urtic-m-05
+O slide diz: Slide dezesseis: adrenalina zero vírgula zero um miligramas por quilo via subcutânea.
+
+## d_urtic-m-06
+A outra fonte diz: Protocolos atuais de anafilaxia: intramuscular, vasto lateral.
+
+## d_urtic-m-07
+Na prova, responda: Na prova da faculdade escreva a dose do slide.
+Zero vírgula zero um miligramas por quilo, e intramuscular pelos protocolos atuais em uma linha.
+
+## d_urtic-p-00
+Urticária aguda é até seis semanas.
+
+## d_urtic-p-01
+Eritema tóxico neonatal é benigno: não trata.
+
+## d_urtic-z-00
+Criança empolada e chiando não é caso pra antialérgico e oração: é adrenalina, zero vírgula zero um miligrama por quilo, agora, porra.
+
+## d_escam-m-00
+Nas eritematoescamosas, olhe a escama.
+
+## d_escam-m-01
+Psoríase tem escama prateada e prefere as superfícies extensoras, como cotovelo e joelho.
+
+## d_escam-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_escam-m-03
+A seborreica do lactente tem escama amarelada e gordurosa, a famosa crosta láctea, quase não coça e aparece no couro cabeludo, na face, nas axilas e na fralda.
+
+## d_escam-m-04
+Sem prurido no lactente pequeno, pense em seborreica antes de atópica.
+
+## d_escam-p-00
+Seborreica do lactente não coça; atópica coça muito.
+
+## d_escam-p-01
+Escama gordurosa é seborreica; prateada em extensoras é psoríase.
+
+## d_escam-z-00
+Crosta láctea é gordura, não sujeira: não precisa a avó esfregar o couro cabeludo do bebê com bucha, pelo amor de Deus.
+
+## d_atop-m-00
+Dermatite atópica é a criança que coça.
+
+## d_atop-m-01
+No lactente pega face e superfícies extensoras; no escolar migra para as dobras, atrás do joelho e na frente do cotovelo.
+
+## d_atop-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_atop-m-03
+O pilar é a barreira: banho curto e morno, sabonete ácido e muito hidratante, que é o que mais controla o prurido.
+
+## d_atop-m-04
+Na crise entra o corticoide tópico uma vez ao dia nas lesões ativas, e o inibidor de calcineurina só depois dos dois anos.
+
+## d_atop-m-05
+O slide diz: Slide vinte: desonida como corticoide de baixa potência.
+
+## d_atop-m-06
+A outra fonte diz: Slide vinte e cinco: desonida como média potência.
+
+## d_atop-m-07
+Na prova, responda: Divergência interna do material: não use a desonida como exemplo de classe; cite hidrocortisona, baixa, face, e mometasona, corpo.
+
+## d_atop-p-00
+O pilar é a barreira cutânea, hidratante, não o anti-histamínico.
+
+## d_atop-p-01
+Calcineurina tópica só maior que dois anos e como alternativa.
+
+## d_atop-z-00
+Pele de atópico é muro sem reboco: sem hidratante não adianta jogar corticoide em cima.
+
+## d_atop-z-01
+Hidrata essa porra todo dia.
+
+## d_frald-m-00
+Na área da fralda, a pergunta é se a dobra está poupada.
+
+## d_frald-m-01
+A dermatite irritativa pega as superfícies convexas, onde a fralda encosta, e poupa as dobras: resolve com trocas frequentes e creme de barreira.
+
+## d_frald-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_frald-m-03
+Se o vermelho invade as dobras e aparecem lesões satélites nas bordas, é cândida, e aí entra antifúngico tópico, nistatina ou miconazol, por catorze dias.
+
+## d_frald-p-00
+Poupa dobra é irritativa; invade dobra e satélites é Candida.
+
+## d_frald-p-01
+Corticoide só de baixa potência e por dois a três dias.
+
+## d_frald-z-00
+Lesão satélite é a cândida mandando cartão-postal da dobra.
+
+## d_frald-z-01
+Óxido de zinco não mata fungo, porra: nistatina por catorze dias.
+
+## d_pio-m-00
+Impetigo é a crosta cor de mel em volta do nariz e da boca, causada por estafilococo ou estreptococo.
+
+## d_pio-m-01
+Lesão pequena trata com higiene e antibiótico tópico, mas a aula manda antibiótico oral quando é extenso.
+Quando tem febre, quando vem com faringite ou quando está perto da boca.
+
+## d_pio-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_pio-m-03
+E para separar erisipela de celulite, olhe a borda: na erisipela ela é nítida; na celulite, borrada.
+
+## d_pio-p-00
+Impetigo perioral já indica antibiótico oral, mesmo pequeno e afebril.
+
+## d_pio-p-01
+Impetigo é porta de entrada para GNPE e adenite.
+
+## d_pio-z-00
+Crosta cor de mel do lado da boca não é herpes nem mel de abelha: é impetigo, e perto da boca a Patrícia quer antibiótico oral, caralho.
+
+## d_zoo-m-00
+Escabiose é prurido que piora à noite, com gente da casa coçando também.
+
+## d_zoo-m-01
+A permetrina a cinco por cento vai no corpo inteiro, e no lactente inclui face e couro cabeludo.
+Mas é proibida abaixo de dois meses: aí, e na gestante, se usa pasta d’água com enxofre.
+
+## d_zoo-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_zoo-m-03
+Ivermectina oral só acima de quinze quilos.
+
+## d_zoo-m-04
+E sempre trata todos os contatos ao mesmo tempo, senão a família fica passando o ácaro de um pro outro.
+
+## d_zoo-m-05
+O slide diz: Slide trinta e oito, escabiose,: zero vírgula dois microgramas por quilo.
+
+## d_zoo-m-06
+A outra fonte diz: Slide quarenta, pediculose,: duzentos a quatrocentos microgramas por quilo.
+Zero vírgula dois miligramas por quilo é duzentos microgramas por quilo.
+
+## d_zoo-m-07
+Na prova, responda: Erro de unidade no slide trinta e oito: escreva duzentos microgramas por quilo.
+Zero vírgula dois miligramas por quilo, só maior que quinze quilos.
+
+## d_zoo-p-00
+Quinze quilos; permetrina um por cento xampu é da pediculose, não da escabiose.
+
+## d_zoo-z-00
+Tratou só o bebê e esqueceu a família?
+
+## d_zoo-z-01
+Parabéns, criou um condomínio de Sarcoptes.
+
+## d_zoo-z-02
+Trata todo mundo da casa, porra.
+
+## d_mic-m-00
+Nas micoses, a regra de ouro é o couro cabeludo: tinea capitis não responde a creme, exige antifúngico pela boca.
+
+## d_mic-m-01
+A droga da aula é a griseofulvina, dez a vinte miligramas por quilo por dia, por seis a oito semanas, acima de dois anos, junto com xampu de sulfeto de selênio.
+
+## d_mic-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_mic-m-03
+Tinea do corpo é tópica por quatro semanas, a versicolor tópica por trinta dias, e o sapinho leva nistatina até dois dias depois de sumir.
+
+## d_mic-p-00
+Tinea capitis é sistêmico, griseofulvina seis a oito semanas.
+
+## d_mic-p-01
+Creme isolado é esquema da tinea corporis.
+
+## d_mic-z-00
+Passar creme em tinea capitis é tentar apagar incêndio de prédio com borrifador.
+
+## d_mic-z-01
+Griseofulvina, seis a oito semanas, caralho.
+
+## d_vir-m-00
+Nas viroses de pele, molusco é a pápula perolada com um umbigo no meio, causada por um poxvírus, comum em atópico e em quem frequenta piscina.
+
+## d_vir-m-01
+Ele some sozinho entre seis meses e dois anos, então tratar é opcional.
+
+## d_vir-m-02
+Olhe o esquema enquanto eu explico.
+
+## d_vir-m-03
+Verruga é do papilomavírus e tem pontinhos pretos.
+
+## d_vir-m-04
+A primeira infecção pelo herpes tipo um é a gengivoestomatite.
+
+## d_vir-m-05
+E herpes genital tipo dois numa criança obriga a pensar em abuso sexual.
+
+## d_vir-p-00
+Molusco é poxvírus, autolimitado; verruga é agá pê vê.
+
+## d_vir-p-01
+Zóster respeita dermátomo e linha média; disseminado lembra varicela.
+
+## d_vir-z-00
+Molusco é o vírus mais preguiçoso da pele: vai embora sozinho em até dois anos.
+
+## d_vir-z-01
+Agora, herpes genital em criança não é preguiça, é notificação.
+
+## e_conc-m-00
+Exantema é a pele contando que existe uma doença sistêmica por trás.
+
+## e_conc-m-01
+Classifique primeiro: maculopapular, como sarampo, rubéola e escarlatina; vesicular, como varicela e mão-pé-boca.
+E petequial ou purpúrico, que em criança febril é meningococcemia até prova em contrário.
+
+## e_conc-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_conc-m-03
+Guarde também que só sarampo e varicela se transmitem por aerossol.
+
+## e_conc-p-00
+Aerossol é sarampo e varicela, máscara N95, quarto privativo.
+
+## e_conc-p-01
+Exantema petequial e febre é meningococcemia.
+
+## e_conc-z-00
+Exantema que não some no aperto em criança com febre não é virose de creche, é meningococo querendo matar alguém.
+
+## e_conc-z-01
+Antibiótico já, porra.
+
+## e_saramp-m-00
+Sarampo começa com tosse, coriza e conjuntivite e uma febre que vai subindo.
+
+## e_saramp-m-01
+Aí aparecem as manchas de Koplik na bochecha por dentro, que são patognomônicas.
+E o exantema nasce atrás da orelha, na linha do cabelo, e desce pelo corpo, justamente no pior momento da doença.
+
+## e_saramp-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_saramp-m-03
+A otite é a complicação bacteriana mais comum, a pneumonia é o que mais mata, e todo caso leva vitamina A e notificação.
+
+## e_saramp-m-04
+Esse tema já caiu uma vez nas questões do professor, logo abaixo tem para você testar.
+
+## e_saramp-m-05
+O slide diz: Slide quinze: até quatro dias após o exantema.
+
+## e_saramp-m-06
+A outra fonte diz: Slide vinte e oito: cinco dias após o exantema.
+
+## e_saramp-m-07
+Na prova, responda: Divergência interna: escreva isolamento respiratório até quatro a cinco dias após o início do exantema.
+
+## e_saramp-p-00
+No sarampo o exantema aparece no auge, febre alta, não quando melhora, quem aparece quando a febre cai é o exantema súbito.
+
+## e_saramp-z-00
+Três C e uma mancha branca na bochecha: é sarampo, e não é frescura de antivacina, é pneumonia matando criança.
+
+## e_saramp-z-01
+Vitamina A e notificação, caralho.
+
+## e_sarprof-m-00
+Depois do contato com sarampo há duas armas e dois relógios.
+
+## e_sarprof-m-01
+A vacina de bloqueio pode ser dada a partir dos seis meses de idade, até setenta e duas horas do contato.
+Entre seis e onze meses ela é uma dose extra, que não conta para o calendário.
+
+## e_sarprof-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_sarprof-m-03
+A imunoglobulina vai até seis dias do contato, para quem não pode receber a vacina: gestante, imunodeprimido e o lactente pequeno.
+
+## e_sarprof-m-04
+O slide diz: Slide vinte e oito: menor que um ano, até seis dias.
+
+## e_sarprof-m-05
+A outra fonte diz: MEDCURSO: menor que seis meses, maior ou igual a seis meses recebe vacina de bloqueio.
+
+## e_sarprof-m-06
+Na prova, responda: Prova da faculdade: slide, menor que um ano,; cite o bloqueio a partir de seis meses do cursinho em uma linha.
+
+## e_sarprof-p-00
+Prazos: vacina setenta e duas horas imunoglobulina seis dias.
+
+## e_sarprof-p-01
+Dose entre seis a onze meses não vale para a rotina.
+
+## e_sarprof-z-00
+Setenta e duas horas pra vacina, seis dias pra imunoglobulina.
+
+## e_sarprof-z-01
+Errou o relógio, a creche inteira vira surto, porra.
+
+## e_rub-m-00
+Rubéola é um sarampo mais brando, com exantema róseo que também desce da cabeça para o corpo, mas com uma pista própria: gânglios atrás da orelha e na nuca.
+
+## e_rub-m-01
+Na criança é benigna; o drama é a rubéola congênita, com a tríade catarata, surdez e cardiopatia, sobretudo persistência do canal arterial.
+
+## e_rub-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_rub-m-03
+Por isso a vacina, que é de vírus vivo, não se dá na gestante, e a mulher espera trinta dias para engravidar.
+
+## e_rub-p-00
+Rubéola é adenomegalia retroauricular e occipital.
+
+## e_rub-p-01
+Congênita: catarata e surdez e PCA.
+
+## e_rub-z-00
+Gânglio atrás da orelha e na nuca com exantema leve: rubéola.
+
+## e_rub-z-01
+Benigna pra criança, desgraça pro feto.
+
+## e_rub-z-02
+Gestante longe, caralho.
+
+## e_escarl-m-00
+Escarlatina é a faringite do estreptococo do grupo A com um exantema áspero, que parece lixa ao passar a mão, começando no tronco.
+
+## e_escarl-m-01
+Os sinais de prova são três: palidez em volta da boca, que é o sinal de Filatov; linhas petequiais nas dobras, que é o sinal de Pastia; e a língua em framboesa.
+
+## e_escarl-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_escarl-m-03
+Trata com penicilina benzatina em dose única, seiscentas mil unidades abaixo de vinte e cinco quilos e um milhão e duzentas acima, ou amoxicilina por dez dias.
+
+## e_escarl-m-04
+O slide diz: Slide cinquenta e três: benzatina dose única, seiscentos mil vinte e cinco quilos.
+
+## e_escarl-m-05
+A outra fonte diz: Gabarito oficial dois mil e vinte e cinco barra dois: amoxicilina dez dias, ou macrolídeo, e afastamento por quarenta e oito horas.
+
+## e_escarl-m-06
+Na prova, responda: Escreva as duas opções e o afastamento de quarenta e oito horas.
+
+## e_escarl-p-00
+Corte de peso da benzatina: vinte e cinco quilos.
+
+## e_escarl-p-01
+Exantema após amoxicilina com Filatov ou Pastia ou framboesa continua sendo escarlatina, não alergia nem mono.
+
+## e_escarl-z-00
+Pele de lixa, boca pálida e língua de framboesa: é o estreptococo fazendo cosplay de sobremesa.
+
+## e_escarl-z-01
+Benzatina, e vinte e cinco quilos é o corte, porra.
+
+## e_var-m-00
+Varicela é vesícula que coça, concentrada no tronco, e com lesões em todas as fases ao mesmo tempo: mácula, pápula, vesícula e crosta lado a lado.
+
+## e_var-m-01
+Esse polimorfismo é a assinatura dela.
+
+## e_var-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_var-m-03
+A criança transmite de um a dois dias antes até todas as lesões virarem crosta, e é proibido dar ácido acetilsalicílico, pelo risco de síndrome de Reye.
+
+## e_var-m-04
+A complicação mais comum é a infecção bacteriana das lesões.
+
+## e_var-p-00
+Fim do contágio é todas as lesões em crosta.
+
+## e_var-p-01
+Antitérmico: nunca ácido acetilsalicílico, Reye.
+
+## e_var-z-00
+Na varicela a pele vira um álbum de fases: mácula, pápula, vesícula e crosta juntas.
+
+## e_var-z-01
+E se alguém der aspirina, ganha um Reye de brinde, caralho.
+
+## e_varprof-m-00
+Na exposição à varicela, quem tem nove meses ou mais pode receber vacina de bloqueio, em até setenta e duas a noventa e seis horas.
+
+## e_varprof-m-01
+A imunoglobulina vai até noventa e seis horas para gestante suscetível, imunodeprimido, recém-nascido de mãe que teve varicela entre cinco dias antes e dois dias depois do parto.
+E prematuros: os muito pequenos sempre, e os de vinte e oito semanas ou mais só se a mãe nunca teve varicela.
+
+## e_varprof-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_varprof-m-03
+O slide diz: Slide sessenta e seis: vacina até setenta e duas a noventa e seis horas.
+
+## e_varprof-m-04
+A outra fonte diz: MEDCURSO: até cinco dias.
+
+## e_varprof-m-05
+Na prova, responda: Prova: setenta e duas a noventa e seis horas, slide.
+
+## e_varprof-p-00
+Prematuro maior ou igual a vinte e oito semanas com mãe que já teve varicela recebeu anticorpo pela placenta, observar.
+
+## e_varprof-p-01
+Menor que vinte e oito semanas ou menor que mil gramas, imunoglobulina da varicela sempre.
+
+## e_varprof-z-00
+Mãe pegou varicela dois dias antes do parto?
+
+## e_varprof-z-01
+Esse bebê nasceu sem anticorpo e com vírus: imunoglobulina, sem discussão, porra.
+
+## e_b19-m-00
+O eritema infeccioso é o do parvovírus B dezenove: bochechas vermelhas.
+Como se a criança tivesse levado um tapa, e depois um exantema rendilhado nos membros que some e volta com calor.
+
+## e_b19-m-01
+Quando a pele mostra o exantema, a criança já não transmite mais.
+
+## e_b19-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_b19-m-03
+O perigo está na anemia falciforme: o vírus para a medula vermelha e causa crise aplásica, com hemoglobina despencando e reticulócitos quase zerados.
+
+## e_b19-m-04
+O slide diz: Slide setenta e dois: quatro a catorze dias.
+
+## e_b19-m-05
+A outra fonte diz: MEDCURSO: cerca de dezesseis dias.
+
+## e_b19-m-06
+Na prova, responda: Prova: quatro a catorze dias, slide.
+
+## e_b19-p-00
+Crise aplásica é anemia com reticulocitopenia, sequestro e hemólise têm reticulocitose.
+
+## e_b19-p-01
+Com exantema, não é mais contagioso.
+
+## e_b19-z-00
+Bochecha de quem levou um tapa e rendado nos braços: parvovírus.
+
+## e_b19-z-01
+Na falcêmica ele desliga a fábrica de hemácia, e aí é transfusão, caralho.
+
+## e_subito-m-00
+Exantema súbito é o lactente com febre alta por três ou quatro dias, mas brincando entre os picos.
+
+## e_subito-m-01
+Quando a febre desaparece de repente, nasce um exantema róseo no tronco que sobe para o pescoço e some em um ou dois dias.
+
+## e_subito-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_subito-m-03
+É o herpes vírus seis.
+
+## e_subito-m-04
+Se alguém começou amoxicilina no meio do caminho, a coincidência engana: não é alergia, suspende o antibiótico e observa.
+
+## e_subito-m-05
+O slide diz: Slides oitenta a oitenta e três têm o título Eritema infeccioso.
+
+## e_subito-m-06
+A outra fonte diz: O conteúdo é de exantema súbito, herpes vírus seis.
+
+## e_subito-m-07
+Na prova, responda: Erro de rótulo: estude o conteúdo como exantema súbito.
+
+## e_subito-p-00
+Exantema que surge quando a febre some é exantema súbito.
+
+## e_subito-p-01
+No sarampo, surge no pico da febre.
+
+## e_subito-z-00
+Três dias de febre, aí a febre vai embora e a mancha chega: roséola.
+
+## e_subito-z-01
+Não é alergia à amoxicilina, é o antibiótico que não precisava, porra.
+
+## e_mono-m-00
+Mononucleose é o adolescente com febre, dor de garganta e gânglios em vários lugares, muitas vezes com baço grande e pálpebras inchadas.
+
+## e_mono-m-01
+O hemograma mostra linfocitose com linfócitos atípicos.
+
+## e_mono-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_mono-m-03
+A pegadinha clássica é o exantema que aparece depois de tomar amoxicilina por conta própria.
+
+## e_mono-m-04
+O tratamento é de suporte, e ele fica longe de esporte de contato, para não romper o baço.
+
+## e_mono-m-05
+Esse tema já caiu uma vez nas questões do professor, logo abaixo tem para você testar.
+
+## e_mono-m-06
+O slide diz: Slide oitenta e quatro: dez até trinta a cinquenta dias.
+
+## e_mono-m-07
+A outra fonte diz: MEDCURSO: trinta a cinquenta dias.
+
+## e_mono-m-08
+Na prova, responda: Prova: o slide.
+
+## e_mono-p-00
+Mono: adenomegalia generalizada e esplenomegalia e linfócitos atípicos; não tem Filatov, Pastia nem framboesa.
+
+## e_mono-z-00
+Adolescente tomou amoxicilina por conta e ficou todo vermelho?
+
+## e_mono-z-01
+Não é alergia, é o Epstein-Barr rindo da automedicação.
+
+## e_mono-z-02
+E nada de futebol com baço gigante, caralho.
+
+## e_mpb-m-00
+Mão-pé-boca é o enterovírus Coxsackie A dezesseis.
+
+## e_mpb-m-01
+A criança tem febre baixa, aftas dolorosas espalhadas pela boca e vesículas nas palmas, nas plantas e às vezes nos glúteos.
+
+## e_mpb-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_mpb-m-03
+É benigna e passa sozinha; o cuidado é com a dor ao engolir, que leva a recusa alimentar e desidratação.
+
+## e_mpb-p-00
+Úlceras em toda a boca e vesículas em palmas e plantas é mão-pé-boca, herpangina fica no palato posterior.
+
+## e_mpb-z-00
+Bolha na mão, no pé e afta na boca toda: Coxsackie.
+
+## e_mpb-z-01
+O risco não é a bolha, é a criança parar de beber água de tanta dor, porra.
+
+## e_kawa-m-00
+Kawasaki é uma vasculite da criança pequena: febre por cinco dias ou mais, com quatro de cinco critérios, que são conjuntivite sem secreção.
+Lábios e boca vermelhos e fissurados, mãos e pés inchados que depois descamam, exantema polimorfo e um gânglio cervical grande.
+
+## e_kawa-m-01
+O tratamento é imunoglobulina venosa, dois gramas por quilo, de preferência até o décimo dia.
+Junto com ácido acetilsalicílico, e é isso que derruba o risco de aneurisma coronariano.
+
+## e_kawa-m-02
+Olhe o esquema enquanto eu explico.
+
+## e_kawa-m-03
+O slide diz: Slide noventa e nove: quinze a vinte e cinco por cento.
+
+## e_kawa-m-04
+A outra fonte diz: Slide cem: vinte a trinta por cento, quatro a cinco por cento tratado.
+
+## e_kawa-m-05
+Na prova, responda: Divergência interna: cerca de vinte a vinte e cinco por cento sem tratamento.
+Cerca de cinco por cento com imunoglobulina venosa até o décimo dia.
+
+## e_kawa-m-06
+Prognóstico é bom se tratado.
+
+## e_kawa-p-00
+Kawasaki não tem exsudato amigdaliano e exige febre maior ou igual a cinco dias.
+
+## e_kawa-p-01
+Prognóstico: bom se tratado até o décimo dia, não escreva ruim.
+
+## e_kawa-z-00
+Cinco dias de febre, olho vermelho sem remela, boca de morango e mão inchada.
+É Kawasaki, e o coração da criança depende da sua imunoglobulina até o décimo dia, porra.
+
+## c_geral-m-00
+Dor recorrente tem definição de prova: pelo menos três episódios num período de pelo menos três meses, com intensidade que atrapalha a vida da criança.
+
+## c_geral-m-01
+A cefaleia é a mais frequente, depois membros e abdome, e só dez a quinze por cento têm causa orgânica.
+
+## c_geral-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_geral-m-03
+A abordagem é escutar a criança e os pais separadamente.
+Procurar estressores e examinar com a curva de crescimento na mão, sem dizer que não é nada e sem pedir exame de tudo.
+
+## c_geral-m-04
+O slide diz: Slide oito: global dez a quinze por cento.
+
+## c_geral-m-05
+A outra fonte diz: Slides quinze barra vinte e cinco barra quarenta e um.
+Abdominal cinco a dez por cento, membros três a quatro por cento, cefaleia cinco por cento.
+
+## c_geral-m-06
+Na prova, responda: Os parciais não somam o global: escreva dez a quinze por cento orgânicas no geral e o por cento do tipo quando a pergunta for específica.
+
+## c_geral-p-00
+Critério: três episódios sobre três meses sobre interfere nas atividades.
+
+## c_geral-p-01
+Os dois erros: não é nada e investigação extensa.
+
+## c_geral-z-00
+Dizer não é nada pra mãe é o jeito mais rápido de ela trocar de pediatra; pedir tomografia de tudo é o jeito mais rápido de irradiar uma criança à toa.
+
+## c_geral-z-01
+O meio-termo é anamnese, porra.
+
+## c_abd-m-00
+Na dor abdominal recorrente, noventa a noventa e cinco por cento é funcional.
+Dispepsia funcional, intestino irritável, enxaqueca abdominal ou a dor funcional não especificada.
+
+## c_abd-m-01
+É a dor em volta do umbigo, numa criança que cresce bem e fica ótima entre as crises.
+
+## c_abd-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_abd-m-03
+Sem sinal de alarme, a conduta é ambulatorial: explicar que a dor é real, orientar os pais sobre os sinais de alerta e acompanhar.
+
+## c_abd-p-00
+Sem sinal de alarme, abordagem ambulatorial e orientação; seis parasitológicos negativos não pedem o sétimo.
+
+## c_abd-z-00
+Seis parasitológicos negativos e a mãe querendo o sétimo?
+
+## c_abd-z-01
+O verme não está no cocô, está na ansiedade da casa.
+
+## c_abd-z-02
+Conversa, orienta e acompanha, caralho.
+
+## c_abdal-m-00
+O que transforma dor funcional em suspeita orgânica são os sinais de alerta.
+
+## c_abdal-m-01
+Os três do gabarito oficial são dor que acorda a criança, dor longe do umbigo e dor que irradia para costas, escápula ou pernas.
+
+## c_abdal-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_abdal-m-03
+Some a isso perda de peso ou desaceleração do crescimento, vômito bilioso.
+Sangramento, febre, massa e história familiar de doença inflamatória, celíaca ou úlcera.
+
+## c_abdal-m-04
+Com alerta, começa pelos exames de nível um: hemograma, provas inflamatórias, urina e parasitológico.
+
+## c_abdal-p-00
+Peso é o parâmetro mais sensível: queda na curva é alerta.
+
+## c_abdal-p-01
+História familiar que pesa é de doença orgânica GI, não de cefaleia tensional da mãe.
+
+## c_abdal-z-00
+Dor que acorda a criança, longe do umbigo e que corre pras costas: aí sim tem coisa.
+
+## c_abdal-z-01
+O resto é barriga de prova de matemática, porra.
+
+## c_cresc-m-00
+Dor de crescimento é diagnóstico clínico de uma criança entre seis e treze anos com dor nas duas pernas, na coxa.
+Atrás do joelho e na panturrilha, no fim da tarde ou à noite, que passa em poucos minutos com massagem ou calor.
+
+## c_cresc-m-01
+De dia ela brinca normalmente e o exame físico é normal.
+
+## c_cresc-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_cresc-m-03
+Os três pilares de prova são bilateral, noturna e exame normal; aí é explicar que é benigno e orientar os sinais de alerta.
+
+## c_cresc-m-04
+O slide diz: Slides vinte e dois e quarenta e três: dor que desperta é sinal de alerta.
+
+## c_cresc-m-05
+A outra fonte diz: Slide vinte e sete: dor de crescimento pode acordar a criança.
+
+## c_cresc-m-06
+Na prova, responda: Contradição do material: na dor de crescimento.
+Acordar é aceitável se bilateral e exame normal; na abdominal e na cefaleia, acordar é alarme.
+
+## c_cresc-p-00
+Dor de crescimento é bilateral e com exame normal; unilateral, em ponto fixo ou com limitação é investigar.
+
+## c_cresc-z-00
+Dor nas duas pernas à noite, passa com massagem e a criança joga bola de dia: é dor de crescimento.
+
+## c_cresc-z-01
+Não precisa cintilografia, precisa de uma mãe com mão boa, caralho.
+
+## c_membal-m-00
+A dor de membros vira alerta quando é num ponto fixo, de um lado só, quando mexe com força ou marcha.
+Quando vem com febre, emagrecimento ou palidez, ou quando não melhora com analgésico.
+
+## c_membal-m-01
+E caiu a diferença entre os dois cânceres: o tumor ósseo dá dor localizada, sem sintomas gerais.
+A leucemia dá dor difusa, mal localizada, com a criança prostrada, pálida e perdendo peso.
+
+## c_membal-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_membal-p-00
+Gabarito dois mil e vinte e cinco barra dois: tumor ósseo é dor localizada sem sistêmicos; leucemia é dor não localizada e sistêmicos.
+
+## c_membal-z-00
+Dor num ponto só, que não passa com dipirona: radiografia nesse osso, agora.
+
+## c_membal-z-01
+Dor difusa com criança pálida e magra: hemograma, porque pode ser leucemia, porra.
+
+## c_cefal-m-00
+Cefaleia recorrente atinge cerca de uma em cada cinco crianças.
+
+## c_cefal-m-01
+Entre as primárias, a migrânea dura de uma a setenta e duas horas, é pulsátil, vem com náusea.
+Vômito e aversão a luz e som; a tensional é em aperto, dos dois lados, e melhora com o sono.
+
+## c_cefal-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_cefal-m-03
+Só cerca de cinco por cento são secundárias, mas o slide manda sempre duas coisas em toda criança com cefaleia.
+Medir a pressão e fazer exame neurológico completo, com fundo de olho.
+
+## c_cefal-p-00
+Exame indispensável, caiu,: pressão arterial e exame neurológico com fundo de olho.
+
+## c_cefal-p-01
+Seio frontal não existe em menor que cinco anos, não é sinusite frontal.
+
+## c_cefal-z-00
+Criança com cefaleia e ninguém mediu a pressão?
+
+## c_cefal-z-01
+Então ninguém examinou a criança.
+
+## c_cefal-z-02
+Manguito e oftalmoscópio, caralho.
+
+## c_cefal_al-m-00
+Os sinais de alarme da cefaleia são a questão mais pontuada desse capítulo.
+
+## c_cefal_al-m-01
+Decore: alteração neurológica ou convulsão, alteração ocular como edema de papila, estrabismo novo ou diplopia, vômitos que aumentam, dor que piora com esforço.
+Tosse ou mudança de posição, mudança do padrão, dor sempre do mesmo lado, dor matinal, dor que acorda, crescimento que desacelera e idade abaixo de cinco anos.
+
+## c_cefal_al-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_cefal_al-m-03
+Com vários deles, é cefaleia secundária até prova em contrário.
+
+## c_cefal_al-m-04
+O slide diz: Slide quarenta e três: unilateral é alarme.
+
+## c_cefal_al-m-05
+A outra fonte diz: Slide trinta e oito: migrânea pode ser unilateral.
+
+## c_cefal_al-m-06
+Na prova, responda: Alarme é a dor sempre do mesmo lado, fixa,; migrânea que alterna lados não é alarme.
+
+## c_cefal_al-p-00
+Na Camila, quatro anos, os quatro alarmes do enunciado eram: menor que cinco anos, mudança de padrão, matinal, desperta.
+
+## c_cefal_al-p-01
+Resposta: secundária.
+
+## c_cefal_al-z-00
+Quatro anos, dor todo dia, pior de manhã e acordando de madrugada: isso não é enxaqueca, é cérebro pedindo ressonância.
+
+## c_cefal_al-z-01
+Secundária, porra.
+
+## c_escala-m-00
+Para medir dor em criança, a aula traz a escala numérica de zero a dez, combinada com desenhos de faces.
+E a escala de faces sozinha para os menores, que ainda não entendem números.
+
+## c_escala-m-01
+Ela rende mais quando vem junto com um diário da dor, onde a família anota frequência, duração, gatilhos, o que aliviou e quantas aulas a criança perdeu.
+
+## c_escala-m-02
+Olhe o esquema enquanto eu explico.
+
+## c_escala-p-00
+Criança pequena, escala de faces; maior, numérica zero a dez; sempre com diário da dor.
+
+## c_escala-z-00
+Perguntar de zero a dez pra criança de três anos dá sempre dez ou banana.
+
+## c_escala-z-01
+Usa a escala de faces, caralho.
+
+## a_base-m-00
+Criança tem mais tecido linfoide que adulto, então gânglio palpável pequeno no pescoço ou na virilha é comum.
+E a causa mais frequente de aumento é a hiperplasia reacional a uma infecção da região drenada.
+
+## a_base-m-01
+No raio-x de tórax, a sombra do timo é normal até os três anos.
+
+## a_base-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_base-m-03
+E a definição de generalizada da aula é aumento em mais de duas cadeias que não são vizinhas.
+
+## a_base-p-00
+Sombra tímica é normal até três anos; mediastino alargado num adolescente não é timo.
+
+## a_base-z-00
+Gânglio de ervilha no pescoço de pré-escolar é a imunidade trabalhando, não é linfoma.
+
+## a_base-z-01
+Calma, porra.
+
+## a_aval-m-00
+O slide em vermelho da aula traz os critérios que fazem pensar em doença séria: gânglio que não regride em cerca de quatro semanas, localização supraclavicular.
+Tamanho maior que dois a três centímetros, crescimento progressivo e consistência endurecida e fixa, além de febre, perda de peso ou sudorese.
+
+## a_aval-m-01
+Mesmo assim, três quartos das adenomegalias da criança são infecciosas e só cinco por cento são neoplasias.
+
+## a_aval-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_aval-m-03
+O slide diz: Slide doze: maior que dois a três centímetros.
+
+## a_aval-m-04
+A outra fonte diz: Slide vinte e quatro: maior ou igual a dois vírgula cinco centímetros slide quarenta e três: linfadenopatia maior que dois centímetros.
+
+## a_aval-m-05
+Na prova, responda: Divergência interna: escreva maior que dois a três centímetros, slide doze,; no Kawasaki o corte é maior que um vírgula cinco centímetros.
+
+## a_aval-p-00
+Supraclavicular nunca é só reacional.
+
+## a_aval-p-01
+Tempo de biópsia: cerca de quatro semanas sem regressão.
+
+## a_aval-z-00
+Gânglio supraclavicular, duro, grudado e crescendo há um mês: não é íngua, é biópsia, porra.
+
+## a_etio-m-00
+Um jeito rápido de pensar no agente é cruzar tempo e lado.
+
+## a_etio-m-01
+Gânglio agudo dos dois lados é virose respiratória.
+
+## a_etio-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_etio-m-03
+Agudo de um lado só, quente e doloroso, é adenite por estafilococo ou estreptococo.
+
+## a_etio-m-04
+Crônico de um lado só lembra micobactéria atípica e doença da arranhadura do gato.
+
+## a_etio-m-05
+Crônico dos dois lados lembra Epstein-Barr, citomegalovírus e toxoplasmose.
+
+## a_etio-p-00
+Aguda unilateral inflamada é S.
+
+## a_etio-p-01
+Aureus ou estrepto; crônica unilateral sem flogose é micobactéria atípica sobre gato.
+
+## a_etio-z-00
+Gânglio de um lado, crônico, e um gato novo em casa?
+
+## a_etio-z-01
+Pergunta do gato antes de pedir biópsia, caralho.
+
+## a_infl-m-00
+À palpação, gânglio inflamatório dói, tem pele quente e vermelha e pode flutuar ou fistulizar.
+
+## a_infl-m-01
+Gânglio neoplásico é duro, aderido aos planos, indolor e costuma formar pacotes.
+
+## a_infl-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_infl-m-03
+E a regra de prova da supraclavicular: a direita drena o tórax, então pense em lesão intratorácica.
+A esquerda drena o abdome, então pense em tumor ou processo inflamatório abdominal.
+
+## a_infl-p-00
+Supraclavicular D é tórax; E é abdome.
+
+## a_infl-p-01
+Duro, aderido e indolor é neoplásico até prova em contrário.
+
+## a_infl-z-00
+Direita olha pro peito, esquerda olha pra barriga.
+
+## a_infl-z-01
+Trocou os lados na prova, perdeu ponto e ainda pediu o exame errado, porra.
+
+## a_adenite-m-00
+Gânglio único, submandibular, doloroso, quente e com o centro flutuante numa criança em bom estado é adenite piogênica.
+
+## a_adenite-m-01
+Pede hemograma e provas inflamatórias e trata por via oral por dez dias, cobrindo estafilococo e estreptococo.
+A droga da aula é a cefalexina, vinte e cinco a cinquenta miligramas por quilo por dia, de seis em seis horas.
+
+## a_adenite-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_adenite-m-03
+Reavalia em vinte e quatro a quarenta e oito horas; se flutuar, punciona ou drena; se não melhorar, biópsia.
+
+## a_adenite-m-04
+O slide diz: Slide vinte e seis: tratar com antibiótico, dez dias.
+
+## a_adenite-m-05
+A outra fonte diz: Slide vinte e nove: azitromicina dez miligramas por quilo e cinco miligramas por quilo por dia por mais quatro dias, cinco dias.
+
+## a_adenite-m-06
+Na prova, responda: dez dias vale para cefalexina ou cefuroxima ou clindamicina; azitromicina tem esquema próprio de cinco dias.
+
+## a_adenite-p-00
+Tamanho isolado não indica biópsia num gânglio agudo inflamado: primeiro antibiótico dez dias; flutuação, drenagem; sem resposta, biópsia.
+
+## a_adenite-z-00
+Gânglio quente, vermelho e flutuando é pus pedindo saída.
+
+## a_adenite-z-01
+Cefalexina, reavalia em quarenta e oito horas e, se flutuar, drena essa porra.
+
+## a_grav-m-00
+Quando a adenomegalia vem com sinais de gravidade, ou é generalizada numa criança doente, o caminho é hemograma, provas inflamatórias e raio-x de tórax.
+
+## a_grav-m-01
+Blastos ou pancitopenia levam ao mielograma, porque é leucemia até prova em contrário.
+
+## a_grav-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_grav-m-03
+Mediastino alargado leva à investigação de tuberculose, linfoma e outros tumores, com biópsia.
+
+## a_grav-m-04
+E se tudo vier normal, biopsia o gânglio mais significativo assim mesmo.
+
+## a_grav-m-05
+Generalizada em criança bem começa por sorologias.
+
+## a_grav-p-00
+Generalizada e palidez e petéquias e visceromegalia: o próximo passo é hemograma, mielograma, não biópsia do gânglio.
+
+## a_grav-z-00
+Criança pálida, cheia de petéquia, com fígado e baço grandes e gânglio em todo lugar: não é virose, é medula gritando.
+
+## a_grav-z-01
+Hemograma agora e mielograma depois, caralho.
+
+## a_bcg-m-00
+O gânglio da axila direita depois da bê cê gê é a drenagem do deltoide direito, onde a vacina foi aplicada.
+
+## a_bcg-m-01
+A aula da faculdade é simples: notificar e dar isoniazida, com ou sem sinais inflamatórios.
+
+## a_bcg-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_bcg-m-03
+O protocolo, ensinado no cursinho, é mais conservador: gânglio pequeno é evolução esperada.
+O grande sem supuração só se acompanha, e a isoniazida fica para o supurado, que não se punciona.
+
+## a_bcg-m-04
+O slide diz: Slide trinta e dois: notificar e isoniazida, com ou sem sinais flogísticos.
+
+## a_bcg-m-05
+A outra fonte diz: MEDCURSO, S27 sete e catorze a nove e cinquenta e oito,: isoniazida só se supurado; três centímetros não supurado só acompanha.
+
+## a_bcg-m-06
+Na prova, responda: Faculdade é slide; residência é protocolo.
+
+## a_bcg-m-07
+Em qualquer caso: não puncionar.
+
+## a_bcg-p-00
+Prova da faculdade: notificar e isoniazida, slide trinta e dois.
+
+## a_bcg-p-01
+Nunca punção do gânglio pós-bê cê gê supurado.
+
+## a_bcg-z-00
+Caroço na axila direita de bebê vacinado é a bê cê gê dando oi, não é linfoma.
+
+## a_bcg-z-01
+Notifica e isoniazida, que é o que a Patrícia quer, porra.
+
+## a_cisto-m-00
+Nem toda massa no pescoço é gânglio.
+
+## a_cisto-m-01
+Na linha média, que sobe quando a criança engole ou põe a língua para fora, é o cisto do ducto tireoglosso.
+
+## a_cisto-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_cisto-m-03
+Lateral, na borda do esternocleidomastóideo, é o cisto branquial.
+
+## a_cisto-m-04
+A massa grande, mole, que aparece cedo e cresce com infecções é o linfangioma, ou higroma cístico.
+
+## a_cisto-m-05
+E o hemangioma é a lesão vascular, avermelhada.
+
+## a_cisto-p-00
+Massa mediana que sobe com a língua é tireoglosso; lateral é branquial.
+
+## a_cisto-z-00
+Caroço bem no meio do pescoço que sobe quando a criança mostra a língua?
+
+## a_cisto-z-01
+Tireoglosso.
+
+## a_cisto-z-02
+Não vai tratar com cefalexina, caralho.
+
+## a_cancer-m-00
+O câncer da criança não se previne, mas se cura em setenta a oitenta por cento quando o diagnóstico é precoce.
+
+## a_cancer-m-01
+O problema é que ele cresce rápido e imita doença comum, com febre, palidez, dor e cansaço.
+
+## a_cancer-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_cancer-m-03
+A mensagem da professora é não alarmar a família, mas investigar cedo.
+
+## a_cancer-m-04
+Os sinais da campanha são dor óssea, febre por mais de uma semana, manchas roxas.
+Caroço, palidez, perda de peso, cefaleia matinal com vômito e barriga que cresce.
+
+## a_cancer-m-05
+O slide diz: Slide trinta e sete: setenta a oitenta por cento.
+
+## a_cancer-m-06
+A outra fonte diz: Slides cinquenta e seis barra cinquenta e oito a sessenta e dois: oitenta por cento e maiores que oitenta por cento.
+
+## a_cancer-m-07
+Na prova, responda: Na prova: setenta a oitenta por cento, texto da professora.
+
+## a_cancer-p-00
+Cura setenta a oitenta por cento se precoce, número da professora.
+
+## a_cancer-p-01
+A conduta errada é atrasar o diagnóstico com antibiótico empírico.
+
+## a_cancer-z-00
+Febre há duas semanas, palidez e manchas roxas não é virose que passa: é investigar hoje, porque o tempo é o que mais mata nesse câncer, porra.
+
+## a_leuc-m-00
+A leucemia linfoide aguda é oitenta por cento das leucemias da criança, com pico entre dois e quatro anos, e pode abrir o quadro só com dor óssea.
+
+## a_leuc-m-01
+A falência da medula aparece como palidez, petéquias e infecções, e quem confirma é o mielograma.
+
+## a_leuc-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_leuc-m-03
+Nos linfomas, Hodgkin é do adolescente com gânglio cervical indolor; Burkitt é da criança menor.
+No abdome ou na mandíbula; e o linfoblástico é o adolescente com massa no mediastino que pode comprimir a via aérea.
+
+## a_leuc-p-00
+Adolescente com tosse, dispneia ao deitar e mediastino alargado é linfoma linfoblástico, risco de compressão de via aérea, não sedar ou deitar sem avaliação.
+
+## a_leuc-z-00
+Adolescente que não consegue deitar e tem mediastino gordo no raio-x não é pneumonia: é massa apertando a traqueia.
+
+## a_leuc-z-01
+Investigação urgente, caralho.
+
+## a_solidos-m-00
+Entre os tumores sólidos, os do sistema nervoso central são os mais comuns.
+E noventa e cinco por cento das crianças com cefaleia por tumor já têm algum achado neurológico.
+
+## a_solidos-m-01
+No abdome, Wilms é a criança de três a quatro anos em bom estado.
+Com uma massa que a mãe percebeu no banho; o neuroblastoma é a criança de dois anos doente, com dor e febre.
+
+## a_solidos-m-02
+Olhe o esquema enquanto eu explico.
+
+## a_solidos-m-03
+E o olho que brilha branco na foto com flash é retinoblastoma até prova em contrário: encaminha ao oftalmologista no mesmo dia.
+
+## a_solidos-p-00
+Leucocoria: não repetir o teste em um mês, encaminhar imediatamente.
+
+## a_solidos-p-01
+Massa e bom estado é Wilms; massa e criança doente é neuroblastoma.
+
+## a_solidos-z-00
+Olho branco na foto do flash não é defeito do celular: é retinoblastoma até alguém olhar o fundo de olho, hoje, porra.
+
+## v_prob-m-00
+A violência contra a criança acontece principalmente dentro de casa e é protegida por um complô de silêncio, em todas as classes sociais.
+
+## v_prob-m-01
+Na emergência, um em cada dez traumas pediátricos é maus-tratos.
+E as crianças que morrem por isso costumam ter passado por mais de cinco atendimentos antes, sem que ninguém desconfiasse.
+
+## v_prob-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_prob-m-03
+O médico é muitas vezes a única chance de interromper o ciclo.
+
+## v_prob-p-00
+O local mais comum é a residência; o agressor mais comum é conhecido, pai ou padrasto nas menores.
+
+## v_prob-z-00
+Cinco atendimentos antes de morrer e ninguém desconfiou.
+
+## v_prob-z-01
+Na sexta vez, quem tem que desconfiar é você, porra.
+
+## v_conc-m-00
+Maus-tratos é toda ação ou omissão de um adulto, ou adolescente mais velho responsável pela criança.
+Que cause dor física ou emocional, com ou sem intenção consciente.
+
+## v_conc-m-01
+A violência doméstica é intencional, dentro da família e repetitiva.
+
+## v_conc-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_conc-m-03
+São quatro formas para decorar: negligência, violência psicológica, física e sexual, e elas costumam vir juntas.
+
+## v_conc-p-00
+Maus-tratos inclui omissão, negligência, e independe de intenção consciente.
+
+## v_conc-z-00
+Não precisa ter cinto na mão pra ser maus-tratos: deixar a criança sem comida, sem vacina e sem escola também conta, caralho.
+
+## v_neg-m-00
+Negligência é a omissão crônica de cuidados básicos, como comida, higiene, vacina, escola e proteção, e o abandono é sua forma extrema.
+
+## v_neg-m-01
+A violência psicológica é rejeitar, humilhar, aterrorizar e cobrar demais, e está embutida em todas as outras formas.
+
+## v_neg-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_neg-m-03
+Os sinais são de comportamento: agressividade ou apatia, choro sem motivo, tiques, queda escolar e a criança que já não fazia xixi na cama e voltou a fazer.
+
+## v_neg-p-00
+Enurese secundária, voltou a molhar após anos seca, e mudança de comportamento, investigar violência, não tranquilizar.
+
+## v_neg-z-00
+Criança que estava seca há quatro anos e voltou a molhar a cama, chorando à toa.
+Não precisa de desmopressina primeiro: precisa que alguém pergunte o que está acontecendo em casa, porra.
+
+## v_fis-m-00
+Na violência física a história é tão importante quanto o exame.
+
+## v_fis-m-01
+Desconfie quando a lesão não combina com a idade ou com o desenvolvimento, quando o relato não explica o machucado ou muda a cada pergunta.
+Quando há lesões em várias partes e em fases diferentes de cicatrização, em áreas cobertas, e quando a família demorou a procurar ajuda.
+
+## v_fis-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_fis-m-03
+Fratura num bebê que ainda não anda é alerta máximo.
+
+## v_fis-p-00
+Lactente de cinco meses com fratura de fêmur e caiu correndo atrás do irmão é história incompatível com o desenvolvimento.
+
+## v_fis-z-00
+Bebê de cinco meses não corre atrás de ninguém.
+
+## v_fis-z-01
+Se a história tem criança fazendo o que não sabe fazer, a história é mentira, caralho.
+
+## v_sacud-m-00
+A síndrome do bebê sacudido é a pergunta que mais se repete nas provas da Patrícia.
+
+## v_sacud-m-01
+É o lactente, geralmente abaixo de seis meses, que chega sonolento ou em coma depois de um episódio de choro que alguém tentou parar sacudindo.
+
+## v_sacud-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_sacud-m-03
+A tríade do slide em vermelho é hematoma subdural, hemorragia retiniana e ausência de trauma craniano que explique.
+
+## v_sacud-m-04
+É a causa mais comum de trauma craniano fechado grave antes de um ano.
+
+## v_sacud-m-05
+O slide diz: Slide trinta e seis, texto em vermelho,: hematoma subdural e hemorragia retiniana e ausência de trauma craniano slide trinta e cinco.
+Esquema,: hemorragia retiniana e edema cerebral e hematoma subdural.
+
+## v_sacud-m-06
+A outra fonte diz: Gabarito oficial dois mil e vinte e cinco barra dois: hemorragia retiniana.
+Quadro neurológico agudo sem sinais de infecção; hematoma subdural ou hemorragia encefálica.
+
+## v_sacud-m-07
+Na prova, responda: Escreva hematoma subdural e hemorragia retiniana e complete com sem trauma externo sobre quadro neurológico agudo sem infecção.
+
+## v_sacud-p-00
+Tríade da prova: hematoma subdural e hemorragia retiniana e sem trauma craniano.
+
+## v_sacud-p-01
+Fratura de arcos costais posteriores é mãos apertando o tórax.
+
+## v_sacud-z-00
+Bebê em coma, sem um galo na cabeça, com sangue embaixo da dura e na retina: ninguém deixou cair, alguém sacudiu.
+
+## v_sacud-z-01
+Fundo de olho e Conselho Tutelar, porra.
+
+## v_munch-m-00
+Na síndrome da criança espancada há lesões traumáticas de épocas diferentes, quase sempre em menores de três anos.
+
+## v_munch-m-01
+Já na síndrome de Munchausen por procuração, o cuidador mente, simula ou provoca doença na criança.
+
+## v_munch-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_munch-m-03
+As pistas são internações e exames repetidos, sintomas que só aparecem quando está com a mesma pessoa.
+Uma mãe muito presente e conhecedora de termos médicos, irmão que morreu sem explicação e nada que funciona.
+
+## v_munch-m-04
+O diagnóstico leva de três a seis meses.
+
+## v_munch-p-00
+Munchausen é excesso de procura, não negligência,; pedir mais exames invasivos é justamente o dano que a síndrome produz.
+
+## v_munch-z-00
+Quinta internação, exames todos normais e a febre só aparece quando a mãe está sozinha?
+
+## v_munch-z-01
+Não é doença rara, é Munchausen.
+
+## v_munch-z-02
+Para de pedir biópsia, caralho.
+
+## v_sex-m-00
+Abuso sexual é envolver a criança em atividade sexual por alguém em estágio de desenvolvimento mais adiantado, com ou sem contato físico.
+
+## v_sex-m-01
+Em cerca de oitenta por cento das vezes o abusador é um dos pais ou alguém com laço afetivo com a família, e não um desconhecido.
+
+## v_sex-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_sex-m-03
+E o exame físico muitas vezes é normal, então um exame normal nunca afasta a suspeita: o que vale é o relato da criança.
+
+## v_sex-p-00
+Abusador é conhecido, cerca de oitenta por cento.
+
+## v_sex-p-01
+Exame normal não afasta.
+
+## v_sex-p-02
+Abuso existe sem contato.
+
+## v_sex-z-00
+O monstro do abuso quase nunca é o estranho da rua: é alguém que senta na mesa do almoço de domingo.
+
+## v_sex-z-01
+Acredita na criança, porra.
+
+## v_desconf-m-00
+Desconfie de história que não bate, de demora para procurar atendimento.
+De famílias que passam por vários hospitais ou chegam de madrugada, de pais indiferentes e de lesões em idades diferentes.
+
+## v_desconf-m-01
+Mas não confunda: mancha mongólica é azulada, sacral, está lá desde o nascimento e não muda de cor.
+Coagulopatias, Henoch-Schönlein e meningococcemia dão manchas roxas; e tinta de roupa sai com álcool.
+
+## v_desconf-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_desconf-p-00
+Mancha azul-acinzentada sacral desde o nascimento é mongólica, registrar no prontuário, não notificar.
+
+## v_desconf-z-00
+Antes de chamar o Conselho Tutelar, passa um algodão com álcool: se a mancha roxa sair, era a calça jeans nova, caralho.
+
+## v_conduta-m-00
+Diante da suspeita, não espere certeza: o Estatuto da Criança e do Adolescente, no artigo duzentos e quarenta e cinco.
+Obriga a comunicar a suspeita ou a confirmação ao Conselho Tutelar, com multa para quem se omite.
+
+## v_conduta-m-01
+Notificar é dever do médico, está acima do sigilo e não é denúncia policial.
+
+## v_conduta-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_conduta-m-03
+Acolha, anote o relato sem induzir, trate as lesões e, se o risco de voltar para casa for real, interne a criança.
+
+## v_conduta-p-00
+Suspeita já obriga.
+
+## v_conduta-p-01
+Destino: Conselho Tutelar, boletim de ocorrência não substitui.
+
+## v_conduta-p-02
+Sigilo cede ao risco.
+
+## v_conduta-z-00
+Ficar em dúvida não te livra: suspeitou, notifica.
+
+## v_conduta-z-01
+O Conselho Tutelar investiga; você só não pode ser o terceiro silêncio, porra.
+
+## v_lema-m-00
+A violência deixa dano imediato, como a lesão e o estresse pós-traumático, e dano progressivo, no desenvolvimento.
+Na atenção, no aprendizado e na saúde mental, muitas vezes repetindo o ciclo na geração seguinte.
+
+## v_lema-m-01
+O lema da aula resume a conduta inteira: suspeite, acolha e notifique.
+
+## v_lema-m-02
+Olhe o esquema enquanto eu explico.
+
+## v_lema-p-00
+Lema: suspeite acolha notifique.
+
+## v_lema-z-00
+Suspeite, acolha, notifique.
+
+## v_lema-z-01
+Três verbos que valem mais que qualquer tomografia nesse capítulo, caralho.
+
+## g_doenca-m-00
+Dengue é um flavivírus com quatro sorotipos, transmitido pela fêmea do Aedes aegypti.
+
+## g_doenca-m-01
+Pegar um sorotipo protege só contra ele, e a segunda infecção por um sorotipo diferente é o principal risco de forma grave.
+
+## g_doenca-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_doenca-m-03
+A incubação é de quatro a sete dias, e a criança, assim como quem tem doença crônica, está no grupo de maior risco.
+
+## g_doenca-p-00
+Maior risco de grave: segunda infecção por sorotipo diferente.
+
+## g_doenca-z-00
+Teve dengue uma vez e acha que está imune?
+
+## g_doenca-z-01
+Só contra aquele sorotipo.
+
+## g_doenca-z-02
+O segundo diferente é que vem quebrando tudo, porra.
+
+## g_fases-m-00
+A dengue tem três fases.
+
+## g_fases-m-01
+A febril dura de dois a sete dias, com febre alta, dor atrás dos olhos e dor no corpo.
+
+## g_fases-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_fases-m-03
+A crítica chega justamente quando a febre cai, entre o terceiro e o sétimo dia: é aí que o plasma extravasa, aparecem os sinais de alarme e pode vir o choque.
+
+## g_fases-m-04
+Na recuperação o líquido volta para o vaso, e o risco passa a ser a hiper-hidratação.
+
+## g_fases-p-00
+O perigo é na defervescência, terceiro–sétimo dia,: febre caindo não é melhora garantida.
+
+## g_fases-z-00
+A febre passou e a mãe acha que acabou?
+
+## g_fases-z-01
+É exatamente aí que a dengue mata.
+
+## g_fases-z-02
+Reavalia essa criança no dia que a febre some, caralho.
+
+## g_def-m-00
+Na criança, febre de dois a sete dias sem foco em área de transmissão já é caso suspeito, sem precisar dos dois sintomas do adulto.
+
+## g_def-m-01
+Um único sinal de alarme muda tudo: dor abdominal intensa, vômitos persistentes, tontura ao levantar, fígado grande e doloroso.
+Sangramento de mucosa, sonolência ou irritabilidade, pouca urina, acúmulo de líquido e hematócrito subindo.
+
+## g_def-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_def-m-03
+Choque é pulso fino, pressão convergente e enchimento capilar acima de dois segundos.
+
+## g_def-p-00
+Criança: febre sem foco em área de transmissão já é suspeita.
+
+## g_def-p-01
+Um sinal de alarme basta para o grupo C.
+
+## g_def-z-00
+Criança com dengue, sonolenta e com fígado doendo não é grupo A com soro caseiro: é sinal de alarme, é veia, é grupo C, porra.
+
+## g_diag-m-00
+O diagnóstico da dengue é clínico e a hidratação nunca espera exame.
+
+## g_diag-m-01
+Para confirmar, até o quinto dia se pede antígeno ene esse um ou pê cê erre; a partir do sexto dia, sorologia igê eme.
+
+## g_diag-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_diag-m-03
+No hemograma, leucopenia é esperada, e hemoconcentração com plaqueta caindo é gravidade.
+
+## g_diag-m-04
+A prova do laço na criança dura três minutos e é positiva com dez ou mais petéquias no quadrado.
+
+## g_diag-p-00
+Laço: criança três minutos sobre maior ou igual a dez adulto cinco minutos sobre maior ou igual a vinte.
+
+## g_diag-p-01
+Quarto dia, ene esse um ou pê cê erre, não igê eme.
+
+## g_diag-z-00
+Pediu igê eme no terceiro dia?
+
+## g_diag-z-01
+Vai dar negativo e você vai achar que não é dengue.
+
+## g_diag-z-02
+Ene esse um até o quinto, caralho.
+
+## g_grupos-m-00
+A classificação define onde a criança fica e como se hidrata.
+
+## g_grupos-m-01
+Grupo A não tem alarme nem sangramento e vai para casa.
+
+## g_grupos-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_grupos-m-03
+Grupo B tem petéquias espontâneas, prova do laço positiva ou condição especial, como ter menos de dois anos, e fica em observação na unidade.
+
+## g_grupos-m-04
+Grupo C tem sinal de alarme sem choque e é internado.
+
+## g_grupos-m-05
+Grupo D é o choque, na terapia intensiva.
+
+## g_grupos-m-06
+E a classificação muda a cada reavaliação.
+
+## g_grupos-p-00
+Petéquias espontâneas sem alarme é B, não A.
+
+## g_grupos-p-01
+Menor que dois anos é condição especial, B.
+
+## g_grupos-z-00
+Petéquia na cara não é enfeite: tirou a criança do grupo A e jogou no B.
+
+## g_grupos-z-01
+Hemograma e soro na unidade, porra.
+
+## g_ab-m-00
+No grupo A a hidratação é oral em casa: cento e trinta mililitros por quilo por dia até dez quilos, cem entre dez e vinte.
+E oitenta acima de vinte, com um terço em soro de reidratação oral, febre tratada com dipirona ou paracetamol e nunca anti-inflamatório.
+
+## g_ab-m-01
+No grupo B, hemograma obrigatório e hidratação oral supervisionada na própria unidade.
+Já antes do resultado: pelo menos cinquenta mililitros por quilo em quatro a seis horas.
+
+## g_ab-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_ab-m-03
+Hematócrito acima de trinta e oito, alarme ou recusa, vira grupo C.
+
+## g_ab-m-04
+O slide diz: Slide trinta e dois: VO maior ou igual a cinquenta mililitros por quilo em quatro a seis horas.
+Hematócrito maior que trinta e oito por cento, conduta do grupo C.
+
+## g_ab-m-05
+A outra fonte diz: Fluxograma do MS, slide vinte e seis, baixa resolução.
+VO cinquenta a cem mililitros por quilo em quatro horas ou venosa quarenta mililitros por quilo por quatro horas.
+
+## g_ab-m-06
+Na prova, responda: Prova: slide trinta e dois.
+
+## g_ab-p-00
+Criança de quinze quilos no B: maior ou igual a setecentos e cinquenta mililitros VO em quatro a seis horas na unidade.
+
+## g_ab-p-01
+Erro dos compilados: grupo A e cinquenta mililitros por quilo venoso.
+
+## g_ab-z-00
+Quinze quilos vezes cinquenta dá setecentos e cinquenta mililitros pela boca, na unidade, com alguém olhando.
+
+## g_ab-z-01
+Não é veia e não é pra casa, porra.
+
+## g_cd-m-00
+No grupo C a expansão é soro fisiológico ou Ringer, vinte mililitros por quilo por hora, até três vezes.
+Com reavaliação clínica a cada hora e hematócrito depois de duas horas; melhorou, passa para manutenção.
+
+## g_cd-m-01
+No grupo D, choque, são vinte mililitros por quilo em até vinte minutos, até três vezes, na terapia intensiva.
+
+## g_cd-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_cd-m-03
+Se o choque persiste, olhe o hematócrito: subindo pede albumina; caindo com choque pede sangue; caindo sem sangramento é excesso de volume.
+
+## g_cd-m-04
+O slide diz: Slide trinta e seis: vinte mililitros por quilo ou hora, reavaliação clínica horária, hematócrito após duas horas.
+
+## g_cd-m-05
+A outra fonte diz: Gabarito oficial dois mil e vinte e cinco barra dois: vinte mililitros por quilo em duas horas; fluxograma: reavaliação a cada duas horas.
+
+## g_cd-m-06
+Na prova, responda: Escreva o volume por kg, trinta quilos é seiscentos mililitros, a reavaliação horária e o hematócrito em duas horas, é o que pontua.
+
+## g_cd-p-00
+C é vinte mililitros por quilo em uma hora; D é vinte mililitros por quilo em até vinte minutos.
+
+## g_cd-p-01
+Hematócrito ↓ e choque é sangrando, hemácias.
+
+## g_cd-z-00
+Choque com hematócrito despencando e melena não é falta de soro, é sangue saindo.
+
+## g_cd-z-01
+Concentrado de hemácias, não a quarta expansão, caralho.
+
+## g_vac-m-00
+A prevenção começa no vetor, sem água parada.
+
+## g_vac-m-01
+Das vacinas, a Dengvaxia é de nove a quarenta e cinco anos, em três doses, e só para quem já teve dengue comprovada.
+
+## g_vac-m-02
+Olhe o esquema enquanto eu explico.
+
+## g_vac-m-03
+A Qdenga é de vírus atenuado, em duas doses com três meses de intervalo.
+E pode ser dada em quem nunca teve dengue; por ser viva, é contraindicada na mulher que está amamentando.
+
+## g_vac-m-04
+O slide diz: Slide quarenta e dois: nove a quarenta e cinco anos.
+
+## g_vac-m-05
+A outra fonte diz: Apostila MEDCURSO: seis a quarenta e cinco anos; Qdenga quatro a sessenta, PNI: dez a catorze.
+
+## g_vac-m-06
+Na prova, responda: Prova: nove a quarenta e cinco, slide.
+
+## g_vac-p-00
+Soronegativo, Qdenga, nunca Dengvaxia.
+
+## g_vac-p-01
+Lactante não recebe Qdenga, vírus vivo.
+
+## g_vac-z-00
+Deu Dengvaxia em quem nunca teve dengue?
+
+## g_vac-z-01
+Parabéns, transformou a primeira infecção dele numa segunda infecção grave.
+
+## g_vac-z-02
+Qdenga, porra.
+
+## h_A-m-00
+Hepatite A se pega pela via fecal-oral e circula muito em creche.
+
+## h_A-m-01
+Na criança pequena ela costuma ser silenciosa: setenta por cento dos menores de seis anos não têm sintoma.
+E por isso eles são o reservatório que contamina os adultos, que ficam ictéricos.
+
+## h_A-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_A-m-03
+Ela cura em trinta a quarenta dias e não cronifica.
+
+## h_A-m-04
+Igê eme positivo é infecção aguda; igê gê é infecção passada ou vacina.
+
+## h_A-m-05
+No sus, a vacina é dose única aos quinze meses.
+
+## h_A-p-00
+Hepatite A não cronifica.
+
+## h_A-p-01
+Anti-HAV igê gê positivo não é infecção aguda.
+
+## h_A-p-02
+Sus: dose única quinze meses.
+
+## h_A-z-00
+Na creche as crianças pegam hepatite A sem nem perceber e quem fica amarela é a professora.
+
+## h_A-z-01
+Lava a mão depois da fralda, porra.
+
+## h_B-m-00
+A hepatite B passa por sangue, sêmen e saliva, e na criança a via principal é a vertical, na hora do parto, além da transmissão dentro de casa.
+
+## h_B-m-01
+A regra de ouro é que quanto mais cedo a infecção, maior a chance de cronificar.
+Filho de mãe com antígeno de superfície e antígeno e positivos cronifica em setenta a noventa por cento.
+
+## h_B-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_B-m-03
+E são essas crônicas da infância que viram cirrose e câncer de fígado no adulto.
+
+## h_B-m-04
+O slide diz: Slide doze: setenta a noventa por cento, antígeno e da hepatite B positivo, e dez a quarenta por cento, antígeno e da hepatite B negativo.
+
+## h_B-m-05
+A outra fonte diz: Apostila MEDCURSO: noventa por cento sobre dez por cento.
+
+## h_B-m-06
+Na prova, responda: Prova: slide.
+
+## h_B-p-00
+Mesmo mãe antígeno e da hepatite B negativa tem risco, dez a quarenta por cento,: a profilaxia do recém-nascido independe do antígeno e da hepatite B.
+
+## h_B-z-00
+Hepatite B pega cedo é hepatite B pra vida toda: setenta a noventa por cento de cronificação no filho de mãe com antígeno e da hepatite B positivo.
+
+## h_B-z-01
+Protege esse bebê na sala de parto, caralho.
+
+## h_marc-m-00
+O slide que a professora pôs inteiro em negrito é o dos marcadores.
+
+## h_marc-m-01
+Hepatite B aguda é antígeno de superfície positivo com anti core igê eme.
+
+## h_marc-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_marc-m-03
+Crônica é antígeno de superfície positivo com anti core igê gê, ou total, persistindo além de seis meses.
+
+## h_marc-m-04
+Quem se curou tem anti core e anti superfície, sem o antígeno.
+
+## h_marc-m-05
+E o vacinado tem só o anti superfície, porque a vacina contém apenas o antígeno de superfície e nunca mostra o core ao sistema imune.
+
+## h_marc-p-00
+Vacinado é só anti superfície da hepatite B.
+
+## h_marc-p-01
+Anti-HBc positivo é viu o vírus, nunca é só vacina.
+
+## h_marc-z-00
+Anti core positivo é carimbo de quem encontrou o vírus de verdade; vacina não deixa esse carimbo.
+
+## h_marc-z-01
+Leu errado, tratou o vacinado como curado, porra.
+
+## h_marc_idade-m-00
+Na criança exposta, a idade define o exame.
+
+## h_marc_idade-m-01
+Antes dos seis meses não se dosa, porque o resultado pode ser transitório.
+
+## h_marc_idade-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_marc_idade-m-03
+Entre seis e doze meses, pede antígeno de superfície e dê ene á viral.
+
+## h_marc_idade-m-04
+Acima de doze meses, pede o antígeno de superfície e, se vier positivo, repete em seis meses: só a persistência confirma hepatite B crônica.
+
+## h_marc_idade-p-00
+Um antígeno de superfície da hepatite B positivo isolado não prova cronicidade: repetir em seis meses.
+
+## h_marc_idade-z-00
+Um exame positivo é foto; crônica é filme de seis meses.
+
+## h_marc_idade-z-01
+Repete o antígeno antes de carimbar a criança, caralho.
+
+## h_prevB-m-00
+A vacina da hepatite B é dada ao nascer e depois aos dois, quatro e seis meses.
+Na pentavalente; o prematuro abaixo de trinta e três semanas recebe quatro doses.
+
+## h_prevB-m-01
+O recém-nascido de mãe com antígeno de superfície positivo recebe vacina mais imunoglobulina específica.
+De preferência nas primeiras vinte e quatro horas, em músculos diferentes, e pode mamar normalmente.
+
+## h_prevB-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_prevB-m-03
+Não se dosa o antígeno do bebê antes de decidir.
+
+## h_prevB-m-04
+O slide diz: Slide dezessete: preferencialmente nas primeiras vinte e quatro horas.
+
+## h_prevB-m-05
+A outra fonte diz: MEDCURSO ou apostila: vacina e idade gestacional em doze horas; idade gestacional até sete dias.
+
+## h_prevB-m-06
+Na prova, responda: Faculdade: vinte e quatro horas; residência: protocolo vigente, doze horas.
+
+## h_prevB-p-00
+Recém-nascido exposto: vacina e imunoglobulina da hepatite B juntas, músculos diferentes.
+Menor ou igual a vinte e quatro horas; antígeno e da hepatite B negativo da mãe não dispensa; aleitamento permitido.
+
+## h_prevB-z-00
+Mãe com antígeno de superfície positivo: vacina numa coxa, imunoglobulina na outra, antes de vinte e quatro horas, e deixa o bebê mamar.
+
+## h_prevB-z-01
+Simples assim, porra.
+
+## h_C-m-00
+A hepatite C cronifica em mais de oitenta por cento, quase sempre sem sintomas, e não tem vacina.
+
+## h_C-m-01
+Na criança, a via é a vertical.
+
+## h_C-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_C-m-03
+A armadilha de prova é o lactente filho de mãe com hepatite C que tem anticorpo positivo.
+Antes dos dezoito meses esse anticorpo pode ser da mãe, que atravessou a placenta.
+
+## h_C-m-04
+Quem decide é o pê cê erre do erre ene á viral, feito a partir dos três meses e repetido depois.
+
+## h_C-m-05
+O slide diz: Slide vinte: cesariana é maior risco de transmissão.
+
+## h_C-m-06
+A outra fonte diz: Diretrizes usuais: via de parto não muda a transmissão, não se indica cesárea para prevenir.
+
+## h_C-m-07
+Na prova, responda: Prova: cite o slide; saiba que diretrizes não indicam cesárea.
+
+## h_C-p-00
+Anti-HCV e em menor que dezoito meses é pode ser materno, pê cê erre.
+
+## h_C-p-01
+Não existe vacina contra hepatite C.
+
+## h_C-z-00
+Anticorpo de hepatite C positivo num bebê de cinco meses é presente da mãe, não diagnóstico.
+
+## h_C-z-01
+Pê cê erre decide, porra.
+
+## h_dif-m-00
+Icterícia no lactente de semanas com urina escura e fezes claras não é icterícia do leite materno: é bilirrubina direta, e direta acima de um é colestase.
+
+## h_dif-m-01
+A grande urgência é a atresia de vias biliares, porque a cirurgia de Kasai precisa ser feita antes de oito semanas de vida.
+
+## h_dif-m-02
+Olhe o esquema enquanto eu explico.
+
+## h_dif-m-03
+A icterícia do leite materno eleva só a indireta e as fezes continuam amarelas.
+
+## h_dif-p-00
+Fezes claras e urina escura é BD, atresia até prova em contrário; Kasai menor que oito semanas.
+
+## h_dif-p-01
+Fototerapia não trata colestase.
+
+## h_dif-z-00
+Cocô branco e xixi cor de Coca-Cola num bebê de cinco semanas: fração da bilirrubina hoje, porque o relógio do Kasai está correndo, caralho.
+
+## m_epi-m-00
+Meningite é a inflamação das leptomeninges, e a faixa de maior risco é abaixo de cinco anos, principalmente entre três e doze meses.
+
+## m_epi-m-01
+A maioria é viral, mas a bacteriana sem tratamento mata quase sempre.
+
+## m_epi-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_epi-m-03
+No Brasil o meningococo é o agente bacteriano mais comum, com o sorogrupo B crescendo nas crianças pequenas.
+O hemófilo praticamente sumiu com a vacina, e o pneumococo é o que mais mata.
+
+## m_epi-m-04
+O slide diz: Slide seis: cinco mil quinhentos e oitenta e um mortes, taxa de letalidade vinte por cento.
+Sobre duzentos e sessenta e cinco mil seiscentos e quarenta e quatro casos.
+
+## m_epi-m-05
+A outra fonte diz: cinco mil quinhentos e oitenta e um sobre duzentos e sessenta e cinco mil seiscentos e quarenta e quatro cerca de dois vírgula um por cento.
+Um dos dois números está errado.
+
+## m_epi-m-06
+Na prova, responda: Não use esse número na prova; use pneumococo vinte e seis vírgula nove a trinta e um vírgula um por cento.
+
+## m_epi-p-00
+Mais comum: meningococo; maior letalidade: pneumococo; hemófilo tipo b ↓ noventa e cinco por cento com a vacina.
+
+## m_epi-z-00
+O hemófilo virou peça de museu graças à vacina; o pneumococo continua matando um em cada três.
+
+## m_epi-z-01
+Vacina em dia, caralho.
+
+## m_etio-m-00
+O agente depende da idade.
+
+## m_etio-m-01
+Até dois meses, pense nos germes do canal de parto e do berçário: enterobactérias como a Escherichia coli, estreptococo do grupo B e Listeria.
+
+## m_etio-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_etio-m-03
+Depois de dois meses entram meningococo, pneumococo e hemófilo.
+
+## m_etio-m-04
+Criança sem baço, falciforme ou com deficiência de complemento sofre com encapsulados, e quem tem derivação ventricular sofre com estafilococo e pseudomonas.
+
+## m_etio-p-00
+Listeria no menor que dois meses é o motivo da ampicilina, cefalosporina não cobre Listeria.
+
+## m_etio-z-00
+Listeria não liga pra cefalosporina nenhuma.
+
+## m_etio-z-01
+Recém-nascido sem ampicilina no esquema é recém-nascido descoberto, porra.
+
+## m_clin-m-00
+Na criança maior a meningite se apresenta com febre, cefaleia e vômitos.
+Mais rigidez de nuca e os sinais de Kernig e Brudzinski, e uma convulsão no início não piora o prognóstico.
+
+## m_clin-m-01
+No meningococo, petéquias e púrpura aparecem em mais da metade.
+
+## m_clin-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_clin-m-03
+O problema é o lactente e o recém-nascido: o quadro é inespecífico, com irritabilidade.
+Recusa alimentar, hipotermia e gemência, e febre e rigidez de nuca podem faltar.
+
+## m_clin-m-04
+Fontanela abaulada aparece em um terço.
+
+## m_clin-p-00
+Recém-nascido com hipotermia, recusa alimentar e gemência sem rigidez de nuca pode ter meningite, punção.
+
+## m_clin-z-00
+Recém-nascido não lê livro: ele não tem rigidez de nuca, ele fica frio e para de mamar.
+
+## m_clin-z-01
+Punciona, caralho.
+
+## m_puncao-m-00
+A regra da aula tem duas metades.
+
+## m_puncao-m-01
+A primeira: o líquor deve ser colhido imediatamente, a não ser que a criança esteja instável.
+Tenha sinais focais ou de hipertensão intracraniana, ou coagulopatia.
+
+## m_puncao-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_puncao-m-03
+A segunda, que a professora escreveu em vermelho e sublinhou: nunca postergar o tratamento.
+
+## m_puncao-m-04
+Se não dá para puncionar agora, colhe hemocultura e começa o antibiótico, porque cada hora de atraso aumenta a mortalidade.
+
+## m_puncao-p-00
+Criança em choque com púrpura: suporte e hemocultura e antibiótico imediato; punção adiada.
+
+## m_puncao-p-01
+Tomografia de rotina antes da punção só atrasa.
+
+## m_puncao-z-00
+Esperar tomografia pra dar ceftriaxona numa criança com púrpura e hipotensa é deixar o meningococo ganhar a corrida.
+
+## m_puncao-z-01
+Antibiótico primeiro, punção depois, porra.
+
+## m_lcr-m-00
+A tabela do líquor é questão certa.
+
+## m_lcr-m-01
+Bacteriana: mais de mil células, com neutrófilos, proteína entre cem e duzentos e glicose abaixo de trinta, com Gram positivo em oitenta e cinco por cento.
+
+## m_lcr-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_lcr-m-03
+Viral: menos de mil células, linfócitos, proteína e glicose normais.
+
+## m_lcr-m-04
+Tuberculosa: poucas células, de vinte a quinhentas, linfócitos, mas proteína muito alta e glicose baixa, com Ziehl-Neelsen positivo em só trinta por cento.
+
+## m_lcr-m-05
+O slide diz: Slide vinte e seis: menor que mil células.
+
+## m_lcr-m-06
+A outra fonte diz: Apostila PED cinco: em geral menor que quinhentos; neutrófilos nas primeiras quarenta e oito horas.
+
+## m_lcr-m-07
+Na prova, responda: Prova: corte da professora, menor que mil.
+
+## m_lcr-m-08
+Residência: glicose menor que quarenta ou relação líquor ou sangue menor que zero vírgula quatro.
+
+## m_lcr-p-00
+Tuberculosa: poucas células mas a maior proteína e glicose baixa.
+
+## m_lcr-p-01
+Diplococo Gram-negativo é meningococo.
+
+## m_lcr-z-00
+Líquor turvo, glicose vinte e mil células de neutrófilo: isso é pus, não é virose.
+
+## m_lcr-z-01
+Ceftriaxona, porra.
+
+## m_trat-m-00
+O esquema empírico depende da idade.
+
+## m_trat-m-01
+Até dois meses, ampicilina para cobrir Listeria e enterococo, mais cefotaxima para enterobactérias; a segunda opção é ampicilina com gentamicina.
+
+## m_trat-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_trat-m-03
+Acima de dois meses, ceftriaxona ou cefotaxima mais vancomicina, para pneumococo resistente, e nunca vancomicina sozinha.
+
+## m_trat-m-04
+A ceftriaxona é cem miligramas por quilo por dia de doze em doze horas.
+
+## m_trat-m-05
+Meningococo trata de cinco a sete dias e pneumococo de dez a catorze.
+
+## m_trat-p-00
+No recém-nascido a cefalosporina é cefotaxima, ceftriaxona desloca bilirrubina.
+
+## m_trat-p-01
+Maior que dois meses: cefalosporina de terceira geração e vancomicina.
+
+## m_trat-z-00
+Menor de dois meses: ampicilina mais cefotaxima.
+
+## m_trat-z-01
+Maior: ceftriaxona mais vanco.
+
+## m_trat-z-02
+Trocou os dois, deixou a Listeria ou o pneumococo resistente de presente, caralho.
+
+## m_dexa-m-00
+A dexametasona na meningite bacteriana é zero vírgula quinze miligrama por quilo por dose, de seis em seis horas, por dois dias, acima de seis semanas de vida.
+
+## m_dexa-m-01
+Ela reduz a surdez grave e outras sequelas, mas só previne, não reverte a lesão já instalada.
+Por isso entra antes ou junto da primeira dose do antibiótico, nunca no terceiro dia.
+
+## m_dexa-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_dexa-m-03
+O slide diz: Slide trinta e cinco: dexametasona maior que seis semanas.
+
+## m_dexa-m-04
+A outra fonte diz: Esquema neonatal, ampicilina e cefotaxima, vai até sessenta dias.
+
+## m_dexa-m-05
+Na prova, responda: Sobreposição de seis a oito semanas: escreva maior que seis semanas, antes ou junto da primeira dose.
+
+## m_dexa-p-00
+Dexa: maior que seis semanas, zero vírgula quinze miligramas por quilo de seis em seis horas vezes dois dias, antes ou junto do antibiótico.
+
+## m_dexa-p-01
+Não é para meningite viral.
+
+## m_dexa-z-00
+Dexametasona no terceiro dia é colocar cinto de segurança depois da batida.
+
+## m_dexa-z-01
+Antes ou junto da primeira dose, porra.
+
+## m_profil-m-00
+Na doença meningocócica, todo contato íntimo dos últimos sete dias recebe quimioprofilaxia, tendo vacina ou não: rifampicina, dez miligramas por quilo.
+Máximo seiscentos, de doze em doze horas, por dois dias; alternativas são ceftriaxona intramuscular em dose única ou ciprofloxacina no adulto.
+
+## m_profil-m-01
+No hemófilo, se houver na casa uma criança abaixo de quatro anos com vacina incompleta.
+Todos os contatos da casa recebem rifampicina, vinte miligramas por quilo, uma vez ao dia, por quatro dias.
+
+## m_profil-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_profil-p-00
+Meningo: dez miligramas por quilo de doze em doze horas vezes dois d, independe da vacina.
+
+## m_profil-p-01
+Hemófilo tipo b: vinte miligramas por quilo uma vezes por dia vezes quatro d, para todos da casa se há menor que quatro anos mal vacinado.
+
+## m_profil-z-00
+Irmão vacinado com meningo C dormindo no mesmo quarto?
+
+## m_profil-z-01
+Rifampicina igual: a vacina C não cobre o B, porra.
+
+## m_vac-m-00
+As vacinas do calendário que previnem meningite são a meningocócica C aos três, cinco e doze meses, com a A C W Y no adolescente.
+A pentavalente, que inclui o hemófilo, aos dois, quatro e seis meses; e a pneumocócica dez aos dois, quatro e doze meses.
+
+## m_vac-m-01
+E a bê cê gê, aplicada ao nascer, existe justamente para prevenir as formas graves da tuberculose: a miliar e a meníngea.
+
+## m_vac-m-02
+Olhe o esquema enquanto eu explico.
+
+## m_vac-m-03
+O slide diz: Slide quarenta e dois: onze a doze anos incompletos.
+
+## m_vac-m-04
+A outra fonte diz: Apostila PED três: onze a catorze anos desde dois mil e vinte e dois.
+
+## m_vac-m-05
+Na prova, responda: Faculdade: slide; residência: calendário vigente.
+
+## m_vac-p-00
+Bê cê gê previne meningite tuberculosa e miliar, não a TB pulmonar do adulto.
+
+## m_vac-z-00
+Bê cê gê não é vacina de tuberculose de pulmão de adulto; é vacina pra criança não ter meningite tuberculosa.
+
+## m_vac-z-01
+Erra isso e leva bronca da Patrícia, caralho.
+
+## i_conc-m-00
+Infecção urinária é a inflamação sintomática do trato urinário por um único germe.
+
+## i_conc-m-01
+Até os sete anos, ela atinge cerca de oito por cento das meninas e menos de dois por cento dos meninos, e volta em trinta por cento no primeiro ano.
+
+## i_conc-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_conc-m-03
+A via é ascendente, exceto no recém-nascido, em que é hematogênica.
+
+## i_conc-m-04
+A Escherichia coli responde por oitenta a noventa por cento do primeiro episódio.
+
+## i_conc-p-00
+E.
+
+## i_conc-p-01
+Coli oitenta a noventa por cento.
+
+## i_conc-p-02
+No recém-nascido a via é hematogênica, por isso bacteremia.
+
+## i_conc-z-00
+Oitenta a noventa por cento é Escherichia coli.
+
+## i_conc-z-01
+Se a questão perguntar o germe e você não marcar isso, merece pegar uma cistite, caralho.
+
+## i_clin-m-00
+A apresentação da infecção urinária muda com a idade.
+
+## i_clin-m-01
+No recém-nascido parece sepse, com hipotermia, icterícia e recusa alimentar.
+Há bacteremia com frequência e a mortalidade chega a dez por cento, por isso todo recém-nascido é infecção complicada e interna.
+
+## i_clin-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_clin-m-03
+No lactente, a febre pode ser o único sinal.
+
+## i_clin-m-04
+Na criança maior, separe cistite, sem febre e com disúria, de pielonefrite, com febre e dor lombar.
+
+## i_clin-m-05
+E sempre olhe o jato e palpe a bexiga.
+
+## i_clin-p-00
+Lactente com febre sem foco, pedir urina.
+
+## i_clin-p-01
+Recém-nascido com infecção urinária é internar sempre.
+
+## i_clin-z-00
+Lactente febril sem foco e ninguém pediu urina?
+
+## i_clin-z-01
+Então ninguém investigou a febre.
+
+## i_clin-z-02
+Urina tipo um e cultura, porra.
+
+## i_coleta-m-00
+Na criança com controle esfincteriano, colhe jato médio depois da higiene.
+
+## i_coleta-m-01
+No lactente, o saco coletor é o mais fácil, mas contamina muito.
+Urocultura positiva por saco é muito difícil de valorizar, e só o resultado negativo é confiável para afastar infecção.
+
+## i_coleta-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_coleta-m-03
+Para confirmar, use cateterismo vesical ou punção suprapúbica, que é o padrão-ouro e a escolha quando há diarreia ou vulvovaginite.
+
+## i_coleta-p-00
+Saco coletor: negativo afasta, positivo não confirma.
+
+## i_coleta-p-01
+Saco não é o método preferencial.
+
+## i_coleta-z-00
+Saco coletor positivo é cultura de períneo, não de bexiga.
+
+## i_coleta-z-01
+Negativo afasta; positivo, cateteriza e colhe direito, caralho.
+
+## i_lab-m-00
+Piúria é cinco ou mais leucócitos por campo, ou mais de dez mil por mililitro.
+
+## i_lab-m-01
+Esterase e nitrito positivos juntos sugerem muito a infecção.
+
+## i_lab-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_lab-m-03
+Na urocultura, cem mil unidades formadoras de colônia de uma única bactéria confirmam; menos de dez mil é negativo.
+Entre dez mil e cem mil é duvidoso e se repete; e duas ou mais bactérias indicam contaminação.
+
+## i_lab-m-04
+Na punção suprapúbica, qualquer crescimento vale.
+
+## i_lab-m-05
+O slide diz: Slide dezessete: critério único maior ou igual a cem mil unidades formadoras de colônia, sem distinguir método.
+
+## i_lab-m-06
+A outra fonte diz: MEDCURSO: jato maior ou igual a cem mil; cateterismo maior ou igual a cinquenta mil.
+Sem consenso,; punção qualquer; AAP maior ou igual a cinquenta mil.
+
+## i_lab-m-07
+Na prova, responda: Faculdade: maior ou igual a cem mil, slide,; cite punção suprapúbica: qualquer crescimento.
+
+## i_lab-p-00
+Jato médio com quarenta mil unidades formadoras de colônia é duvidoso, repetir.
+
+## i_lab-p-01
+Qualquer crescimento vale só para punção suprapúbica.
+
+## i_lab-z-00
+Quarenta mil colônias no jato médio não é infecção nem é nada: repete a cultura antes de sair dando antibiótico, porra.
+
+## i_bact-m-00
+Bacteriúria assintomática é ter três uroculturas positivas seguidas, num intervalo de três dias a duas semanas, sem nenhum sintoma.
+
+## i_bact-m-01
+É comum e persistente em quem tem mielomeningocele, bexiga neurogênica ou faz cateterismo de alívio.
+
+## i_bact-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_bact-m-03
+A conduta é não tratar, porque o antibiótico seleciona germes mais agressivos e acaba provocando a infecção sintomática que se queria evitar.
+
+## i_bact-p-00
+Bacteriúria assintomática na bexiga neurogênica: não tratar, nem profilaxia.
+
+## i_bact-z-00
+Criança que cateteriza a bexiga sempre vai ter bactéria na urina.
+
+## i_bact-z-01
+Tratar cultura em vez de tratar paciente é fábrica de superbactéria, caralho.
+
+## i_trat-m-00
+O antibiótico começa logo depois de colher a urina, porque a demora é fator de risco para cicatriz renal.
+
+## i_trat-m-01
+Interna quem está toxemiado, desidratado, vomitando, em choque, e todo recém-nascido, que recebe ampicilina mais aminoglicosídeo.
+
+## i_trat-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_trat-m-03
+O resto trata por via oral por dez dias; a cefalexina é cinquenta a cem miligramas por quilo por dia em quatro doses.
+
+## i_trat-m-04
+Pielonefrite sem gravidade também pode ser oral, mas nunca com nitrofurantoína.
+
+## i_trat-m-05
+O slide diz: Slides vinte e três a vinte e quatro: dez dias, sete a catorze, só no ambulatorial.
+
+## i_trat-m-06
+A outra fonte diz: MEDCURSO: cistite três a cinco dias; pielonefrite sete a catorze, Nelson sete a dez.
+
+## i_trat-m-07
+Na prova, responda: Prova: dez dias, sete a catorze.
+
+## i_trat-p-00
+Toda pielonefrite interna é mito.
+
+## i_trat-p-01
+Não esperar a urocultura para começar.
+
+## i_trat-p-02
+Nitrofurantoína não para pielonefrite.
+
+## i_trat-z-00
+Esperar a urocultura pra começar antibiótico numa pielonefrite é dar setenta e duas horas de vantagem pra cicatriz renal.
+
+## i_trat-z-01
+Colheu, começou, porra.
+
+## i_profil-m-00
+A profilaxia usa dose baixa, cerca de um terço da dose, à noite.
+
+## i_profil-m-01
+Ela está indicada durante a investigação, nas uropatias obstrutivas até a cirurgia, no refluxo de graus três a cinco.
+No refluxo leve com infecções de repetição ou cintilografia alterada, e nas recidivas frequentes.
+
+## i_profil-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_profil-m-03
+Acima de dois meses usa nitrofurantoína ou sulfametoxazol com trimetoprim; abaixo, cefalexina.
+
+## i_profil-m-04
+E lembre: ela reduz infecção, mas não reduz cicatriz.
+
+## i_profil-p-00
+Menor que dois meses, cefalexina.
+
+## i_profil-p-01
+Refluxo vesicoureteral I–II isolado não tem indicação.
+
+## i_profil-p-02
+Profilaxia não previne cicatriz.
+
+## i_profil-z-00
+Sulfa em bebê de um mês é pedir kernicterus.
+
+## i_profil-z-01
+Abaixo de dois meses a profilaxia é cefalexina, porra.
+
+## i_imagem-m-00
+Essa é a pergunta que mais caiu do capítulo.
+
+## i_imagem-m-01
+Depois de uma infecção urinária febril bem documentada, a investigação começa pelo ultrassom de rins e vias urinárias, que não enxerga refluxo.
+
+## i_imagem-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_imagem-m-03
+O refluxo é visto pela uretrocistografia miccional, o principal exame, feita só depois de terminar o tratamento.
+
+## i_imagem-m-04
+A cintilografia com dê eme esse á mostra cicatriz renal, três meses após a cura.
+
+## i_imagem-m-05
+E o dê tê pê á é para obstrução.
+
+## i_imagem-m-06
+Abaixo de dois anos, a criança fica em profilaxia até o ultrassom.
+
+## i_imagem-m-07
+O slide diz: Slide trinta e quatro: três meses após a cura.
+
+## i_imagem-m-08
+A outra fonte diz: MEDCURSO, S36 um e quatro:zero,: quatro a seis meses.
+
+## i_imagem-m-09
+Na prova, responda: Prova: três meses, slide.
+
+## i_imagem-p-00
+Os compilados esqueceram a uretrocistografia: é o exame do refluxo, cobrado junto com o dê eme esse á.
+
+## i_imagem-p-01
+Dê eme esse á é M de morfológica, cicatriz.
+
+## i_imagem-z-00
+Ultrassom, uretrocistografia e dê eme esse á: três exames, três perguntas, anatomia, refluxo e cicatriz.
+
+## i_imagem-z-01
+Esqueceu a uretrocistografia, perdeu metade da questão, caralho.
+
+## i_rvu-m-00
+O refluxo vesicoureteral está presente em trinta a quarenta por cento das crianças com infecção urinária, e costuma regredir sozinho.
+
+## i_rvu-m-01
+O risco de cicatriz renal é maior abaixo de um ano, quando o tratamento atrasa mais de setenta e duas horas.
+No refluxo de alto grau, na obstrução e nas recorrências.
+
+## i_rvu-m-02
+Olhe o esquema enquanto eu explico.
+
+## i_rvu-m-03
+E o menino com hidronefrose bilateral no pré-natal.
+Bexiga palpável e jato fraco tem válvula de uretra posterior até prova em contrário, confirmada pela uretrocistografia.
+
+## i_rvu-p-00
+Menino e bexiga distendida e jato em gotejamento é VUP, uretrocistografia, não dê tê pê á.
+
+## i_rvu-z-00
+Menino que faz xixi pingando e tem bexiga do tamanho de uma laranja não tem preguiça de urinar: tem válvula de uretra posterior.
+
+## i_rvu-z-01
+Uretrocistografia, porra.
+
+## s_conc-m-00
+Choque é quando a oferta de oxigênio aos tecidos não dá conta da necessidade.
+
+## s_conc-m-01
+A oferta depende do conteúdo de oxigênio no sangue, ou seja, hemoglobina e saturação, multiplicado pelo débito cardíaco.
+
+## s_conc-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_conc-m-03
+Por isso todo choque é falha de um dos três pés: volume, bomba ou tônus vascular.
+
+## s_conc-m-04
+Enquanto os tecidos conseguem extrair mais oxigênio, a criança compensa; quando não conseguem, aparece o lactato.
+
+## s_conc-p-00
+Choque é perfusão, não pressão: pode haver choque com pressão arterial normal.
+
+## s_conc-z-00
+Pressão normal não é salvo-conduto: o tecido pode estar se afogando em lactato com a pressão bonitinha no monitor, porra.
+
+## s_tipos-m-00
+São quatro tipos.
+
+## s_tipos-m-01
+O hipovolêmico, por diarreia, vômitos, sangramento ou queimadura, é o mais comum na criança.
+
+## s_tipos-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_tipos-m-03
+O distributivo é o choque da vasodilatação, como na sepse e na anafilaxia.
+
+## s_tipos-m-04
+O cardiogênico é a bomba que falha, como na miocardite.
+
+## s_tipos-m-05
+E o obstrutivo é o coração impedido de encher ou ejetar, no pneumotórax hipertensivo e no tamponamento.
+
+## s_tipos-m-06
+Na prática pediátrica, hipovolemia e sepse dominam.
+
+## s_tipos-p-00
+Mais comuns na criança: hipovolêmico e séptico.
+
+## s_tipos-z-00
+Na pediatria o choque é quase sempre a diarreia que ninguém hidratou ou a sepse que ninguém viu.
+
+## s_tipos-z-01
+O resto é exceção, caralho.
+
+## s_recon-m-00
+Reconhecer o choque cedo é o objetivo da aula.
+
+## s_recon-m-01
+No choque compensado a pressão ainda é normal, mas a criança tem taquicardia, palidez, extremidades frias, enchimento capilar lento e pouca urina.
+
+## s_recon-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_recon-m-03
+Descompensado é quando surge hipotensão, somem os pulsos periféricos ou a consciência cai.
+
+## s_recon-m-04
+A hipotensão sistólica é abaixo de sessenta no recém-nascido, abaixo de setenta até um ano.
+Setenta mais duas vezes a idade de um a dez anos, e abaixo de noventa acima de dez anos.
+
+## s_recon-m-05
+O slide diz: Slide treze: diurese um a dois mililitros por quilo por hora; tempo de enchimento capilar até dois s.
+
+## s_recon-m-06
+A outra fonte diz: Slide catorze: um vírgula cinco a dois mililitros por quilo por hora; tempo de enchimento capilar menor que dois s.
+
+## s_recon-m-07
+Na prova, responda: Divergência interna.
+Escreva diurese maior ou igual a um mililitros por quilo por hora e tempo de enchimento capilar menor ou igual a dois s.
+
+## s_recon-p-00
+Menino de seis anos: limite é setenta e doze é oitenta e dois; pressão sistólica oitenta é hipotenso.
+
+## s_recon-p-01
+Hipotensão é sinal tardio.
+
+## s_recon-z-00
+Setenta mais duas vezes a idade.
+
+## s_recon-z-01
+Seis anos, oitenta e dois.
+
+## s_recon-z-02
+Abaixo disso a criança já gastou toda a compensação e está caindo do penhasco, porra.
+
+## s_hora1-m-00
+Na primeira hora: oxigênio em alta concentração com máscara e reservatório, acesso venoso e, se a veia não sai, intraósseo sem demora.
+
+## s_hora1-m-01
+A expansão é soro fisiológico ou Ringer, vinte mililitros por quilo em cinco a vinte minutos, repetida a cada reavaliação.
+
+## s_hora1-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_hora1-m-03
+No choque cardiogênico as alíquotas caem para cinco a dez mililitros por quilo.
+
+## s_hora1-m-04
+Depois de quarenta a sessenta mililitros por quilo, reavalie e pense em amina.
+
+## s_hora1-m-05
+Glicemia sempre, e nunca soro glicosado para expandir.
+
+## s_hora1-m-06
+O slide diz: Slide vinte e um: graves em até dez minutos.
+
+## s_hora1-m-07
+A outra fonte diz: Caso dos slides trinta e quatro barra trinta e oito: vinte mililitros por quilo em vinte minutos.
+
+## s_hora1-m-08
+Na prova, responda: Escreva vinte mililitros por quilo em cinco a vinte minutos, graves: até dez minutos.
+
+## s_hora1-p-00
+Dezesseis quilos, trezentos e vinte mililitros em cinco a vinte minutos.
+
+## s_hora1-p-01
+Duas veias falharam, intraóssea.
+
+## s_hora1-p-02
+Estertores e fígado crescendo após bolus é cardiogênico: cinco a dez mililitros por quilo e dobutamina.
+
+## s_hora1-z-00
+Duas tentativas de veia e nada?
+
+## s_hora1-z-01
+Intraóssea, agora.
+
+## s_hora1-z-02
+Enquanto você caça veia, a criança perde a primeira hora, caralho.
+
+## s_aminas-m-00
+Se o choque persiste depois de quarenta a sessenta mililitros por quilo, mantém volume e começa amina, escolhida pelo tipo.
+
+## s_aminas-m-01
+Choque frio, com extremidades frias e pulsos finos, pede adrenalina.
+
+## s_aminas-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_aminas-m-03
+Choque quente, com extremidades quentes, pulsos amplos e diastólica baixa, é vasodilatação pelos mediadores da sepse e pede noradrenalina.
+
+## s_aminas-m-04
+E o coração que falha, na insuficiência cardíaca, pede dobutamina, que é inotrópico e pode baixar a pressão.
+
+## s_aminas-m-05
+O slide diz: Slides vinte e cinco barra trinta e oito: dopamina como opção no choque frio.
+
+## s_aminas-m-06
+A outra fonte diz: Surviving Sepsis pediátrica dois mil e vinte: adrenalina ou noradrenalina preferidas; dopamina perdeu espaço.
+
+## s_aminas-m-07
+Na prova, responda: Faculdade: o slide; residência: adrenalina.
+
+## s_aminas-p-00
+Quente é noradrenalina; frio é adrenalina; IC é dobutamina, não usar dobutamina no quente hipotenso.
+
+## s_aminas-z-00
+Extremidade quente e pressão no chão é vaso aberto demais: noradrenalina fecha a torneira.
+
+## s_aminas-z-01
+Dobutamina aí só abre mais, porra.
+
+## s_obst-m-00
+Choque obstrutivo não melhora com volume nem com amina: precisa tirar a obstrução.
+
+## s_obst-m-01
+No pneumotórax hipertensivo, típico do politrauma ou da ventilação mecânica.
+Há murmúrio abolido e timpanismo de um lado, e a conduta é punção de tórax seguida de drenagem.
+
+## s_obst-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_obst-m-03
+No tamponamento, bulhas abafadas e jugulares túrgidas, a conduta é punção pericárdica de alívio.
+
+## s_obst-m-04
+E sempre corrija glicose, cálcio e potássio, e leve para a terapia intensiva só depois de estabilizar.
+
+## s_obst-p-00
+Intubado e timpanismo e murmúrio abolido e hipotensão é punção de tórax, não ecocardiograma, não mais volume.
+
+## s_obst-z-00
+Pneumotórax hipertensivo não se trata com o quarto bolus nem com noradrenalina: agulha no tórax, porra.
+
+## s_manut-m-00
+Depois de estabilizar vem o soro de manutenção pela regra de Holliday-Segar.
+
+## s_manut-m-01
+Até dez quilos, cem mililitros por quilo por dia.
+
+## s_manut-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_manut-m-03
+De dez a vinte quilos, mil mais cinquenta por cada quilo acima de dez.
+
+## s_manut-m-04
+Acima de vinte, mil e quinhentos mais vinte por quilo acima de vinte.
+
+## s_manut-m-05
+Some sódio três e potássio dois miliequivalentes por quilo por dia.
+
+## s_manut-m-06
+O exemplo da aula é a criança de trinta quilos: mil e setecentos mililitros por dia, cerca de setenta e dois mililitros por hora.
+
+## s_manut-m-07
+O slide diz: Slide vinte e sete: por kg, Na três, K dois miliequivalentes por quilo por dia, trinta quilos: Na sessenta sobre K trinta e cinco.
+
+## s_manut-m-08
+A outra fonte diz: Slides vinte e oito a vinte e nove barra quarenta: por cem mililitros, modificado, trinta quilos: Na cinquenta e um sobre K trinta e quatro.
+
+## s_manut-m-09
+Na prova, responda: Dois métodos válidos: diga qual usou.
+
+## s_manut-p-00
+Quinze quilos é mil e cinquenta por cinco é mil duzentos e cinquenta mililitros, os cinquenta são só sobre os quilos acima de dez.
+
+## s_manut-z-00
+Quinze quilos não é mil setecentos e cinquenta: o cinquenta é só nos quilos acima de dez.
+
+## s_manut-z-01
+Mil duzentos e cinquenta, caralho.
+
+## s_caso-m-00
+O caso da aula junta tudo: uma criança de dez anos e trinta quilos, com febre de cinco dias e exantema.
+Agora sem febre e sonolenta, com pressão de oitenta, abaixo de noventa, ou seja, choque descompensado.
+
+## s_caso-m-01
+Recebe três bolus de vinte mililitros por quilo em uma hora.
+
+## s_caso-m-02
+Olhe o esquema enquanto eu explico.
+
+## s_caso-m-03
+A pressão sobe para noventa, mas a perfusão segue em quatro segundos e os pulsos periféricos não voltam: ainda é choque.
+
+## s_caso-m-04
+Então mantém volume, começa amina e pede exames; manutenção só depois.
+
+## s_caso-p-00
+Pressão arterial normalizou mas tempo de enchimento capilar quatro s e pulsos ausentes é choque persistente, amina; não é alta do choque.
+
+## s_caso-z-00
+Pressão de noventa com perfusão de quatro segundos é choque de maquiagem.
+
+## s_caso-z-01
+Amina e reavaliação, porra.
+
+## k_def-m-00
+Constipação é muito frequente na criança, entre quinze e trinta e oito por cento no Brasil, e muitas vezes subdiagnosticada.
+
+## k_def-m-01
+O diagnóstico é pelos critérios de Roma quatro: pelo menos dois, durante um mês.
+
+## k_def-m-02
+Olhe o esquema enquanto eu explico.
+
+## k_def-m-03
+São duas ou menos evacuações por semana, perda fecal pelo menos uma vez por semana.
+Postura de retenção, evacuação dolorosa, massa fecal no reto e fezes tão grossas que entopem o vaso.
+
+## k_def-m-04
+A escala de Bristol ajuda a descrever o formato das fezes.
+
+## k_def-p-00
+Roma IV: dois critérios por um mês, não três meses.
+
+## k_def-p-01
+Incontinência fecal é critério, não diarreia.
+
+## k_def-z-00
+Criança que suja a cueca não está com diarreia nem fazendo birra: é fezes escorrendo em volta de um tijolo no reto.
+
+## k_def-z-01
+Roma quatro, caralho.
+
+## k_inv-m-00
+Na anamnese, pergunte quando começou: no desmame, na retirada da fralda e na entrada na escola são os momentos típicos da constipação funcional.
+
+## k_inv-m-01
+O exame físico tem que ser completo, com toque retal, inspeção anal e, sempre, a região dorsal.
+Tufo de pelos, covinha sacral, prega glútea desviada ou hemangioma sugerem disrafismo.
+
+## k_inv-m-02
+Olhe o esquema enquanto eu explico.
+
+## k_inv-m-03
+Exames são desnecessários na maioria; ficam para a suspeita orgânica, como enema opaco no megacólon e biópsia retal.
+
+## k_inv-p-00
+Exame complementar não é rotina.
+
+## k_inv-p-01
+Olhar a região sacral, disrafismo, faz parte do exame.
+
+## k_inv-z-00
+Pedir enema opaco pra toda criança que não faz cocô é irradiar barriga à toa.
+
+## k_inv-z-01
+Examina a lombar e faz o toque, porra.
+
+## k_trat-m-00
+O tratamento tem três etapas: primeiro desimpactar, com enema oral ou retal; depois manter laxativo por tempo prolongado; e reeducar os hábitos de toalete.
+
+## k_trat-m-01
+O óleo mineral é proibido em lactente, neuropata e em quem regurgita, pelo risco de aspiração.
+
+## k_trat-m-02
+Olhe o esquema enquanto eu explico.
+
+## k_trat-m-03
+Lactulose e hidróxido de magnésio funcionam, mas o sabor atrapalha.
+
+## k_trat-m-04
+A droga de escolha é o polietilenoglicol, sem gosto e sem cheiro.
+Meio grama por quilo por dia o quatro mil, e zero vírgula oito o três mil trezentos e cinquenta.
+
+## k_trat-p-00
+Óleo mineral: não em lactente, neuropata e regurgitador.
+
+## k_trat-p-01
+Droga de escolha: PEG.
+
+## k_trat-p-02
+Hidróxido de magnésio: não na doença renal.
+
+## k_trat-z-00
+Óleo mineral num lactente que regurgita é pneumonia lipoide encomendada.
+
+## k_trat-z-01
+Polietilenoglicol, que não tem gosto de nada, porra.
+
+## k_hab-m-00
+O tratamento só funciona com mudança de hábitos: fibras, água e menos ultraprocessados.
+Sentar no vaso cinco minutos depois das refeições, com os pés apoiados num banquinho.
+
+## k_hab-m-01
+A família precisa entender que a perda de fezes é involuntária, que não é preguiça nem desobediência, e manter uma atitude positiva.
+
+## k_hab-m-02
+Olhe o esquema enquanto eu explico.
+
+## k_hab-m-03
+A recorrência é grande.
+
+## k_hab-m-04
+E a prevenção começa cedo: aleitamento materno, atividade física e tirar a fralda sem pressão.
+
+## k_hab-p-00
+Incontinência fecal é involuntária, não punir.
+
+## k_hab-p-01
+Vaso após as refeições, reflexo gastrocólico, com pés apoiados.
+
+## k_hab-z-00
+Brigar com a criança que sujou a roupa só aumenta a retenção.
+
+## k_hab-z-01
+Banquinho no pé, cinco minutos depois do almoço e paciência, caralho.
+
+## l_def-m-00
+Separe as palavras: regurgitação é o retorno involuntário, vômito é a expulsão ativa.
+
+## l_def-m-01
+Refluxo gastroesofágico é um processo normal, fisiológico e autolimitado, típico do lactente.
+
+## l_def-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_def-m-03
+Doença do refluxo é quando esse refluxo traz complicações, no esôfago ou fora dele, como tosse, broncoespasmo e laringite.
+
+## l_def-m-04
+Os grupos de risco para doença do refluxo são neuropatas, operados de atresia de esôfago, pneumopatas crônicos como na fibrose cística, e obesos.
+
+## l_def-p-00
+Refluxo gastroesofágico é fisiológico; DRGE é refluxo gastroesofágico e complicação.
+
+## l_def-p-01
+Grupos de risco: neuropata, atresia de esôfago, fibrose cística, obesidade.
+
+## l_def-z-00
+Bebê que golfa e engorda bem não tem doença, tem estômago pequeno e mãe preocupada.
+
+## l_def-z-01
+Não trata a mãe com omeprazol no filho, porra.
+
+## l_feliz-m-00
+O regurgitador feliz é o lactente que golfa várias vezes ao dia mas ganha peso bem e não tem nenhuma complicação.
+
+## l_feliz-m-01
+As regurgitações aparecem entre duas semanas e seis meses, ficam mais evidentes entre dois e quatro meses, com pico aos quatro ou cinco.
+
+## l_feliz-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_feliz-m-03
+Aos quatro meses até sessenta e sete por cento dos bebês regurgitam; com um ano, só um por cento.
+
+## l_feliz-m-04
+A conduta é tranquilizar, sem exame e sem remédio.
+
+## l_feliz-m-05
+Esse tema já caiu uma vez nas questões do professor, logo abaixo tem para você testar.
+
+## l_feliz-p-00
+Marcos com ganho de peso normal e sem sintomas é refluxo gastroesofágico fisiológico, tranquilizar, caiu em prova antiga.
+
+## l_feliz-z-00
+Sessenta e sete por cento dos bebês de quatro meses golfam.
+
+## l_feliz-z-01
+Se todo mundo golfa, golfar não é doença: é ser bebê, caralho.
+
+## l_drge-m-00
+A doença do refluxo é definida pelas complicações.
+
+## l_drge-m-01
+Do lado digestivo: choro e irritabilidade, desaceleração ou perda de peso, azia, erosão dentária, hematêmese e melena.
+
+## l_drge-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_drge-m-03
+Do lado de fora do esôfago: tosse persistente, broncoespasmo e asma, rouquidão, apneia e cianose.
+Pneumonias aspirativas, otites e sinusites de repetição, e os eventos com aparente risco de vida.
+
+## l_drge-m-04
+No longo prazo, esôfago de Barrett e adenocarcinoma.
+
+## l_drge-p-00
+Regurgitação com perda de peso, sangramento ou sintoma respiratório é DRGE, não fisiológico.
+
+## l_drge-z-00
+Refluxo que faz o bebê parar de ganhar peso, chiar ou ficar roxo não é golfada fofa, é doença do refluxo.
+
+## l_drge-z-01
+Aí investiga, porra.
+
+## l_dif-m-00
+Antes de falar em refluxo, pense no que imita: alergia à proteína do leite de vaca.
+Cólica e, no recém-nascido, estenose hipertrófica de piloro e má rotação intestinal.
+
+## l_dif-m-01
+Na maioria, história e curva de peso bastam.
+
+## l_dif-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_dif-m-03
+Desconfie de outro diagnóstico se houver febre, letargia, falha de crescimento.
+Vômito que começa depois dos seis meses ou persiste após um ano, fontanela tensa, convulsão, vômito bilioso ou sangramento.
+
+## l_dif-p-00
+Vômito bilioso é má rotação até prova em contrário, não é refluxo.
+
+## l_dif-p-01
+Início após seis meses ou persistência após doze é outro diagnóstico.
+
+## l_dif-z-00
+Vômito verde em recém-nascido não é refluxo, é intestino torcido: cirurgia pediátrica agora, caralho.
+
+## l_exames-m-00
+Não existe exame ideal para refluxo: cada pergunta tem o seu exame.
+
+## l_exames-m-01
+O raio-x contrastado de esôfago, estômago e duodeno não diagnostica refluxo, mas mostra anatomia.
+
+## l_exames-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_exames-m-03
+O ultrassom é para estenose de piloro.
+
+## l_exames-m-04
+A pHmetria de vinte e quatro horas relaciona os episódios de refluxo com os sintomas, como tosse ou apneia.
+
+## l_exames-m-05
+A endoscopia com biópsia mostra complicações.
+
+## l_exames-m-06
+A impedâncio-pHmetria é a melhor, mas ainda sem valores bem definidos para crianças.
+
+## l_exames-m-07
+Esse tema já caiu uma vez nas questões do professor, logo abaixo tem para você testar.
+
+## l_exames-p-00
+Principal indicação da pHmetria: relacionar refluxo com sintomas atípicos ou extraesofágicos, caiu em prova antiga.
+
+## l_exames-p-01
+REED não diagnostica refluxo gastroesofágico.
+
+## l_exames-z-00
+Pedir seriografia pra provar refluxo é como fotografar o mar pra provar que tem onda: mostra a anatomia, não o refluxo.
+
+## l_exames-z-01
+PHmetria, porra.
+
+## l_geral-m-00
+O tratamento começa pelas medidas gerais.
+
+## l_geral-m-01
+Lactente dorme em posição supina, de barriga para cima; criança maior pode ficar em decúbito lateral esquerdo com cabeceira elevada.
+
+## l_geral-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_geral-m-03
+No lactente, espessa a fórmula, evita oferecer volume demais e, se vomita muito.
+Testa por duas a quatro semanas uma fórmula com proteína hidrolisada, pensando em alergia ao leite de vaca.
+
+## l_geral-m-04
+Na criança maior, menos gordura, café, refrigerante e chocolate, e ninguém fumando perto.
+
+## l_geral-p-00
+Lactente: supino, não elevar a cama ou decúbito ventral, o compilado errou.
+
+## l_geral-p-01
+Hidrolisado duas a quatro semanas é teste para a pê éle vê.
+
+## l_geral-z-00
+Colocar o bebê de bruços pra golfar menos troca refluxo por morte súbita.
+
+## l_geral-z-01
+Barriga pra cima, caralho.
+
+## l_med-m-00
+Remédio só no refluxo patológico.
+
+## l_med-m-01
+Procinéticos como bromoprida, domperidona e metoclopramida não são de rotina, porque os efeitos no sistema nervoso superam os benefícios.
+
+## l_med-m-02
+Olhe o esquema enquanto eu explico.
+
+## l_med-m-03
+A ranitidina foi suspensa em dois mil e dezenove.
+
+## l_med-m-04
+O inibidor de bomba de prótons, como o omeprazol, é o mais eficaz, indicado na esofagite erosiva, estenose péptica, Barrett.
+Ou refluxo com doença respiratória crônica ou neurológica; teste de quatro a oito semanas na criança maior e retirada gradual.
+
+## l_med-m-05
+A cirurgia é a fundoplicatura de Nissen.
+
+## l_med-p-00
+Procinético não é rotina; ranitidina suspensa; i bê pê com indicação, esofagite, Barrett, respiratório, neuro.
+
+## l_med-p-01
+Cirurgia: Nissen.
+
+## l_med-z-00
+Omeprazol para regurgitador feliz é o remédio mais caro pra tratar ansiedade materna.
+
+## l_med-z-01
+Só com indicação, porra.

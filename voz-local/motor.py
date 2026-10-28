@@ -31,8 +31,8 @@ def xtts():
 
 def frases(texto):
     """Uma frase por vez: o XTTS erra em trechos longos e assim dá para pôr pausa de verdade.
-    Só quebra em pontuação seguida de espaço, então "40.000" fica inteiro."""
-    return [f.strip() for f in re.split(r"(?<=[.!?:;])\s+", texto.strip()) if f.strip()]
+    Quebra em pontuação seguida de espaço (então "40.000" fica inteiro) e em quebra de linha."""
+    return [f.strip() for f in re.split(r"(?<=[.!?:;])\s+|\n+", texto.strip()) if f.strip()]
 
 
 def gerar(texto, referencia, saida="saida.wav", pausa=0.45, velocidade=1.0):
